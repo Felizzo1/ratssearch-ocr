@@ -1,0 +1,143 @@
+Anlage
+Anlage33
+
+“lö
+
+M 1:500
+
+Ss
+
+FESTSETZUNG DURCH PLANZEICHEN
+
+Q
+
+N NUN
+
+ls
+
+SIEHE LEGENDE
+
+FESTSETZUNG DURCH TEXT
+
+N
+
+V
+
+18
+
+N NN N
+
+&
+
+IN
+RN
+RN NN RN
+
+=T
+
+"18
+
+VORHABEN - UND ERSCHLIESSUNGSPLAN
+COSSEBAUDE FLURSTÜCKSNUMMER 107/3
+
+VERFAHRENSAKTE
+
+SIEHE TEXTTEIL
+
+9
+
+RT
+
+—ginn
+
+N
+
+NN EN:IN
+NSS INN
+
+SIEHE TEXTTEIL
+
+LEGENDE
+ART DER BAULICHEN NUTZUNG FLURSTÜCK 107 / 3
+M (gemischte Bauflöchen] It. Flächennutzungsplan der Gemeinde
+
+Cossebaude
+
+D
+
+MASS DER BAULICHEN NUTZUNG
+‚Zahl der Vollgeschosse als Höchsigrenze, Dachneigung
+‚Grundflächenzahl:
+Geschoffflächenzahl
+
+max. Firsthöhe über Gelände
+
+w
+
+max. Traufhöhe über Gelände
+
+BAUWEISE, BAUGRENZEN
+
+Ei
+
+>
+
+VERKEHRSFLÄCHEN
+
+”
+
+5
+
+‚Abgrenzung unterschiedlicher Nutzung.
+
+GRÜNORDNERISCHE FESTSETZUNGEN
+
+I
+
+Offene Bauweise
+
+zu pflanzende Bäume, z.B. Wild-u. Zierobst
+
+il
+
+zu pflanzende Sträucher, zB. niedrige Blühsträucher
+‚Grünflächen, zB. Rasen
+
+e
+
+Spell, geplant
+
+Meißner Straße
+
+a
+
+»
+
+|
+en,
+
+.
+
+SONSTIGE DARSTELLUNGEN UND FESTSETZUNGEN
+
+Grenze des räumichen Geltungsbereiches
+lücksgrenze, geplant
+Geböudegrenze,
+Eingang / Einfahrt
+
+G
+
+=
+
+und Hauptabwasserkeitung | unterirdisch]
+mit Geh-Fahr-und Leitungsrechten zu belastende Flächen.
+Standort für Mülbehäler. geplant
+Regenwassersamnebehäller zur Löschwasserzusafzversorgung
+‚Angabe der Gelündehöhe über I
+ABACUS Architekten Bamberger
+Str.) OMI87 Dresden. Tel. 4711165 Fax ATi 159 gez. 9. März95
+
+—r
+ee
+
+
