@@ -1,0 +1,618 @@
+Anlage 7
+STESAD GmbH
+
+Ermittlung des Kostenerstattungsbetrages
+über den Jahresmehrertrag oder den jährlichen Gesamtertrag
+Gemeinde
+
+Städtebauliche Emeuerungsmaßnahme
+
+Dresden
+
+Hechtviertel
+Baujahr, Restnutzungsdauer in Jahren
+
+Gebäude, Haus-Nr., Lagebuch-Nr.
+
+$t. Pauli Kirchruine, Flurstück 1797 Gemarkung Neustadt
+
+1891
+
+A. Gesamtkosten
+1. Kosten der Modernisierungs- und Instandsetzungsmaßnahmen
+
+2.600.000,00
+
+2. Kosten eines vergleichbaren Neubaus (ohne Grundstückswert)
+
+0,00
+
+3. Verhältnis der Kosten von Nr. 1 zu Nr. 2 (Nr. 1x 100: Nr. 2)
+
+B. Ermittiung des förderfähigen Aufwands
+
+EUR
+
+-1. Modemisierungs- und Instandsetzungsaufwand (A.1)
+abzüglich
+
+2.600.000,00
+
+2. Kosten, die durch Zuschüsse einer anderen Stelle gedeckt sind
+
+_
+
+0,00
+
+_
+
+0,00
+
+_
+
+0,00
+
+($ 177 Abs. 4 Satz 2 BauGB)
+3. Kosten, die der Eigentümer auf Grund anderer Rechtsvorschriften oder wegen unterlassener Instandsetzung
+selbst zu tragen hat (8 177 Abs. 4 Satz 3 BauGB)
+4. Kosten für ausschließliche Aufgaben der Denkmalpflege
+$. Förderfähiger Aufwand
+
+.
+
+°
+
+ä
+
+2.600.000,00
+
+“ C. Ermittlung des Jahresmehrertrags / Jährl. Gesamtertrags
+ZZ
+
+jährliche Mieteinnahmen
+
+.
+Wohnung bzw. Nutzung
+
+Anzahl
+
+Größe In m?
+
+1
+
+2
+
+Nutzungsentgelt
+
+1 WE
+
+geschätzte Nutzfläche
+
+pauschal
+
+vor
+
+nach
+
+Jahresmehrertrag
+
+Modernisierung
+
+Modemislerung
+
+(Sp.4 - Sp.3)
+
+EUR / Monat
+
+EUR / Monat
+
+EUR
+
+102,00 EUR/Monat
+
+102,00 EUR/Monat
+
+3
+
+4
+
+Ef
+
+1.224,00 EUR/Jahr
+
+1.500,00 m?
+
+(bisher keine Flächenberechnung erfolgt)
+
+Summe
+
+Stellplätze
+
+Fläche
+
+Anzahl
+
+1.500,00
+
+Nutzungseinheiten
+
+1
+
+0,00
+
+0,00
+
+0,00
+
+j
+
+1.224,00
+
+1. Jahresmehrertrag
+2. Jährlicher Gesamtertrag (brutto)
+3. Anerkannter Anteil für den Eigentümer
+4, Anzurechnender jährlicher Gesamtertrag
+
+25.05.2009
+
+1.224,00
+-
+
+0,00
+ä
+
+1.224,00
+
+Seite 1 von 3
+
+STESAD GmbH
+D. Bewirtschaftungskosten
+
+(ohne Abschreibung)
+
+"
+
+. modemisierungsbedingte
+
+‚Jährliche
+
+Mehrkosten
+
+Gesamtkosten
+
+EUR
+
+EUR
+
+1. Betriebskosten
+2. Instandhaltungskosten
+
+EUR/ m? a
+
+3. Mietausfallwagnis
+
+% vom Jahresmehrertr. bzw Ges.-ertr.
+
+4. Sonstige Kosten
+(Verwaltungskosten)
+
+EUR/ Nutzungseinbeit
+
+5. Summe modemisierungsbedingter Mehrkosten
+
+ä
+
+6. Summe jährlicher Gesamtkosten
+oder pauschal
+
+25
+
+%des Gesamitertrages
+
+ä
+
+0,00
+
+ä
+
+306,001
+
+- E. Eigenleistungen und Eigenkapitalkosten
+j
+1. Eigenkapital
+
+EUR
+
+oo
+
+2. Sach- und Arbeitsleistungen
+
+390.000,00
+(max.
+
+15,0 % von B.5)
+
+3. Summe der Eigenleistungen
+
+ä
+
+4. Verzinsung des Eigenkapitals
+
+40
+
+5. Zuschlag zu Nr. E.3 als
+
+1,5 % vonE.3
+
+390.000,00
+
+EUR
+
+%vonE.i,
+
+15.600,00
+oo
+
+Pauschalabschreibung
+
+5.850,00
+
+2
+
+6. Surnme der Eigenkapitalkosten
+
+ä
+
+21.450,00
+
+F. Ermittlung des einsetzbaren Fremdkapitals
+‘
+
+.
+
+über Jahresmehrertrag
+
+1. Jahresmehrertrag/ jährl,
+
+j
+
+Gesamtertrag
+
+“
+
+abzüglich
+
+i
+
+über jährl, Gesamtertrag
+
+EUR
+
+EUR
+
+j
+
+’
+
+c.1
+
+2. Bewirtschaftungskosten
+
+- D5
+
+3. Eigenkapitalkosten
+
+- E6
+
+"
+
+CA.
+
+1.224,00
+
+- D6
+
+306,00
+
+- E65
+
+21.450,00
+
+4. Für Fremdkapitalkosten und
+
+0,00
+
+Abschreibung einsetzbar
+
+5. Zinssatz
+
+:
+
+%
+
+"
+
+400
+
+für Fremdkapital
+6. Pauschalabschreibung
+7. Summe
+
+%
+
+1,50
+
+.%
+
+5,50
+
+8. Einsetzbares Fremdkapital
+
+(F.4x 100: F.7)
+
+25.05.2009
+
+:
+
+ä
+
+ä
+
+°
+
+0,00
+
+"
+
+Seite 2von 3
+
+STESAD GmbH
+
+G. Ermittlung des Kostenerstattungsbetrages
+über jährl. Gesamtertrag
+EUR
+
+1. Förderfähiger Aufwand
+
+(B.5}
+
+abzüglich
+
+"
+
+.
+
+2:600.000,00
+390.000,00
+
+.-
+
+:
+
+2. Eigenleistungen (E.3)
+3. Fremdkapital (F.8)
+
+-
+
+4. Kostenerstattungsbetrag
+
+al
+
+5. Anteil des Kostenerstattungsbetrags
+am förderfähigen Aufwand
+
+0,00
+2.210.000,00
+
+j
+
+(G.4 x 100 : G.1)
+
+85.00%
+
+H. Höhe des Kostenerstattungsbetrages
+%
+
+Der Kostenerstattungsbetrag wird auf
+.
+
+. des förderfähigen Aufwands,
+festgesetzt.
+
+höchstens jedoch auf
+i
+
+'
+
+2.210.000,00 EUR
+
+.
+‚
+
+"
+
+Aufgestellt und berechnet:
+
+gez. Weber
+(Datum u. Unterschrift)
+
+25.05.2009
+
+.
+
+Seite 3von3
+
+nm
+= entre
+
+Dresden, 08.04.2008
+
+STESAD GmbH
+
+AUSGANG
+Niederschrift
+zum Telefonat St. Pauli Kirchruine
+
+09
+
+APP. 2008
+
+[KESESEEREENKERASERZENZL
+
+Termin:
+
+08.04.2008
+
+Teilnehmer.
+
+Herr Mähnert, Fachreferent Theater, Amt für Kultur- und Denkmalschutz
+'
+Frau Weber, STESAD GmbH
+
+Die STESAD GmbH fragt an, ob im Hause Aussagen zum Mietansatz bei anderen Theatern
+vorliegen, welche vergleichbar mit dem Theaterverein St. Pauli sind.
+Herr Mähnert:
+Andere Theater sind nicht vergleichbar:
+- Es stehen nur die Sommermonate als Spielzeit zur Verfügung.
+- Im Theater wird Amateurkunst angeboten.
+- Damit können keine touristischen Eintrittspreise erwirtschaftet werden.
+- Besucher des Theater kommen in der Mehrzahl aus dem Stadtteil.
+
+Andere Theater, die in den Sommermonaten Vorstellungen haben, wie Bad Hersfeld u.a.,
+sind dadurch gekennzeichnet, dass diese Veranstaltungen Eventcharakter haben und hoch
+professionelles Theater darstellen. Dies ist bei einem Amateurtheater nicht so. Der Verein ist
+“ bemüht, durch Gastkonzerte die Attraktivität zu steigern..
+
+Das Theater der Jungen Generation ist eine professionelle städtische Einrichtung und daher
+
+nicht vergleichbar mit dem Theaterverein als Amateurtheater.
+
+iA (ob
+
+Weber
+
+Verteiler
+z.aA.
+
+SPA, Frau Fichte
+
+.
+
+MiSE\SekretariatiWEBER\2008\04_vermerk_FIC2K.doc
+
+Anlage 8
+Schätzung der Kosten der laufenden Sicherung und Grundstücksbewirtschaftung
+(Ruine unsaniert bzw. verputzt - ohne Nutzung)
+
+Ruine un
+u „ \ Bhrlich
+n
+
+Sperrmüll
+
+|
+
+anfallende Kosten
+
+urzul
+
+1.000, 00 EUR] TBeseitigung Ablagerung Diiter |
+
+Hauswart
+
+500,00 EUR|
+
+Winterdienst
+
+500,00 EUR|
+
+|Rasenpflege, Wartung Zaunanlage
+
+Straßenreinigung
+
+|Pflichten des Eigentümers nach
+witterungsbedingter Notwendigkeit
+200,00 EUR | -
+
+Niederschlagswassergebühr
+
+600,00 EUR|
+
+Inach versiegelter Fläche
+
+Grundsteuer
+
+900,00 EUR|
+
+|jährlich
+
+Versicherung
+
+1.200,00 EUR
+
+Sondernutzung öffentlicher
+Straßenraum STA
+
+5.000,00 EUR|
+
+Gebühren für Verwalitungsaufgaben des STA
+
+600,00 EUR|
+
+|jährlich
+|Bei Beantragung Sondernutzung wird
+Verwaltungsgebühr fällig
+
+- 10.506,00 EUR| jährliche Rechnungsstellung
+
+Medienfreischaltung
+
+—
+
+Bauzaun
+
+7, 000, 00 EURT]
+3.000,00 EUR!
+
+Ankauf
+
+“6.000,00 EUR] jeinmalige Rechnungsst
+VOTE
+
+dis
+
+Sicherungsarbeiten —
+
+ch;a
+
+fallende
+
+Kösten]
+
+IE N
+
+ille-REP
+
+FRERTISU
+
+RP enenn
+
+30. 000, 00 EUR | Kontrolle, Teile abnehmen, Bewuchs
+entfernen (Rhythmus 3 Jahre)
+
+Sondernutzung öffentlicher
+Straßenraum STA
+
+14.000,00 EUR
+
+Gebühren für
+Verwaltungsaufgaben des STA
+
+1.200,00 EUR|
+
+|Bei Beantragung Sondernutzung wird
+Verwaltungsgebühr fällig
+
+=. 45.200,00 EUR]; Periodisch änfällen‘
+
+
