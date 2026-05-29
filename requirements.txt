@@ -1,0 +1,3 @@
+ocrmypdf>=15.0
+requests>=2.31
+tenacity>=8.2
