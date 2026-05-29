@@ -1,1 +1,70 @@
+name: OCR Daily Delta
 
+on:
+  schedule:
+    # 07:30 UTC – nach dem Mirror-Update (ca. 06:00 UTC in ratssearch)
+    - cron: "30 7 * * *"
+  workflow_dispatch:
+
+jobs:
+  ocr-daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout OCR-Repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Git-Konfiguration
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Systempakete installieren
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y \
+            ocrmypdf \
+            tesseract-ocr \
+            tesseract-ocr-deu \
+            ghostscript \
+            poppler-utils
+
+      - name: Python-Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Mirror sparse klonen
+        run: |
+          git clone \
+            --depth=1 \
+            --filter=blob:none \
+            --sparse \
+            --no-checkout \
+            https://github.com/offenesdresden/dresden-ratsinfo.git \
+            /tmp/dresden-ratsinfo-sparse
+          git -C /tmp/dresden-ratsinfo-sparse sparse-checkout set files
+          git -C /tmp/dresden-ratsinfo-sparse checkout
+
+      - name: Fehlende IDs ermitteln
+        run: |
+          python3 scripts/find_missing.py \
+            --mirror-path /tmp/dresden-ratsinfo-sparse \
+            --no-clone \
+            > /tmp/missing_ids.json
+          echo "Neue IDs heute: $(python3 -c 'import json; print(len(json.load(open("/tmp/missing_ids.json"))))')"
+
+      - name: OCR-Delta ausführen (max. 200 Dokumente)
+        run: |
+          python3 scripts/ocr_batch.py \
+            --ids-file /tmp/missing_ids.json \
+            --max 200 \
+            --max-action-minutes 100
+
+      - name: Änderungen pushen
+        run: |
+          git push origin main
