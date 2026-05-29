@@ -1,0 +1,81 @@
+GB1 Schulverwaltungsamt
+
+Anlage
+
+Darstellung der Veränderungen Verwaltungshaushalt
+
+Finanzposition
+
+Bezeichnung
+
+Plan alt
+
+üpl/apl
+
+beantragte
+Veränderung
+
+üpl/ap!
+
+Plan neu
+
+1. Mehrausgaben
+2110.540.0000.
+
+2110.548.1000.
+
+Bewirtschaftung
+Grundstücke
+
+4.368.950
+
+Dienstleistung
+
+1.116.650]
+
+-
+
+0
+
+0
+
+113.000]
+
+4.481.950
+
+0
+
+0
+
+200.000
+
+1.316.650
+
+-4.050
+
+100.000
+
+150.000|
+
+2.795.950
+
+Reinigung
+2901.639.0000.
+
+Schülerbeförderungskosten
+
+Summe
+
+2.550.000
+
+463.000
+
+2. Mehreinnahmen
+9110.207.0000.
+
+Zinseinnahmen
+private Banken
+
+-463.000
+
+

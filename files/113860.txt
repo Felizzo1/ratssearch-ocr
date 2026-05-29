@@ -1,0 +1,678 @@
+Al.
+DWA-M 551
+
+Anhang A
+
+Katalog der Bewertungsindikatoren und Merkmale Bewertungsfeld A - Flächenwirksame Vorsorge
+
+Handlungsbereich Flächenvorsorge
+1.1
+
+| Bewertungspunkte
+
+_Gefährdungsprofil
+das Gefährdungsprofil soll aufzeigen, in welchen Bereichen der Stadt, der Gemeinde oder des Verbandes
+
+die Schwerpunkte des Hochwasserrisikos liegen
+1.1.1
+
+Regionalspezifische Risiken
+Untersucht? Bekannt? Berücksichtigt?
+
+HOhäuf | 1a1.11
+
+1.1.2
+
+1.1.3
+
+HQ100
+
+2A1l.1.1
+
+HOextr
+
+3A1.1.1
+
+Flächen
+es ist bekannt, wie groß die Fläche ist, die beim HQ10, bei einem HQ100 und bei HOextr überflutet wird
+
+Hohäuf
+
+| 1A1.1.2
+
+HQ100
+
+2Al.1.2
+
+HOextr
+
+3Al.1.2
+
+Menschliche Gesundheit
+.
+es ist bekannt, wie groß die potenziellen nachteiligen Folgen auf den Überflutungsflächen bei HQ10,
+einem HQ100 und einem HOextr für die Menschliche Gesundheit sind
+
+Hohäuf | 1A1.1.3
+
+1.1.4
+
+Umwelt
+
+HQ100
+
+2A1.1.3
+
+HOextr
+
+3A1.1.3
+
+.
+
+es ist bekannt, wie groß die potenziellen nachteiligen Folgen für die Umwelt auf den Überflutungsflächen
+sind, bei HQ10, HQ100 und HQextr
+
+Hohäuf | 1A1.1.4
+HQ100 | 2A1.1.4
+HOextr
+1.1.5
+
+3A1.1.4
+
+Kulturerbe
+r
+es ist bekannt, wie groß die potenziellen nachteiligen Folgen für das Kulturerbe auf den Überflutungsflächen
+sind, bei HQ10, HQ100 und HQextr
+
+Hohäuf | 1A1.1.5
+
+1.1.6
+
+HQ100
+
+2A1l.1.5
+
+HOextr
+
+3A1.1.5
+
+Wirtschaftliche Aktivitäten
+es ist bekannt, wie groß die potenziellen nachteiligen Folgen für die wirtschaftlichen Tätigkeiten auf den
+Überflutungsflächen sind, bei einem HQ10, einem HQ100 und einem HOextr
+
+Hohäuf | 1A1.1.6
+
+1.1.7
+
+HQ100
+
+2A1.1.6
+
+HOextr
+
+3A1.1.6
+
+Wertevermögen
+es ist bekannt, wie groß das Wertevermögen auf den Überflutungsflächen ist, bei HQ10, einem HQ100
+und einem HOextr
+
+Hohäuf | 1A1.1.7
+HQ100 | 2A1.1.7
+HOextr | 3A1.1.7
+
+26
+
+Dezember
+
+2010
+
+DWA-M 551
+
+Bewertungsfeld A - Flächenwirksame Vorsorge (fortgesetzt)
+
+1.1.8
+
+Kritische Infrastruktur
+es ist bekannt, wie groß die potenziellen nachteiligen Folgen für die Kritische Infrastruktur auf den
+Überflutungsflächen sind, bei HQ10, HQ100 und HOextr
+
+1.1.9
+
+Hohäuf
+
+| 1A1.1.8
+
+HQ100
+
+2A1.1.8
+
+HOextr
+
+3A1.1.8
+
+Relative Betroffenheit der Risikogemeinschaft
+es ist bekannt, wie groß die relative Betroffenheit der Risikogemeinschaft ist, bestimmt durch das Verhältnis
+zwischen der Zahl der von Überflutung betroffenen Bevölkerung und der Höhe des betroffenen Wertevermögens und der Bevölkerung mit ihrem Wertevermögen im Verantwortungsgebiet insgesamt, bei HQ10, HQ100
+und HOextr
+HOhäuf
+
+| 1A1.1.9
+
+HQ100
+
+2A1.1.9
+
+HOextr
+
+3A1.1.9
+
+1.2
+
+Hochwasserrisiko in der Bauleitplanung
+die Ausweisung von Hochwassergefahren in den Bebauungsplänen ist wichtiges Element der Flächenvorsorge. Textliche Festsetzungen in den Bebauungsplänen sind eine der Voraussetzungen dafür, dass Hochwassergefahren bei der Planung von Baumaßnahmen Rechnung getragen wird.
+
+1.2.1
+
+Überflutungsflächen
+die von Hochwasser überfluteten Gebiete sind nachrichtlich in die Bauleitplanung übernommen
+
+1.2.2
+
+1.3
+
+HOhäuf
+
+| 1A1.2.1
+
+HQ100
+
+2A1.2,1
+
+HOextr
+
+3A1.2.1
+
+Textliche Festsetzungen
+das bei HQ10, HQ100 und HOextr identifizierte Hochwasserrisiko hat zu textlichen Festsetzungen in Bezug
+auf Restriktionen in der Nutzung mit dem Ziel der Schadensminderung geführt
+HoOhäuf
+
+| 1A1.2.2
+
+HOQ100
+
+2A1.2.2
+
+HOextr
+
+3A1.2.2
+
+Erfolgskontrolle
+es gibt Instrumente der Erfolgskontrolle, die den Fortschritt bei der Umsetzung der Grundsätze
+der Flächenvorsorge dokumentieren
+HOhäuf
+
+| 1A1.3
+
+HQ100
+
+2A1.3
+
+HOextr
+
+3A1l.3
+
+Dezember
+
+2010
+
+27
+
+DWA-M 551
+Bewertungsfeld A - Flächenwirksame Vorsorge (fortgesetzt)
+
+2
+
+Handlungsbereich Natürlicher Wasserrückhalt
+
+2.1
+
+Bilanz der Rückhalteflächen
+es wird Rechenschaft abgelegt über die für Hochwasserrückhaltung verfügbaren Flächen und Räume
+und ihre Bedeutung
+
+2.2
+
+HOhäuf
+
+| 1A2.1
+
+H0Q100
+
+2A2.1
+
+HOextr
+
+3A2.1
+
+Sicherung und Wiedergewinnung
+es gibt konkrete Initiativen zur Sicherung und Wiedergewinnung von Flächen zur natürlichen
+Hochwasserrückhaltung
+
+HoOhäuf | 1A2.2
+H0100 | 242.2
+HOextr | 342.2
+2.3
+
+2.4
+
+2.5
+
+28
+
+_Renaturierung von Gewässern
+es wird Rechenschaft abgelegt über die für eine Renaturierung geeigneten Gewässerstrecken und Räume
+Hohäuf
+
+| 1A2.3
+
+HQ100
+
+2A2.3
+
+HOextr
+
+3A2.3
+
+Rückhalt von Niederschlag auf der Fläche
+es gibt konkrete Initiativen und Strategien zur Verminderung des Abflusses von land- und forstwirtschaftlichen Nutzflächen sowie von Siedlungsflächen, z. B. durch Versickerung vor Ort oder Entsiegelung
+HoOhäuf
+
+| 1A2.4
+
+HQ100
+
+2A2.4
+
+HOextr
+
+3A2.4
+
+Erfolgskontrolle
+es gibt Instrumente der Erfolgskontrolle, die den Fortschritt bei der Wiedergewinnung und Sicherung
+des Natürlichen Wasserrückhaltes dokumentieren
+
+Dezember
+
+2010
+
+HOhäuf
+
+| 1A2.5
+
+H0Q100
+
+2A2.5
+
+HOextr
+
+3A2.5
+
+DWA-M 551
+
+Anhang B
+
+3.1
+
+Katalog der Bewertungsindikatoren und Merkmale —
+Bewertungsfeld B - Bauvorsorge
+
+Wissen um die Schadenspotenziale
+es gibt ein Informationsangebot an Bürgerinnen und Bürger zum hochwasserangepassten Bauen und
+hochwasserangepasster Nutzung von Gebäuden sowie eine Darstellung bau- und nutzungsabhängiger
+Schadenspotenziale und deren Größenordnung, z. B. in Form von Anleitungen oder durch Übersichtsdarstellungen zur Schadenserwartung
+
+Hohäuf | 1B3.1
+HQ100
+
+2B3.1
+
+HOextr
+
+3B3.1
+
+3.2
+
+Beratung zur Minderung der Schadenspotenziale
+es gibt eine Beratung für Bürgerinnen und Bürger zum hochwasserangepassten Bauen und hochwasserangepasster Nutzung.
+
+3.2.1
+
+Beratungsangebot im Allgemeinen
+es gibt ein laufendes, aktives Beratungsangebot zum Themenkreis hochwasserangepasstes Bauen und
+hochwasserangepasste Nutzung mit generellen Empfehlungen zur Minderung standortspezifischer Risiken im
+Hochwasserfall, z. B. durch entsprechende Kennzeichnung und Hinweise in den Bebauungsplänen
+
+Hohäuf | 1B3.2.1
+
+3.2.2
+
+3,3
+
+3.4
+
+HQ100
+
+2B3.2.1
+
+HOextr
+
+3B3.2.1
+
+Beratung im Bauantragsverfahren
+alle Bauanträge werden über eine Schnittstelle für Hochwasserschutz zur Prüfung und Stellungnahme
+geleitet. Neben rechtsverbindlichen Untersagungen und Auflagen werden auch empfehlende Hinweise
+zur Schadensminderung im konkreten Fall gegeben
+HOhäuf
+
+| 1B3.2.2
+
+HOQ100
+
+2B3.2.2
+
+HOextr
+
+3B3.2.2
+
+Beispielhafte Umsetzung
+es gibt konkrete Beispiele, dass in öffentlicher Bauverantwortung die Grundsätze von hochwasserangepasstem Bauen und hochwasserangepasster Nutzung umgesetzt sind
+HoOhäuf
+
+| 1B3.3
+
+HQ100
+
+2B3.3
+
+HOextr
+
+3B3.3
+
+Erfolgskontrolle
+es gibt Instrumente der Erfolgskontrolle, die den Fortschritt bei der Umsetzung von hochwasserangepasstem
+Bauen und hochwasserangepasster Nutzung in der Stadt/Gemeinde/Verband dokumentieren
+
+Hohäuf | 183.4
+HQ100
+
+2B3.4
+
+HOextr
+
+3B3.4
+
+Dezember
+
+2010
+
+29
+
+DWA-M 551
+
+Anhang C
+
+4.1
+
+4.2
+
+5,1
+
+Katalog der Bewertungsindikatoren und Merkmale Bewertungsfeld C - Verhaltenswirksame Vorsorge
+
+_Hochwasservorhersage
+es gibt eine quantifizierte Hochwasservorhersage, die von den potenziell Betroffenen als Handlungsgrundlage
+akzeptiert wird
+HOhäuf
+
+| 1C4.1
+
+HQ100
+
+204.1
+
+HOextr
+
+3C4.1
+
+Hochwasserwarnung
+es gibt ein Konzept zur Umsetzung der Erkenntnisse der Hochwasservorhersage in eine konkrete Warnung
+der Betroffenen im lokalen Kontext
+HoOhäuf
+
+| 1C4.2
+
+HQ100
+
+2C4.2
+
+HOextr
+
+3C4.2
+
+_ Grundstücksrisiko
+es gibt ein Informationsangebot für die Gefährdungslage eines jeden Grundstückes bei einem HQ10,
+HQ100 und einem HOextr
+
+HOhäuf | 1C5.1
+H0100 | 265.1
+HOextr | 3C5.1
+5.2
+
+5.3
+
+5.4
+
+30
+
+Interaktivität
+mit dem Informationsangebot wird regelmäßig aktiv auf die Bürgerinnen und Bürger zugegangen
+HOQhäuf
+
+| 1C5.2
+
+HQ100
+
+2C5.2
+
+HOextr
+
+3C5.2
+
+Visualisierung
+.
+es gibt eine Visualisierung von Überflutungshöhen im Stadt-, Gemeinde- oder Verbandsgebiet z. B. in Form
+von Überflutungshöhen bestimmter Jährlichkeit oder historischer Hochwassermarken
+HOhäuf
+
+| 1C5.3
+
+HQ100
+
+2C5.3
+
+HOextr
+
+3C5.3
+
+Bürgerverantwortung
+es gibt ein Informationsangebot zu Maßnahmen des Objektschutzes in Bürgerverantwortung und
+regelmäßige Notfallübungen für den Hochwasserfall unter Einbeziehung der Bürgerinnen und Bürger
+
+Dezember
+
+2010
+
+Hohäuf
+
+| 1C5.4
+
+HQ100
+
+2C5.4
+
+HOextr
+
+3C5.4
+
+DWA-M 551
+
+Anhang C
+
+6.1
+
+6.2
+
+Katalog der Bewertungsindikatoren und Merkmale Bewertungsfeld C - Verhaltenswirksame Vorsorge (fortgesetzt)
+
+Kommunale Verantwortung
+es gibt einen kommunalen Alarm- und Einsatzplan, der das Zusammenwirken aller Stellen in öffentlicher
+Verantwortung regelt
+HOhäuf
+
+| 1C6.1
+
+HQ100
+
+2C6.1
+
+HOextr
+
+3C6.1
+
+Betriebliche Verantwortung
+es gibt einen Überblick über die Situation der betrieblichen Notfallpläne im Stadtgebiet, Gemeindegebiet,
+Verbandsgebiet
+
+Hohäuf | 1C6.2
+
+6.3
+
+Erfolgskontrolle
+.
+es gibt qualitätssichernde Maßnahmen zum Schlagkraft und zur Effizienz
+
+HQ100
+
+2C6.2
+
+HOextr
+
+3C6.2
+
+der lokalen Gefahrenabwehr
+HOhäuf
+
+| 1C6.3
+
+HQ100
+
+2C6.3
+
+HOextr
+
+3C6.3
+
+Dezember
+
+2010
+
+31
+
+DWA-M 551
+
+Anhang D
+
+7.1
+
+7.2
+
+Katalog der Bewertungsindikatoren und Merkmale Bewertungsfeld D - Risikovorsorge
+
+Zu erwartende Schadenshöhen
+es gibt ein Informationsangebot an Bürgerinnen und Bürger, sich über die Größenordnung ihrer konkret
+zu erwartenden Hochwasserschäden Rechenschaft abzulegen
+HOhäuf
+
+| 1D7.1
+
+HQ100
+
+2D7.1
+
+HOextr
+
+3D7.1
+
+Information zur Eigenverantwortung
+es gibt ein Informationsangebot für die Bürgerinnen und Bürger zur Eigenverantwortlichkeit bei der
+Schadensvorsorge und die Grenzen öffentlicher Unterstützung im Schadensfall
+HOhäuf
+
+| 1D7.2
+
+HQ100
+
+2D7.2
+
+HOextr
+
+3D7.2
+
+7.3
+
+Information zum Versicherungsangebot
+es gibt ein auf die konkrete Region bezogenes Informationsangebot für Bürgerinnen und Bürger mit Hinweisen und Informationen zu den Randbedingungen und Möglichkeiten zur Versicherung von Hochwasserrisiken
+
+7.3.1
+
+Randbedingungen der Versicherbarkeit
+es gibt ein Informationsangebot zu den generellen Voraussetzungen der Versicherbarkeit von
+Hochwasserschäden
+
+7.3.2
+
+32
+
+HOhäuf
+
+| 1D7.3.1
+
+HOQ100
+
+2D7.3.1
+
+HOextr
+
+3D7.3.1
+
+Versicherungsbedingungen im lokalen Kontext
+es gibt ein Informationsangebot zum Rahmen der Versicherbarkeit von Hochwasserrisiken im lokalen Bezug
+
+Dezember
+
+2010
+
+Hohäuf
+
+| 1D7.3.2
+
+HQ100
+
+2D7.3.2
+
+HOextr
+
+3D7.3.2
+
+
