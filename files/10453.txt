@@ -1,0 +1,70 @@
+Anlage 1
+Finanzierunasplan in Jahresscheiben
+Bauvorhaben: Marie-Curie-Gymnasium, Zirkusstraße 7, 01069 Dresden
+
+Um- und Erweiterungsbau mit Neubau einer Dreifeldhalle
+HH-Stelle:
+HH-Stelle:
+
+2310.361.1020, Einnahme Fördermittel
+2310.940.1020, Ausgabe Baumaßnahme
+
+Finanzplan/Haushaltplan:
+Angaben in EUR
+
+Übertrag
+1. Eigenmittel
+2. Fördermittel Bau
+Veranschlagte Gesamtausgaben
+
+Finanzposition
+
+Vorfahren?
+
+2310.940.1020
+2310.361.1020
+2310.940.1020
+
+229.304
+0
+229.304
+
+Haushaltrest
+nach 2009
+656.123
+0
+656.123
+
+Mh
+
+Mh
+
+200.000
+O
+200.000
+
+| 250.000
+250.000
+| 500.000
+
+an
+
+an
+
+a
+
+Summe
+
+500.000 | 4.500.000 | 4.000.000 | 10.335.427
+| 3.500.000 | 3.500.000 | 2.750.000 | 10.000.000
+| 4.000.000 | 8.000.000 | 6.750.000 | 20.335.427
+
+Die Gesamtkosten der Baumaßnahme belaufen sich nach vorliegender Kostenberechnung nach DIN 276 auf 25.806.400 Euro.
+Insgesamt stellt die Landeshauptstadt Dresden 5.161.280 Euro Eigenmittel zur Verfügung. Bei der Sächsischen Aufbaubank wurde ein Antrag auf
+Gewährung einer Zuwendung in Höhe von 20.645.120 Euro gestellt. Darin wurde gemäß der VwVKomminfra eine höhere Förderrate von 80 % angesetzt.
+Die notwendigen Eigenmittel sind mithin vorhanden. Die Anpassung der Ausgaben und Einnahme im Haushalts- und Finanzplan erfolgt in einer
+gesonderten Vorlage.
+* Die Kosten für die Sanierung der Aula wurden in der Tabelle herausgenommen. Die Ist-Kosten aus Vorjahren betragen It. PS-Modul 137.710,42 EUR und
+die übertragenen HH-Reste belaufen sich auf 1.269.578 EUR. Im SAP sind diese mit auf der Finanzposition für die Schulsanierung veranschlagt.
+
+

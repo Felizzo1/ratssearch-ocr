@@ -1,0 +1,1942 @@
+Aulast 513
+Kleines Faltblatt 100x210 mm
+
+Inhalt
+
+Hier sind Veröffentlichungen der Landeshaupt-
+
+stadt Dresden versammelt, die für die verschiedensten Zwecke städtischer Öffentlichkeitsarbeit eingesetzt werden. So können
+sie als Merkblatt, Information über Beratungs-
+
+stellen oder Programm dienen. Möglich ist
+bei entsprechender Seitenzahl (über 3 Seiten)
+eine Rückstichbindung.
+
+103
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+Kleines Faltblatt 100x210 mm - Titel
+
+T
+
+Gestaltungsfläche
+
+100x65mm
+2
+
+Amtsmarke 18mm breit
+Abstand zum rechten Rand 10mm
+
+1
+
+Farbe 100% der Fondfläche
+3
+
+Fondfläche 100x145mm
+100% Erscheinungsbildfarbe (innerhalb der
+Erscheinungsbildfarben wählbar)
+
+4
+
+Neue Helvetica condensed bold 16/19pt
+Laufweite +5 (Angabe für QuarkXpress)
+
+Abstand zum linken Rand 10mm
+5)
+
+Neue Helvetica condensed 16/19pt
+
+BR
+
+Laufweite +5 (Angabe für QuarkXpress)
+‚Abstand zum unteren Rand 18,8mm
+
+(Satzspiegel)
+
+4
+
+Dem Titel der Publikation kann statt einer
+Unterzeile auch eine Dachzeile zugeordnet
+
+werden. Der Titel kann ebenso allein stehen.
+
+">
+B
+
+Titel des Faltblattes
+Unterzeile zum
+
+Titel des Faltblattes
+
+Inhalt
+
+104
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+»
+
+Anwendung Broschüren
+
+Inhalt
+
+Kleines Faltblatt 100 x210 mm - Gestaltungsraster Innenseiten
+
+Al
+
+Die Bezugslinie verbindet Titel und
+Innenseiten.An ihr werden Texte, Bilder
+und Farbflächen »angehangen«
+(siehe Bezugslinie ab Seite 45).
+
+2
+
+=
+
+Seitenzahl
+Neue Helvetica condensed heavy 7 pt
+quadratische Unterlegung 45% Schwarz
+‚oder 100% der verwendeten Erscheinungsbildfarbe
+
+"
+Be>----17--7
+
+|
+
+tt
+
+|
+
+|
+
+|
+|
+J
+
+| |
+
+J
+
+||
+u
+
+zZ»
+[Ib ac as =
+
+105
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+B
+u
+
+ac
+
+En EU
+
+»
+
+Anwendung Broschüren
+
+Der Innentitel orientiert sich an der Bezugslinie und am Raster. Bei Broschüren mit
+‚geringer Seitenzahl und Rückstichheftung
+kann der Innentitel auch entfallen.
+
+il
+
+Neue Helvetica condensed bold 14/17pt
+
+5
+{2} Neue Helvetica condensed 14/17pt
+Dem Titel der Publikation kann statt einer
+Unterzeile auch eine Dachzeile zugeordnet
+
+werden. Der Titel kann ebenso allein stehen.
+Die Laufweite der Schrift wird
+grundsätzlich in allen Anwendungen erhöht:
+
+QuarkXpress +5
+InDesign +30,
+Word +0,30
+
+nn
+
+u
+2
+
+Titel des Faltblattes
+Unterzeile zum
+Titel des Faltplattes.
+
+Inhalt
+
+106
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Kleines Faltblatt
+
+Anwendung Broschüren
+
+»
+
+Inhalt
+
+»
+
+Inhalt
+
+100x210 mm - Inhaltsverzeichnis
+
+fl}
+
+Neue Helvetica condensed 14/17
+
+pt
+
+2
+
+Ein Inhaltsverzeichnis entfällt meist, kann
+
+EU» war
+
+aber bei Rückstichheftung durchaus nötig
+sein. Es kann ein- oder zweispaltig gesetzt
+
+werden. Das Linienraster steht mittig
+zwischen den Zeilen. Der Abstand der Linien
+ist konstant.
+
+Linienstärke 0,3pt, 40% Schwarz
+1. Hierarchie
+Neue Helvetica condensed bold 9/12 pt
+2. und 3. Hierarchie
+Neue Helvetica condensed regular 9/12 pt
+mit quadratischer Akzentuierung in
+
+Versalhöhe 45% bzw. 15% Schwarz.
+Der Einzug beträgt 4 mm.
+
+3
+
+107
+
+Der freie Raum wird mit Linien aufgefüllt.
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+Kleines Faltblatt 100x210 mm - Vorwort
+
+fi} Neue Helvetica condensed 14/17pt
+Ein Vorwort entfällt meist, kann aber bei
+Rückstichheftung durchaus nötig sein.
+Es wird in der Regel zweispaltig gesetzt
+oder der Spaltigkeit der Publikation
+
+angepasst.
+Neue Helvetica condensed 8/11 pt
+
+8)
+
+Absätze generell mit Einzug von 4mm
+Kurze Vorworte: Spalten flattern nach unten,
+dabei ist die erste Spalte immer die längere.
+
+EI > vorn
+
+108
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+»
+
+Inhalt
+
+»
+
+Inhalt
+
+Kleines Faltblatt 100 x 210 mm - Innenseiten zweispaltig
+
+Der zweispaltige Satz ist die bevorzugte
+‚Anordnung im Format 100x210mm.
+
+Die Spalten können entweder nach unten
+»flattern- oder bündig mit dem Satzspiegel
+
+abschließen.
+
+B>»
+
+Überschrit
+erster Ordnung
+
+z>
+
+Neue Helvetica condensed 14/17pt
+Nach der Überschrift 1.Ordnung folgt immer
+der im Raster vorgeschriebene Freiraum.
+
+Neue Helvetica condensed bold 8/11 pt,
+mit quadratischer Akzentuierung in
+100% Schwarz in Versalhöhe, bei farbigen
+Anwendungen 100% der Erscheinungsbild-
+
+farbe
+Textschrift
+Neue Helvetica condensed 8/11 pt,
+‚Absätze mit Einzug von 4mm
+
+Neue Helvetica condensed bold 8/11 pt
+Vor jeder Überschrift zwei Leerzeilen,
+danach eine Leerzeile
+Mehrzeilige Überschriften werden
+‚ohne Einzug linksbündig angeordnet.
+
+109
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+Kleines Faltblatt 100 x 210 mm - Innenseiten zweispaltig
+
+Beim Faltblatt mit geringem Bildanteil kann
+
+auf Seiten ohne Überschrift 1.Ordnung oben
+begonnen werden, Bevorzugte Anwendung
+ist der Textbeginn an der Bezugslinie.
+
+Textschrift
+Neue Helvetica condensed 8/11 pt
+‚Aufzählungen werden durch quadratische
+‚Akzentuierung in Versalhöhe 45% Schwarz
+gekennzeichnet. Der Einzug beträgt 4mm.
+‚Aufzählungen in der Aufzählung werden
+
+durch quadratische Akzentuierung in Versalhöhe 15% Schwarz gekennzeichnet.
+Vor und nach jeder Aufzählung
+
+steht ein
+
+Zwischenraum von einer Leerzeile.
+
+110
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+>»
+
+Inhalt
+
+”
+
+Inhalt
+
+Kleines Faltblatt 100 x 210 mm - Innenseiten zweispaltig
+
+Der Freiraum über der Bezugslinie kann für
+
+Überschriften, Texte und Bilder oder Grafikelemente genutzt werden. Bilder können
+abfallend oder im Satzspiegel eingebunden
+
+werden.
+0
+
+Foeahessn]
+
+N
+
+Bildtitel werden an einer geeigneten Stelle
+auf der jeweiligen Doppelseite zusammen-
+
+‚gefasst oder stehen direkt am Bild.
+12}
+
+Vorzugsweise sollen Bilder eines Faltblattes/
+einer Broschüre bzw. eines Kapitels fortlaufende Nummern erhalten.
+Bildtitel und Nummerierung in
+Neuer Helvetica condensed 7/10pt
+
+11
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+Kleines Faltblatt 100 x 210 mm - Innenseiten zweispaltig
+
+‚Bei der Verwendung von Farbe braucht es
+ein Gestaltungskonzept, weiches sich
+konsequent durch die gesamte Anwendung
+
+zieht. Die Flächenfarbe des Titels wird in
+‚der Kombination helle und dunkle Farbe
+im Innenteil mitgeführt.
+
+A
+
+Beispiel: Bildtitel in einer farbigen Fläche
+
+12}
+
+quadratische Akzentuierung in Versalhöhe
+100% der verwendeten Erscheinungsbild-
+
+farbe
+8
+
+Tabellen werden mit den Elementen Linie
+und Fläche erzeugt.
+
+Linienstärke des Grundrasters 0,3pt
+Schriftgröße 8/12pt
+
+Beispiel: Der Tabellenkopf ist durch eine
+Fläche hervorgehoben, der Inhalt wird durch
+ein Linienraster gegliedert.
+4
+
+quadratische Unterlegung der Seitenzahl
+100% der verwendeten Erscheinungsbild-
+
+farbe
+
+gu»
+
+112
+
+Erscheinungsbild
+
+Landeshauptstadt Dresden
+
+Anwendung Broschüren
+
+»
+
+Inhalt
+
+>»
+
+Inhalt
+
+Kleines Faltblatt 100 x 210 mm - Innenseiten einspaltig
+
+In Ausnahmefällen ist auch eine einspaltige
+
+‚Anwendung möglich. Der Freiraum über
+‚der Bezugslinie sollte dann möglichst
+
+auf allen Seiten erhalten bleiben oder für
+Bild und Grafikelemente genutzt werden.
+
+Beispiel: Hervorhebung der Überschrift
+
+durch eine farbige Fläche
+
+2
+
+2)
+
++ nm
+
+nom
+
+Ko enter
+
+Textschrift
+Neue Helvetica condensed 8/11 pt,
+‚Absätze mit Einzug von Amm
+
+}
+
+Tabellen werden mit den Elementen Linie
+
+und Fläche erzeugt.
+
+en
+
+arg
+
+Bl} ) sum
+
+mmumumue
+
+=»
+
+ee
+Ei Eee
+EEE
+
+Linienstärke des Grundrasters 0,3pt.
+Schriftgröße 8/11 pt
+Beispiel: Der Tabellenkopf ist durch eine
+Fläche hervorgehoben, der Inhalt wird durch
+ein Linienraster unterteilt. Eine unterlegte
+
+ee
+ee
+
+Fondfläche (15% schwarz) wird bei stärker
+gegliederten Tabellen benutzt, um sie op-
+
+pre
+
+8
+
+tisch zusammenzufassen.
+
+113
+
+Landeshauptstadt Dresden
+
+»
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+Kleines Faltblatt 100 x 210mm - Innenseiten mit Marginalie
+
+Für spezielle Anwendungen mit vielen
+Erläuterungen oder Anschriften wird eine
+
+m
+
+PR:
+
+zur Textspalte mitlaufende Marginalien-
+
+erster Ordnung
+
+spalte genutzt. Sie muss inhaltlich begrün‚det und auf jeder Seite belegt sein.
+
+I
+
+Beispiel: quadratische Farbfläche und Bilder
+
+als belebende Elemente
+2
+
+B>
+
+-u=-
+
+Marginalie
+Neue Helvetica condensed regular bzw.
+
+bold 8/11 pt
+8
+
+Textschrift
+Neue Helvetica condensed 8/11 pt,
+‚Absätze mit Einzug von Amm
+
+B
+
+>»
+
+en
+
+114
+
+Landeshauptstadt Dresden
+
+» Erscheinungsbild
+
+” Anwendung Broschüren
+
+Kleines Faltblatt 100x210 mm - Rücktitel
+
+I
+
+Fondfläche 100x65mm
+Farbe entgegengesetzt zum Titel
+
+2}
+
+Die Internetadresse kann durch
+das jeweilige Thema ergänzt werden.
+
+Neue Helvetica condensed bold 14pt
+Farbe identisch mit dem Titel
+‚Abstand zum linken Rand 10mm
+‚Abstand zwischen Schriftlinie und
+Bezugslinie 4mm
+
+8
+
+Fondfläche 100x145mm
+Farbe identisch mit dem Titel
+
+U
+
+Die einspaltige Anordnung des Impressums
+auf dem Rücktitel wird bevorzugt.
+Bei größerem Umfang orientiert sich die
+längste Spalte am unteren Satzspiegelrand.
+
+Neue Helvetica condensed regular
+bzw. bold 7/8,5 pt; Abstand zum linken
+
+Rand 10mm, zum unteren Rand 18,8mm
+(Satzspiegel)
+
+{5}
+
+Bei einer Rückenstärke ab 4mm
+ist eine Rückenzeile vorgesehen.
+Neue Helvetica condensed bold 12pt
+
+‚Abstand zur Bezugslinie 2mm
+Die Schriftfarbe des Titels, der Rückenzeile
+und des Impressums ist gleich.
+
+>
+
+Inhalt
+
+65
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+Anlase
+
+5 3» Inhalt
+
+Große Broschüre DIN A4 - Titel
+
+ll
+
+Gestaltungsfläche
+210x90mm
+
+Amtsmarke 20mm breit
+Abstand zum rechten Rand 15mm
+Farbe 100% der Fondfläche
+8
+
+|
+
+Fondfläche 210x207 mm
+100% Erscheinungsbildfarbe (innerhalb der
+Erscheinungsbildfarben wählbar)
+
+Neue
+
+Helvetica condensed bold 24/27 pt
+
+Laufweite
++5 (Angabe für QuarkXpress)
+
+|
+
+‚Abstand zum linken Rand 15mm
+
+|
+
+{5} Neue Helvetica condensed 24/27pt
+Laufweite+5 (Angabe für QuarkXpress)
+
+‚Abstand zum unteren Rand 22,7 mm
+(Satzspiegel)
+Dem Titel der Publikation kann statt einer
+Unterzeile auch eine Dachzeile zugeordnet
+werden. Der Titel kann ebenso allein stehen.
+
+66
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+‚Anwendung Broschüren
+
+Große Broschüre DIN A4 - Gestaltungsraster Innenseiten
+
+Die Bezugslinie verbindet Titel und
+Innenseiten.An ihr werden Texte, Bilder
+und Farbflächen »angehangen«
+(siehe Bezugslinie ab Seite 45).
+
+2
+
+Seitenzahl
+Neue Helvetica condensed heavy 7 pt
+quadratische Unterlegung 45% schwarz
+‚oder 100% der verwendeten Erscheinungs-
+
+bildfarbe
+
+w»-
+
+”
+
+Inhalt
+
+67
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+»
+
+Inhalt
+
+”
+
+Inhalt
+
+Große Broschüre DIN A4 - Innentitel
+
+Der Innentitel orientiert sich an der Bezugs-
+
+linie und am Raster. Bei Broschüren mit
+‚geringer Seitenzahl und Rückstichheftung
+
+kann der Innentitel auch entfallen.
+
+il Neue Helvetica condensed bold 18/21 pt
+Neue Helvetica condensed 18/21pt
+
+ü>
+
+Dem Titel der Publikation kann statt einer
+
+Z>
+
+DI TÜRREER
+Unterzeile
+
+zum Broschürentitel
+
+Unterzeile auch eine Dachzeile zugeordnet
+
+werden. Der Titel kann ebenso allein stehen.
+Die Laufweite der Schrift wird
+grundsätzlich in allen Anwendungen erhöht:
+
+QuarkXpress +5
+InDesign +30,
+
+Word +0,30
+
+68
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+Große Broschüre DIN A4 - Inhaltsverzeichnis
+
+il
+
+Neue Helvetica condensed 18/21 pt
+
+2} Das Inhaltsverzeichnis kann ein- oder
+zweispaltig gesetzt werden. Das Linien-
+
+raster steht mittig zwischen den Zeilen.
+Der Abstand der Linien ist konstant.
+Linienstärke 0,3pt, 40% Schwarz
+
+1. Hierarchie
+Neue Helvetica condensed bold 9/12 pt
+2. und 3. Hierarchie
+Neue Helvetica condensed regular 9/12 pt
+mit quadratischer Akzentuierung in
+
+Versalhöhe 45% bzw. 15% Schwarz.
+Der Einzug beträgt 4 mm.
+
+®
+
+Der freie Raum wird mit Linien aufgefüllt.
+
+>»
+
+innatt
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+»
+
+Inhalt
+
+»
+
+Inhalt
+
+Große Broschüre DIN A4 - Vorwort
+
+fl
+
+Neue Helvetica condensed 18/21 pt
+
+12
+
+Das Vorwort wird in der Regel zweispaltig
+gesetzt oder der Spaltigkeit der Publikation
+
+Vorwort
+
+angepasst.
+Neue Helvetica condensed 9/12pt
+‚Absätze generell mit Einzug von 4mm
+Kurze Vorworte: Spalten flattern nach unten,
+dabei ist die erste Spalte immer die längere.
+
+70
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+Große Broschüre DIN A4 - Innenseiten dreispaltig
+
+Der dreispaltige Satz ist die bevorzugte
+‚Anordnung im Format DIN Ad. Die Spalten
+
+können entweder nach unten »flattern« oder
+bündig mit dem Satzspiegel abschließen.
+
+Neue Helvetica condensed 18/21 pt
+Nach der Überschrift 1. Ordnung folgt immer
+der im Raster vorgeschriebene Freiraum
+Neue Helvetica condensed bold 9/12pt,
+mit quadratischer Akzentuierung in
+100% Schwarz in Versalhöhe, bei farbigen
+‚Anwendungen 100% der Erscheinungsbild-
+
+farbe
+Textschrift
+Neue Helvetica condensed 9/12pt,
+Absätze mit Einzug von 4mm
+
+Neue Helvetica condensed bold 9/12pt
+Vor jeder Überschrift zwei Leerzeilen,
+
+danach eine Leerzeile
+Neue Helvetica condensed 9/12pt
+Mehrzeilige Überschriften werden
+‚ohne Einzug linksbündig angeordnet,
+
+u>
+z»
+
+Überschrit
+erster Ordnung
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+»
+
+Inhalt
+
+»
+
+Inhalt
+
+Große Broschüre DIN A4 - Innenseiten dreispaltig
+
+Bei Broschüren mit geringem Bildanteil
+
+kann auf Seiten ohne Überschrift 1. Ordnung
+‚oben begonnen werden. Bevorzugte Anwen-
+
+me
+
+‚dung ist der Textbeginn an der Bezugslinie.
+
+oe
+
+Aufzählungen werden durch quadratische
+
+8
+
+Fe eteeeetet
+
+Be
+ee
+
+Akzentuierung in Versalhöhe 45% Schwarz
+
+ET
+
+gekennzeichnet. Der Einzug beträgt 4 mm.
+
+ae
+
+8) Aufzählungen in der Aufzählung werden
+
+7
+
+eEnasrnsrnnunn
+
+en
+
+‚durch quadratische Akzentuierung in Versalhöhe 15% Schwarz gekennzeichnet.
+
+s
+
+Vor und nach jeder Aufzählung steht ein
+Zwischenraum von einer Leerzeile.
+
+m Pierre
+nn nn
+Dee
+ee
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+hen
+
+rn
+a
+De
+et
+
+Textschrift
+Neue Helvetica condensed 9/12pt
+2}
+
+Banane
+
+Tee
+
+SEINES
+
+»
+
+et
+
+ee een
+
+SEES
+
+une
+
+Anwendung Broschüren
+
+Große Broschüre DIN A4 - Innenseiten dreispaltig
+
+‚Der Freiraum über der Bezugslinie kann für
+
+Überschriften, Texte und Bilder oder Grafik‚elemente genutzt werden. Bilder können
+‚abfallend oder im Satzspiegel eingebunden
+‚werden,
+
+I
+
+Bildtitel werden an einer geeigneten Stelle
+auf der jeweiligen Doppelseite zusammengefasst oder stehen direkt am Bild.
+
+12}
+
+Vorzugsweise sollen Bilder einer Broschüre
+
+bzw. eines Kapitels fortlaufende Nummern
+erhalten.
+Bildtitel und Nummerierung in
+
+Neuer Helvetica condensed 7/10pt
+
+73
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+»
+
+Anwendung Broschüren
+
+Inhalt
+
+Große Broschüre DIN A4 - Innenseiten dreispaltig
+
+Bei der Verwendung von Farbe braucht es
+‚ein Gestaltungskonzept, welches sich
+konsequent durch die gesamte Anwendung
+
+‚zieht. Die Flächenfarbe des Titels wird in
+‚der Kombination helle und dunkle Farbe
+im Innenteil mitgeführt.
+
+Beispiel: Zusammenfassung von Bildtiteln
+
+in einer farbigen Fläche
+quadratische Akzentuierung in Versalhöhe
+
+100% der verwendeten Erscheinungsbildfarbe
+
+3
+
+Tabellen werden mit den Elementen
+Linie und Fläche erzeugt.
+Linienstärke des Grundrasters 0,3pt
+Schriftgröße 8/12 pt
+Beispiel: Der Tabellenkopf ist durch eine
+Fläche hervorgehoben, der Inhalt wird durch
+ein Linienraster gegliedert.
+
+|
+|
+
+quadratische Unterlegung der Seitenzahl
+100% der verwendeten Erscheinungsbild-
+
+farbe
+
+|
+
+74
+
+|
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Inhalt
+
+Anwendung Broschüren
+
+Große Broschüre DIN A4 - Innenseiten zweispaltig
+
+Der zweispaltige Satz ist für Anwendungen
+mit viel Fließtext vorgesehen.
+
+Beispiel: Hervorhebung der Überschrift
+durch eine farbige Fläche
+
+2 Textschrift
+Neue Helvetica condensed 9/12pt,
+
+‚Absätze mit Einzug von 4mm
+®
+
+ds
+
+Deren
+
+RENEN
+
+irerletslortasuntetsch
+beenden
+
+Tabellen werden mit den Elementen
+Linie und Fläche erzeugt.
+
+BI
+ee
+en
+
+Schriftgröße 8/12pt
+
+a
+
+Linienstärke des Grundrasters 0,3pt
+Beispiel: Der Tabellenkopf ist durch eine '
+Fläche hervorgehoben, der Inhalt wird durch
+
+ein Linienraster unterteilt. Eine unterlegte
+
+Fondfläche (15% Schwarz) wird bei stärker
+
+gegliederten Tabellen benutzt, um sie optisch zusammenzufassen.
+
+|
+
+MIETE
+
+EEE
+
+BEER
+
+N)
+
+en
+En
+
+B>
+
+ann van Dr mn wann
+
+BEEREBZTEIET =
+
+BESIISLENZESE
+
+STE
+
+FEST
+
+———
+
+alias
+
+ee
+
+EERERTEIEEET
+
+een
+
+aa
+eherae
+
+Ta
+
+terre
+ers
+
+75
+
+Landeshauptstadt Dresden
+
+» Erscheinungsbild
+
+Inhalt
+
+»
+
+» Anwendung Broschüren
+
+Große Broschüre DIN A4 - Innenseiten mit Marginalie
+
+Für spezielle Anwendungen mit vielen
+
+Erläuterungen oder Anschriften wird eine
+zur Textspalte mitlaufende Marginalien-
+
+u»
+‚inersehnt rear Ordaung
+
+spalte genutzt. Sie muss inhaltlich begrün‚det und auf jeder Seite belegt sein.
+
+|
+
+Mi} Beispiel: quadratische Farbfläche
+
+|
+
+und Bilder als belebende Elemente
+
+|
+
+{2} Marginalie
+
+|
+
+Neue Helvetica condensed regular bzw.
+
+bold 8/11pt
+Jah
+8
+
+UNE: VEUORCER
+
+B>
+
+TE,
+HI
+Ne
+Bam DENRIIINIIEIIRDIIE
+
+5,
+
+===
+rede et sedssbgrsen
+Peseaherntsrenkeheterhores
+
+en
+
+Textschrift
+Ver
+
+Neue Helvetica condensed 9/12pt,
+
+‚Absätze mit Einzug von 4mm
+
+rn
+
+ne
+
+Yen
+
+aan ne Tugnmnne wann ya
+
+an ar am
+
+ee
+
+engere
+
+Be
+
+Bee
+
+ram
+
+mn man nahen Dugumn nr u
+
+ereeemer
+Pereentehr Areale amt nehle here
+
+mn a
+
+ee
+
+En
+
+ndnlasnereng
+heise
+peesteteerefeeete
+Fehr
+BEREITEN
+
+Ben
+
+nam m renyantemnn sn
+
+arena ann mama
+nn
+ee
+re
+
+u
+
+76
+
+Landeshauptstadt Dresden
+
+= Erscheinungsbild
+
+» Anwendung Broschüren
+
+Große Broschüre DIN A4 - Rücktitel
+
+I Fondfläche 210x90mm
+Farbe entgegengesetzt zum Titel
+2
+
+Die Internetadresse kann durch
+das jeweilige Thema ergänzt werden.
+Neue Helvetica condensed bold 18pt
+
+Farbe identisch mit dem Titel
+‚Abstand zum linken Rand 15mm
+‚Abstand zwischen Schriftlinie und
+Bezugslinie 4mm
+
+8
+
+Fondfläche 210x207mm
+Farbe identisch mit dem Titel
+
+[Die Anordnung des Impressums
+‚auf dem Rücktitel wird bevorzugt.
+Neue Helvetica condensed regular
+
+bzw. bold 7/8,5pt,
+‚Abstand zum linken Rand 15mm
+
+‚Abstand zum unteren Rand 22,7mm
+(Satzspiegel)
+
+{5} Bei einer Rückenstärke ab
+
+4mm
+
+ist eine Rückenzeile vorgesehen.
+
+Neue Helvetica condensed bold 12pt
+‚Abstand zur Bezugslinie
+
+2mm
+
+Die Schriftfarbe des Titels, der Rückenzeile
+und des Impressums ist gleich.
+
+»
+
+Inhalt
+
+Kleine Broschüre DIN A5
+
+Anlase 5:
+
+Inhalt
+
+Hier sind Veröffentlichungen der Landeshauptstadt Dresden versammelt, die entweder als
+
+Wegweiser- oder Ratgeberbroschüre den
+helfenden Charakter städtischer Öffentlichkeitsarbeit betonen oder sachliche Informationen
+im handlichen Format bieten.
+
+78
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+Kleine Broschüre DIN A5 - Titel
+
+Ü
+
+Gestaltungsfläche
+148x65mm
+
+2
+
+Amtsmarke 18mm breit
+‚Abstand zum rechten Rand 15mm
+Farbe 100% der Fondfläche
+
+®
+
+Fondfläche 148x145mm
+
+i
+
+100% Erscheinungsbildfarbe (innerhalb
+der Erscheinungsbildfarben wählbar)
+4
+
+Neue Helvetica condensed bold 16/19pt
+Laufweite +5 (Angabe für QuarkXpress)
+
+Abstand zum linken Rand 15mm
+5}
+
+Neue Helvetica condensed 16/19pt
+
+S
+
+Laufweite+5 (Angabe für QuarkXpress)
+
+‚Abstand zum unteren Rand 18,8mm
+
+(Satzspiegel)
+Dem Titel der Publikation kann statt einer
+Unterzeile auch eine Dachzeile zugeordnet
+werden. Der Titel kann ebenso allein stehen.
+
+&5: "}> _ Unterzlle
+Titelder Broschüre
+zum Broschürenttel
+
+Inhalt
+
+79
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+»
+
+Inhalt
+
+»
+
+Inhalt
+
+Kleine Broschüre DIN A5 - Gestaltungsraster Innenseiten
+
+Die Bezugslinie verbindet Titel und
+Innenseiten.An ihr werden Texte, Bilder
+
+IM
+=
+
+und Farbflächen »angehangen«
+(siehe Bezugslinie ab Seite 45).
+
+|
+
+2 Staa
+
+El
+
+El
+
+III
+
+Neue Helvetica condensed heavy 7 pt
+
+quadratische Unterlegung 45% Schwarz
+
+E
+
+Ei >-
+
+]
+
+”
+=
+
+ICH E
+
+=
+
+Pr
+
+ae
+
+zz
+
+‚oder 100% der verwendeten Erscheinungs-
+
+bildfarbe
+
+>
+[ca
+
+80
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Br
+ac
+
+1 Ba ae SB
+
+Bag =
+
+Ba
+
+=
+
+Bar
+
+IE
+
+Anwendung Broschüren
+
+Kleine Broschüre DIN A5 - Innentitel
+
+‚Der Innentitel orientiert sich an der Bezugs-
+
+linie und am Raster. Bei Broschüren mit
+‚geringer Seitenzahl und Rückstichheftung
+
+kann der Innentitel auch entfallen.
+
+Neue
+
+Helvetica condensed bold 14/17pt
+
+2} Neue Helvetica condensed 14/17pt
+Dem Titel der Publikation kann statt einer
+Unterzeile auch eine Dachzeile zugeordnet
+
+werden. Der Titel kann ebenso allein stehen.
+Die Laufweite der Schrift wird
+grundsätzlich in allen Anwendungen erhöht:
+QuarkXpress +5
+InDesign +30,
+Word +0,30
+
+z»
+
+Titel der Broschüre
+Unterzeile
+zum Broschürentitel
+
+I
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+»
+
+Inhalt
+
+»
+
+Inhalt
+
+Kleine Broschüre DIN A5 - Inhaltsverzeichnis
+
+Neue
+
+2
+
+Helvetica condensed 14/17pt
+
+Das Inhaltsverzeichnis kann ein- oder
+
+MM»
+
+mar
+
+zweispaltig gesetzt werden. Das Linien-
+
+raster steht mittig zwischen den Zeilen.
+Der Abstand der Linien ist konstant.
+Linienstärke 0,3pt, 40% Schwarz
+1. Hierarchie
+Neue Helvetica condensed bold 8/11 pt
+2. und 3. Hierarchie
+Neue Helvetica condensed regular 8/11 pt
+mit quadratischer Akzentuierung in
+
+Versalhöhe 45% bzw. 15% Schwarz.
+Der Einzug beträgt 4 mm.
+
+Der freie Raum wird mit Linien aufgefüllt.
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+Kleine Broschüre DIN A5 - Vorwort
+
+il Neue Helvetica condensed 14/17pt
+2}
+
+Das Vorwort wird in der Regel zweispaltig
+‚gesetzt oder der Spaltigkeit der Publikation
+
+angepasst.
+Neue Helvetica condensed 8/11 pt
+8
+
+Absätze generell mit Einzug von Amm
+Kurze Vorworte: Spalten flattern nach unten,
+dabei ist die erste Spalte immer die längere.
+
+>
+
+Yon
+
+83
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+»
+
+Inhalt
+
+»
+
+Inhalt
+
+Kleine Broschüre DIN A5 - Innenseiten zweispaltig
+
+Der zweispaltige Satz ist die bevorzugte
+‚Anordnung im Format DIN AS. Die Spalten
+können entweder nach unten »flattern« oder
+
+>
+
+bündig mit dem Satzspiegel abschließen.
+
+2>
+
+Gern
+"erster Ordnung
+
+Neue Helvetica condensed 14/17pt
+
+g>
+Nach der Überschrift 1. Ordnung folgt immer
+
+u>
+
+‚der im Raster vorgeschriebene Freiraum.
+Neue Helvetica condensed bold 8/11 pt,
+
+mit quadratischer Akzentuierung in
+100% Schwarz in Versalhöhe, bei farbigen
+
+Bi»
+
+(re
+
+ee
+nee
+
+Ber
+
+‚Anwendungen 100% der Erscheinungsbild-
+
+Textschrift
+
+VE
+en
+
+«m
+
+Er
+
+Fernweh
+wur un unnafeinungiau hrereltmaieehirend
+
+EB»
+
+een
+
+Neue Helvetica condensed 8/11 pt,
+‚Absätze mit Einzug von 4mm
+
+EEHEIEEE EREISEEZER
+rd carberderkorun Japan (ovnewelnmoeroersrae
+ren
+
+Neue Helvetica condensed bold 8/11 pt
+Vor jeder Überschrift zwei Leerzeilen,
+
+ee
+
+=
+ng
+
+danach eine Leerzeile.
+Neue Helvetica condensed 8/11 pt
+Mehrzeilige Überschriften werden
+‚ohne Einzug linksbündig angeordnet.
+
+84
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+Kleine Broschüre DIN A5 - Innenseiten zweispaltig
+
+‚Bei Broschüren mit geringem Bildanteil
+
+‚kann auf Seiten ohne Überschrift 1. Ordnung
+‚oben begonnen werden. Bevorzugte Anwendung ist der Textbeginn an der Bezugslinie.
+
+Textschrift
+Neue Helvetica condensed 8/11 pt
+‚Aufzählungen werden durch quadratische
+‚Akzentuierung in Versalhöhe 45% Schwarz
+gekennzeichnet. Der Einzug beträgt 4mm.
+‚Aufzählungen in der Aufzählung werden
+durch quadratische Akzentuierung in Versalhöhe 15% Schwarz gekennzeichnet.
+Vor und nach jeder Aufzählung steht ein
+
+‚Zwischenraum von einer Leerzeile.
+
+nu»
+
+85
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+‚Anwendung Broschüren
+
+»
+
+Inhalt
+
+Kleine Broschüre DIN A5 - Innenseiten zweispaltig
+
+‚Der Freiraum über der Bezugslinie kann für
+Überschriften, Texte und Bilder oder Grafik-
+
+elemente genutzt werden. Bilder können
+abfallend oder im Satzspiegel eingebunden
+werden.
+
+A
+
+Bildtitel werden an einer geeigneten Stelle
+auf der jeweiligen Doppelseite zusammen-
+
+gefasst oder stehen direkt am Bild.
+{2}
+|
+|
+
+|
+
+1
+
+Vorzugsweise sollen Bilder einer Broschüre
+bzw. eines Kapitels fortlaufende Nummern
+erhalten.
+Bildtitel und Nummerierung in
+
+Neuer Helvetica condensed 7/10pt
+
+86
+
+|
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+»
+
+Anwendung Broschüren
+
+Kleine Broschüre DIN A5 - Innenseiten zweispaltig
+
+Bei der Verwendung von Farbe braucht es
+‚ein Gestaltungskonzept, welches sich
+konsequent durch die gesamte Anwendung
+
+zieht. Die Flächenfarbe des Titels wird in
+der Kombination helle und dunkle Farbe
+im Innenteil mitgeführt.
+
+ED
+Al
+
+Beispiel: Zusammenfassung von Bildtitel
+und Bild in einer farbigen Fläche
+
+12}
+
+quadratische Akzentuierung in Versalhöhe
+100% der verwendeten Erscheinungsbild-
+
+farbe
+8)
+
+Tabellen werden mit den Elementen Linie
+und Fläche erzeugt.
+
+Linienstärke des Grundrasters 0,3pt
+Schriftgröße 8/12pt
+Beispiel: Der Tabellenkopf ist durch eine
+Fläche hervorgehoben, der Inhalt wird durch
+ein Linienraster gegliedert.
+Eine weitere Lösung für die Tabellengestaltung ist auf S. 74 demonstriert.
+
+|
+
+A
+
+quadratische Unterlegung der Seitenzahl
+100% der verwendeten Erscheinungsbildfarbe
+
+simnz ou
+ee
+este
+
+rend
+men Daun
+eltern
+un nnd
+
+Inhalt
+
+87
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+»
+
+Inhalt
+
+»
+
+Inhalt
+
+Kleine Broschüre DIN A5 - Innenseiten dreispaltig
+
+‚Für Anwendungen mit sehr vielen kurzen
+Zeilen (zum Beispiel Anschriftenverzeichnisse) sollte eine dreispaltige Anordnung
+verwendet werden.
+
+u»
+
+ee one
+
+Beispiel: Bildtitel in einer farbigen Fläche
+12
+
+Textschrift: Neue Helvetica condensed
+
+8/11pt
+&)
+
+88
+
+Aufzählungen werden durch quadratische
+Akzentuierung in Versalhöhe 45% und 15%
+Schwarz gekennzeichnet.
+
+Landeshauptstadt Dresden
+
+Erscheinungsbild
+
+Anwendung Broschüren
+
+Kleine Broschüre DIN A5 - Innenseiten mit Marginalie
+
+Für spezielle Anwendungen
+
+mit vielen
+
+‚Erläuterungen oder Anschriften wird eine
+
+a»
+
+en
+
+zur Textspalte mitlaufende Marginalienspalte genutzt. Sie muss inhaltlich begrün‚det und auf jeder Seite belegt sein.
+
+erster Ordnung
+Fl
+
+Beispiel: quadratische Farbfläche und Bilder
+als belebende Elemente
+
+a>
+
+2
+
+Bi»
+
+Marginalie: Neue Helvetica condensed
+
+1 dran ae
+m.ntaligr
+same Salami
+RITE
+
+8
+
+Textschrift: Neue Helvetica condensed
+8/11 pt, Absätze mit Einzug von Amm
+
+men
+
+nn
+
+regular bzw. bold 8/11 pt
+
+main
+
+Deren
+iu td put Inn
+
+mann m m
+
+89
+
+Landeshauptstadt Dresden
+
+= Erscheinungsbild
+
+» Anwendung Broschüren
+
+Kleine Broschüre DIN A5 - Rücktitel
+
+Hl Fondfläche 148x65mm
+Farbe entgegengesetzt zum Titel
+
+12} Die Internetadresse kann durch
+‚das jeweilige Thema ergänzt werden.
+Neue Helvetica condensed bold 14pt
+
+Farbe identisch mit dem Titel
+‚Abstand zum linken Rand 15mm
+‚Abstand zwischen Schriftlinie und
+Bezugslinie 4mm
+
+3) Fondfläche 148x145mm
+Farbe identisch mit dem Titel
+N
+
+Die einspaltige Anordnung des Impressums
+auf dem Rücktitel wird bevorzugt. Bei grö-
+
+‚Berem Umfang orientiert sich die längste
+Spalte am unteren Satzspiegelrand.
+Neue Helvetica condensed regular
+bzw. bold 7/8,5pt; Abstand zum linken
+Rand 15mm, zum unteren Rand 18,8mm
+(Satzspiegel)
+
+{5} Bei einer Rückenstärke ab 4mm
+ist eine Rückenzeile vorgesehen.
+Neue Helvetica condensed bold 12pt
+‚Abstand zur Bezugslinie 2mm
+
+Die Schriftfarbe des Titels, der Rückenzeile
+und des Impressums ist gleich.
+
+»
+
+Inhalt
+
+
