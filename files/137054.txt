@@ -1,0 +1,83 @@
+Anlage3
+
+zur
+zur V2383
+V2383 13
+13
+
+Finanzielle Auswirkungen/Deckungsnachweis:
+
+Finanzhaushalt
+Verkaufserlös gesamt
+davon Anteil Ablösebetrag
+für Erschließungsbeiträge
+davon Anteil zu zahlender
+Kaufpreis
+
+PSP-Element
+
+Sachkonto
+
+Betrag in€
+243.200,00
+
+70.800000.770.019
+
+68210000
+
+0,00
+
+70.800000.770.019
+
+68210000
+
+243.200,40
+
+10.100.57.1.0.01
+
+50610000
+
+0,00
+
+10.100.57.1.0.01
+
+50190000
+
+38.814,72
+38.814,72
+
+10.100.57.1.0.01
+
+51610000
+
+68.096,00
+
+10.100.57.1.0.01
+
+51191000
+
+0,00
+68.096,00
+
+Ergebnishaushalt
+
+Ertrag
+
+Außerordentlicher Ertrag aus Anlagenabgang mit Erlös (Verkaufserlös abzgl. Buchwerrt)
+Ertragswirksame Auflösung
+des passiven Sonderpostens
+Ertrag gesamt
+
+Aufwand
+Außerordentlicher Aufwand aus Anlagenabgang mit Aufwand (Verkaufserlös abzgl. Buchwert)
+Aufwand für Bildung Rückstellung
+nicht durchgereichter Förderung
+Aufwand gesamt:
+
+- 29.281,28
+
+Saldo aus Aufwand und Ertrag:
+
+Seite 6 von 6
+
+
