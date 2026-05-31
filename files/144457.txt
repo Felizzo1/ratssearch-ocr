@@ -1,0 +1,1380 @@
+Anlage
+Anlage 2a
+2a
+
+Landeshauptstadt Dresden
+
+STESAD
+
+GmbH
+
+AT
+
+KOMMUNALER
+
+SCHULBAU
+
+Teil 1 Hochbau
+
+SCHULEN UND SPORTHALLEN
+
+Ausführungshinweise
+für Schulgebäude und Sporthallen
+Neubau
+Sanierung
+
+Verantwortlicher (SVA):
+
+Geschäftsbereich Allgemeine Verwaltung
+
+Schulverwaltungsamt I GB1/ A41
+Herr Thieme
+Fiedlerstraße 30
+01307 Dresden
+
+Verantwortlicher (STESAD): STESAD GmbH
+Hr. Renk
+Königsbrücker Str. 17
+
+01099 Dresden
+
+STESADE:
+WIR ENTWICKELN DRESDEN
+Version:
+
+STESAD GmbH
+
+Teil 1 V.0.3.3 vom 26.06.2013
+
+ö
+
+STESADEWIR ENTWICKELN DRESDEN
+
+Inhaltsverzeichnis
+
+1.
+
+ÄNDERUNGSVERZEICHNIS „u
+
+2
+
+ALLGEMEINE
+
+3
+
+KG300
+
+4
+
+KG 300 NEUBAU SPORTHALLEN .....
+
+6
+
+KG 500 NEUBAU AUSSEN- und
+
+7
+
+KG 300 SANIERUNG SCHULGEBÄUDE .....
+
+8
+
+KG 300 SANIERUNG SPORTHALLEN......
+
+9
+
+KG 500 SANIERUNG AUSSEN- und SPORTANLAGEN
+
+10
+
+ANLAGEN ......
+
+11
+
+BESTÄTIGUNG AG
+
+HINWEISE.....
+
+NEUBAU SCHULGEBÄUDE.....
+
+KOMMUNALER SCHULBAU TEIL 1 HOCHBAU
+STESAD GmbH /Renk
+
+SPORTANLAGEN.
+
+Version 0.3.3 13.06,
+
+un
+
+Seite 2
+
+STESADE:
+1
+
+WIR ENTWICKELN DRESDEN
+
+ÄNDERUNGSVERZEICHNIS
+Änderungsverzeichnis
+
+Version
+01
+
+|
+Datum
+| 15.03.2019
+
+|
+| Erste Arbeitsversion
+
+Änderung
+
+Ersteller
+Renk/STESAD
+
+' 31.05.2013
+
+| Überarbeitung mit SVA / Thieme
+
+| Renk/STESAD
+
+13.06.2013
+
+‚Abstimmung mit SVA/ Thieme
+
+RenkISTESAD
+
+26.06.2013
+
+‚Abstimmung mit SVA / Thieme
+
+Renk/STESAD
+
+Endfassung
+
+KOMMUNALER
+
+SCHULBAU
+
+STESAD GmbH / Renk
+
+TEIL 1 HOCHBAU
+
+Version 0.3.3
+
+13.06.2013
+
+Seite 3
+
+STESADE2
+
+ALLGEMEINE
+
+WIR ENTWICKELN DRESDEN
+
+HINWEISE
+
+Allgemeine Planungshinweise
+VORBEMERKUNG:
+
+‚Als allgemeine Grundlagen werden ohne weitere Erwähnung vorausgesetzt:
+behördliche Auflagen
+die Einhaltung einschlägiger technischer Normen und Vorschriften (siehe $ 2.2
+Grundvertrag nach HOAI)
+die Planung und Ausführung nach aktuellem Stand anerkannter Regeln der Technik
+die UVV der Unfallkasse Sachsen und die Forderungen der LDD-Sachsen, Abteilung
+‚Arbeitsschutz
+Die Forderung UKS sind einzuhalten , Regelwerk GUV und Planungshinweise GUV
+Schulbaurichtlinie und LBauO sind einzuhalten
+Leitlinien für die Behindertenarbeit in der LHD, Stadtratsbeschluss Nr. V3954 SR76
+die Verwendung neuer und ungebrauchter Bauteile und Baustoffe, eingeführt nach aktuell
+
+gültigen Baubestimmungen mit Nachweisen nach Bauregelliste (Bauaufsichtliche
+
+Zulassung, amtliche Prüfzeugnisse, Einstufungsscheine etc.)
+
+ALLGEMEINE
+PLANUNGSHINWEISE
+
+Die Vorgaben und Planungshinweise zu Ausstattung ( SVA , 05.11.2008)
+Die Vorgaben und Planungshinweise/ Checkliste Küchenausstattung ( SVA , 11.04.2012)
+
+HINWEISE BEI
+
+Die für das Bauvorhaben gültigen Förderrichtlinien sind mit dem AG vor Planungsbeginn
+
+FÖRDERMITTELN:
+
+Die Vorgaben aus dem Fördermittelbescheid bzw. der baufachlichen Stellungnahme im
+
+DES AG /SVA:
+
+BAUVORHABEN MIT
+
+abzustimmen (Bedarfsplanung)
+
+Rahmen der Prüfung des Fördermittelantrages sind umzusetzen
+
+Bauteilbezogene Teilung der Kosten hat stets zu erfolgen: Schulgebäude, Sporthalle,
+Freiflächen (Verteilerschlüssel von nicht eindeutig zuordenbaren Kosten ist abzustimmen)
+
+PROJEKTABHÄNGIGE
+HINWEISE :
+
+Wesentliche projektspezifischen Planungshinweise sind im Rahmen einer Bedarfsplanung
+zu klären und mit dem AG vor Planungsbeginn abzustimmen
+ENEV - Standards sind projektspezifisch zu prüfen
+Weiterzuverwendende Ausstattungen und Einbauten (Sanierungen) sind durch den AG zu
+Beginn der Planung anzuzeigen
+Besondere Pädagogische Konzepte der Einrichtungen sind durch den AG zu Beginn der
+Planung anzuzeigen
+
+VERFAHRENSHINWEISE
+
+Die vorliegende Planungshinweise sind bei allen Bauvorhaben des Schulverwaltungsamtes
+Die Projektsteuerung trägt Sorge, dass sämtliche verantwortliche Planer diese Hinweise vor
+Beginn der Planungsaufgaben erhalten.
+‚Abweichungen von einzelnen Vorgaben können projektspezifisch erfolgen, wenn eine
+Zustimmung des AG erfolgt und aktenkundig festgehalten wurde. Im Zweifelsfall oder bei
+wesentlichen Abweichungen erfolgt die Zustimmung des AG/SVA über die Bestätigung
+einer begründeten Projektänderungsanzeige
+umzusetzen
+
+KOMMUNALER SCI HULBAU TEIL 1 HOCı BAU
+STESAD GmbH / Renk
+
+Version 0.3.3
+
+13
+
+STESADEWIR ENTWICKELN DRESDEN
+
+3
+
+KG 300
+
+NEUBAU SCHULGEBÄUDE
+
+KG 300
+ROHBAU:
+
+ABDICHTUNG :
+
+Art der Abdichtung entsprechend Lastfall (Schweißbahn, KMB, weiße Wanne)
+
+Beachtung Radonbelastung bei Abdichtung und Mediendurchführungen in erdberührten
+Bauteilen
+DACH:
+
+bei Schrägdächer - umlaufend Schneefanggitter vorsehen
+bei Dachbegrünungen grundsätzlich extensive Ausführungsart
+fixe Anschlagpunkte (Sekuranten) bei Flachdächern vorsehen
+‚Abstimmung Projektbezogen vor Planungsbeginn (Bedarfsplan): Vorbereitung der
+Dachflächen (Statik, Befestigungspunkte, baukonstruktive Abdichtungsdetails,
+Leitungszuführungen) für die Nutzung von Photovoltaikanlagen
+
+Innenliegende Entwässerungen möglichst vermeiden
+FASSADEN:
+
+Endoberflächen, insbesondere im Bereich Erdgeschoss, Kellereingänge etc. unter dem
+Augenmerk der Robustheit, relativen Sicherheit gegen Vandalismus, Austauschbarkeit bzw.
+Reparaturmöglichkeit ausführen
+
+Bei WDVS - Schutz der Ecken im Sockelbereich - Kinder mit Fahrzeugen/Fahrrädern
+(Putzabplatzungen!)
+Bei WDVS - in erdgeschossnahen Bereichen Einbau von Panzergewebeverstärkungen
+(Putzabplatzungen!)
+
+äußere Fensterbänke bei WDVS-Fassaden immer gemäß Systemzulassung realisieren
+bei Putzfassaden grundsätzlich eingefärbte Oberputze verwenden und Egalisierungsanstrich
+ausführen
+
+Bei hochwärmegedämmten Ausführungen Einsatz von Dauergerüstankern, Revisionsplan und
+Verschluss mit Kappen
+Schlüsseltresore Feuerwehr/Aufzug/IDREWAG etc. einplanen und mit Beteiligten Größe und
+‚Ausführungsart abzustimmen!
+Spritzschutz Sockelbereich: Keine Ausführung als Kiesstreifen oder Schotter (Wurfgeschoss)
+FENSTER /
+
+AUSSENTÜREN:
+
+Rahmenmaterial bevorzugt Metall bzw. Metall / Holz, Einsatz von Tropenholz nur bei Vorlage
+Nachweis über nachhaltigen Anbau
+Verglasung Türen bis 2,0 m als Sicherheitsglas
+Fensterleibungstiefe innen größer 20 cm, sonst Sicherheitsverglasung erforderlich.
+
+‚Absturzhöhe It. UKS von 1,00 m ( z. B. 80 cm Höhe + 20 cm Brüstung) beachten (gemessene
+ab letzter besteigbarer Stelle) - TRAV ist zwingend zu beachten (absturzsichere Bauweise)
+
+Bedienbarkeit / Reinigung der Fenster für Personal und Reinigung muss vor Beauftragung
+
+nachgewiesen werden.
+
+Bauelemente immer mit Fehlbedienungssperre ausrüsten
+Fensterbeschlag in abschließbarer Ausführung (projektabhängig Abstimmung mit SVA)
+Griffe/Oliven nicht in Kunststoff
+Einbruchschutz der Elemente durch WK II — Qualität (mit VdS-Zulassung bzw. in Anlehnung!)
+
+in zugängigen Bereichen des Keller- und Erdgeschosses herstellen
+
+Weitere Anforderung an Einbruchschutz projektabhängig, Basis Stellungnahme Kriminalpolizei
+Prävention / Zentrale Dienste, FD Prävention, Kriminalpolizeiliche Beratungsstelle
+anzuberaumen. Diese Beratungsstelle erstellt daraufhin eine Empfehlung zu baulich —
+technischen Sicherungsmaßnahmen zu dem konkreten Objekt. Umfang der Ausführung (pro-
+
+jektabhängig Abstimmung mit SVA)
+
+‚Ablaufrinnen ggf. Sauberlaufgitter vor bodentiefen Fenstern und Türen (Terrasse - und
+Eingangstüren)
+Nachtlüftung - Ausstattung vorzugsweise mit Nachtlüftungsflügel, automatische Steuerung
+erforderlich
+
+KOMMUNALER SCHULBAU TEIL 1 HOCHBAU
+STESAD GmbH
+/ Renk
+
+Version 0.3.3
+
+13.06.2013
+
+Seite
+
+l
+
+STESADE*
+SONNENSCHUTZANLAGEN :
+
+| =
+.
+
+WIR ENTWICKELN DRESDEN
+Sonnenschutzanlagen prinzipiell an Fassaden in Ost-, West- und Südausrichtung
+
+prinzipiell Einbau der Verschattungsanlage (außen)
+vorzugsweise elektrischer Antrieb
+Raum- und Zentralsteuerung, wobei Priorität Raumsteuerung, diese mit Schlüsselschalter
+
+an Türen innerhalb von Flucht- und Rettungswegen keine außenliegenden Jalousieanlagen
+generell Installation von Sonnen, Sturm und Windwächtern
+VERDUNKLUNG :
+
+.
+
+BLENDSCHUTZ:
+
+"
+
+Einbau nur in Fachkabinetten, nach Abstimmung mit Nutzer
+‚Antrieb vorzugsweise elektrisch
+meist 3 -4 Fenster vorhanden. Das Fenster im Bereich des Lehrers sollte separat schaltbar
+sein bei Vollverdunklung. Alles über Schlüsselschalter
+Erforderlich in Bereichen Computerbetrieb, Fachkabinette Computer
+
+vorzugsweise innenliegend
+manueller Betrieb
+
+Planung in Abstimmung mit Trockenbau/ Unterhangdecken
+
+SCHLIESSANLAGE:
+
+.
+
+Aufzugsanlagen: integriert in Schließanlage, projektspezifisch abzustimmen
+Einsatz mechanischer Profildoppel- bzw. Halbzylinder
+Innentüren: Zylinder mit Doppelprofil (längs / quer) und Stiftsystem in erforderlicher Länge
+‚Außentüren und sicherheitsrelevante Zugangstüren: Ausstattung mit An- und Aufbohrschutz,
+Kernziehsperre, Abtastsicherung, Kopierschutz, Transpondersystem
+Lieferung ausreichende Anzahl Reservezylinder ca. 1 Zylinder je Schließgruppe
+Garantierte Nachlieferung für Ersatzschlüssel bzw. Erweiterung der Anlage bis 20 Jahre ab
+Erstlieferung
+Lieferung Schlüsselkasten
+
+Einsatz von Transpondersystemen mit Batteriebetrieb im Schlüssel und zylinderbasierte
+Systemsoftware zur Programmierung mit ausschreiben!
+Grundlage bildet der mit dem Nutzer und SVA abgestimmte Schließplan
+
+Schließplan unter Einbeziehung aller schließbaren Türen und Tore im Außenbereich
+(Gerätehäuser, Mülllagerplätze, Zugangs- und Wirtschaftstore etc.)
+Fremdnutzungen (Aula, Mehrzwecksaal, Sporthalle) müssen vom Schulgebäude separat
+erfolgen werden können
+STAHL/
+
+D
+
+vorzugsweise runde Handläufe
+
+SCHLOSSER:
+
+.
+
+Schraubverbindungen möglichst flächenbündig, sonst Abdeckung mit Hutmuttern
+keine freien Handlaufenden
+Beachtung GUV- Hinweise
+
+Vordächer über Eingängen Notwendigkeit prüfen!
+‚Absturzsicherung Höhe 1,10 m gem.
+
+TROCKENBAU /
+AKUSTIK:
+
+B
+i
+
+Schulbaurichtlinie
+
+Qualität der Gipskartonoberflächen analog Putzoberflächen Standard: Qualitätsstufe „Q 2"
+Montage von Revisionsöffnungen in Gipskartonoberflächen verschließbar im Bereich bis 2,20
+m Höhe
+Ausbildung Wand- und Deckenanschlussfugen mit Acryl, sonstige Fugen immer mit
+
+entsprechendem Fugenprofil
+
+Die Reduzierung der Nachhallzeiten mit dem Ziel der besseren Sprachverständlichkeit und
+dem Schutz der Arbeitnehmer ist zu berücksichtigen. Der Einsatz von schallabsorbierenden
+Decken (z.B. Akustiklochdecken) ist vorzusehen
+
+keine Verwendung von Akustiksegeln (Gefahr der Verschmutzung)
+
+INNENTÜREN:
+
+.
+
+‚Ausführung Türblatt immer als Vollspanblatt
+
+‚Ausführung Türzarge vorzugsweise als Umfassungszarge, bei Stahlzargen immer geschweißt
+grundsätzlicher Einbau Türbänder in schwerer Objektausführung
+Oberflächen glatt mit Rundkante (min. 2mm Radius — Forderung der Unfallkasse)
+
+Griffe/Garnituren nicht in Kunststoff, Griffende gebogen (Vermeidung des „Einfädelns“)
+notwendige Lüftungsgitter in Metallausführung, nicht in Kunststoff
+Türbereiche immer schwellenfrei
+
+Brand- und Rauchschutztüren in Fluren und Treppenräumen vorzugsweise geöffnet mit
+KOMMUNALER SCHULBAU TEIL 1 HOC
+STESAD GmbH
+/ Renk
+
+AU
+
+Version 0.3.3
+
+Seite 6
+
+STESADESue
+
+=
+BODENBELAG:
+
+ce
+
+WIR ENTWICKELN DRESDEN
+
+Türfeststellanlagen bzw. ausgestattet mit integrierter Freilauffunktion
+
+Durchlaufschutz (Markierung) bei Ganzglasflächen
+
+"
+
+kein Einsatz von Laminatböden
+
+"
+
+Einsatz standardmäßig Linoleum und Kautschuk
+
+® _ Sockelleiste vorzugsweise in Holz, oberflächenbehandelt, Höhe mindestens 6,0 cm, sichtbar
+
+=
+=
+
+FLIESEN:
+
+an sämtlichen Außenzugängen ausreichende Sauberlaufzonen anordnen
+Parketiflächen: kein Einsatz Parkett,
+
+"
+
+Einbau Parkett projektabhängig in Aula oder Mehrzwecksaal möglich, kein Einsatz von
+Industrieparkett/Hochkantlamellen
+
+=
+"
+
+_Boden- und Wandverfliesungen vorzugsweise in Sanitär- und Küchenbereichen
+bei Bodenfliesen Einsatz unter Beachtung der erforderlichen Klassifizierung zur
+Rutschsicherheit
+
+=
+=
+MALERARBEITEN:
+
+verschraubt, (projektabhängig Abstimmung mit SVA / Ausstattung erforderlich)
+
+Ausführung mit Außeneckprofilen, Material Edelstahl oder Alu
+Sockelausführung immer mit Kehlsockeiliese (Sanitärbereiche)
+
+=
+
+Einsatz von Farbtönen mit Hellbezugswert 90 für Decken bzw. 70 für Wände als Richtwert
+
+"
+
+Ausbildung abwaschbarer Oberflächen in Sockelhöhe bis 1,20 m über OKFF für sämtliche
+Unterrichtsbereiche und Verkehrsflächen
+
+=
+=
+=
+
+=
+
+keine Realisierung von Ölsockeln
+P
+auf Betonflächen statt deckender Farbbeschichtung alternativ Einsatz von Lasuren (auch
+pigmentiert) möglich
+
+Betonbodenflächen (Technikbereiche) ohne weitere Fußbodenbelegung mit staubbindenden
+
+Fußbodenanstrich versehen
+
+Fugenausbildung in der Regel geschlossen, Sicht- und Schattenfugen in Einzelfällen möglich
+
+KOMMUNALER SCHULBAU TEIL 1 HOCHBAU
+AD GmbH / Renk
+
+Version 0.3.3
+
+Seite 7
+
+STESADEwir ENTWICKELN DRESDEN
+
+4
+
+KG 300 NEUBAU
+
+SPORTHALLEN
+
+KG 300
+ALLGEMEIN:
+
+Es gelten im Wesentlichen die Ausführungshinweise wie Neubau Schulgebäude für die
+Nebenräume der Sporthallen
+
+Zusätzlich gelten folgende Hinweise zur Ausführung
+PLANUNGSHINWEISE:
+
+Beachtung relevanter Punkte bei Sporthalle als Versammlungsstätte (Lüftung,
+Rettungswege etc.) (projektabhängig Abstimmung mit SVA)
+
+Planung und Linierung für Sportarten Hand-, Volley-, Basketball und Badminton
+Umfang der Fremdnutzung mit entsprechender Ausstattung sowie Tribüne und
+Schutznetze ist (projektabhängig Abstimmung mit SVA)
+
+‚Anordnung der Umkleideräume an der Längswand, Sportlehrerzimmer mit
+Sichtverbindung zur Halle
+Geräteräume mit Tiefe von mindestens 6,00 m
+Trennvorhänge (Sichtschutz, geschlossen doppelschalig, keine Netze)
+Standard- Sportgeräte (fest eingebaut): Kletterstangen, Gitterleiter, Klettertaue,
+Doppelsprossenwände, Einbau mit Zielsetzung allseitig geschlossene
+Prallwandkonstruktion vorzugsweise Einbau der Sportgeräte hinter der Prallwand in der
+Ebene Unterkonstruktion (Vorzug gegenüber hochziehbaren Geräten)
+In LPh 3 ist ein Stellplan für Geräteräume (projektabhängig Abstimmung mit SVA) zu
+erarbeiten (Architekt), wird Bestandteil der Revisionsunterlagen.
+Spannhaken für Spanngeräte integriert in Sportboden
+Prallwandsystem: Einbausituation muss durch zugelassene Prüfzertifikat gedeckt sein
+Planung der Hülsenfundamente in Abstimmung mit Sportgerätebauer und SVA
+ROHBAU:
+
+Fundamente für Hülseneinbau berücksichtigen, Abstimmung mit SVA / Ausstattungsplaner
+
+AUSBAU SPORTHALLE :
+
+Einbau von Unterhangdecken ballwurfsicher, möglichst ohne erforderliche Revision
+Ballwurfsichere Ausführung aller Einrichtungsgegenstände in der TH
+‚Anordnung von Akustikelementen im Decken- und / oder Wandbereich (Vermeidung oder
+hoch Ballwurfsichere Ausführung hinter Torbereichen)
+Prüfung der erforderlichen Deckenhöhen (Sportarten) auch für Trennwand-Parkpositionen
+oder hochklappbare Sportgeräte
+Prallwand umlaufend, Höhe mindestens 2,00 m, allseitig kraftabbauend
+Verkleidung der Prallwand verschraubt, Fugenabstand Bretter max. 5$ mm,
+
+bei Fenstereinbau immer VSG-Verglasung in erforderlicher Dicke (ggf. Zustimmung im
+Einzelfall erforderlich)
+Fluchtwegschilder möglichst in Prallwand integriert, ballwurfsichere Ausführung
+
+Türen innerhalb der Prallwand mit komplett verdeckten Beschlägen (z. B. Bodendrehlager)
+
+und eingelassenen wandbündigen Türgamnituren
+
+‚Schlüsselschalter etc. in Prallwand sichtbar integriert (Hinweisschild)
+
+kein Einsatz von Faserdämmstoffen im Prallwandkonstruktion
+Steckdosen (je Hallenteil mind. 2 Steckdosen, (projektabhängig Abstimmung mit SVA)
+
+etc. in Prallwand integriert
+
+ballwurfsichere Hausalarmmelder zur Verhinderung von unbeabsichtigten Auslösen des
+Hausalarms durch z.B. Ballwurf
+FENSTER /
+AUSSENTÜREN:
+
+Verschattungseinrichtung, außenliegend
+
+FLIESEN / NATURSTEIN:
+
+Wandfliesenbereiche soweit möglich reduziert, Höhen in Duschen 2,00 m
+
+Sicherstellung der Blendfreiheit gem. Arbeitsschutzgesetz, ggf in Kombination mit
+
+KOMMUNALER SCHULBAU TEIL 1 HOCHBAU
+STESAD GmbH / Renk
+
+Version 0.3.3
+
+13.06.2013
+
+Seite 8
+
+|
+
+STESADE_WIR ENTWICKELN DRESDEN
+BODEN:
+
+Sportboden flächenelastisch, geeignet für Einbau Fußbodenheizung
+
+Beachtung Einbaubedingungen Gerätehülsen (Fußbodenheizung, Abdichtung,
+Abdeckung)
+vorzugsweise Einsatz von Linoleumböden
+Linoleumbelag mit Nutzschichtdicke > 3,2 mm, vorzugsweise helle Tönung
+Linierungsplanung (projektabhängig in Abstimmung mit SVA) berücksichtigen
+
+AUSSTATTUNG:
+
+‚Ausstattungen der Sporthalle mit fest eingebauten Sportgeräten über Bau
+‚Ausstattung TH: Garderobenbänke für Umkleiden über Bau
+‚Ausstattungen der Sporthalle mit mobilen Sportgeräten über Schulverwaltungsamt
+frühzeitige Abstimmung zwischen Architekten und Ausstattungsplanung/SVA
+Seilverspannungen für Reck mit ausreichend großer Abdeckung versehen
+
+THEMA:
+
+KON MUNALER SCHULBAU TEIL 1 HOCHBAU
+STESAD GmbH
+/ Renk
+
+Version 0.3.3
+
+13.06.2013
+
+Seite 9
+
+STESADE:
+6
+
+KG 500 NEUBAU AUSSEN- und SPORTANLAGEN
+
+WIR ENTWICKELN DRESDEN
+
+KG 500
+ALLGEMEIN:
+
+=
+
+®
+
+Koordination der Schlüsseltresore (Feuerwehr)
+
+frei zugängige Montage Briefkastenanlage in erforderlicher Größe immer geeignet für A3C3-Briefe und wasserdicht)
+
+"vorzugsweise Verschattung im Außenbereich mit (Bestands-) Bäumen
+® keine Einordnung von Biotopen
+= _ Matschplätze sind Bestandteil Spielgeräte (Abstimmung erforderlich)
+=
+Schulgarten und Klassenzimmer im Freien (projektabhängig Abstimmung mit SVA)
+
+BAUM-PFLANZUNGEN: | =
+
+Baumplaketten gefällter Bäume sind dem AG zu übergeben
+
+" _ Neupflanzungen/Umpflanzungen sind mit fortlaufender Nr. zu plakettieren > AN hat dem
+AG mitzuteilen:
+
+=
+
+Gattung, Art, Sorte
+
+=
+
+Mitteilung des Pflanzjahres
+
+®
+
+Feststellung des Stammumfanges in im Stammhöhe gemessen
+
+=
+
+Feststellung der Baumhöhe
+
+=
+
+Feststellung des Kronendurchmessers
+
+=
+
+Objektbezeichnung
+
+® _ Aufmessung der Standorte (nach Möglichkeit in digitaler Form)
+
+PFLANZUNGEN:
+
+= _ keine Arten mit teilweise giftigen bzw. schwach giftigen Pflanzenteilen (gemäß DIN 18034 '
+=
+=
+
+und GUV 29.15)
+
+Pflanzenanzahl und Artenzusammensetzung gemäß Planungshilfen
+Vermeidung von Formschnitthecken und pflegeintensiver Staudenflächen wegen hoher
+Pflegekosten
+
+SCHLIESSPLAN:
+
+=
+
+ÜBERGANGSZONEN
+
+" _ Oberflächenwasserführung in Bereichen von Eingängen eindeutig klären, Rinnen,
+
+ZUM GEBÄUDE:
+
+Schließplan unter Einbeziehung aller schließbaren Türen und Tore im Außenbereiche
+(Gerätehäuser, Mülllagerplätze, Zugangs- und Wirtschaftstore etc.) Zuarbeit Schließplan
+an Architekt
+Gitterrostanlagen etc.
+
+" _ Spritzwasserstreifen nicht mit Flusskiesel (Wurfgeschosse für Kinder)
+" _ Traufstreifen mit Platten vorsehen
+
+=
+
+AUSSTATTUNG:
+
+Fassadenrinnen, Sauberlaufgitter vor bodentiefen Fenstern und Türen (Terrasse - und
+Eingangstüren)
+
+" _ projektabhängig, Abstimmung mit Schulleitung und SVA: Ausreichende Anzahl von
+Fahrradständern vorsehen (Ausführung Edelstahlrohr gebogen)
+" _ Einbauteile (Bänke, Fahrradständer, Poller, Maste etc.) vorzugsweise in Stahl,
+"
+
+Realisierung baulicher Sichtschutz für Müllplatz sowie Unterstellmöglichkeit für
+Werkzeuge, Geräte, Kleinfahrzeuge, Abstimmung mit Hausmeister erforderlich
+" _ Unterstellmöglichkeiten mit Ausstattung (Strom, ggf. Starkstrom, Beleuchtung, auch
+Wegbeleuchtung und Wasser) projektabhängig Abstimmung mit SVA und Hausmeister
+
+=
+=
+
+EINFRIEDUNGEN:
+
+Aufenthaltsbereiche und Sitzbereiche vandalismussicher und wartungsarm ausführen
+Bau, Betrieb und Finanzierung der Spielgeräte in (projektabhängig Abstimmung mit SVA)
+
+= Einfriedungen möglichst in Stahl (Material S 235 feuerverzinkt, Oberfläche ggf. deckend
+"
+®
+
+beschichtet, kein Maschendrahtzaun)
+im Bereich von Kfz-Stellplätzen keine Pollerleuchten — bzw. Schutz durch Ausbildung von
+
+Hochborden
+
+Türen und Tore bevorzugt
+mit mechanischer Betätigung
+
+AMUNALER SCHULBAU TEIL 1 HOCHBAU
+STESAD GmbH / Renk
+
+Version 0.3.3
+
+13.06.2013
+
+STESADEMIR
+
+BEFESTIGTE FLÄCHEN:
+
+ENTWICKELN DRESDEN
+
+Nur in Nebenflächen oder untergeordneten Flächen Oberflächenbefestigungen als
+
+wassergebundene Decke sowie als Ökopflaster mit großen Öffnungen bzw. Aussparungen
+®
+
+bevorzugter Einbau von Entwässerungsrinnen mit Rahmen und Rosten aus Gusseisen
+bzw. verzinktem Stahl
+
+=
+
+Abgrenzungen befestigter Flächen durch bündig eingebaute Kanten- und Rabattensteine
+
+mit gerundeter Oberseite
+
+" _ Befahrbarkeit / Belastungsklassen der Beläge und Untergründe abstimmen (Zulieferer,
+Caterer, Müll, Feuerwehr, Sonderveranstaltungen der Schule.
+= _ Feuerwehrzufahrten sind sicherzustellen
+
+PFLEGEZUGÄNGE /
+TORE (AUCH ZU
+SPORTFLÄCHEN):
+
+PLANUNTERLAGEN /
+ABNAHME:
+
+=
+
+Mindestbreite 2,20 m
+
+" _ Mindesthöhe 2,50 m
+"
+Baumbestand sollte mit Steiger zur Gewährleistung der Verkehrssichheit erreichbar sein
+
+®
+
+nach Fertigstellung Übergabe eines Planes mit Flächenaufmaß an AG (nach Möglichkeit
+
+im dxf oder shp Format)
+
+=
+
+Abstimmung Planung in LPh 3 mit Amt 67 über SVA
+
+=
+
+Einladung Amt 67 (Stadtgrün und Abfallwirtschaft) zur Abnahme und nach Ende
+Fertigstellungspflege
+
+BAUMBESTAND IM
+
+=
+
+um Durchwurzelung der Kunststoffflächen (Spielfeld, Laufbahn) auszuschließen ist ein
+
+BEREICH VON
+KUNSTSTOFFFLÄCHEN:
+
+=
+
+Schutz der Kunststoffflächen z.B. bei Neupflanzung sollte zusätzlich an der Baumscheibe
+ein Belüftungssystem eingebaut werden, damit die Wurzelentwicklung von den
+Kunstestoffflächen abgelenkt werden kann
+
+®
+
+Abstimmung der Schnittstellen zur Haustechnikplanung (z. B. Bewässerung, Beleuchtung,
+
+TECHN.
+INSTALLATIONEN:
+
+entsprechend geeigneter Durchwurzelungsschutz einzubauen
+
+Blitzschutz, Tiefbau etc. )
+
+SPORTFREIFLÄCHEN:
+
+Laufbahnen: Kunststoff Ausführung Farbe rot
+
+= _ Weitsprungbahn: Kunststoff Ausführung Farbe rot
+=
+
+KOMMUNALER
+STESAD GmbH /F
+
+Sprunggrubenabdeckung einplanen
+
+=
+
+Begrenzungssteine mit Gummikante
+
+=
+
+Ausführung Sportplatz Standard:
+
+mit SVA)
+
+{ULBAU TEIL 1 HOCHBAU
+nk
+
+rot, Größe und Einfriedung (projektabhängig Abstimmung
+
+Version 0.3.3 13.06.2013
+
+Seite 11
+
+STESADEwir ENTWICKELN DRESDEN
+
+7
+
+KG 300 SANIERUNG SCHULGEBÄUDE
+KG 300
+ALLGEMEINE
+VORUNTERSUCHUNGEN:
+
+Vorab sind grundsätzliche Überlegungen am Projektanfang, d.h. in den
+Leistungsphasen 1 und 2 notwendig, deren negative Beantwortung dazu führen
+kann, das das gesamte Projekt nicht wirtschaftlich zu lösen ist und aufgegeben,
+
+bzw. noch rechtzeitig beendet werden muss, um hohe planerische und bauliche
+
+‚Aufwendungen zu vermeiden.
+
+Im Allgemeinen werden mehr als 75% der Gesamtbaukosten eines
+vergleichbaren Neubaus für die Sanierung als wirtschaftlich nicht mehr vertretbar
+
+angesehen.
+
+Grundsätzlich ist bei der Umnutzung von Altbauten zu prüfen, ob die geplante
+Nutzung in ihren räumlich -funktionellen Anforderungen der Struktur der
+vorhandenen Altbausubstanz entspricht.ggf. kann ein vorgezogene Prüfung der
+Umsetzung der Raumprogrammforderungen erforderlich sein ( LPh 0)
+Erweiterungen, Nutzungsänderungen oder statische Veränderungen in einem
+Bestandsgebäude führen im Allgemeinen zu einem Erlöschen des
+Bestandsschutzes und bedingen ein neues Baugenehmigungsverfahren mit der
+Konsequenz der Einhaltung aktueller baurechtlicher und energetischer
+Vorschriften und damit verbundener hoher baulicher Aufwendungen und Kosten.
+In diesem Zusammenhang spielen Fragen der Leistungsfähigkeit des
+
+vorhandenen Erschließungssystems und der Bemessung der Zufahrten zum
+
+Baugrundstück eine ganz wesentliche Rolle.
+In diesem Zusammenhang ist frühzeitig der Kontakt zum Stadtplanungsamt
+herzustellen, um zu klären, inwieweit im Falle einer Nutzungsänderungen und
+Erweiterungen städtebauliche Belange tangiert werden und ob überhaupt noch
+Baurecht am bisherigen Standort besteht.
+Inwieweit Fragen des Denkmalschutzes und des Umgebungsschutzes eine Rolle
+spielen, muss frühzeitig an Hand bestehender Unterlagen bzw. im rechtzeitigen
+
+Kontakt mit den entsprechenden Behörden geklärt werden.
+
+Es ist zu prüfen, ob die aus der neuen Nutzung resultierenden
+Flächenforderungen an einzelne Funktionsbereiche im Rahmen der
+Tragkonstruktion der Altbausubstanz überhaupt ohne aufwändige konstruktive
+
+Umbauten zu leisten sind. So führt es z.B. zu ganz erheblichen Mehrkosten,
+wenn vorhandene Wandstrukturen großflächig in Stützenstrukturen aufgelöst
+werden. Durch eine optimierte räumlich-funktionelle Lösung kann diesem Konflikt
+
+begegnet werden.
+
+PLANUNGSHINWEISE:
+
+Grundlage bilden die Standardfestlegungen für Neubauten. Ergänzend erfolgt
+hier eine Auflistung für Gebäude im Bestand mit Kurzbeschreibung der
+bautechnischen Sachverhalte, für die sinnvoll weiterführende
+Standardfestlegungen getroffen werden können. Die Belange des
+Denkmalschutzes sind jeweils objektspezifisch einzubeziehen.
+Vorhandene Baukonstruktionen sind im Allgemeinen nach anderen baulichen
+
+‚Normen als den aktuell geltenden ausgelegt. Es ist deshalb frühzeitig zu prüfen,
+
+ob sie überhaupt den aktuellen Anforderungen an deren Tragfähigkeit genügen,
+
+bzw. mit vertretbarem Aufwand verbessert werden können.
+‚Aktuelle Brandschutzanforderungen führen in den meisten Fällen zur
+Notwendigkeit, vorhandene Konstruktionen aufwändig zu ertüchtigen. In diesem
+Zusammenhang spielt die rechtzeitige Erarbeitung eines mit allen Fachplanern
+abgestimmten Brandschutzkonzeptes eine wesentliche Rolle. Dabei sollten
+weitgehende Möglichkeiten der Kompensation brandschutztechnischer
+Forderungen durch abgestimmte bautechnische und organisatorische
+Maßnahmen und entsprechende Auslegung des Entwurfs genutzt werden, um
+die Kosten in Grenzen zu halten. Vollsprinklerungen ganzer Funktionsbereiche
+können zwar diese Probleme lösen, sind aber im Allgemeinen aus
+
+Kostengründen abzulehnen.
+
+Bei der Sanierung von Bestandsgebäuden ist im Allgemeinen damit zu rechnen,
+
+dass die gesamte haustechnische Anlage erneuert werden muss. In diesem
+
+Zusammenhang muss aktuellen energiewirtschaftlichen Forderungen Rechnung
+getragen werden.
+Bei der Verbesserung des Wärmeschutzes der vorhandenen Wand -und
+Dachkonstruktionen ist zu prüfen, inwieweit Belange des Denkmalschutzes die
+Möglichkeiten der energetischen Verbesserung eines Bestandsgebäudes
+
+beeinflussen.
+
+Je nach Bautyp und Entstehungszeitraum der Bestandsbaukörper ist eine
+dezidierte Schadstoffuntersuchung und abfallrechtliche Klassifizierung der
+
+KOMMUNALER SCHULBAU TEIL 1 HOCHBAU Version 0.3 13.06.2013
+ESAD GmbH /Renk
+
+STESADE*
+WIR ENTWICKELN DRESDEN
+verbauten Materialien des Bestandes erforderlich
+Sind Holztragwerke im Bestand vorhanden ist ein Holzschutzgutachten zur
+Bewertung des Bestandes erforderlich
+
+Alle von den gültigen Sicherheitsnormen abweichende Lösungen (z.B. Auflagen
+Denkmalschutz, Bestandssituation) bedürfen bei geplantem Erhalt der
+Vorabstimmung mit dem SVA/Nutzer/GUV/Bauaufsicht/Feuerwehr
+
+‚Arbeitssicherheit etc.
+AUSBAUHINWEISE
+KELLERGESCHOSS:
+
+grundsätzlich vertikale Abdichtung der Kelleraußenwände gemäß zutreffendem
+Lastfall DIN 18195
+Einbau zertifizierter Wanddurchführungen für Medien ebenfalls angepasst an
+Lastfall
+
+immer Einbau von Noppenbahn mit Gleitfolie und Filtervlieskaschierung als
+vertikale Drainage- und Schutzschicht im ungedämmten Bereich (hier auch
+
+oberer Abschluss mit Kappleiste aus Kunststoff) sowie als Entkoppelung vor
+
+Perimeterdämmung bei gedämmten Kellerbereichen
+vorzugsweise keine nachträgliche horizontale Abdichtung der bestehenden
+
+Kelleraußenwände bei entsprechender Beachtung der Raumnutzungen,
+
+Gefahrenabschätzung erforderlich (projektabhängig in Abstimmung mit SVA)
+
+Stahlträgerkonstruktionen im Bestand (z. B. Flansche von Kappendecken)
+
+immer mit fachgerechtem Korrosions- und Brandschutz versehen
+
+‚generell Erneuerung der Grundleitungen innerhalb des Gebäudes, Verlegung
+wenn möglich im Kellerdeckenbereich anstatt im Fußboden
+für Räume ohne Aufenthaltsfunktion:
+
+>
+
+ggf. schadhaften Wandputz entfernen, nur Fugenverschluss des
+
+Mauerwerkes, wo notwendig staubgebundene Oberflächen herstellen
+
+» _ Deckenputz nur abkehren, partiell ausbessern
+
+>
+
+_Fensterebene immer mit Beiputz als Sanierputzsystem, im
+
+Fensterbankbereich abgeschrägter Betonglattstrich
+
+»
+Elektroinstallation Auf-Putz (graues Kunststoffrohr / Kabelpritsche)
+für Räume mit Aufenthaltsfunktion:
+>»
+Wand- und Deckenputz bei Erfordernis als Sanierputz, hell
+
+>
+
+Fußboden Überarbeitung zur Sicherstellung der Nutzungsqualität
+
+NORMALGESCHOSSE:
+
+Wenn keine Außendämmung möglich ist: Bekleidung von Fenster- und
+Türleibungen im Außenwandbereich mit Kalziumsilikatplatten in größtmöglicher
+bzw. berechneter Dicke zur Vermeidung von Wärmebrücken
+
+DACHBODEN:
+
+‚Abbruch alter, nicht mehr benötigter Schornsteine mindestens bis unter
+Dachhaut, ggf. bis auf Fußbodenniveau Dachboden, fachgerechte Verschluss
+der Schornsteine
+nicht genutzte Dachräume mit Dämmauflage nach Forderung ENEV
+
+erforderliche Dampfsperre projektabhängig, vorzugsweise unter Geschossdecke
+
+optimierter Laufsteg mit Dielung zu Revisions- und Lagerflächen
+
+DECKEN- UND
+FUSSBODENKONSTRUKTIONEN:
+
+Regelfall massive Kellerdecke (Kappen, Betonelemente auf Stahlträger etc.): Dielung und Lagerhölzer entfernen, Füllung bis auf definierte Höhe ausbauen,
+neuer Fußbodenaufbau mit Leichtbeton als Unterbeton, Wärme- und
+Trittschalldämmung in erforderlicher Qualität und Stärke sowie Zementestrich
+Erstellung eines Holzschutzgutachtens für vorhandene Holzbalkendecken
+bei wesentlichen Holzschäden (z. B. Echter Hausschwamm) vorzugsweise
+raumweiser Ersatz der Deckentragkonstruktion in Massivbauweise
+Holzbalkendecken mit Dielung - neuer Fußbodenaufbau mit zugelassenen
+‚Ausgleich, Trittschalldämmung in erforderlicher Qualität und Stärke sowie
+Gussasphaltestrich
+
+Verschluss von geöffneten Bereichen in Holzbalkendecken in Anlehnung an den
+originalen Deckenaufbau, mit Wiedereinbau Einschubbrett, Einbringen von
+Darrsand als Deckeneinschub, ggf. Direktbeplankung von Gipskarton an der
+Deckenunterseite
+
+als adäquater
+
+Ersatz für Putz und
+
+Putzträger
+
+Verschluss von Deckenöffnungen nach haustechnischen Installationen unter
+Beachtung des erforderlichen Brand- und Wärmeschutzes durch Einbau von
+feinkörnigem Beton in der Rohdeckenstärke um die isolierten Rohrleitungen
+herum. Einbau von Widerhaken / Leistung für Halt des Betons
+
+AUNALER SCHULBAU TEIL 1 HOCHBAU
+AD GmbH / Renk
+
+Version 0.3.3
+
+13.06.2013
+
+|
+
+STESADEWIR ENTWICKELN DRESDEN
+DACH:
+
+grundsätzlich Erstellung eines Holzschutzgutachtens für vorhandene
+Dachkonstruktionshölzer
+notwendige Wechsel von Konstruktionshölzern in Schadensbereichen immer mit
+zugelassenem Holzschutzmitteln behandeln — mindestens trog-, besser
+
+kesseldruckimprägniert
+
+Prüfung Erfordernis: vorbeugende chemische Behandlung des sanierten
+Dachstuhles gegen Insekten- und Pilzbefall im Spritz- oder Streichverfahren mit
+
+zugelassenen Verfahren
+
+Dacheindeckung grundlegend immer komplett erneuern, bei Einschränkungen
+
+aus Kostengründen zumindest vollständige Neueindeckung in sich
+
+geschlossener Teilflächen (z. B. komplette Dachseiten, jeweils bis einschließlich
+Kehle oder Grat)
+keine Verwendung von Betondachsteinen und Bitumenschindeln als
+
+Deckungsmaterial
+
+bei Eindeckungen in Ziegel, Dachstein, Pfanne etc. generell Sturmsicherung
+
+durch Verklammerung bzw. Verschraubung
+
+vorzugsweise Abbruch und Entsorgung von Ausmauerungen in Sparrenfeldern /
+Dachschrägen, anschließend Dämmung mit mineralischem Dämmstoff
+
+SANDSTEIN / PUTZSTUCK:
+
+Bei größeren Schäden oder starken Verwitterungen Fassadengutachten mit
+Schadenskartierung und Maßnahmenfestlegung anfertigen
+Sandstein- und Putzstuckelemente immer schonend reinigen (Handschliff, JOSNiederdruck-Rotationswirbel-Verfahren) und sanieren
+Empfehlung: Fehl- bzw. Schadstellen bis ca. 2,5 cm? belassen
+Empfehlung: Fehl- bzw. Schadstellen bis ca. 10 cm? mit Restauriermörtel
+
+reprofilieren
+
+Empfehlung: Fehl- bzw. Schadstellen größer ca. 10 cm? mit Vierungen aussetzen
+
+Ergänzung von Sandsteingewänden bei Veränderung von Fassadenöffnungen,
+
+Material in Profilierung, Farbe, Struktur, Härte und Querschnitt dem vorhandenen
+
+Material angepasst
+Verblechungen von Fensterbänken nur mit geeigneter Befestigung, bei
+Schraubung/Dübelung: Keine Spreizdübel im Randbereich (Vorsicht
+‚Abplatzungen)
+
+vorhandenen Altputz wenn möglich erhalten (Prüfung auf Hohllagen, Risse,
+
+Salzbelastung und sonstige Schädigungen) und entsprechend fachgerecht
+überarbeiten
+Eck-, Kantenschutzprofile usw. in korrosionsgeschützter Ausführung (nach der
+Fertigstellung des Oberputzes dürfen keine Schienen mehr sichtbar sein!)
+
+‚Anstriche ausschließlich mit Silikatfarben, hochdiffusionsfähig, algen- und
+pilzresistent, wasserabweisend und lichtbeständig
+
+helle Farbtöne verwenden, zur Vermeidung starker Aufheizung / Spannungen in
+
+Putzlagen
+
+Farbauftrag stets mit Rolle oder Bürste
+
+bei Klinkerfassaden Nach- bzw. Neuverfugung immer mit Fugenrücklage
+GELÄNDER, HANDLÄUFE,
+ABSTURZSICHERUNGEN:
+
+Erforderliche Brüstungserhöhungen außen in Stahl S235, feuerverzinkt,
+
+Oberfläche beschichtet oder Edelstahl, als Einzel- oder Doppelreling (Rohrprofil)
+mit Verankerungen in der Fenster- bzw. Türleibung, in Abstimmung mit
+
+Unfallkasse
+
+vorzugsweise statt Austausch und Erneuerung fachgerechte Anpassung
+
+bestehender Geländer zur Erzielung normgerechter Absturzsicherungen in
+‚Abstimmung mit Unfallkasse
+Handlaufergänzungen in Stahl S235, korrosionsgeschützt, beschichtet nach
+RAL, als Rohrprofil mit geschlossenen Handlaufenden, einschließlich gebogener
+
+Handlaufhalterungen
+
+FENSTER UND AUSSENTÜREN:
+
+Ermeuerung möglichst immer komplett, bei Einschränkungen aus Kostengründen
+
+zumindest fassadenweiser Austausch der Elemente, dabei insbesondere
+Fassadenanschlussdetails beachten
+
+bei Eingangstüren Prüfung Aufarbeitung und ggf. Abstimmung mit
+Denkmalpflege
+
+Einbruchsicherheitsanforderungen prüfen (projektabhängig in Abstimmung mit
+
+VA)
+
+KOMMUNALER
+STESAD GmbH /
+
+HULBAU TEIL 1 HOCHBAU
+Renk
+
+Version 0.3.3 13.06.2013
+
+Seite 14
+
+STESADE-
+
+win entwickeun onesoen
+SONNENSCHUTZ /
+VERDUNKELUNG:
+
+INNENTÜREN:
+
+prinzipiell außenliegend
+bei denkmalgeschützten Fassaden, Abstimmung
+
+mit Denkmalschutzamt
+
+partielle Erneuerung von Innentüren möglichst geschossweise
+sollte der Nachbau von historischen Türen nicht möglich (Brandschutznachweis
+
+etc.) oder unwirtschaftlich sein, dann neue Türen mit aufgesetzten profilierten
+Verleistungen als imitierte Füllungstür und profilierte Verleistungen an
+
+Umfassungszargen herstellen
+
+MALERARBEITEN:
+
+BODENBELAGSARBEITEN:
+
+‚Anstrich prinzipiell mit Silikatfarben
+‚Anlage wesentlicher Wandflächen als Musterflächen zur Freigabe vorbereiten
+
+bei Linoleumbelegung von Stufen und Podesten in Treppenhäusern
+Vorderkanten an Trittstufen zurückgeschnitten und gefast, Wandanschluss mit
+farblich passender Abfugung aus Silikon bzw. mit scharfer Kante und
+Wandabstand
+
+Erneuerung Bodenbelag immer mit ggf. notwendiger Sanierung Untergrund (z. B.
+fachgerechter Ausgleich) und Maßnahmen für den Trittschallschutz
+
+FLIESENARBEITEN:
+
+Bei Erhalt von Fliesen (guter Zustand) oder historischen Fliesen ist der Nachweis
+der Rutschhemmung und ggf. weiterer Anforderungen zu prüfen
+
+THEMA:
+
+KON MUNALER SCHULBAU TEIL 1 HOCHBAU
+STESAD GmbH / Renk
+
+Version 0.3.3
+
+13.06.2013
+
+Seite 15
+
+STESADE:
+WIR ENTWICKELN DRESDEN
+
+8
+
+KG 300 SANIERUNG SPORTHALLEN
+KG 300
+PLANUNG :
+
+‚Aufnahme der Bestandsanlagen
+Herstellen einer Schadenskartierung bzw. Darstellung des Handlungsbedarfes um eine
+normengerechte Sporthalle sicherzustellen
+Planung von Schutzmaßnahmen für zu erhaltende Bauteile
+
+ansonsten gelten die allgemeinen Hinweise zu Kapitel 5 Neubau Sporthallen
+THEMA:
+
+KOMMUNALER SCHULBAU TEIL 1 HOCHBAU
+STESAD GmbH / Renk
+
+Version 0.3.3
+
+13.06.2013
+
+Seite 16
+
+STESADEWIR ENTWICKELN DRESDEN
+
+9
+
+KG 500 SANIERUNG AUSSEN- und SPORTANLAGEN
+KG 500
+PLANUNG:
+
+‚Aufnahme der Bestandsanlagen
+Herstellen einer Schadenskartierung bzw. Darstellung des Handlungsbedarfes, um eine
+normengerechte Außenanlage sicherzustellen
+Planung von Schutzmaßnahmen für zu erhaltende Bauteile
+für Bauteile, welche erneuert werden, gelten die Anforderungen gemäß Kapitel 6 Neubau von
+‚Außenanlagen
+
+KOMMUNALER SCHULBAU TEIL 1 HOCHBAU
+STESAD GmbH / Renk
+
+Version 0.3.3 13.06.2013
+
+Seite 17
+
+STESADEwiR ENTWICKELN DRESDEN
+
+10 ANLAGEN
+Anlage 01
+
+Energetische Standards
+
+Anlage 02
+
+Die Vorgaben und Planungshinweise zu Ausstattung (SVA, 05.11.2008)
+
+Anlage 03
+
+Die Vorgaben und Planungshinweise/Checkliste Küchenausstattung (SVA ,
+11.04.2012)
+
+Anlage 04
+
+Die Anforderungen Werken allgemein
+
+KOMMUNALER
+
+SCHULBAU
+
+STESAD GmbH / Renk
+
+TEIL
+
+1 HOCHBAU
+
+Version 0.3.3
+
+( SVA , 25.06.2013)
+
+13.06.2013
+
+Seite
+
+18
+
+

@@ -1,0 +1,5958 @@
+Haltestellen mit Fahrgastunterständen (JCDecaux) in der Landeshauptstadt Dresden
+
+Ifd. Nr. Stadtteil
+
+RKL
+
+FGU-Nr
+
+Straße
+
+Haltestelle
+
+Richtung
+
+1__|Pieschen
+2
+|Pieschen
+3
+|Dobritz
+4
+__|Dobritz
+5
+|Dobritz
+6
+|Coschütz
+7
+ICoschütz
+
+1
+
+602
+603
+232
+223
+233
+278
+279
+619
+620
+798
+792
+793
+272_1
+944_2
+970/971
+972/973
+974/975
+976/977
+435_1
+553/554
+125,1
+124_1
+26_1
+251
+684
+317
+97
+98
+207
+206
+205
+208
+
+Aachener Straße
+Aachener Straße
+Moränenende
+Pirnaer Landstraße
+Pirnaer Landstraße
+Karlsruher Straße
+Karlsruher Straße
+Boltenhagener Straße
+Boltenhagener Straße
+Karl-Marx-Straße
+Bischofsweg
+Bischofsweg
+Schlachthofstraße
+Schlachthofstraße
+Albertplatz
+_|Albertplatz
+Bautzner Straße
+Bautzner Straße
+Prohliser Allee
+[Prohliser Allee
+Leipziger Straße
+Leipziger Straße
+Freiberger Straße
+Freiberger Straße
+Lübecker Straße
+Lübecker Straße
+Altenberger Platz
+Altenberger Platz
+Altenberger Straße
+Altenberger Straße
+Schandauer Straße
+Schandauer Straße
+
+Aachener Straße
+Aachener Straße
+Abzweig nach Reick
+Abzweig nach Reick
+Abzweig nach Reick
+Achtbeeteweg
+Achtbeeteweg
+Ahlbecker Straße
+Ahlbecker Straße
+Ahlbecker Straße
+Alaunplatz
+Alaunplatz
+Alberthafen
+Alberthafen
+Albertplatz
+Albertplatz
+Albertplatz
+Albertplatz
+Albert-Wolf-Platz
+Albert-Wolf-Platz
+Alexander-Puschkin-Platz
+Alexander-Puschkin-Platz
+Alfred-Althus-Straße
+Alfred-Althus-Straße
+Altcotta
+Altcotta
+Altenberger Platz
+Altenberger Platz
+Altenberger Straße
+Altenberger Straße
+Altenberger Straße
+Altenberger Straße
+
+stadtwärts
+landwärts
+Prohlis
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+
+8
+__|Klotzsche
+9
+!Klotzsche
+10
+!Klotzsche
+11
+|Außere Neustadt
+12
+{Äußere Neustadt
+13__|Friedrichstadt
+14
+[Friedrichstadt
+15
+__|!nnere Neustadt
+16 _ |innere Neustadt
+17_
+_|Innere Neustadt
+18 _ |Innere Neustadt
+19
+__}Prohlis
+20
+}Prohlis
+21 _ jPieschen
+22
+|Pieschen
+23
+|Seevorstadt
+24
+|Seevorstadt
+25
+[Cotta
+26
+|Cotta
+27
+|Seidnitz
+28
+|Seidnitz
+29
+|Striesen
+30
+|Striesen
+31
+_}Striesen
+32
+|Tolkewitz
+
+1
+4
+1
+1
+2
+3
+
+6
+
+3
+2
+2
+1
+1
+
+1
+
+Seite 1
+
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+Carolaplatz
+Königsbrücker Str.
+Hansastraße
+Hoyerswerdaer Str.
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+Lockwitz
+Pilinitz
+Prohlis
+Pillnitz
+landwärts
+stadtwärts
+
+Ifd. Nr.|Stadtteil
+
+RKL
+
+FGU-Nr
+
+Straße
+
+Haltestelle
+
+Richtung
+
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43_
+44
+45
+
+__|Leipziger Vorstadt
+|Leipziger Vorstadt
+|Mockritz
+|Leuben
+|Leuben
+|Leubnitz-Neuostra
+|Lockwitz
+[Altstadt
+[Altstadt
+|Altstadt
+[Altstadt
+|Altstadt
+|[Naußlitz
+
+2
+
+Leipziger Straße
+Leipziger Straße
+Possendorfer Straße
+Pirnaer Landstraße
+|Pirnaer Landstraße
+Wilhelm-Franke-Straße
+Dohnaer Straße
+Wilsdruffer Straße
+Wilsdruffer Straße
+Wilsdruffer Straße
+Wilsdruffer Straße
+Wilsdruffer Straße
+Wiesbadener Straße
+
+Alter Schlachthof
+Alter Schlachthof
+Altkaitz
+Altteuben
+Altleuben
+Altleubnitz
+Altlockwitz
+Altmarkt
+Altmarkt
+Altmarkt
+Altmarkt
+Altmarkt
+Altnausslitz
+
+stadtwärts
+landwärts
+stadtwärts
+
+1
+
+126
+127
+481
+18431
+844/845_1
+647
+“
+572
+755_1
+756_1
+75711
+758_1
+7591
+302
+
+46
+
+|Gompitz
+
+4
+
+718_1
+
+Kesselsdorfer Straße
+
+Altnossener Straße
+
+stadtwärts
+
+47
+48 _
+49
+50
+51
+52
+
+|Gompitz
+|Pieschen
+|Pieschen
+_}Reick
+}Reick
+|Laubegast
+
+754
+121
+615
+507
+508
+234
+
+Kesselsdorfer Straße
+Leipziger Straße
+Leipziger Straße
+Altreick
+Altreick
+Österreicher Straße
+
+Altnossener Straße
+Altpieschen
+Altpieschen
+Altreick
+Altreick
+Alttolkewitz
+
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+
+53
+
+jMickten
+
+1
+
+614
+
+Leipziger Straße
+
+Alttrachau
+
+stadtwärts
+
+54
+55
+56
+57
+58 _
+59
+60
+61
+
+[Wachwitz
+|Gorbitz
+[Innere Neustadt
+|Briesnitz
+}Bühlau
+iBühlau
+|Seevorstadt
+|Seevorstadt
+
+1
+1
+4
+1
+4
+
+62_
+63
+64
+65
+66
+67 _
+68
+
+|Gorbitz
+|Gorbitz
+IGorbitz
+_|Mickten
+|Mickten
+|Seidnitz
+|[Seidnitz
+
+818
+300
+822
+331
+153
+154
+857
+858
+948/949
+950/951
+952/953
+434
+548
+541
+542
+
+Pillnitzer Landstraße
+Kesselsdorfer Straße
+Albertstraße
+Meissner Landstraße
+Bautzner Landstraße
+Bautzner Landstraße
+Ostra-Allee
+Ostra-Allee
+|Amalie-Dietrich-Platz
+Amalie-Dietrich-Ptatz
+|Amalie-Dietrich-Platz
+An der Flutrinne
+An der Flutrinne
+Oskar-Röder-Straße
+Oskar-Röder-Straße
+
+Altwachwitz
+Am Altfrankener Park
+Am Schwarzen Tor
+Am Urnenfeld
+Am Weißen Adler
+Am Weißen Adler
+Am Zwingerteich
+Am Zwingerteich
+Amalie-Dietrich-Platz
+Amalie-Dietrich-Platz
+Amalie-Dietrich-Platz
+An der Flutrinne
+An der Flutrinne
+An der Pferderennbahn
+An der Pferderennbahn
+
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+Wittenberger Straße
+Lohrmannstraße
+
+1
+2
+1
+1
+
+6
+
+2
+4
+1
+
+2
+
+1
+1
+4
+
+.
+
+Seite 2
+
+stadtwärts
+stadtwärts
+Postplatz
+Postplatz
+Postplatz
+Pirnaischer Platz
+Pirnaischer Platz
+landwärts
+
+Ifd. Nr.|Stadtteil
+69
+
+|Radeberger Vorstadt
+
+70
+|Radeberger Vorstadt
+71
+|Radeberger Vorstadt
+72
+_|Innere Neustadt
+73
+__|Innere Neustadt
+74 _ |Innere Neustadt
+75
+|Innere Neustadt
+76
+|Südvorstadt
+77
+1\Südvorstadt
+78
+_|Klotzsche
+79
+|Klotzsche
+80
+|Klotzsche
+81
+__|Johannstadt
+82
+|Johannstadt
+83__|Mockritz
+84
+}Mockritz
+85
+_|Friedrichstadt
+86 _ |Friedrichstadt
+87
+__|Friedrichstadt
+88 _ |Friedrichstadt
+89
+|Seevorstadt
+90
+_|Seevorstadt
+91
+_|Seevorstadt
+92 _ |Seevorstadt
+93 _ |Seevorstadt
+94
+|Seevorstadt
+95_
+[Plauen
+96
+|Südvorstadt
+97
+[innere Neustadt
+98
+[Naußlitz
+99 _ |Striesen
+100 |Striesen
+101
+|Leuben
+102_|Südvorstadt
+103 jSüdvorstadt
+
+RKL
+
+FGU-Nr
+
+Straße
+
+Haltestelle
+
+Richtung
+
+2
+
+145/146
+
+Bautzner Straße
+
+Angelikastraße
+
+landwärts
+
+144_1
+516_1
+41
+861
+419_1
+39_1
+645
+646
+648
+649
+650
+185
+186
+489
+490
+35
+660 1
+661_1
+835
+441
+30_1
+31_1
+32_1
+33 1
+43_1
+573
+574
+48
+447
+197
+581
+842_1
+355
+356
+
+Bautzner Straße
+Bautzner Straße
+Antonstraße
+Antonstraße
+Robert-Blum-Straße
+Robert-Blum-Straße 8
+Budapester Straße
+Budapester Straße
+Königsbrücker Landstraße
+Königsbrücker Landstraße
+Königsbrücker Landstraße
+Augsburger Straße
+Augsburger Straße
+Boderitzer Straße
+Boderitzer Straße
+Jahnstraße
+Jahnstraße
+Jahnstraße
+Jahnstraße
+Könneritzstraße
+Könneritzstraße
+Könneritzstraße
+Könneritzstraße
+Könneritzstraße
+Könneritzstraße
+Chemnitzer Straße
+Chemnitzer Straße
+Bautzner Straße
+'Tharandter Straße
+Schandauer Straße
+Schandauer Straße
+Pirnaer Landstraße
+Nürnberger Straße
+Nürnberger Straße
+
+Angelikastraße
+stadtwärts
+Angelikastraße
+stadtwärts
+Anton-/Leipziger Straße
+stadtwärts
+Anton-/Leipziger Straße
+landwärts
+Anton-/Leipziger Straße
+stadtwärts
+Anton-/Leipziger Straße
+landwärts
+Agentur für Arbeit
+stadtwärts
+Agentur für Arbeit
+landwärts
+Arkonastraße
+stadtwärts
+Arkonastraße
+landwärts
+Arkonastraße
+landwärts
+Augsburger Straße
+landwärts
+Augsburger Straße
+stadtwärts
+Babisnauer Straße
+stadtwärts
+Babisnauer Straße
+landwärts
+Bahnhof Mitte / Jahnstraße
+Könneritzstraße
+Bahnhof Mitte / Jahnstraße
+Weißeritzstraße
+Bahnhof Mitte / Jahnstraße
+Weißeritzstraße
+Bahnhof Mitte / Jahnstraße
+Könneritzstraße
+Bahnhof Mitte / Könneritzsrasse
+stadtwärts
+Bahnhof Mitte / Könneritzstraße
+stadtwärts
+Bahnhof Mitte / Könneritzstraße
+stadtwärts
+Bahnhof Mitte / Könneritzstraße
+landwärts
+Bahnhof Mitte / Könneritzstraße
+landwärts
+Bahnhof Mitte / Könneritzstraße
+landwärts
+Bamberger Straße
+stadtwärts
+Bamberger Straße
+landwärts
+Bautzner Straße/Rothenburger Straße Neustädter Bahnhof
+Begerburg
+stadtwärts
+Bergmannstraße
+landwärts
+Bergmannstraße
+stadtwärts
+Berholt-Haupt-Strasse
+stadtwärts
+Bernhardstraße
+Blasewitz
+Bernhardstraße
+Löbtau
+
+2
+2
+
+4
+1
+1
+1
+1
+
+2
+
+4
+2
+1
+1
+2
+1
+
+Seite 3
+
+Ifd. Nr.Stadtteil
+104
+
+RKL
+
+[Leuben
+
+105
+
+|Leuben
+
+106
+
+|Leuben
+
+107 |Leuben
+108
+_|Innere Neustadt
+109 innere Neustadt
+110 |Gorbitz
+111_|Klotzsche
+112_|Klotzsche
+113 _|Klotzsche
+114 [Leipziger Vorstadt
+115 |Trachenberge
+
+2
+
+FGU-Nr
+
+[Straße
+
+Haltestelle
+
+Richtung
+
+244 1
+
+Pirnaer Landstraße
+
+Berthold-Haupt Strasse
+
+stadtwärts
+
+866_1
+
+Pirnaer Landstraße
+
+Berthold-Haupt Strasse
+
+Berthold-Haupt-Str.
+
+2481
+
+Stephensonstraße
+
+Berthold-Haupt Strasse
+
+stadtwärts
+
+Berthold-Haupt-Straße
+Antonstraße
+|Antonstraße
+Schlehenstraße
+Zur Neuen Brücke
+Zur Neuen Brücke
+Zur Neuen Brücke
+|Hansastraße
+Trachenberger Straße
+
+Berthold-Haupt-Strasse
+Bhf Neustadt
+Bhf Neustadt
+Bhf. Gorbitz
+Bhf. Klotzsche
+Bhf. Klotzsche
+Bhf. Kiotzsche
+Bhf. Neustadt
+Bhf. Trachenberge
+
+stadtwärts
+landwärts
+Alberplatz
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+
+1
+1
+
+247
+719720
+723/724
+964
+621
+622
+626
+692/693
+474
+
+2
+
+787
+
+Bischofsplatz
+
+Bischofsplatz
+
+stadtwärts
+
+788
+158/159
+657
+838
+839
+180/181
+182
+184
+855
+863
+307
+308
+
+Bischofsplatz
+Bischofsweg
+Königsbrücker Straße
+Königsbrücker Straße
+Königsbrücker Straße
+Blasewitzer Straße
+Fetscherstraße
+Fetscherstraße
+Rennplatzstraße
+Rennplatzstraße
+Bonhosfferplatz
+Bonhosefferplatz
+Borsbergstraße
+Borsbergstraße
+Pfotenhauerstraße
+Pfotenhauerstraße
+Moränenende
+Moränenende
+Hamburger Straße
+Hamburger Straße
+Ludwig-Kossuth-Straße
+Ludwig-Kossuth-Straße
+
+Bischofsplatz
+Bischofsweg
+Bischofsweg
+Bischofsweg
+Bischofsweg
+Blasewitzer/Fetscherstraße
+Blasewitzer/Fetscherstraße
+Blasewitzer/Fetscherstraße
+Bodenbacher Straße
+Bodenbacher Straße
+Bonhoefferplatz
+Bonhoefferplatz
+Borsbergstraße
+Borsbergstraße
+Bönischplatz
+Bönischplatz
+Breitscheidstraße
+Breitscheidstraße
+Bremer Straße
+Bremer Straße
+Brunnenweg
+Brunnenweg
+
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+elbwärts
+stadtwärts
+Winterbergstraße
+Bodenbacher Straße
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+landwärts
+stadtwärts
+Prohlis
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts (Bus)
+
+6
+1
+1
+
+116
+
+|Leipziger Vorstadt
+
+117
+118
+119
+120
+121
+122
+123
+124
+
+|Leipziger Vorstadt
+[Äußere Neustadt
+|Außere Neustadt
+|Außere Neustadt
+|Außere Neustadt
+|Johannstadt
+|Johannstadt
+|Johannstadt
+
+125
+126
+
+]Seidnitz
+|Seidnitz
+
+1
+
+127 |Löbtau
+128 |Löbtau
+129 |Striesen
+130 |Striesen
+131_|Johannstadt
+132 |Johannstadt
+133_|Dobritz
+134 |Dobritz
+135_|Friedrichstadt
+136 |Friedrichstadt
+137_|Klotzsche
+138 |Klotzsche
+
+1
+
+6
+
+2
+
+3
+1
+1
+1
+1
+
+138
+587
+898
+899
+113
+114
+616
+617
+
+Seite 4
+
+landwärts
+Waldschlösschen
+
+Ifd. Nr.|Stadtteil
+139 |Seevorstadt
+140 |Seevorstadt
+141
+_|Bühlau
+142
+|Bühlau
+143
+|Löbtau
+144 jLöbtau
+145
+|Mickten
+146_|Mickten
+147 |Mickten
+148
+}Pieschen
+149
+}Pieschen
+150
+}Löbtau
+151
+iLöbtau
+152_|Strehlen
+153 |Strehlen
+154 _|Wachwitz
+155 |Wachwitz
+156_|Plauen
+157
+_|Plauen
+158 _ |Plauen
+159
+jPlauen
+160 [Mockritz
+161_|innere Neustadt
+162
+_|Innere Neustadt
+163
+
+RKL
+1
+4
+1
+
+1
+2
+4
+4
+1
+
+1
+
+1
+6
+
+FGU-Nr
+15/16
+17/18
+351
+352
+292/293
+294/295
+441
+424
+442/443
+655
+656
+455
+456
+856
+528
+410
+411
+487
+485
+486
+483
+492
+782
+783
+
+Straße
+Ammonstraße
+Ammonstraße
+Ullersdorfer Platz
+Ullersdorfer Platz
+_ |Kesselsdorfer Straße
+Kesselsdorfer Straße
+Bunsenstraße
+Lommatzscher Straße
+Lommatzscher Straße
+Bürgerstraße
+Bürgerstraße
+Pennricher Straße
+Pennricher Straße
+Cäcilienstraße
+Reicker Straße
+Pillnitzer Landstraße
+Pillnitzer Landstraße
+Plauenscher Ring
+Westendring
+Westendring
+Westendring
+Boderitzer Straße
+Albertstraße
+Albertstraße
+
+Haltestelle
+Budapester Straße
+Budapester Straße
+Bühlau
+Bühlau
+Bünaustraße
+Bünaustraße
+Bunsenstraße
+Bunsenstraße
+Bunsenstraße
+Bürgerstraße
+Bürgerstraße
+Burgkstraße
+Burgkstraße
+Cäcilienstraße
+Cäcilienstraße
+Calberlastraße
+Calberlastraße
+Cämmerswalder Straße
+Cämmerswalder Straße
+Cämmerswalder Straße
+Cämmerswalder Straße
+Campingplatz Mockritz
+Carolaplatz
+Carolaplatz
+
+Richtung
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+landwärts
+stadtwärts
+Klotzsche
+stadtwärts
+Kaditz
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+stadtwärts
+landwärts
+landwärts
+landwärts
+Alberplatz
+Alberplatz
+
+innere Neustadt
+
+770/771
+
+Köpckestraße
+
+Carolaplatz
+
+164
+|Innere Neustadt
+165 [Strehlen
+166_|Strehlen
+167 _|Strehlen
+168 |Strehlen
+169 |Cotta
+170 Cotta
+171
+|Südvorstadt
+172
+|Südvorstadt
+173 |Südvorstadt
+174 |Südvorstadt
+
+Neustädter Markt
+
+772/773
+74
+79
+698/699
+7172
+932
+933
+575
+576
+94
+96
+
+iKöpckestraße
+Caspar-David-Friedrich-Straße
+Teplitzer Straße
+_|Teplitzer Straße
+Zellescher Weg
+Pennricher Straße
+Pennricher Straße
+Budapester Straße
+Budapester Straße
+Nürnberger Straße
+Nürnberger Straße
+
+Carolaplatz
+Caspar-David-Friedrich-Straße
+Caspar-David-Friedrich-Straße
+Caspar-David-Friedrich-Straße
+Caspar-David-Friedrich-Straße
+Chamissostraße
+Chamissostraße
+Chemnitzer Straße
+Chemnitzer Straße
+Chemnitzer Straße
+Chemnitzer Straße
+
+Carolaplatz
+Blasewitz
+stadtwärts
+landwärts
+L.öbtau
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+Blasewitz
+Löbtau
+
+1
+
+1
+4
+2
+
+Seite 5
+
+ifd. Nr.|Stadtteil
+175_|Johannstadt
+176 |Johannstadt
+177 |Löbtau
+178
+|Löbtau
+179 |Strehlen
+180 |Strehlen
+181
+|Coschütz
+182 jCoschütz
+183 [Coschütz
+184
+[Plauen
+185
+|Plauen
+186
+[Friedrichstadt
+187 [Friedrichstadt
+188 |Coschütz
+189 [Gorbitz
+190 _|Pirnaische Vorstadt
+191
+}Pirnaische Vorstadt
+192
+|Radeberger Vorstadt
+193
+|Radeberger Vorstadt
+194_|Naußlitz
+195 [Naußlitz
+196 |Striesen
+197 |Striesen
+198 jKlotzsche
+199 [Klotzsche
+200 [Trachau
+201 |Trachau
+202 |Johannstadt
+203 |Seidnitz
+204 |Seidnitz
+205 |Mickten
+206 |Mickten
+207 |Mickten
+208 |Mickten
+209 |Mickten
+210 }Mickten
+
+RKL
+1
+1
+4
+1
+1
+1
+1
+4
+1
+2
+2
+1
+4
+1
+4
+2
+4
+
+2
+
+FGU-Nr
+882
+883
+312
+373
+76
+77
+277
+567
+568
+276
+423
+261_1
+262_1
+483
+675
+56/57
+58/59
+139
+140
+305
+306
+390
+391
+796
+797_1
+666
+902_1
+Eu
+853
+854
+904
+905
+987
+988
+989
+990
+
+Straße
+Stübelallee
+Stübelallee
+Rudolf-Renner-Straße
+Rudolf-Renner-Straße
+Teplitzer Straße
+Teplitzer Straße
+Karlsruher Straße
+Karlsruher Straße
+Karlsruher Straße
+Plauenscher Ring
+Plaunscher Ring
+Löbtauer Straße
+Löbtauer Straße
+Kohlenstraße
+Julius-Vahlteich-Straße
+Grunaer Straße
+Grunaer Straße
+Bautzner Straße
+Bautzner Straße
+Wiesbadener Straße
+Wiesbadener Straße
+Augsburger Straße
+Augsburger Straße
+Karl-Marx-Straße
+Karl-Marx-Straße
+Grossenhainer Straße
+Wahnsdorfer Straße
+Güntzstraße
+Enderstraße
+Enderstraße
+Lommatzscher Straße
+Lommatzscher Straße
+Lommatzscher Straße
+Lommatzscher Straße
+Lommatzscher Straße
+Lommatzscher Straße
+
+Haltestelle
+Comeniusplatz
+Comeniusplatz
+Conertplatz
+Conertplatz
+Corinthstraße
+Corinthstraße
+Coschütz
+Coschütz
+Coschütz
+Coschützer Straße
+Coschützer Straße
+Cottaer Straße
+Cottaer Straße
+Cunnersdorfer Straße
+Dahlienweg
+Deutsches Hygienemuseum
+Deutsches Hygienemuseum
+Diakonissenkrankenhaus
+Diakonissenkrankenhaus
+Dölzschener Straße
+Dölzschener Straße
+Dormnblüthstraße
+Dornblüthstraße
+Dörnichtweg
+Dörnichtweg
+Dorothea-Erxleben-Straße
+Dorothea-Erxleben-Straße
+Dürerstraße
+Einkaufzentrum Seidnitz
+Einkaufzentrum Seidnitz
+Elbepark
+Elbepark
+Elbepark
+Elbepark
+Elbepark
+Elbepark
+
+Seite 6
+
+Richtung
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+Luga
+stadtwärts
+stadtwärts
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+Weißig/Fernsehturm
+Löbtau
+Flughafen
+stadtwärts
+stadtwärts
+landwärts
+Innen-Ring
+Prohlis
+Blasewitz
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+landwärts
+
+Ifd. Nr|Stadtteil
+211
+|Loschwitz
+212 |Loschwitz
+213 |Kaditz
+214 |Reick
+215 _}Niedersedlitz
+216 |Niedersedlitz
+217 |Strehlen
+218 |Strehlen
+219 [Naußlitz
+220 |Naußlitz
+221
+|Johannstadt
+222 |Johannstadt
+223 |Johannstadt
+224 |Friedrichstadt
+225 |Friedrichstadt
+226 |Friedrichstadt
+227 |Klotzsche
+228 |[Kleinzschachwitz
+
+RKL
+2
+1
+1
+1
+1
+4
+
+2
+
+1
+1
+1
+
+FGU-Nr
+149
+150
+427
+561
+569
+570/571
+529
+530
+23
+445
+213
+214
+195
+116
+991/992
+994994
+799
+251
+
+Straße
+Bautzner Straße
+Bautzner Straße
+Am Vorwerksfeld
+Lohrmannstraße
+Dohnaer Straße
+Dohnaer Straße
+Reicker Straße
+Reicker Straße
+'Tharandter Straße
+Tharandter Straße
+Fetscherplatz
+Fetscherplatz
+Fetscherstraße
+Flügelweg
+Hamburger Straße
+Hamburger Straße
+Flughafenstraße
+Freystraße
+
+Haltestelle
+Elbschlösser
+Elbschlösser
+Endpunkt Kaditz
+Enno-Heidebroek-Straße
+Erich-Kästner-Straße
+Erich-Kästner-Straße
+Eugen-Bracht-Straße
+Eugen-Bracht-Straße
+Felsenkeller
+Felsenkeller
+Fetscherplatz
+Fetscherplatz
+Fetscherplatz
+Flügelweg
+Flügelweg
+Flügelweg
+Flughafenstraße
+Freystraße
+
+Richtung
+landwärts
+stadtwärts
+stadtwärts
+O.-Röder-Straße
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+Freital
+stadtwärts
+landwärts
+landwärts
+Comeniusplatz
+Kaditz
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+
+229
+230
+
+[Leipziger Vorstadt
+[Leipziger Vorstadt
+
+1
+
+785
+786
+
+Fritz-Reuter-Straße
+Fritz-Reuter-Straße
+
+Friedensstraße
+Friedensstraße
+
+stadtwärts
+landwärts
+
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+
+|Leuben
+|Friedrichstadt
+|Friedrichstadt
+|Prohlis
+|Prohlis
+|[Löbtau
+|Weixdorf
+_|Johannstadt
+|Johannstadt
+|Prohlis
+}Prohlis
+|Trachau
+|Trachau
+|Prohlis
+|Prohlis
+
+1
+1
+
+665_1
+341
+36
+889/890
+891
+2711
+354
+595
+596
+892/893
+894
+439
+436
+563
+562
+
+Leubener Straße
+Schlachthofstraße
+Schlachthofstraße
+Dohnaer Straße
+Dohnaer Straße
+Tharandter Straße
+Fuchsbergstraße
+Fetscherstraße
+Fetscherstraße
+_|Dohnaer Straße
+Dohnaer Straße
+Leipziger Straße
+Leipziger Straße
+Prohliser Allee
+Prohliser Allee
+
+Friedhof Leuben
+Friedrichstadt
+Friedrichstadt
+Fritz-Meinhardt-Straße
+Fritz-Meinhardt-Straße
+Fritz-Schulze-Straße
+Fuchsberg
+Gabelsbergerstraße
+Gabelsbergerstraße
+Gamigstraße
+Gamigstraße
+Geblerstraße
+Geblerstraße
+Georg-Palitsch-Straße
+Georg-Palitzsch-Straße
+
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+
+1
+1
+1
+1
+1
+1
+3
+
+Seite 7
+
+fd. NrStadtteil
+246
+|Pirnaische Vorstadt
+247
+|Pirnaische Vorstadt
+248 |Johannstadt
+249
+|Mickten
+250
+|Mickten
+251
+_[Naußlitz
+252
+[Naußlitz
+
+RKL
+1
+1
+1
+1
+
+FGU-Nr
+54
+55_1
+591
+425
+426
+449
+128
+
+Straße
+Pillnitzer Straße
+Pillnitzer Straße
+Hans-Grundig-Straße
+Washingtonstraße
+Washingtonstraße
+Tharandter Straße
+Tharandter Straße
+
+Haltestelle
+Gerichtstraße
+Gerichtstraße
+Gerokstraße
+Gewerbegebiet Kaditz
+Gewerbegebiet Kaditz
+Gitterseebrücke
+Gittersee-Brücke
+
+Richtung
+stadtwärts
+landwärts
+landwärts
+
+2671
+
+Oskar-Maune-Straße
+
+Gleisschleife Pennrich
+
+stadtwärts
+
+268_1
+
+Oskar-Maune-Straße
+
+Gleisschleife Pennrich
+
+stadtwärts
+
+landwärts
+stadtwärts
+stadtwärts
+Freital
+
+253
+
+|Gompitz
+
+254
+
+|Gompitz
+
+255
+
+}Gompitz
+
+38_1
+
+Oskar-Maune-Straße
+
+Gleisschleife Pennrich
+
+stadtwärts
+
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+
+|Gombitz
+|Gompitz
+|Gombitz
+|Gombitz
+|Gombitz
+[Cotta
+|Striesen
+|Striesen
+|Seevorstadt
+|Seevorstadt
+[Trachenberge
+|Seevorstadt
+|Seevorstadt
+}Laubegast
+|Laubegast
+|Gruna
+|Bühlau
+|Bühlau
+_|Klotzsche
+|Klotzsche
+
+801
+821
+819
+802
+803
+337
+203
+204
+735/736
+741/742
+131
+3/4
+498
+13
+12
+862
+349
+484
+794
+795
+
+Oskar-Maune-Straße HST-Insel
+Oskar-Maune-Straße
+Oskar-Maune-Straße
+Oskar-Maune-Straße HST-Insel
+Oskar-Maune-Straße HST-Insel
+Warthaer Straße
+Schandauer Straße
+Schandauer Straße
+_|Wiener Straße
+Wiener Straße
+Grossenhainer Straße
+Lennestraße
+Lennestraße
+Leubener Straße
+Leubener Straße
+Zwinglistraße
+Bautzner Landstraße
+Bautzner Landstraße
+Karl-Marx-Straße
+Karl-Marx-Straße
+
+Gompitzer Höhe
+Gompitzer Höhe (Bahn)
+Gompitzer Höhe (Bus)
+Gompitzer Höhe (Bus)
+Gompitzer Höhe /Bahn)
+Gottfried-Keller-Straße
+Gottleubaer Straße
+Gottleubaer Straße
+Gret-Palucca-Straße
+Gret-Palucca-Straße
+Großenhainer Platz
+Großer Garten
+Großer Garten
+Großglockner Straße
+Großglockner Straße
+Grunaer Weg
+Grundstraße
+Grundstraße
+Grüner Weg
+Grüner Weg
+
+stadtwärts
+Pennricher Ring
+stadtwärts
+stadtwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+Innen-Ring
+Straßburger Platz
+landwärts
+stadtwärts
+Löbtau
+landwärts
+stadtwärts
+Flughafen
+stadtwärts
+
+276
+
+|Dobritz
+
+582_1
+
+Moränenende
+
+Haltepunkt Dobritz
+
+landwärts
+
+277
+278
+279
+280
+
+|Dobritz
+|Dobritz
+|Dobritz
+|Strehlen
+
+583_1
+578_1
+5791
+381
+
+Moränenende
+Mügelner Straße
+Mügelner Straße
+Oskarstraße
+
+Haltepunkt
+Haitepunkt
+Haltepunkt
+Haltepunkt
+
+stadtwärts
+Prohlis
+stadtwärts
+stadtwärts
+
+1
+
+1
+
+4
+4
+4
+2
+2
+4
+1
+1
+1
+
+1
+
+1
+
+Seite 8
+
+Dobritz
+Dobritz
+Dobritz
+Strehlen
+
+fd. Nr.|Stadtteit
+281
+_|Friedrichstadt
+282
+|Friedrichstadt
+283
+|Friedrichstadt
+284 |Seevorstadt
+285 |Seevorstadt
+286 |Albertstadt
+287 |Albertstadt
+288 |Seevorstadt
+289 |Seevorstadt
+290 ;Seevorstadt
+291
+|Seevorstadt
+292 |Seevorstadt
+293 |Südvorstadt
+294 |Südvorstadt
+295 [Seevorstadt
+296 |Seevorstadt
+297 |Seevorstadt
+298 |Seevorstadt
+299 |Seevorstadt
+300 _|jSeevorstadt
+301_jSeevorstadt
+302 |Seevorstadt
+303 [Cotta
+304 |Cotta
+305 |Leuben
+306 }Albertstadt
+307
+[Naußlitz
+308 [Blasewitz
+309
+|Hellerberge
+310 |Hellerberge
+311
+|Hellerberge
+312_ |Albertstadt
+313 |Albertstadt
+314 |Seidnitz
+315 |Gittersee
+316 }Laubegast
+
+RKL
+1
+4
+4
+
+6
+
+2
+1
+1
+2
+4
+1
+4
+1
+1
+1
+1
+1
+
+FGU-Nr
+111
+112
+667
+1
+2
+27_1
+28_1
+914/915
+916/917_1
+918/919
+922/923
+924
+761
+762
+980
+981
+982/983
+984
+985/986
+632/633
+630/631
+816/817
+929930
+931
+249
+162
+448
+327
+340 1
+341
+339
+166
+168
+547
+273
+237
+
+Straße
+Hamburger Straße
+Hamburger Straße
+Hamburger Straße
+Bürgerwiese
+Bürgerwiese
+Stauffenbergallee
+Stauffenbergallee
+|Am Hauptbahnhof
+Am Hauptbahnhof
+Am Hauptbahnhof
+_|Am Hauptbahnhof
+Am Hauptbahnhof
+Strehlener Straße
+Strehlener Straße
+Wiener Platz
+Wiener Platz
+Wiener Platz
+Wiener Platz
+Wiener Platz
+Sankt-Petersburger-Straße
+Sankt-Petersburger-Straße
+Sankt-Petersburger-Straße
+Hebbelplatz
+Hebbelplatz
+Berthold-Haupt-Straße
+Königsbrücker Straße
+'Tharandter Straße
+Tolkewitzer Straße
+Radeburger Straße
+Radeburger Straße
+Meinholdstraße
+Königsbrücker Straße
+Königsbrücker Straße
+Enderstraße
+Karlsruher Straße
+Österreicher Straße
+
+Seite 9
+
+Haltestelle
+Hamburger Straße
+Hamburger Straße
+Hamburger Straße
+Hans-Dankner-Straße
+Hans-Dankner-Straße
+Hans-Oster-Str.
+Hans-Oster-Str.
+Hauptbahnhof
+Hauptbahnhof
+Hauptbahnhof
+Hauptbahnhof
+Hauptbahnhof
+Hauptbahnhof
+Hauptbahnhof
+Hauptbahnhof
+Hauptbahnhof
+Hauptbahnhof
+Hauptbahnhof
+Hauptbahnhof
+Hauptbahnhof- Nord
+Hauptbahnhof-Nord
+Hauptbahnhof-Nord
+Hebbelplatz
+Hebbelptatz
+Heckenweg
+Heeresbäckerei
+Heidenschanze
+Heinrich-Schütz-Straße
+Hellerberge
+Hellerberge
+Hellerhofstraße
+Heller-Siediung
+Heller-Siediung
+Hepkestraße
+Hermann-Michel-Straße
+Hermann-Seidel-Straße
+
+Richtung
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+Bayrische Straße
+Wiener Platz
+Wiener Platz
+Bayrische Straße
+Bürgerwiese
+Strehlener Platz
+Strehlener Platz
+landwärts
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+Bürgerwiese
+Bürgerwiese
+Wiener Platz
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+stadtwärts
+stadtwärts
+stadtwärts
+landwärts
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+stadtwärts
+stadtwärts
+
+Ifd. Nr|Stadtteil
+
+317
+318
+319
+320
+321
+322
+323
+324
+325
+
+|Gorbitz
+}Gompitz/Altfranken
+|Gompitz/Altfranken
+|Seevorstadt
+_|Seevorstadt
+|Seevorstadt
+}Seevorstadt
+|Seevorstadt
+|Seevorstadt
+
+326
+
+|Trachenberge
+
+327 |Trachenberge
+328_|Strehlen
+329 |Strehlen
+330 |Reick
+331
+|Reick
+332_}Albertstadt
+333 [Albertstadt
+334 Ilndustriegebiet Klotzsche
+335 _|Klotzsche
+336_|Klotzsche
+337 _|Klotzsche
+338 |Klotzsche
+339 [Hellerberge
+340 |Hellerberge
+341_|Prohlis
+342 |Prohlis
+343 \Prohlis
+344_|Tolkewitz
+345 [Tolkewitz
+346 |Seevorstadt
+347
+
+|Seevorstadt
+
+348
+349
+350
+351
+352
+
+|Strehlen
+|Strehlen
+_}Gorbitz
+}Gorbitz
+[Plauen
+
+RKL
+
+FGU-Nr
+
+Straße
+
+Haltestelle
+
+Richtung
+
+1
+1
+
+299
+238
+239
+1%20
+21/22
+850_1
+851_1
+8521
+8491
+
+Kesselsdorfer Straße
+Kohlsdorfer Landstraße
+Kohlsdorfer Landstraße
+Ammonstraße
+Ammonstraße
+Freiberger Straße
+Freiberger Straße
+Freiberger Straße
+Freiberger Straße
+
+Hirtenstraße
+Hohe Straße
+Hohe Straße
+HP. Freiberger Straße
+HP. Freiberger Straße
+HP. Freiberger Straße
+HP. Freiberger Straße
+HP. Freiberger Straße
+HP.Freiberger Straße
+
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+
+6
+
+2
+
+1
+1
+2
+1
+1
+
+1
+
+3
+1
+4
+1
+1
+1
+
+464
+
+Grossenhainer Straße
+
+Hubertusplatz
+
+stadtwärts
+
+607
+523
+525
+509510
+870/871
+164
+658/659
+634
+29_1
+172_1
+173_1
+865_1
+170
+864
+45/46
+557/558
+559/560
+512
+513
+338
+
+Grossenhainer Straße
+Lockwitzer Straße
+Lockwitzer Straße
+Reicker Straße
+Reicker Straße
+Königsbrücker Straße
+Königsbrücker Straße
+Königsbrücker Landstr. HST-Insel
+Königsbrücker Landstraße
+Königsbrücker Landstraße
+Königsbrücker Landstraße
+Königsbrücker Landstraße
+Königsbrücker Landstraße
+Königsbrücker Landstraße
+Prohliser Allee
+Prohliser Allee
+|Prohliser Allee
+Wehlener Straße
+Wehlener Straße
+Budapester Straße
+
+Hubertusplatz
+Hugo-Bürkner-Straße
+Hugo-Bürkner-Straße
+Hülßestraße
+Hülßestraße
+Industriegelände
+Industriegelände
+|Industriepark Klotzsche
+Infineon Nord
+Infineon Nord
+Infineon Nord
+Infineon Nord
+Infineon Süd
+Infineon Süd
+Jacob-Winter-Platz
+Jakob-Winter-Platz
+Jakob-Winter-Platz
+Johannisfriedhof
+Johannisfriedhof
+Josephinenstraße
+
+landwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+stadtwärts
+stadtwärts
+stadtwärts
+
+577
+
+Budapester Straße
+
+Josephinenstraße
+
+landwärts
+
+521
+867
+676/677
+515_1
+497 —z
+
+Franz-Liszt-Straße
+Franz-Liszt-Straße
+Julius-Vahlteich-Straße
+Julius-Vahlteich-Straße
+Plauenscher Ring
+
+Julius-Otto-Straße
+Julius-Otto-Straße
+Julius-Vahlteich-Straße
+Julius-Vahlteich-Straße
+Kaitzer Strasse
+
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+Westendring
+
+Seite 10
+
+Ifd. Nr.|Stadtteil
+353 |Gorbitz
+354_|Johannstadt
+355 JJohannstadt
+356 }Albertstadt
+357_|Klotzsche
+358 |Klotzsche
+359 |Klotzsche
+360_ |Klotzsche
+361
+|Klotzsche
+362_}Johannstadt
+363 IJohannstadt
+364 |Löbtau
+365
+|Hellerau
+366_|Gorbitz
+367 _|Gorbitz
+368 |Gorbitz
+369 [Coschütz
+370
+[Coschütz
+371_[Naußlitz
+372
+|Naußlitz
+373 iGompitz
+374 |Gompitz
+375 |Seevorstadt
+376 |Seevorstadt
+377 |Seevorstadt
+378_jBlasewitz
+379 |Blasewitz
+380
+|Pieschen
+381
+|Loschwitz
+382
+|Plauen
+383_|Plauen
+384 |Plauen
+385_|Friedrichstadt
+386
+|Friedrichstadt
+387
+_|Pieschen
+388 |Pieschen
+
+RKL
+1
+1
+1
+1
+
+1
+4
+4
+1
+1
+1
+4
+4
+
+2
+2
+1
+2
+1
+1
+1
+
+FGU-Nr
+297
+62
+63
+160
+635
+174
+627
+629
+628
+580
+731_1
+265°
+605_1
+959
+960
+961
+274
+275
+453
+454
+245
+246
+551
+768/769
+868/869
+187
+188
+601
+683
+281
+639
+640
+66
+779
+421
+422
+
+Straße
+Kesselsdorfer Straße
+Stübelallee
+Stübelallee
+Wilhelm-Franke-Straße
+Königsbrücker Landstraße
+Königsbrücker Landstraße
+Königsbrücker Landstraße
+Königsbrücker Landstraße
+Königsbrücker Landstraße
+Fetscherstraße
+Fetscherstraße
+Wilhelm-Franke-Straße
+Ludwig-Kossuth-Straße
+Omsewitzer Ring
+Omsewitzer Ring
+Omsewitzer Ring
+Karlsruher Straße
+Karlsruher Straße
+Kesselsdorfer Straße
+Kesselsdorfer Straße
+Kohlsdorfer Weg
+Kohlsdorfer Weg
+Devrientstraße
+Könneritzstraße
+Könneritzstraße
+Blasewitzer Straße
+Blasewitzer Straße
+Aachener Straße
+Körnerplatz
+'Westendring
+Westendring
+Westendring
+Friedrichstraße
+Friedrichstraße
+Industriestraße
+Industriestraße
+
+Seite 11
+
+Haltestelle
+Kapellenweg
+Karcherallee
+Karcherallee
+Karl-Laux-Straße
+
+Richtung
+stadtwärts
+stadtwärts
+landwärts
+landwärts
+
+Karl-Marx-Straße
+Karl-Marx-Straße
+Käthe-Kollwitz-Platz
+Kähte-Kollwitz-Platz
+Käthe-Kolwwitz-Platz
+Käthe-Kollwitz-Ufer
+Käthe-Kollwitz-Ufer
+Kauschaer Straße
+Kiefernweg
+Kirschenstraße
+Kirschenstraße
+Kirschenstraße
+Kleinnaundorfer Straße
+Kleinnaundorfer Straße
+Koblenzer Straße
+Koblenzer Straße
+Kohlsdorfer Landstraße
+Kohlsdorfer Landstraße
+Kongresszentrum
+Kongresszentrum
+Kongresszentrum
+Königsheimplatz
+Königsheimplatz
+Kopernikusstraße
+Kömerplatz
+Kotteweg
+Kotteweg
+Kotteweg
+Krankenhaus Friedrichstadt
+Krankenhaus Friedrichstadt
+Krankenhaus Neustadt
+Krankenhaus Neustadt
+
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+Pfotenhauer Straße
+Waldschl.-Brücke
+stadtwärts
+stadtwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+Schweriner Straße
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+stadtwärts
+stadtwärts
+landwärts
+landwärts
+landwärts
+stadtwärts
+Großenhainer Str.
+Leipziger Straße
+
+Ifd. NrStadtteil
+
+RKL
+
+FGU-Nr
+
+|Straße
+
+Haltestelle
+
+Richtung
+
+389
+390
+
+|Johannstadt
+!Johannstadt
+
+1
+
+191
+192
+
+Canalettostraße
+Canalettostraße
+
+Krankenhaus St, Joseph Stift
+Krankenhaus St. Joseph Stift
+
+landwärts
+stadtwärts
+
+391
+392
+393
+394
+
+|Blasewitz
+|Laubegast
+|Laubegast
+|Laubegast
+
+2
+
+400_1
+115
+463
+465
+
+Tolkewitzer Straße
+Kronstädter Platz
+Österreicher Straße
+Österreicher Straße
+
+Kretschmerstraße
+Kronstädter Platz
+Kronstädter Platz
+Kronstädter Platz
+
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+
+1
+
+269
+
+1
+
+27011
+229
+309
+
+395
+
+|Laubegast
+
+396
+397
+398
+
+|Laubegast
+}Dobritz
+|Dobritz
+
+399
+
+|Seevorstadt
+
+400
+|Seevorstadt
+401
+|Seevorstadt
+402_|Seevorstadt
+403 |Seevorstadt
+404 |Seevorstadt
+405 _|Hosterwitz
+406 |Hosterwitz
+407 |Laubegast
+408
+
+|Laubegast
+
+409
+
+|Laubegast
+
+410
+
+|Laubegast
+
+411
+_|Gruna
+412
+|Gruna
+413 _ |Johanstadt
+414 |Johannstadt
+415 _ }Trachenberge
+416 |Trachenberge
+417 _|Trachenberge
+418 |Trachenberge
+419 |Trachenberge
+
+1
+
+2
+
+1
+
+1
+
+4
+1
+
+6
+
+1
+
+Leubener Straße
+
+Laibacher Straße
+
+stadtwärts
+
+Leubener Straße
+Pirnaer Landstraße
+Pirnaer Landstraße
+
+Laibacher Straße
+Lasallestraße
+Lassallestraße
+
+landwärts
+stadtwärts
+stadtwärts
+
+718
+
+Gellertstraße
+
+Lenngplatz
+
+Innen-Ring
+
+680/681_1
+10_1
+1111
+940_1
+9421
+392
+395
+366
+
+|Geltertstraße
+Lenngplatz
+Lennegplatz
+Lennöplatz
+Lenneplatz
+Pillnitzer Landstraße
+Pillnitzer Landstraße
+Leubener Straße
+
+Lenneplatz
+Lenneplatz
+Lenngplatz
+Lenngplatz
+Lenneplatz
+Leonardo-da-Vinci-Straße
+Leonardo-da-Vinci-Straße
+Leubener Straße
+
+Straßburger Platz
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+
+346
+
+Leubener Straße
+
+Leubener Straße
+
+Schillerplatz
+
+461
+
+Österreicher Straße
+
+Leubener Straße
+
+stadtwärts
+
+462
+
+Österreicher Straße
+
+Leubener Straße
+
+landwärts
+
+217
+218
+881
+884
+134
+135
+375
+694
+695
+
+Bodenbacher Straße
+Bodenbacher Straße
+Stübelallee
+Stübelallee
+Grossenhainer Straße
+Grossenhainer Straße
+Grossenhainer Straße
+Grossenhainer Straße
+Grossenhainer Straße
+
+Liebstädter Straße
+Liebstädter Straße
+Lipsiusstraße
+Lipsiusstraße
+Liststraße
+Liststraße
+Liststraße
+Liststraße
+Liststraße
+
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+landwärts
+landwärts
+landwärts
+
+420
+
+|Lockwitz
+
+1
+
+496
+
+Altlockwitz
+
+Lockwitz
+
+Tögelstraße
+
+421
+422
+423
+424
+
+|Reick
+|Reick
+[Leipziger Vorstadt
+|Leipziger Vorstadt
+
+1
+
+538
+539
+388/389
+417/418
+
+Reicker Straße
+Reicker Straße
+Grossenhainer Straße
+|Grossenhainer Straße
+
+Lohrmannstraße
+Lohrmannstraße
+Lößnitzstraße
+Lößnitzstraße
+
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+
+2
+
+Seite 12
+
+Ifd. Nr.|Stadtteil
+
+RKL
+
+FGU-Nr
+
+Straße
+
+Haltestelle
+
+Richtung
+
+425 |Außere Neustadt
+426 |Außere Neustadt
+427 |Tolkewitz
+428 _|Räcknitz
+429 |Räcknitz
+430 |Löbtau
+431_|Friedrichstadt
+432 |Friedrichstadt
+
+6
+
+155
+156/157
+209
+876
+887
+452
+107
+108
+
+Königsbrücker Straße
+Königsbrücker Straße
+Wehlener Straße
+Südhöhe
+Südhöhe
+Kesselsdorfer Straße
+Schäferstraße
+Schäferstraße
+
+Louisenstraße
+Louisenstraße
+Ludwig-Hartmann-Straße
+Ludwig-Renn-Allee
+Ludwig-Renn-Allee
+Malterstraße
+Manitiusstraße
+Manitiusstraße
+
+Weixdorf
+stadtwärts
+stadtwärts
+
+433_|Albertstadt
+
+1
+
+609
+
+Staufenbergallee
+
+Marienallee
+
+Waldschlösschen
+
+610
+225
+690/691
+784
+830
+329
+328_1
+954
+955
+956
+
+Stauffenbergallee
+Bodenbacher Straße
+Bodenbacher Straße
+Dohnaer Straße
+Dohnaer Straße
+Meissner Landstraße
+Merbitzer Straße
+Höhenpromenade
+Höhenpromenade
+Höhenpromenade
+
+Marienallee
+Marienberger Straße
+Marienberger Straße
+Marie-Wittich-Straße
+Marie-Wittich-Straße
+Merbitzer Straße
+Merbitzer Straße
+Merianplatz
+Merianplatz
+Merianplatz
+
+Mickten
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+stadtwärts
+
+434 |Albertstadt
+435_|Seidnitz
+436 }Seidnitz
+437 |Leubnitz-Neuostra
+438 |Leubnitz-Neuostra
+439 |Briesnitz
+440 |Briesnitz
+441
+|Gorbitz
+442 |Gorbitz
+443 |GSorbitz
+444
+
+1
+1
+4
+1
+
+1
+1
+1
+
+1
+
+|Gorbitz
+
+445 |Friedrichstadt
+446 |Friedrichstadt
+447 _|Friedrichstadt
+448 |Friedrichstadt
+449 |Friedrichstadt
+450 |Kleinzschachwitz
+451_|Mickten
+452 |Mickten
+453_|Mickten
+454 |Mickten
+455 _|Mickten
+456_|Mickten
+457 |Mickten
+458 |Löbtau
+459 }Räcknitz
+460 |Räcknitz
+
+3
+
+1
+
+2
+
+1
+1
+
+Gruna
+Kleinnaundorf
+stadtwärts
+landwärts
+stadtwärts
+
+957
+
+Höhenpromenade
+
+Merianplatz
+
+landwärts
+
+9411
+946/947_1
+472_1
+943_1
+967_1
+250°
+119
+668_1
+669_1
+117
+612
+613
+118_1
+266
+88
+89
+
+Zur Messe
+|Zur Messe
+Schlachthofstraße
+Schlachthofstraße
+Schlachthofstraße
+Berthold-Haupt-Straße
+Leipziger Straße
+Leipziger Straße
+Leipziger Straße
+Lommatzscher Straße
+Sternstraße
+Sternstraße
+Wurzener Straße
+Lockwitzer Straße
+Bergerstraße
+Bergerstraße
+
+Messe Dresden
+Messe Dresden
+Messering (Halle 1)
+Messering (Halle 1)
+Messering (Halle 1}
+Meutßlitzer Straße
+Mickten
+Mickten
+Mickten
+Mickten
+Mickten
+Mickten
+Mickten
+Mockritzer Straße
+Mommsenstraße
+Mommsenstraße
+
+stadtwärts
+stadtwärts
+stadtwärts
+stadtwärts
+stadtwärts
+stadtwärts
+Rankestraße
+stadtwärts
+stadtwärts
+Leipziger Straße
+stadtwärts
+landwärts
+Washingtonstraße
+
+Seite 13
+
+stadtwärts
+stadtwärts
+landwärts
+
+Ifd. Nr.|Stadtteil
+461
+|Loschwitz
+462
+_}Hellerberge
+463 |Hellerberge
+464 _|Striesen
+465 |Striesen
+466 |Südvorstadt
+467 |Südvorstadt
+468 _|Zschertnitz
+469 |Zschertnitz
+470 |Johannstadt
+471
+|Bühlau
+472 |Bühlau
+473 |Trachau
+474
+|Innere Neustadt
+475
+|Innere Neustadt
+476
+|Innere Neustadt
+477
+|Innere Neustadt
+478 |Innere Neustadt
+479 |Prohlis
+480
+|Prohlis
+481
+|Blasewitz
+482 |Blasewitz
+483 |Striesen
+484 |Striesen
+485 [Plauen
+486 |Plauen
+487
+
+RKL
+2
+4
+4
+1
+1
+1
+4
+1
+6
+6
+
+1
+1
+1
+1
+
+iSüdvorstadt
+
+488_|Südvorstadt
+489 |Südvorstadt
+490 [Südvorstadt
+491
+|Leipziger Vorstadt
+492 |Cotta
+493 |Löbtau
+494 |Pieschen
+495 |Pieschen
+
+2
+
+4
+1
+1
+2
+
+FGU-Nr
+151
+165
+169
+14
+196
+364/365
+482
+480
+479
+584
+347
+348
+517_1
+555/556
+774
+775
+776
+7r7I!TT8
+501
+502
+4091
+4081
+393
+392
+363
+636
+
+|Straße
+Bautzner Straße
+Königsbrücker Straße
+Königsbrücker Straße
+Borsbergstraße
+Borsbergstraße
+Münchner Platz
+Münchner Platz
+Münzmeisterstraße
+Südhöhe
+Pfotenhauerstraße
+Bautzner Landstraße
+Bautzner Landstraße
+Grossenhainer Straße
+Schlesischer Platz vor Bahnhof
+Grosse Meissner Straße
+Grosse Meissner Straße
+Grosse Meissner Straße
+\Große Meißner Straße
+Langer Weg
+Langer Weg
+Altenberger Straße
+Altenberger Straße
+Dornblüthstraße
+Niederwaldstraße
+Münchner Straße
+Münchner Straße
+
+Haltestelle
+Mordgrundbrücke
+Moritzburger Weg
+Moritzburger Weg
+Mosenstraße
+Mosenstraße
+Münchner Platz
+Münchner Platz
+Münzmeisterstraße
+Münzmeisterstraße
+Neubertstraße
+Neubühlauer Strasse
+Neubühlauer Strasse
+Neuländer Straße
+Neustädter Bahnhof
+Neustädter Markt
+Neustädter Markt
+Neustädter Markt
+Neustädter Markt
+Niedersedlitzer Straße
+Niedersedlitzer Straße
+Niederwaldplatz
+Niederwaldplatz
+Niederwaldstraße
+Niederwaldstraße
+Nöthnitzer Straße
+Nöthnitzer Straße
+
+Richtung
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+Südhöhe
+C.-D.-Friedrich-Str.
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+Leipziger Straße
+Leipziger Straße
+Leipziger Straße
+Große Meißner Str.
+Mügelner Straße
+Dohnaer Straße
+landwärts
+stadtwärts
+Löbtau
+Weißig/Fernsehturm
+stadtwärts
+landwärts
+
+360
+
+Münchner Straße
+
+Nürnberger Platz
+
+Plauen
+
+361/362
+357
+358/359
+478
+344
+103
+122_1
+123_1
+
+_|Münchner Straße
+Nürnberger Straße
+|Nürnberger Straße
+Hechtstraße
+Grillparzerstraße
+Freiberger Straße
+Leipziger Straße
+Leipziger Straße
+
+Nürnberger Platz
+Nürnberger Platz
+Nürnberger Platz
+Oberauer Straße
+Ockemitzer Straße
+Oederaner Straße
+Oschatzer Straße
+Oschatzer Straße
+
+stadtwärts
+Löbtau
+Bühlau
+Kaditz
+Klotzsche
+stadtwärts
+stadtwärts
+landwärts
+
+Seite 14
+
+fd. Nr|Stadtteil
+
+496 |Strehlen
+497 |Strehlen
+498
+|Mickten
+499
+|Mickten
+500
+_|Mickten
+501
+|Mickten
+502_|Innere Neustadt
+503
+[Innere Neustadt
+504
+}Löbtau
+505_|Löbtau
+506_|Löbtau
+507 |Löbtau
+508_|Johannstadt
+509 |Johannstadt
+510 _|Johannstadt
+511
+_|Johanstadt
+512_|Johannstadt
+513 |Johannstadt
+514 [Altstadt
+515_|Pirnaische Vorstadt
+516_|Pirnaische Vorstadt
+517
+_|Pirnaische Vorstadt
+518_ {Altstadt
+519 |Altstadt
+520
+
+RKL
+
+FGU-Nr
+
+Straße
+
+Haltestelle
+
+Richtung
+
+1
+
+531/532
+533/534
+896_1
+897
+995
+996
+652
+653
+314
+315
+313
+316
+175
+178/179
+589
+585
+833
+834_1
+840/841
+6431
+823
+824
+804/806
+813/815
+
+Reicker Straße
+Reicker Straße
+Washingtonstraße
+Washingtonstraße
+Kötzschenbroder Straße
+Kötzschenbroder Straße
+Palaisplatz
+Palaisplatz
+Pennricher Straße
+Pennricher Straße
+Rudolf-Renner-Straße
+Rudoff-Renner-Straße
+Gerokstraße
+Gerokstraße
+Fetscherstraße
+Fetscherstraße
+Pfotenhauerstraße
+Pfotenhauerstraße
+Ringstraße
+Sankt-Petersburger-Straße
+Sankt-Petersburger-Straße
+Sankt-Petersburger-Straße
+|Wilsdruffer Straße
+Wilsdruffer Straße
+
+Otto-Dix-Ring
+Otto-Dix-Ring
+Overbeckstraße
+Overbeckstraße
+P+RKaditz
+P+RKaditz
+Palaisplatz
+Palaisplatz
+Pennricher Straße
+Pennricher Straße
+Pennricher Straße
+Pennricher Straße
+Permoserstraße
+Permoserstraße
+Pfotenhauer Straße
+Pfotenhauerstraße
+Pfotenhauerstraße
+Pfotenhauerstraße.
+Pirnaischer Platz
+Pimaischer Platz
+Pirnaischer Platz
+Pirnaischer Platz
+Pirnaischer Platz
+Pirnaischer Platz
+
+stadtwärts
+landwärts
+Lommatzscher Str.
+Hamburger Straße
+stadtwärts
+landwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+landwärts
+stadtwärts
+K.-Kollwitz-Ufer
+Pfotenhauer Straße
+stadtwärts
+Fetscherstraße
+Prager Straße
+Rathenauplatz
+Prager Straße
+Prager Straße
+Straßburger Platz
+Postplatz
+
+807/809
+
+Wilsdruffer Straße
+
+Pirnaischer Platz
+
+Straßburger Platz
+
+810/812
+832
+326
+444
+199
+201
+872
+1002/1003
+1004/1005
+1006/1007
+1008/1009
+1016/1017
+
+|Wilsdruffer Straße Vor Landhaus
+Bautzner Landstraße
+Meissner Landstraße
+Ermelstraße
+Schandauer Straße
+Schandauer Straße
+Schlüterstraße
+|Wallstraße
+|Wallstraße
+|Wallstraße
+|Wallstraße
+|Wallstraße
+
+}Pimaischer Platz
+Plattleite
+Podemusstraße
+Pohlandptatz
+Pohlandplatz
+Pohlandplatz
+Pohlandplatz
+Postplatz
+Postplatz
+Postplatz
+Postplatz
+Postptatz
+
+Postplatz
+stadtwärts
+landwärts
+Löbtau
+landwärts
+stadtwärts
+Weißig/Fernsehturm
+Prager Straße
+Prager Straße
+Wilsdruffer Straße
+Wilsdruffer Straße
+Prager Straße
+
+1
+1
+2
+
+4
+
+1
+
+1
+
+6
+
+[Altstadt
+
+521
+[Altstadt
+522
+|Bühlau
+523
+jBriesnitz
+524 |Striesen
+525 |Striesen
+526 |Striesen
+527 |Striesen
+528 [Altstadt
+529 |Altstadt
+530 jAltstadt
+531_|Altstadt
+532 |Altstadt
+
+1
+4
+1
+
+6
+
+_
+
+Seite 15
+
+fd. Nr.|Stadtteil
+533_|Altstadt
+534 |Altstadt
+535 jAltstadt
+536 _JAltstadt
+537 jAltstadt
+538 [Altstadt
+
+6
+
+IFGU-Nr
+1018/1019
+1012/1013
+1014/1015
+998/999
+1000/1001
+1010/1011
+
+Straße
+|Wallstraße
+|Wilsdrufter Straße
+|Wilsdrufier Straße
+_1_|Wilsdruffer Straße
+_|Wilsdruffer Straße
+[Wilsdruffer Straße
+
+Haltestelle
+Postplatz
+Postplatz
+Postplatz
+Postplatz
+Postplatz
+Postptatz
+
+Richtung
+Wilsdruffer Straße
+Freiberger Straße
+Freiberger Straße
+Pirnaischer Platz
+Pirnaischer Platz
+Pirnaischer Platz
+
+[Altstadt
+
+6
+
+789
+
+Waisenhausstraße
+
+Prager Straße
+
+St.Petersburger Str.
+
+540 _|Seidnitz
+541
+|Seidnitz
+542_|Niedersedlitz
+543 |Lockwitz
+544 |[Prohlis
+545_|Prohlis
+546_|Prohlis
+547 |Prohlis
+548 |Seevorstadt
+549 |Seevorstadt
+550 |Zschertnitz
+551
+|Zschertnitz
+552_}Mickten
+553 }Mickten
+554 |Klotzsche
+555 |Pieschen
+556 iPieschen
+557 _ [Plauen
+558 |Plauen
+559 [Plauen
+560 |Gittersee
+561
+_|Gruna
+562 |Gruna
+563_|Albertstadt
+564 [Albertstadt
+565 _|Südvorstadt
+566 |Südvorstadt
+567 |Südvorstadt
+568 |Südvorstadt
+
+1
+
+227
+230
+565/566
+888
+895
+544
+546
+564
+518
+519
+318_1
+878/879
+437
+438
+966
+95
+654
+189
+137
+945_1
+873
+219
+220
+142
+143
+524
+526
+90/91
+92/93
+
+Bodenbacher Straße
+Bodenbacher Straße
+Dohnaer Straße
+Dohnaer Straße
+Langer Weg
+Dohnaer Straße
+Dohnaer Straße
+Gleisschleife Prohlis
+Tiergartenstraße
+Tiergartenstraße
+Räcknitzhöhe
+Räcknitzhöhe
+Leipziger Straße
+Leipziger Straße
+Karl-Marx-Straße
+Bürgerstraße
+Bürgerstraße
+Chemnitzer Straße
+F.-C.-Weiskopf-Platz
+F.-C.-Weiskopf-Platz
+Karlsruher Straße
+Bodenbacher Straße
+Bodenbacher Straße
+Stauffenbergallee
+Stauffenbergallee
+Fritz-Löffler-Straße
+Fritz-Löffler-Straße
+Fritz-Löffler-Straße
+Fritz-Löffter-Straße
+
+Prof.-Ricker-Straße
+Prof.-Ricker-Straße
+Prohlis Einkaufszentrum
+Prohlis Einkaufszentrum
+Prohlis Einkaufszentrum
+Prohlis Gleisschleife
+Prohlis Gleisschleife
+Prohlis Gleisschleife
+Querallee
+Querallee
+Räcknitzhöhe
+Räcknitzhöhe
+Rankestraße
+Rankestraße
+Rathaus Klotzsche
+Rathaus Pieschen
+Rathaus Pieschen
+Rathaus Plauen
+Rathaus Plauen
+Rathaus Plauen
+Rathausstraße
+Rauensteinstraße
+Rauensteinstraße
+Regierungspräsidium
+Regierungspräsidium
+Reichenbachstraße
+Reichenbachstraße
+Reichenbachstraße
+Reichenbachstraße
+
+tandwärts
+stadtwärts
+stadtwärts
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+
+539
+
+RKL
+
+1
+
+1
+1
+1
+4
+4
+2
+
+1
+1
+1
+94
+1
+1
+4
+1
+
+Seite 16
+
+fd. Nr.}Stadtteil
+569 |Klotzsche
+570 _|Seidnitz
+571
+|Seidnitz
+572
+|Kaditz
+573
+iKaditz
+574 |Loschwitz
+575
+[Innere Neustadt
+576 |Löbtau
+577 |Bühlau
+578 |Bühlau
+579 |Leuben
+580 |Leuben
+
+RKL
+1
+1
+1
+1
+2
+1
+1
+1
+1
+
+FGU-Nr
+611
+935/936
+937/938
+722
+721
+414
+51
+105
+350
+353
+243
+664_1
+
+Straße
+Keulenbergstraße
+Bodenbacher Straße
+|Bodenbacher Straße
+Grimmstraße
+Riegelplatz
+Grundstraße
+Hoyerswerdaer Straße
+Freiberger Straße
+Bautzner Landstraße
+Bautzner Landstraße
+Pirnaer Landstraße
+Pirnaer Landstraße
+
+Haltestelle
+Reineckeweg
+Rennplatzstraße
+Rennplatzstraße
+Riegelplatz
+Riegelplatz
+Rißweg
+Rosa-Luxemburg-Platz
+Rosenstraße
+Rossendorfer Straße
+Rossendorfer Straße
+Rottwerndorfer Straße
+Rottwerndorfer Straße
+
+Richtung
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+Außen-Ring
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+
+324”
+
+Kesselsdorfer Straße
+
+Rudolf-Walther-Straße
+
+landwärts
+
+325
+280
+440
+52
+670
+696
+697
+590
+260_1
+503_1
+
+Kesselsdorfer Straße
+Karlsruher Straße
+Westendring
+Sachsenallee
+Sachsenallee
+Sachsenallee
+Sachsenallee
+Freiberger Straße
+Löbtauer Straße
+Löbtauer Straße
+
+Rudoff-Waither-Straße
+Saarstraße
+Saarstraße
+Sachsenallee
+Sachsenallee
+Sachsenallee
+Sachsenplatz
+Saxoniastraße
+Schäferstraße
+Schäferstraße
+
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+R.-Luxemburg-Platz
+Straßburger Platz
+Straßburger Platz
+landwärts
+landwärts
+stadtwärts
+
+581
+
+[Gompitz
+
+582
+583
+584
+585
+586
+587
+588
+589
+590
+591
+
+|Gompitz
+[Coschütz
+|Plauen
+|Johannstadt
+|Johannstadt
+|Johannstadt
+|Johannstadt
+|[Löbtau
+|Friedrichstadt
+|Friedrichstadt
+
+592
+
+}Friedrichstedt
+
+685 _1
+
+Schäferstraße
+
+Schäferstraße
+
+Waltherstraße
+
+593 |Friedrichstadt
+594_|Leipziger Vorstadt
+595 [Leipziger Vorstadt
+596 |Laubegast
+597 |Löbtau
+598 [Löbtau
+599 |Gorbitz
+600 [Gorbitz
+601
+[Gruna
+602 |Gruna
+603 |Gruna
+604 |Gompitz
+
+686_1
+912
+913
+475
+303
+304
+962
+963
+42
+386
+387
+301
+
+Schäferstraße
+Buchenstraße
+Buchenstraße
+Österreicher Straße
+Reisewitzer Straße
+Reisewitzer Straße
+Schlehenstraße
+Schlehenstraße
+Schlüterstraße
+Schlüterstraße
+Schlüterstraße
+Altnossener Straße
+
+Schäferstraße
+Schanzenstraße
+Schanzenstraße
+Schiffswerft Laubegast
+Schillingstraße
+Schillingstraße
+Schlehenstraße
+Schlehenstraße
+Schlüterstraße
+Schlüterstraße
+Schneebergstraße
+Schule Gompitz
+
+Könneritzstraße
+landwärts
+stadtwärts
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+stadtwärts
+Polandplatz
+Löbtau
+Weißig/Fernsehturm
+stadtwärts
+
+4
+
+2
+
+1
+1
+
+4
+1
+1
+1
+4
+1
+1
+
+Seite 17
+
+fd. Nr.|Stadtteil
+
+RKL
+
+605 |Südvorstadt
+606 JAltstadt
+607 |Seevorstadt
+608
+}Kaditz
+609
+|Friedrichstadt
+610
+Friedrichstadt
+611
+[Niedersedlitz
+612_|Striesen
+613 |Striesen
+614 |Kaditz
+615 _|Leubnitz-Neuostra
+616
+|Leubnitz-Neuostra
+617 |Johannstadt
+
+2
+
+618
+
+1
+
+[Leipziger Vorstadt
+
+619
+|Leipziger Vorstadt
+620 |Südvorstadt
+621
+|Südvorstadt
+622 [Albertstadt
+623 |Albertstadt
+624 |Albertstadt
+625 Albertstadt
+626 |Loschwitz
+627 |Johannstadt
+628 |Seevorstadt
+629 |Seevorstadt
+630 |Johannstadt
+631_]Johannstadt
+632_ jPirnaische Vorstadt
+633_}Pirnaische Vorstadt
+634 |Johanrıstadt
+635 |Südvorstadt
+636 |Südvorstadt
+637 |Südvorstadt
+638 |Südvorstadt
+639 |Johannstadt
+640 |Johannstadt
+
+1
+1
+1
+1
+1
+3
+1
+1
+
+1
+
+2
+
+1
+
+6
+
+4
+
+4
+
+FGU-Nr
+
+Straße
+
+Haltestelle
+
+Richtung
+
+588
+733
+734
+429
+886
+457
+257
+
+Budapester Straße
+Schweriner Straße
+Schweriner Straße
+Kötzenschenbroder Straße
+Fröbelstraße
+Fröbelstraße
+Bahnhofstraße
+Borsbergstraße
+Borsbergstraße
+Kötzenschenbroder Straße
+Dohnaer Straße
+Dohnaer Straße
+Güntzstraße
+
+Schweizer Straße
+Schweriner Straße
+Schweriner Straße
+Seewiesenweg
+Semmelweisstraße
+Semmelweisstraße
+Sosaer Straße
+Spehnerstraße
+Spehnerstraße
+Spitzhausstraße
+Spitzwegstraße
+Spitzwegstraße
+St.-Benno-Gymnasium
+
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+Straßburger Platz
+
+428
+80
+81
+401_1
+885
+
+Hansastraße
+
+St.Pauli Friedhof
+
+stadtwärts
+
+477
+371
+372
+910
+911
+608
+875
+877
+716/717_1
+706/707
+708/709 _
+700/702
+703/705 _
+710/712
+713/715
+900/901
+69
+70
+67
+68
+592/593
+594
+
+Radeburger Straße
+Zellescher Weg
+Zellescher Weg
+Königsbrücker Straße
+Königsbrücker Straße
+Staufenbergallee
+Staufenbergallee
+Grundstraße
+|Güntzstraße
+Lennöstraße
+|Lennestraße
+___|Strassburger Platz
+_|Strassburger Platz
+___|Strassburger Platz
+___|Strassburger Platz
+Strassburger Platz
+Ackermannstraße
+Ackermannstraße
+Strehlener Straße
+Strehlener Straße
+Hans-Grundig-Straße
+Hans-Grundig-Straße
+
+St.Pauli Friedhof
+Staats- und Universitätsbibliothek
+Staats- und Universitätsbibliothek
+Stauffenbergalles
+Stauffenbergallee
+Stauffenbergallee
+Stauffenbergallee
+Steglichstraße
+Strassburger Platz
+Strassburger Platz
+Strassburger Platz
+Strassburger Platz
+Strassburger Platz
+Strassburger Platz
+Strassburger Platz
+Strassburger Platz
+Strehlener Platz
+Strehlener Platz
+Strehlener Platz
+Strehlener Platz
+Striesener Straße
+Striesener Straße
+
+Wilschdorf
+Bühlau
+Löbtau
+stadtwärts
+landwärts
+Waldschlösschen
+Mickten
+landwärts
+Lenngplatz
+Sachsenplatz
+Sachsenplatz
+Pirnaischer Platz
+Pirnaischer Platz
+Karcherallee
+Karcherallee
+Pirnaischer Platz
+landwärts
+stadtwärts
+Coschütz
+landwärts
+stadtwärts
+landwärts
+
+Seite 18
+
+fd. Nr.|Stadtteil
+641
+|Räcknitz
+642 |Räcknitz
+643 }Räcknitz
+644 |Räcknitz
+645 |Pirnaische Vorstadt
+646 jLöbtau
+647 |Löbtau
+648 |Löbtau
+649 |Gruna
+650 |Gruna
+651_|Leubnitz-Neuostra
+652
+}Leubnitz-Neuostra
+653 }Trachenberge
+654_|Trachenberge
+655 _|Trachenberge
+656 |Trachenberge
+657 |Prohlis
+658 |Prohlis
+659 |Johannstadt
+660 |Johannstadt
+661
+|Räcknitz
+662 |Räcknitz
+663 |Südvorstadt
+664 |Südvorstadt
+665 |Südvorstadt
+666 |Südvorstadt
+667 |Südvorstadt
+668 _|Mickten
+669 }Mickten
+670
+
+1
+
+6
+2
+1
+1
+
+2
+
+4
+1
+
+2
+
+4
+1
+
+}Radeberger Vorstadt
+
+671_}Radeberger Vorstadt
+672 [Altstadt
+673 |Radeberger Vorstadt
+674 |Albertstadt
+675
+
+RKL
+
+[Albertstadt
+
+3
+
+FGU-Nr
+84/85
+82/83
+86
+87
+766/767
+286/287
+549/550
+288/289
+383
+384
+73
+75
+473
+471
+468_1
+469_1
+504
+505
+176
+177
+743/744
+749/750
+367/368_1
+3691
+370_1
+2200
+241
+431
+598/599
+
+Straße
+Bergerstraße
+Bergstraße
+Südhöhe
+Südhöhe
+|Sankt-Petersburger-Straße
+__|Kesselsdorfer Straße
+Kesselsdorfer Straße
+Kesselsdorfer Straße
+Karcherallee
+Karcherallee
+Dohnaer Straße
+Dohnaer Straße
+Grossenhainer Straße
+Grossenhainer Straße
+Trachenberger Platz
+Trachenberger Strasse
+Niedersedlitzer Straße
+Niedersedlitzer Straße
+Gerokstraße
+Gerokstraße
+Bergstraße
+Bergstraße
+|Zellescher Weg
+Zellescher Weg
+Zellescher Weg
+Strehlener Straße
+Strehlener Straße
+Lommatzscher Straße
+Lommatzscher Straße
+
+Haltestelle
+Südhöhe
+Südhöhe
+Südhöhe
+Südhöhe
+Synagoge
+Tharandter Straße
+Tharandter Straße
+'Tharandter Straße
+Tiergartenstraße
+Tiergartenstraße
+
+Richtung
+landwärts
+stadtwärts
+Kleinnauendorf
+Gruna
+Carolaplatz
+landwärts
+stadtwärts
+stadtwärts
+Weißig/Fernsehturm
+Wasaplatz
+
+Tornaer Straße
+Tornaer Straße
+Trachenberger Platz
+Trachenberger Platz
+Trachenberger Platz
+Trachenberger Platz
+Trattendorfer Straße
+Trattendorfer Straße
+Trinitatisplatz
+Trinitatisplatz
+TU / Fritz-Förster-Platz
+TU / Fritz-Förster-Platz
+TU / Fritz-Förster-Platz
+TU / Fritz-Förster-Platz
+TU / Fritz-Förster-Platz
+Uhlandstraße
+Uhlandstraße
+Wächterstraße
+Wächterstraße
+
+tlandwärts
+stadtwärts
+landwärts
+Kaditz
+Klotzsche
+stadtwärts
+Prohlis
+stadtwärts
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+Löbtau
+Weißig/Fernsehturm
+Weißig/Fernsehturm
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+
+7251
+
+Bautzner Straße
+
+Waldschlösschen
+
+Brücke
+
+stadtwärts
+
+726_1
+727_1
+728 1
+874
+
+Bautzner Straße
+Bautzner Straße
+Bautzner Straße
+Waldschlösschenstraße
+
+Waldschlösschen
+Waldschlösschen
+Waldschlösschen
+Waldschlösschen
+
+Brücke
+Brücke
+Brücke
+Brücke
+
+stadtwärts
+landwärts
+landwärts
+Mickten
+
+644_1
+
+Stauffenbergallee
+
+Waldschlößchenstrasse
+
+Seite 19
+
+Radeberger Straße
+
+ul
+
+fd. Nr.|Stadtteil
+676 |Seevorstadt
+677
+
+|Seevorstadt
+
+678 [Friedrichstadt
+679 |Friedrichstadt
+680 [Strehlen
+681_|Strehlen
+682_|Strehlen
+683 |Strehlen
+684 |Mickten
+685 |Mickten
+686 _|Löbtau
+687 |Löbtau
+688 |Plauen
+689 |Plauen
+690
+JReick
+691
+}Reick
+692 _|Trachau
+693 |Trachau
+694 |Trachau
+695
+
+RKL
+6
+
+|Radeberger Vorstadt
+
+696 |Radeberger Vorstadt
+697 |Wilschdorf
+698_ |Seidnitz
+699 |Seidnitz
+700 |Gorbitz
+701_|Pieschen
+702
+|Pieschen
+703 |Trachenberge
+704 |Südvorstadt
+705_|Zschertnitz
+706 |Zschertnitz
+707 _|Zschertnitz
+708 |Südvorstadt
+709 |Zschertnitz
+710
+|Leubnitz-Neuostra
+711
+|Briesnitz
+
+1
+
+2
+
+1
+4
+1
+1
+
+1
+2
+
+1
+4
+1
+1
+1
+
+1
+
+1
+1
+1
+
+FGU-Nr
+906/907
+
+Straße
+Sankt-Petersburger-Straße
+
+Haltestelle
+Walpurgisstraße
+
+908/909
+
+Sankt-Petersburger-Straße
+
+Walpurgisstraße
+
+landwärts
+
+110
+109
+379/380
+376
+377
+378
+420
+430
+263
+264
+282
+283
+535
+536/537
+604
+682
+903
+
+Hamburger Straße
+Schäferstraße
+__|Lockwitzer Straße
+Wasaplatz
+Wasaplatz
+Wasaplatz
+Washingtonstraße
+Washingtonstraße
+Löbtauer Straße
+Löbtauer Straße
+Plauenscher Ring
+Plauenscher Ring
+Reicker Straße
+Reicker Straße
+Grossenhainer Straße
+Grossenhainer Straße
+Grossenhainer Straße
+
+Waltherstraße
+Waltherstraße
+Wasaplatz
+Wasaplatz
+Wasaplatz
+Wasaplatz
+Werftstraße
+Werftstraße
+Wernerstraße
+Wernerstraße
+Westendstraße
+Westendstraße
+Wieckestraße
+Wieckestraße
+Wilder Mann
+Wilder Mann
+Wilder Mann
+
+stadtwärts
+landwärts
+landwärts
+Wasastraße
+Wasastraße
+C.-D.-Friedrich-Str.
+Flugplatz
+Elbe
+landwärts
+stadtwärts
+stadtwärts
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+stadtwärts
+landwärts
+
+Richtung
+stadtwärts
+
+148
+
+Bautzner Straße
+
+Wilhelminenstraße
+
+stadtwärts
+
+147
+978
+543
+545
+296
+459
+460
+606
+673/674
+242
+374_1
+6712
+672_2
+965
+495
+330
+
+Bautzner Straße
+Wilschdorfer Landstraße
+Rennplatzstraße
+Rennplatzstraße
+Kesselsdorfer Straße
+Wurzener Straße
+Wurzener Straße
+Grossenhainer Straße
+|Zellescher Weg
+Paradiesstraße
+Paradiesstraße
+Zellescher Weg
+Zellescher Weg
+Südhöhe
+Gostritzer Straße
+Meissner Landstraße
+
+Wilhelminenstraße
+Wilschdorf AMD
+Winterbergstraße
+Winterbergstraße
+Wölfnitzer Ring
+Wurzener Straße
+Wurzener Straße
+Zeithainer Straße
+Zellescher_ Weg
+Zellescher Weg
+Zellescher Weg
+Zellescher Weg
+Zellescher Weg
+Zschertnitz
+Zschertnitzer Straße
+Zschonergrundstraße
+
+landwärts
+stadtwärts
+Bodenbacher Straße
+landwärts
+landwärts
+Klotzsche
+Kaditz
+stadtwärts
+Bühlau
+stadtwärts
+landwärts
+Löbtau
+Löbtau
+stadtwärts
+Strehlen
+stadtwärts
+
+_
+
+Seite 20
+
+Ifd. Nr.|Stadtteil
+712_}Klotzsche
+713_|Klotzsche
+714 |Klotzsche
+
+RKL
+1
+
+715
+716
+
+|Südvorstadt
+|Südvorstadt
+
+1
+
+717
+718
+719
+
+_|Gruna
+|Gruna
+|Radeberger Vorstadt
+
+6
+3
+
+|FGU-Nr
+
+[Straße
+
+Haltestelle
+
+Richtung
+
+623
+624
+625
+99/100
+101/102
+925/926 _
+927/928
+5141
+
+Königsbrücker Landstraße
+Königsbrücker Landstraße
+Königsbrücker Landstraße
+Nossener Brücke
+Nossener Brücke
+|Zwinglistraße
+1|Zwinglistraße
+Waldschlösschenstr. Tunneleinf.
+
+Zur Neuen Brücke
+Zur Neuen Brücke
+Zur Neuen Brücke
+Zwickauer Straße
+Zwickauer Straße
+Zwinglistraße
+Zwinglistraße
+
+Klotzsche
+Klotzsche
+stadtwärts
+Löbtau
+Blasewitz
+stadtwärts
+landwärts
+Stauffenbergallee
+
+FGU-Nr
+
+Straße
+
+Haltestelle
+
+Transportable Fahrgastunterstände
+Ifd. Nr.|Stadtteil
+
+RKL
+
+1_jAltstadt
+
+1
+
+Budapester Straße/Brücke
+
+Budapester Straße
+
+landwärts
+
+2
+JAltstadt
+3 _ |Altstadt
+
+1
+1
+
+Budapester Straße/Brücke
+Pfotenhauer Straße
+
+Budapester Straße
+Gutenbergstraße
+
+stadtwärts
+stadtwärts
+
+4
+
+Richtung
+
+[Altstadt
+
+1
+
+Carolabrück/Akademiestr.
+
+Synagoge
+
+Pirnaischer Platz
+
+5__|Blasewitz
+6
+__|Blasewitz
+7
+|Cotta
+8 _ |Cotta
+9
+_|Cotta
+
+1
+1
+1
+1
+1
+
+Fetscherstraße
+Borsbergstraße
+Coventrystraße
+Coventry-/Schlehenstraße
+Reisewitzer Straße
+
+Fetscherstraße
+Bergmannstraße
+Betriebshof Gorbitz
+Betriebshof Gorbitz Schleife
+Mohorner Straße
+
+Elbe
+stadtwärts
+stadtwärts
+stadtwärts
+
+10
+
+Cotta
+
+4
+
+Am
+
+Am
+
+stadtwärts
+
+11_|Cotta
+12
+_|Leuben
+13
+_|Leuben
+14_|Leuben
+15__|Pieschen
+16
+_|Pieschen
+17__|Pieschen
+18
+_}Prohlis
+19
+;Prohlis
+
+1
+4
+1
+1
+1
+1
+1
+1
+1
+
+Warthaer Straße
+Leubener Straße
+Tronitzer/Struppener Straße
+Berthold-Haupt-Straße
+Trachenberger Straße
+Leipziger Straße
+Leipziger Straße
+Klosterteichplatz
+Lockwitzgrund
+
+Lehmberg
+
+Seite 21
+
+Lehmberg
+
+Freiheit
+Friedhof L.euben
+Tronitzer Straße
+Fähre Kleinzschachwitz
+Trachenberger Platz
+Trachauer Straße
+Trachauer Straße
+Kiosterteichplatz
+Fußweg nach Borthen
+
+landwärts
+landwärts
+stadtwärts
+stadtwärts
+ElbePark
+landwärts
+stadtwärts
+stadtwärts
+stadtwärts
+
+Ifd. Nr.|Stadtteil
+1
+Altstadt
+
+RKL
+1
+
+FGU-Nr
+AItO2
+
+Sonstige Fahrgastunterstände
+Straße
+Haltestelle
+Pfotenhauer Straße
+Johannstadt
+
+Richtung
+stadtwärts
+
+Bauart
+Betonfertigteile
+
+2
+
+|Blasewitz
+
+2
+
+Bla03
+
+Blasewitzer Straße
+
+Augsburger Str.
+
+stadtwärts
+
+Betonfertigteile
+
+3
+
+|Blasewitz
+
+2
+
+Bla04
+
+Blasewitzer Straße
+
+Fetscherstr.
+
+stadtwärts
+
+Betonfertigteile
+
+4
+
+Cotta
+
+1
+
+C003
+
+Wiesbadener Straße
+
+Kasseler Str.
+
+landwärts
+
+Betonfertigteile
+
+5
+6
+
+[Cotta
+|Cotta
+
+1
+1
+
+C005
+C007
+
+Ziegeleistraße
+Kesselsdorfer Straße
+
+Omsewitz
+J.-Vahlteich-Str.
+
+stadtwärts
+landwärts
+
+gemauert
+gemauert
+
+7
+
+|Cotta
+
+1
+
+Co08
+
+Kesselsdorfer Straße
+
+Kapellenweg
+
+landwärts
+
+gemauert
+
+8
+9
+10
+
+|Cotta
+|Cotta
+|Cotta
+
+1
+1
+1
+
+C009
+C010
+C013
+
+Altdölzschen
+Saalhausener Straße
+Julius-Vahlteich-Straße
+
+Dölzschen
+Neunimptscher Str.
+Coventrystraße
+
+stadtwärts
+stadtwärts
+stadtwärts
+
+Betonfertigteile
+Betonfertigteile
+gemauert
+
+11
+_|Cotta
+12_|Cotta/Ockerwitz
+13_|Klotzsche
+
+1
+1
+1
+
+Co014
+C015
+Klo01
+
+Julius-Vahlteich-Straße
+Ockerwitzer Allee
+Zum Windkanal
+
+Coventrystraße
+Ockemitz Endpunkt
+Haus 156
+
+landwärts
+stadtwärts
+
+gemauert
+Stahl/Glas
+Wellblech
+
+14
+|Klotzsche
+15_|Klotzsche
+16
+|Klotzsche
+17
+|Klotzsche
+
+1
+1
+1
+4
+
+KIo03
+Klo05
+KIo06
+Kio07
+
+Zur Wetterwarte
+Boltenhagener Straße
+K.-Liebknecht-Straße
+K.-Liebknecht-Straße
+
+Zur Steinhöhe
+Am Steinacker
+H.-Tessenow-Weg
+Am Festspielhaus
+
+stadtwärts
+Omsewitz
+stadtwärts
+stadtwärts
+
+Betonfertigteile
+Betonfertigteile
+Betonfertigteile
+Betonfertigteile
+
+18
+
+_|Klotzsche
+
+1
+
+Klo08
+
+Moritzburger Weg
+
+Brunnenweg
+
+stadtwärts
+
+Betonfertigteile
+
+19
+20
+
+|Klotzsche
+|Klotzsche
+
+1
+4
+
+Klo12
+KIo13
+
+Saßnitzer Straße
+Radebeurger Straße
+
+Keulenbergstraße
+Am Olter
+
+Klotzsche
+stadtwärts
+
+Betonfertigteile
+Betonfertigteile
+
+21_|Klotzsche
+22
+|Klotzsche
+23
+}Klotzsche
+24
+|Leuben
+25
+|Langebrück
+26
+|Loschwitz
+
+1
+1
+1
+1
+1
+2
+
+Klo14
+Klo15
+Klo16
+Leu01
+La01
+Lo01
+
+Radebeurger Straße
+Radebeurger Straße
+Mühlweg
+Struppener Straße
+Bergstraße
+Bautzner Str./Schillerstr.
+
+Elisterweg
+Waldteichstraße
+Lößnitzweg
+Johannes-Brahms-Straße
+Spritzenhaus
+Morgrundbrücke
+
+stadtwärts
+landwärts
+landwärts
+Löbtau
+landwärts/stadtwärts
+stadtwärts
+
+Betorfertigteile
+Betonfertigteile
+Betonfertigteile
+gemauert
+Stahl/Glas
+Holz
+
+27
+28
+
+|Loschwitz
+iLoschwitz
+
+1
+1
+
+L004
+Lo05
+
+Krügerstraße
+Ullersdorfer Platz
+
+Auf der Höhe
+Bühlau
+
+Steglichstraße
+stadtwärts
+
+Betonfertigteile
+gemauert
+
+29
+
+|Loschwitz
+
+1
+
+Lo06
+
+Grundstraße
+
+Tännichtstraße
+
+stadtwärts
+
+Betonfertigteile
+
+30
+
+iLoschwitz
+
+1
+
+Lo07
+
+Pillnitzer Landstraße
+
+Van-Gogh-Straße
+
+stadtwärts
+
+Betonfertigteile
+
+31_|Loschwitz
+32 _ |Neustadt
+
+1
+1
+
+Lo08
+Neu01
+
+Pilinitzer Landstraße
+Hechtstraße
+
+Moosleite
+Bärwalder Straße
+
+landwärts
+Kaditz
+
+gemauert/Wellblech
+Betonfertigteile
+
+33 _ |Neustadt
+
+1
+
+Neu02
+
+Bautzner Straße
+
+Nordstraße
+
+stadtwärts
+
+Betonrfertigteile
+
+34
+
+6
+
+Neu03
+
+Bautzner Straße
+
+Bautzner/Rothenburger Straße
+
+|[landwärts
+
+gemauert
+
+[Neustadt
+
+Seite 22
+
+Ifd. Nr. Stadtteil
+
+RKL
+
+FGU-Nr
+
+Straße
+
+Haltestelle
+
+Richtung
+
+Bauart
+
+35
+|Pieschen
+36 _ |Pieschen
+
+1
+1
+
+Pie01
+Pie02
+
+M.-Gorki-Straße
+Moritzburger Landstr.
+
+St.Pauli-Friedhof
+Heidefriedhof
+
+Kaditz
+stadtwärts
+
+Betonfertigteile
+Betonfertigteile
+
+37
+
+|Pieschen
+
+4
+
+Pie05
+
+Moritzburger Landstr.
+
+Baumwiese
+
+stadtwärts
+
+Betonfertigteile
+
+38
+
+_|Plauen
+
+2
+
+Pla02
+
+Nürnberger Straße
+
+EP Südvorstadt
+
+stadtwärts
+
+gemauert
+
+39
+40
+
+{Plauen
+[Plauen
+
+2
+2
+
+Pla03
+Pla04
+
+Kohlenstraße
+Kohlenstraße
+
+Dorfhainer Straße
+Dorfhainer Straße
+
+landwärts
+stadtwärts
+
+Betonfertigteile
+Betonfertigteile
+
+41
+
+__|Prohlis
+
+1
+
+Pro01
+
+Langer Weg
+
+Ernst-Toller-Straße
+
+Blasewitz
+
+Betonfertigteile
+
+42 _ |Prohlis
+43
+|Prohlis
+44
+|Schönfeld-Weißig
+45
+|Schönfeld-Weißig
+46
+|Schönfeld-Weißig
+
+1
+1
+1
+1
+1
+
+Prco02
+Pro06
+SWo01
+SWO2
+SWO3
+
+Straße des 17.Juni
+Leubnitzer Höhe
+Bautzner Landstraße
+Dresdner Straße
+Dresdner Straße
+
+Straße des 17.Juni
+Koloniestraße
+Taubenberg
+Steinkreuz
+Steinkreuz
+
+stadtwärts
+landwärts
+stadtwärts
+landwärts
+stadtwärts
+
+gemauert
+Betonfertigteile
+Stahl/Glas
+Stahl/Glas
+Stahl/Glas
+
+47
+
+|Schönfeld-Weißig
+
+1
+
+SWO04
+
+Südstraße
+
+Hutbergschule
+
+beide Richtungen
+
+Stahl/Glas
+
+48_
+
+|Schönfeld-Weißig
+
+4
+
+SWO5
+
+Südstraße
+
+Südstraße
+
+beide Richtungen
+
+gemauert
+
+49
+
+|Schönfeld-Weißig
+
+1
+
+SWO6
+
+Hauptstraße
+
+Gasthof Weißig
+
+beide Richtungen
+
+Stahl/Glas
+
+50
+
+_|Schönfeld-Weißig
+
+1
+
+SWO7
+
+Bautzner Straße
+
+Am Weißiger Bach
+
+landwärts
+
+Stahl/Glas
+
+51
+
+__|Schönfeld-Weißig
+
+1
+
+SWOß
+
+Bautzner Straße
+
+Am Weißiger Bach
+
+stadtwärts
+
+Stahl/Glas
+
+52
+_|Schönfeld-Weißig
+53
+|Schönfeld-Weißig
+54
+_|Schönfeld-Weißig
+55_ |Schönfeld-Weißig
+56_}Weixdorf
+
+1
+1
+1
+1
+1
+
+SWOog
+SW10
+SW34
+SW36
+Wxdo2
+
+An der Prießnitzaue
+An der Prießnitzaue
+Fernsehturmstraße
+Straße des Friedens
+_ [Alte Dresdner Straße
+
+Zum Hutbergblick
+Zum Hutbergblick
+Fernsehturm
+Birkenstraße
+Haltepunkt Bad
+
+Weißig
+Löbtau
+Gönnsdorf
+Pappritz
+stadtwärts
+
+Stahl/Glas
+Stahl/Glas
+Stahl/Glas
+Stahl/Glas
+Stahl/Glas
+
+Seite 23
+
+Legende:
+RKL
+
+Reinigungsklasse
+
+FGU-Nr.
+
+Fahrgastunterstand-Nr.
+
+TFGU
+
+Transportabler Fahrgastunterstand
+
+HST-Insel
+
+Haltestellen-Insel
+
+EP
+
+Endpunkt
+
+Gesamtanzahl:
+
+794 Stück/Einheiten
+
+FGU
+
+719 Einheiten
+
+19 Stück
+
+Sonstige
+
+56 Stück
+
+Reinigung
+1x wöchentlich
+2x wöchentlich
+3x wöchentlich
+
+6x wöchentlich (Mi - Mo)
+
+Reinigungsklasse
+DOPDND—-
+
+TFGU
+
+Seite 24
+
+

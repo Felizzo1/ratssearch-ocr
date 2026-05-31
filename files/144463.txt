@@ -1,0 +1,3153 @@
+Landeshauptstadt Dresden
+
+STESAD GmbH
+
+KOMMUNALER
+SCHULEN
+
+SCHULBAU
+
+Teil2
+
+UND SPORTHALLEN
+
+Ausführungshinweise
+für Schulgebäude und Sporthallen
+Neubau
+Sanierung
+
+Verantwortlicher (SVA):
+
+Geschäftsbereich Allgemeine Verwaltung
+Schulverwaltungsamt I GB1/ A41
+Herr Kretzschmar
+Fiedlerstraße 30
+01307 Dresden
+
+Verantwortliche (STESAD):
+
+STESAD GmbH
+Hr. Eckarth
+Königsbrücker Str. 17
+
+01099 Dresden
+
+STESADEWIR
+
+Version:
+
+ENTWICKELN
+
+DRESDEN
+
+Teil 2 -V. 1.00 - Technik - 31.05.2013
+
+Technik
+
+STESADEWIR
+
+ENTWICKELN
+
+DRESDEN
+
+Allgemeine Planungshinweise
+
+©
+
+snoua
+
+2
+
+@M
+
+Vorbemerkung:
+Als allgemeine Grundlagen werden ohne weitere Erwähnung vorausgesetzt:
+1. behördliche Auflagen
+die Einhaltung einschlägiger technischer Normen und Vorschriften
+die Planung und Ausführung nach aktuellem Stand anerkannter Regeln der Technik
+
+die UVV der Unfallkasse Sachsen und die Forderungen der LDD-Sachsen, Abteilung Arbeitsschutz
+Die Forderung UKS sind einzuhalten , Regelwerk GUV und Planungshinweise GUV
+Schulbaurichtlinie und LBauO sind einzuhalten
+Leitlinien für die Behindertenarbeit in der LHD, Stadtratsbeschluss Nr. V3954 SR76
+die Verwendung neuer und ungebrauchter Bauteile und Baustoffe, eingeführt nach
+aktuell gültigen Baubestimmungen mit Nachweisen nach Bauregelliste
+(Bauaufsichtliche Zulassung, amtliche Prüfzeugnisse, Einstufungsscheine etc.)
+
+Hinweise bei Bauvorhaben mit Fördermitteln:
+9
+
+10
+11
+
+Die für das Bauvorhaben gültigen Förderrichtlinien sind mit dem AG vor Planungsbeginn abzustimmen
+(Bedarfsplanung)
+Die Vorgaben aus dem Fördermittelbescheid bzw. der baufachlichen Stellungnahme im
+Rahmen der Prüfung des Fördermittelantrages sind umzusetzen
+Bauteilbezogene Teilung der Kosten hat stets zu erfolgen: Schulgebäude, Sporthalle,
+Freiflächen (Verteilerschlüssel von nicht eindeutig zuordenbaren Kosten ist abzustimmen)
+
+Projektabhängige Hinweise:
+12 Wesentliche Projektspezifischen Planungshinweise sind im Rahmen einer Bedarfsplanung
+zu klären und mit dem AG vor Planungsbeginn abzustimmen
+13 ENEV - Standards sind Projektspezifisch zu prüfen
+1 Weiterzuverwendende Ausstattungen und Einbauten (Sanierungen) sind durch den AG
+zu Beginn der Planung anzuzeigen
+Besondere Pädagogische Konzepte der Einrichtungen sind durch den AG zu Beginn
+15 der Planung anzuzeigen
+
+Verfahrenshinweise :
+
+16 Die vorliegende Planungshinweise sind bei allen Bauvorhaben des Schulverwaltungsamtes umzusetzen
+17 Die Projektsteuerung trägt Sorge, dass sämtliche verantwortliche Planer diese Hinweise vor Beginn der
+Planungsaufgaben erhalten.
+Abweichungen von einzelnen Vorgaben können projektspezifisch erfolgen, wenn eine
+Zustimmung des AG erfolgt und aktenkundig festgehalten wurde. Im Zweifelsfall oder bei wesentlichen
+Abweichungen erfolgt die Zustimmung des AG/ SVA über die Bestätigung
+einer begründeten Projektänderungsanzeige
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+Seite2/19
+
+STESADEWIR
+
+DRESDEN
+
+Abstimmungsbedarf mit dem SVA
+
+4
+
+1
+
+Grundsätzliche Hinweise für alle Gewerke Technik
+
+5
+
+Außenanlagen, nicht öffentliche Erschließung
+
+6
+
+Wasser- und Abwasseranlagen
+
+7
+
+»rR
+
+Wärmeversorgungstechnik / Brauchwassererwärmungsanlagen
+
+10
+
+a
+
+Lüftungstechnik
+
+11
+
+Starkstromanlagen
+
+12
+
+Fernmelde- und informationstechnische Anlagen
+
+14
+
+Fördertechnik
+
+16
+
+won
+
+0
+
+NO
+
+Seite
+
+oO
+
+Inhaltsverzeichnis Teil 2 Technik
+
+ENTWICKELN
+
+9 Gebäudeautomation
+
+17
+
+10
+
+18
+
+Schnittstellen zum Hoch-/Ausbau und zum Tiefbau
+
+Anlagen:
+1
+
+Energetische Standards auf Basis des Leitfadens Energiesparendes Bauen für kommunale
+Hochbauten der Landeshauptstadt Dresden Stand 2008;
+Teil TGA aktualisiert und ergänzt Stand Mai 2013
+
+2
+
+Checkliste Essenausgabestellen vom 11.04.2012
+
+Version 1.0 - Teil 2- 31.05.2013
+
+Seite3/19
+
+STESADEWIR
+
+ENTWICKELN
+
+DRESDEN
+
+0 |Abstimmungsbedarf mit dem SVA - vor und während der Planungen
+Hinweis:
+Die hier aufgeführten Punkte stellen eine Zusammenfassung zur schnelleren Übersicht dar.
+Die einzelnen Punkte werden im jeweiligen Gewerk der Folgeseiten nochmals aufgeführt.
+|Küchenausstattungen,
+
+ohne Nr.
+2|
+
+Fach- und Spezialkabinette in Absprache und Koordinierung mit dem Lieferanten
+
+x
+x
+
+4
+
+Befahrung von Grundleitungen im Bestand.
+
+16
+
+|Wasch- und Duschräume in Sporthallen
+
+x
+
+1 | 8
+
+|Trinkbrunneneinsatz, wenn gefordert
+Anzahl und Bestückung von Sanitärzubehör wie Hygienebehälter Mädchen, WC-Bürstengarnitur, Papierollen-
+
+x
+
+|12 und Reserverollenhalter, Garderobenhaken, Papierhandtuchspender, elektrische Warmlufttrockner, Papierkörbe,
+Seifenspender für Flüssigseife und Desinfektionsmittel etc
+
+x
+
+3 | 1
+
+Trockenurinale oder Absauqurinale mit verdecktem Zu- und Ablauf (3-41) und verdeckter Befestigung mit
+
+3|2|>
+
+X
+
+vandalensicherer, verdeckt liegender elektronischer Spülung für Schüler
+3|
+
+2 | 3
+
+|In Grundschulen ist für den Hort- und Schulgartenbereich die Bereitstellung von Warmwasser abzustimmen.
+
+x
+
+3|
+
+2 | 6
+
+|Eachkabinett Hauswirtschaft: TW und AW - Anschlüsse für Küchenmöbel
+
+x
+
+|Fachkabinett
+
+2 | 7
+
+3|
+
+2 | 8
+
+3|
+
+3 | 2 | 11
+
+Werken: Becken/Ausguss mit Tonabscheider (3 Kammern) für Keramikarbeiten
+
+x
+
+|Fachkabinett Kunst: Waschrinne Edelstahl
+
+x
+
+|Personalraum Arztzimmer:
+
+x
+
+3 | 2 | 12|Personalraum Teeküche für Lehrerzimer/Sekretariat:
+
+x
+
+3 | 2 | 13 |Personalraum Werkstatt Hausmeister:
+
+x
+
+3 | 2 | 14
+
+X
+
+|Personalraum Küchenpersonal:
+
+3 | 2 | 15 |Küchen unter Beachtung der beiliegenden Checkliste:
+slılı
+
+x
+
+Einbruchmeldeanlagen nach Empfehlung der Polizeidirektion Dresden, Inspektion Prävention / Zentrale Dienste,
+FD Prävention, Kriminalpolizeiliche Beratungsstelle
+
+X
+
+5 |
+
+1 | 2
+
+|Außenhautüberwachung durch Magnet- und Riegelkontakte an allen Außentüren
+
+x
+
+5|
+
+ı | 3
+
+|fallmäßige Überwachung ausgewählter Gangbereiche und Treppenräume mit Bewegungsmeldern
+
+x
+
+|Überwachung der Sporthallen nach Abstimmung
+
+x
+
+5 | 1 | 6
+
+Jeventuelle Aufschaltung auf Wachdienst
+
+x
+
+5 | 2 | 4
+
+Lüftungsanlagen für Sporthallen sind so zu konzipieren, dass eine den unterschiedlichen Nutzungsbedingungen
+|(Wettkampf mit Zuschauern, normaler Schulsportbetrieb, Vereinssport, etc.) angepasste Betriebsweise möglich
+
+x
+
+5 | 1 | 4
+
+ist.
+Schulen und Sporthallen mit Sicheiheilsbeleuchlung. Dafür eine Zentralbatterieanlage. Sicherheitslichtgerät mit
+6 | 2 | 4
+
+|Stromkreisüberwachung der Endstromkreise mit elektronischem Prüfbuch. Meldetableau vorzugsweise im
+
+x
+
+Sekretariat oder Leiterzimmer
+sel2la
+
+Externe Anschlussmöglichkeit für mobiles Netzersatzaggregat zum Anschluss an die Schulen und Sporthallen
+prüfen.
+Is Elektrische Antriebe für hochziehbare Sportgeräte in Schulsporthallen mit Schlüsseltastern (Totmannschaltung)
+
+6|
+
+3
+
+7|
+
+4 | 6
+
+X
+x
+
+und Not-Aus-Tastern mit Sichtkontakt zu den zu bedienenden Geräten
+
+7|alz
+
+[weitere Forderungen an die ELA-Anlage nach Abstimmung entsprechend der geplanten Nutzung
+Induktions-Hörschleife für einen Versammlungsraum und ausgewählte Klassenräume, mindestens ein mobiler
+
+x
+X
+
+Hörschleifenverstärker mit Mikrofon und Anschlussset
+8
+
+9|
+
+Kleingüteraufzug
+
+x
+
+Personalaufzug
+
+x
+
+Gebäudeautomation: Komplexe Heizungs- und Lüftungstechnische Anlagen müssen aus energetischen Gründen
+miteinander kommunizieren. Die Steuerung der Anlagen muss als in sich geschlossenes System regelbar und
+funktionstüchtig sein.
+Weitere Einsatzmöglichkeiten der Gebäudeautomation zur Steuerung des Sonnenschutzes im Zusammenhang
+mit der Raumtemperierung durch eine Lüftungsanlage, der Raumtemperierung durch eine statische
+Heizungsanlage, einer zentralen Raumlicht- und Türschließsteuerung sind technisch und wirtschaftlich in der
+
+1
+
+ola
+
+x
+
+X
+
+Leistungsphase 2 zu prüfen und mit dem SVA abzustimmen.
+410|
+410|
+
+1 | 4
+
+|Koordination und Optimierung der Schlüsseltresore (Zugang Dritter zum Gebäude)
+
+2 | 4
+
+|Eußbodeneinläufe nach DIN EN 12056 (Standorte im Gebäude, Ausführungen)
+|Festlegung von Wand-,
+
+Decken- und Fußbodenfarben zur Beleuchtungsberechnung
+
+10|
+
+5 | 5
+
+410|
+
+5 | 11 |Sonnenschutzanlagen vorrangig elektrisch, um an Wochenenden automatisch verschatten zu können
+
+40|
+
+5
+ä
+
+|12 Dresdener Schulen sollen entsprechend einer Empfehlung der Polizei mit Einbruchmeldeanlagen ausgerüstet
+werden. Die Hinweise der Polizei sind zu beachten.
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+x
+x
+x
+
+x
+X
+
+Seite 4/19
+
+STESADEWIR
+
+ENTWICKELN
+
+1
+
+|Grundsätzliche Hinweise für alle Technik - Gewerke
+
+4
+
+|Wirtschaftlichkeitsbetrachtungen vorzunehmen. Dabei sind für die Untersuchungen und Kostenschätzungen bei
+
+DRESDEN
+
+Im Rahmen der Leistungsphase 2 sind objektkonkrete Untersuchungen in Varianten einschließlich der
+Erfordernis die anderen Planungsbeteiligten (z.Bsp. Gebäudeplanung, Bauphysik) mit einzubeziehen.
+1
+
+|Die Betriebskosten und der Jahres-Energieverbrauch sind auszuweisen.
+
+2
+
+Für die Art der Wärmeerzeugung und der Raumbeheizung
+
+sind Varianten unter wirtschaftlichen Gesichtspunkten
+
+zu betrachten.
+Es sind Variantenuntersuchungen verschiedener Lüftungssysteme durchzuführen. Eine betriebskostensparende
+3
+
+|und effektive Nachtauskühlung im Sommerfall sind in die Untersuchungen einzubeziehen und haben
+ergebnisabhängig Vorrang.
+
+4
+
+|Grundsätzlich ist die Möglickeit der freien Lüftung bei Lüftgsbedarf zu prüfen
+
+a
+
+Beim Neubau von Sporthallen ist vorzugsweise eine Fußbodenheizung abgestimmt auf das geplante
+Sportbodensystem einzusetzen. Die Einsatzmöglichkeiten von Deckenstrahlungsheizung ist zu prüfen
+
+6
+
+|Die Nutzung von Regenwasser für konkrete Einsatzfälle ist unter wirtschaftlichen Gesichtspunkten zu prüfen.
+
+7
+
+Bei großen Objekten sind für WC-Anlagen die Nutzung von Regen- bzw. Brunnenwasser und für die WO-
+
+Bereiche Herren/ Jungen sind Trockenurinale verschiedener Hersteller und Systeme zu betrachten.
+8
+
+Auf die WWarmwasserversorgung ist, wenn keine Anforderungen vorliegen zu verzichten. Es ist zu prüfen, ob eine
+zentrale oder dezentrale Warmwasserbereitung wirtschaftlich ist.
+
+9
+
+Für Sporthallen soll der Einsatz der Warmwasserbereitung mit Speicher-Ladesystem im Technikraum geprüft
+werden. Der Einsatz von Frischwasserstationen ist zu prüfen.
+
+10
+
+In Abstimmung mit dem Elektroplaner sind Wirtschaftlichkeitsbetrachtungen zur raumweisen Regelung über z.B.
+|Zonenventile im Zusammenhang mit dem geplanten Einsatz von Präsenzmeldern vorzunehmen. Eine
+
+Wirtschaftlichkeitsbetrachtung über ein Installationsbussystem ist zu prüfen.
+41
+
+|Eventuelle Mehrkosten für dimmbare EVG’s zur Helligkeitsregelung in Klassenzimmern sind zu benennen.
+
+12
+
+Beim Sicherheitslichtgerät prüfen des Einsatzes von weiterführender Technik wie Einzelleuchtenüberwachung
+
+und Mischbetrieb von Dauer- und Bereitschaftsleuchten auf einem Endstromkreis
+13
+
+|LED-Leuchtmittel für Rettungzeichen- und Sicherheitsleuchten
+
+14
+
+|Der Einsatz einer zentralen oder einer dezentralen
+
+Blindstromkompensationsanlage ist zu prüfen.
+
+In der Leistungsphase 3 werden ausgewählte Varianten durch Wirtschaftlichkeitsberechnungen detailliert untersucht.
+Dabei sind die diesbezüglichen Angaben der Anlage Energetische Standards zu beachten.
+Es ist in Abstimmung mit dem Architekten der Grundsatz umzusetzen, dass Technikzentralen gut und möglichst direkt
+zugänglich sein müssen. Die Transportwege zu den Technikzentralen sind im Hinblick auf die Montage der Anlagen
+
+sowie auf das Auswechseln größerer Anlagenteile ausreichend zu dimensionieren. Bedienung, Inspektion, Wartung
+und Bewegungsflächen vor den Anlagenteilen sind durch eine ausreichende Zugänglichkeit auszubilden.
+Insgesamt ist bei der Wahl der Werkstoffe und Aggregate auf Wirtschaftlichkeit und Langlebigkeit
+|Anlagenteile auszuwählen, die wartungsarm oder -wartungsfrei sind.
+
+zu achten. Es sind
+
+Sind Nachweise über die energetische Optimierung der Anlagen während und nach der Inbetriebnahme gefordert, so
+
+ist der Einsatz einer Gebäudeautomation grundsätzlich in Erwägung zu ziehen.
+6
+
+7
+
+Gleichzeitig sind nur mit Einsatz der Gebäudeautomation und entsprechender Zähleinrichtungen die Nachweise über
+|die tatsächlich verbrauchten Jahresenergiemengen für alle Medien mit den geplanten und somit dem
+Sollenergieverbrauch festzustellen.
+Bei der Sanierung von Bestandsgebäuden ist im Allgemeinen damit zu rechnen, dass die gesamte haustechnische
+|Anlage erneuert werden muss. In diesem Zusammenhang sind speziell die aktuellen energiewirtschaftlichen und
+
+brandschutztechnischen Forderungen zu beachten.
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+Seites/19
+
+STESADEwin ENTWICKELN
+
+DRESDEN
+
+Außenanlagen, nichtöffentliche Erschließung
+Zu Beginn der Planung sind mit den Ver- und Entsorgungsunternehmen die Medienanbindugen abzufordern und
+
+abzustimmen
+1
+
+|die Medienauskunft zu allen im Grundstück vorhandenen Medien
+
+die Anbindepunkte an die öffentliche Erschließung, die Leistungsgrenzen der Bautätigkeiten der Stadtverwaltung
+2
+
+und den Medienversorgern und etwaige Kostenbeteiligungen für öffentliche bzw. nichtöffentliche Erschließung im
+
+Leistungsumfang der Medienversorger
+
+Die Unterlagen sind allen Planungsbeteiligten nachweislich zur Verfügung zu stellen.
+Die Anzahl und die Lage der Medien - Hauseinführungen sind zu optimieren
+
+Zu Beginn der Planung sind bei Sanierungsmaßnahmen die Grundleitungen innerhalb und außerhalb des Gebäudes
+durch eine TV -Inspektion zu untersuchen. Für die Sanierung des Grundleitungsbestandes ist eine
+Handlungsempfehlung zu erarbeiten und dabei die Information einer vorhergehenden Befahrung einzuholen
+(Vermeidung von mehrfachen Befahrungen bzw. Zugriff auf vorhandene Unterlagen).
+
+Die Einleitung von Regenwasser und die Möglichkeit der Versickerung im Gelände sind zu prüfen.
+Anschlüsse im Bereich der Außen- und Freiflächen (z.Bsp. Verschließbare Wandeinbaukästen in Kombination Sanitär
+und Elektro) sind abzustimmen.
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+Seite 6/19
+
+STESADE:
+WIR ENTWICKELN
+
+DALSDEN
+
+3 |Abwasser- und Wasseranlagen
+1
+
+|Grundsätzliche Hinweise
+Die Auswahl des Rohrmaterials für die Trinkwasserinstallation ist unter Beachtung der Wasseranalysen der
+
+Wasserwerke, der DIN-Vorschriften und unter Beachtung des Brandschutzes vorzunehmen
+Ist für die Trinkwasserinstallation ein geprüftes und DVGW - zugelassenes Edelstahlrohrsystem (Rohr und Fittings
+ein Material mit Systemzulassung) vorgesehen, dann mit Gewährleistungsvereinbarung des ZVHSK o. 4. und dessen
+PRE-Zahl (Materialzusammensetzung) größer als 23,1 ist.
+Bei der Planung der Trinkwasserinstallation sind neben den anerkannten Regeln der Technik (DIN 1988 bzw.
+europäische Folgenorm (EN 806)) insbesondere die Hygieneaspekte (VDI 6023 - Hygiene in Trinkwasser-
+
+Installationen - Anforderungen an Planung, Ausführung, Betrieb und Instandhaltung) und die DVGW-Arbeitsblätter
+551, W 552 und W 553 incl. der Probeentnahmestellen in KW, WW und Zirkulation zu beachten
+
+W
+
+Auf Basis der TrinwVO sind in der Leistungsphase 3 die Strangschemen und Grundrisse beim Gesundheitsamt als
+
+pdf- Datei einzureichen. Die Anzeige zur Fertigstellung erfolgt 4 Wochen vor Inbetriebnahme beim Gesundheitsamt.
+Die ausführende Firma muss eine Hygieneschulung nach VDI 6023, Kategorie A nachweisen,
+Standorte von Unterwasserzählern nach dem Hauptzähler:
+
+1
+
+|KW-Zulauf zum WWB
+
+2
+
+|Fremdanbieter Küche: getrennte KW und VVW
+
+3
+4
+
+|Gartenarmaturen
+|unterschiedliche Nutzenseinheiten
+
+Waschtische, Urinale und wandhängende WC’s mit Vorwandinstallation, komplettes Montagesystem für Einbau in
+Trockenbauvorwand. Die Montagehöhen für die unterschiedlichen Benutzer sind zu beachten.
+
+x
+
+8
+
+|Trinkbrunneneinsatz, wenn gefordert
+
+9
+
+Rückstaugefährdete Bereiche (unterhalb Straßenniveau) sind durch Hebeanlagen bzw. Doppelpumpen-Hebeanlagen
+(fäkalienhaltige Abwasser) zu schützen
+
+10
+
+|Rohrmaterial für Fallleitungen vorzugsweise muffenloses Gussrohr nach DIN 19552
+
+11
+
+|Objektanbindeleitungen vorzugsweise als heißwasserbeständiges Kunststoffrohr nach DIN 19 535
+
+12
+
+Sanitärzubehör wie Hygienebehälter Mädchen, WC-Bürstengarnitur, Papierollen- und Reserverollenhalter,
+|Garderobenhaken, Papierhandtuchspender, elektrische Warmlufttrockner, Papierkörbe, Seifenspender für
+
+x
+
+Flüssigseife und Desinfektionsmittel etc
+13
+14
+
+|Alle Auslaufarmaturen mit WW-Anschluss müssen einen Verbrühschutz garantieren.
+Die Auslaufarmaturen sind ohne elektromechanische und Batteriegetriebene Steuerungen einzusetzen (Betriebs- und
+\Wartungskosten).
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+Seite 7/19
+
+STESADEWIR ENTWICKELN
+
+DRESDEN
+
+3 |Abwasser- und Wasseranlagen
+Ausstattung in Schulen und Sporthallen
+1
+
+|WC-Anlagen:
+
+2
+
+|Urinalanlagen:
+
+1 Iwe-sitz mit durchgehender Edelstahlwelle mit Deckel
+
+3
+
+1
+
+Trockenurinale oder Absaugurinale mit verdeckten Zu- und Ablauf (3-41) und verdeckter Befestigung mit
+vandalensicherer, verdeckt liegender elektronischer Spülung für Schüler
+
+2
+
+|Wandeinbaudruckspüler für Lehrer
+
+x
+
+|WC - Vorräume:
+Waschtisch mit Kaltwasser-Selbstschlussventil (glatter
+
+1
+
+Armaturenkörper) mit Verdrehsicherung und
+
+Ablaufarmatur (Schaftsiebventil) mit Überlauf ohne Stopfen
+2
+
+|Vorwandinstallation, keine separate Ablage
+Spiegel über Waschtisch (Sicherheitsglas), vorzugsweise eingefliest oder mit verdeckter diebstahlsicherer
+
+3
+
+Halterung
+|in Grundschulen ist für den Hort- und Schulgartenbereich die Bereitstellung von Warmwasser abzustimmen.
+
+4
+
+4
+
+x
+
+|Klassenzimmer:
+1
+
+Sanitärkeramik mit Kaltwasser-Standventil mit Verdrehsicherung und Ablaufarmatur (Schaftsiebventil) mit
+Überlauf ohne Stopfen (neben Tafel)
+
+2
+
+|keine Spiegel
+
+|Fachkabinette Biologie, Physik, Chemie und zugehörige Vorbereitungsräume:
+
+5
+
+6
+
+1
+
+|Klassenzimmerwaschtisch vgl. oben
+
+2
+
+|Vorbereitungsraum: Waschtisch Einhebelmischbatterie (KW+VVW) ohne Zugstange (glatter Armaturenkörper),
+Ablaufarmatur (Schaftsiebventil) mit Überlauf ohne Stopfen, dezentrale VYW - Versorgung
+
+3
+
+|im FK Chemie für Ausgussbecken den Einsatz von Rohrtrennern beachten.
+
+|Fachkabinett Hauswirtschaft:
+
+7
+
+1
+
+|Waschtisch-Ausgusskombination in Edelstahl
+
+2
+
+Waschtisch Einhebelmischbatterie (KW+WW) ohne Zugstange (glatter Armaturenkörper), Ablaufarmatur
+(Schaftsiebventil) mit Überlauf ohne Stopfen, dezentrale WW - Versorgung
+
+3
+
+|Ausguss mit Klapprost, Kalt- und Warmwasser
+
+4
+
+|TW und AW - Anschlüsse für Küchenmöbel
+
+x
+
+|Fachkabinett Werken:
+
+8
+
+9
+
+1
+
+|Werkraumbecken aus Kunststein oder Edelstahl
+
+2
+
+|Einhebelmischbatterie (Wandbatterie, KVV+VVW, Thermostatventil),
+
+3
+
+|Becken/ Ausguss mit Tonabscheider (3 Kammern) für Keramikarbeiten
+
+2 Waschplätze
+x
+
+|Fachkabinett Kunst:
+1
+
+|Waschrinne Edelstahl
+
+2
+
+|KW - Wandarmatur,
+
+x
+3 Waschplätze
+
+|Putzmittelraum:
+Ausguss Sanitärkeramik (Waschtrog o.ä.) oder Kunststoff mit Klapprost, Einhebelmischbatterie (KW+WVW) mit
+kurzem Auslauf, bei dezentraler Versorgung 10 I - WWB oder Durchlauferhitzer
+
+4
+
+Anordnung möglichst in separaten Räumen, sonst Auslaufventil mit Schlauchverschraubung und Steckschlüssel
+mindestens 1 Ausguss je Etage
+10
+
+[Behinderten - WC:
+1 [entsprechend gültiger DIN-Norm.
+
+11
+
+mindestens 1 Anlage
+x
+
+|Personalraum Arztzimmer:
+Waschtisch "Arzt"-Einhebelmischbalterie (KW-+WVW) ohne Zugstange (glatter Armaturenkörper), Ablaufarmatur
+(Schaftsiebventil) mit Überlauf ohne Stopfen, dezentrale WW - Versorgung
+
+1
+
+12
+
+|Personalraum Teeküche für Lehrerzimer/Sekretariat:
+
+13
+
+|Personalraum Werkstatt Hausmeister:
+
+x
+
+1 Irw«, AW - Anschluß für Spüle, dezentrale VVW - Versorgung
+
+1
+
+x
+
+Waschtisch Einhebelmischbatterie (KW+WW) ohne Zugstange (glatter Armaturenkörper) , Ablaufarmatur
+(Schaftsiebventil) mit Überlauf_ ohne Stopfen, dezentrale WWW - Versorgung
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+Seite 8/19
+
+STESADEWIR
+
+ENTWICKELN
+
+DRESDEN
+
+3 |Abwasser- und Wasseranlagen
+14
+
+Personalraum Küchenpersonal:
+
+Waschtisch Einhebelmischbatterie (KW+VVW) ohne Zugstange (glatter Armaturenkörper) , Ablaufarmatur
+(Schaftsiebventil) mit Überlauf ohne Stopfen, dezentrale WW - Bereitung
+
+1
+
+Küchen unter Beachtung der beiliegenden Checkliste:
+1
+
+kombiniertes Waschtisch - Ausgussbecken aus Edelstahl mit Einhebelmischbalterie KW+WVW, nachfüllbare
+
+2
+
+|Auslaufventil mit Schlauchverschraubung in Abhängigkeit Koch- und Reinigungstechnologie
+
+7}
+
+15
+
+bei dezentraler Versorgung 80 I - WWB
+
+Seifenspender, nachfüllbare Desinfektionsmittelspender Papierhandtuchspender, Papierkorb
+
+3-fach Edelstahlspüle 2.100 x 700 mm (in Abstimmung mit Essenanbieter 2-fach + Geschirrspüler), mit
+
+4
+
+16
+
+Einhebelmischbatterie KW-+WW , WW > 55°C, Wandarmaturen
+
+5
+
+|TW und AW - Anschlüsse für Geschirrspüler sowie Koch- und Gargeräte
+
+6
+
+|weitere Anschlüsse in Absprache mit Küchenplaner und SVA
+
+Wasch- und Duschräume in Sporthallen:
+
+1
+
+Waschtisch Einhebelmischbatterie (KW-+WVV) ohne Zugstange (glatter Armaturenkörper) mit ThermostatEckventil, Ablaufarmatur (Schaftsiebventil) mit Überlauf ohne Stopfen
+
+2
+
+|vorzugsweise Rinnen- bzw. Reihenanlage
+
+3
+
+Spiegel über Waschtisch (Sicherheitsglas), vorzugsweise eingefliest oder mit verdeckter diebstahlsicherer
+Halterung
+
+4
+
+Duschanlage als Reihenduschanlage, Selbstschluss-Eingriff-Batterie mit Thermostat unter Putz, mit festem
+|Düsen-Brausekopf min. 12 I/min, bodenbündig gefliest mit Fußbodeneinlauf (Ausbildung Gefälle und Anordnung
+der Duschplätze so, dass kein Schmutzwasser über einen anderen Duschplatz fließt)
+
+5
+
+|jeweils ein Wasch- und Duschplatz behindertengerecht nach DIN 18 024
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+Seite 9/19
+
+STESADE:
+WIR
+
+ENTWICKELN
+
+DRESDEN
+
+4 |Wärmeversorgungstechnik / Brauchwassererwärmungsanlagen
+4
+
+|Grundsätzliche Hinweise
+1
+
+Festlegung und Freigabe der Wärmeerzeugungsanlagen:
+Grundsätzlich ist die Versorgung mit Fernwärme zu prüfen. In Fernwäremausbaugebieten ist die terminliche
+
+1
+
+Einordnung mit der DREWAG abzustimmen.
+An Standorten ohne Fernwärmeanschlussmöglichkeit werden Varianten der Wärmeversorgung in
+
+2
+
+Leistungsphase 2 untersucht.
+Bei Bestandsgebäuden mit vorhandenen Serviceverträgen der DREWAG,
+
+Servicevertrages ein konkret angepasster Service-Preis abzufragen.
+
+3
+
+ist für die Fortführung des
+
+Dieser aktuelle Preis ist in die
+
+Variantenvergleiche und Wirtschaftlichkeitsbetrachtungen einfliesen zu lassen Hintergrund dafür ist die
+Wahrung des Wettbewerbs).
+Die Ergebnisse der Leistungsphase 2 zur Wärmegewinnung sind dem SVA vorzustellen und zur weiteren
+|Planung durch das SVA frei geben zu lassen. Hintergrund sind u.a. die Einbindung von weiteren zuständigen
+‚Ämtern wie z.Bsp. das Umweltamt bzw. das Klimaschutzbüro.
+
+4
+
+Berechnung der Heizlast nach DIN EN 12 831 mit folgenden Hinweisen:
+1
+
+|Heizungsregelung mit Absenkung bis zu einer festzulegenden Außentemperatur ist möglich
+
+2
+
+|kein Aufheizzuschlag
+
+für die Bemessung des Anschlusswertes gilt: 50% Gleichzeitigkeit für Lüftungswärmebedarf
+Klassenräume Luftwechsel (LW) nach DIN 12 831: 0,5-fach unter Beachtung und Einbezug des Wärmebedarfs
+
+$
+
+von Lüftungsanlagen
+
+Sporthallen Innentemperatur entsprechend der Benutzungsregime und den Anforderungen des Schul- bzw. des:
+Sportbetriebs
+Für Dresden ist als durchschnittliche Gradtagszahl der letzten 10 Jahre 3.600 anzunehmen.
+5
+
+Einsatz von effektiver Regelungstechnik, selbstoptimierender Heizkurve, Absenk- und Aufheizzeitpunkt,
+ldrehzahlgeregelte Pumpen, Raumtemperaturfühler zur Regelung im Absenkbetrieb;
+
+Es sind Heizungspumpen der Energieeffizienzklasse A einzusetzen (Motoren mit EFF 1).
+Bei der Festlegung der Schnittstellen zwischen den Planungsbeteiligten ist darauf zu achten, dass Hydraulik und
+Antrieb in eine Hand gehören (Heizungsanlage) als Grundvoraussetzung für hydraulisch abgeglichene Systeme.
+
+dem
+Das Rohrnetz (Verteilungsleitungen, Steigleitungen und HK-Anbindeleitungen) ist in Abstimmung mit
+
+|Architekten möglichst nicht sichtbar zu verlegen. Dabei gelten die Grundsätze, dass bei der Trassierung darauf zu
+achten ist, dass im Schadensfall Verteilungs- und Steigleitungen ohne größere Aufwendungen leicht
+auswechselbar sind (vgl. AMEV-Richtlinien).
+
+Armaturen für die Versorgungsleitungen sind so anzuordnen, dass das Bedienen einfach möglich ist.
+und
+Heizkreisaufteilungen, z.Bsp. entsprechend Nutzerbereichen und Nord - Süd - Ausrichtung sowie Verwaltungs-
+
+Schulbereich
+
+40
+11
+2
+
+|Für die Warmwasserbereitung sind langlebige Edelstahlbehälter mit Reinigungsöffnung einzusetzen.
+Die Wärmedämmung von Verteilungs-Rohrleitungen, die frei sichtbar verlegt werden, ist in Mineralwolle mit PVCmit
+Mantel Baustoffklasse B1 auszuführen. Im Bereich von Flucht- und Rettungswegen erfolgt die Ummantelung
+Mineralwolle und verzinktem Blechmantel (A1).
+
+|Ausstattung in Schulen und Sporthallen
+1
+
+Heizflächen Schulgebäude:
+
+1
+
+|vorzugsweise Stahlröhrenradiatoren den Anforderungen der BAGUV 04/ 1989 folgend
+
+2
+
+|Vermeidung von Sockelleisten
+
+3
+
+|FuRbodenheizung in ausgewählten Bereichen wie z.Bsp. Aula, Mensa bspw. bei bodentiefen Fenstern
+
+Heizflächen Sporthalle:
+4
+
+bei Sanierungen ohne größere bauliche Eingriffe - Heizwände 2 m hoch ohne Absätze und Kanten (DIN 18 032
+T1), Blechdicke > 3 mm integriert in Prallschutzwand. Der Einsatz von Luftheizungen soll vermieden werden.
+
+Version 1.0 - Teil 2- 31.05.2013
+
+Seite 10/19
+
+STESADEWin
+
+ENTWICKELN
+
+DRESDEN
+
+Lüftungstechnik
+Grundsätzliche Hinweise
+Für jedes Gebäude ist ein Lüftungskonzept nach DIN 1946-06 zu erarbeiten. Die freie Lüftung erhält dabei den
+
+Vorzug, soweit Vorschriften nicht eine maschinelle Lüftung erfordern.
+Für das Lüftungskonzept sind u.a. die DIN EN 15251 und 13779 zu beachten.
+
+Die Mindestluftraten m?/h Person sind zu ermitteln und Abweichungen von der Kategorie II und der CO,Konzentration von max. 1.000 ppm sind zu begründen. In der Leistungsphase 2 müssen die Anlagenkonfigurationen
+und die Konsequenzen der mechanischen Lüftungsgrundversorgung mit dem Architekten abgestimmt sein.
+
+Sind mechanische Lüftungsanlagen erforderlich, erfolgt die Auslegung in Bezug auf die Mindestluftraten wie folgt
+(Abweichungen sind zu begründen):
+1
+
+|Außenluftrate je Schüler/ Lehrer/ Personal von 29 m3/h
+
+2
+
+Jin Grundschulen
+
+Außenluftrate je Schüler von 20 m?/h
+
+Untersuchungen zu erforderlichen Lüftungsanlagen sowie deren Standort sind frühzeitig unter Einbeziehung der
+Gebäudeplanung vorzunehmen und hinsichtlich des Platzbedarfes zu optimieren. Dabei ist großes Augenmerk auf
+die regelkonforme Anordnung von notwendigen Außenluftansaugungen (nach AMEV mindestens 3 m über
+Erdoberfläche bzw. Flachdachniveau an einer Stelle mit geringer Verunreinigung) zu legen. Die Nordseite des
+
+Gebäudes ist zu favorisieren. Die Einordnung der Außenluftöffnungen in die Fassaden- oder Dachgestaltung ist
+frühzeitig mit dem Architekten festzulegen.
+
+Die Verlegearten der Rohr- und Kanalführung (sichtbar, nicht sichbar) sind festzulegen. Unter Berücksichtigung der
+baukonstruktiven Erfordernisse sind Lüfungsgeräte schallgedämpft, schwingungsfrei und schallentkoppelt zu
+
+realisieren.
+Bei der Ermittlung des Platzbedarfes für Technikzentralen ist die VDI-Richtlinie 3803 - Raumlufttechnische Anlagen,
+bauliche und technische Anforderungen zu Grunde zu legen.
+8
+
+Kühlung - es gilt der Grundsatz, weitestgehend auf Kühlung zu verzichten. Die Notwendigkeit einer Kühlung ist
+nachzuweisen (bspw. Serverräume).
+
+Ausstattung Sporthallen
+1
+2
+
+Sporthallen mit Zuschauerplätzen sind mit einer separaten Lüftungsanlage auszustatten.
+Der Einsatz von Weitwurfdüsen ist sehr kritisch zu betrachten. Hintergrund dafür sind eventuell auftretende
+
+Diskkomfortzonen in Abhängigkeit der Nutzung.
+Im Ergebnis einer erhöhten Schallimmisionsprognose und der maximal zugelassenen Schallpegeiwerte in der
+Umgebung sind auch Sporthallen ohne Zuschauerplätze mit einer Lüftungsanlage auszustatten.
+
+Lüftungsanlagen für Sporthallen sind so zu konzipieren, dass eine den unterschiedlichen Nutzungsbedingungen
+(Wettkampf mit Zuschauern, normaler Schulsportbetrieb, Vereinssport, etc.) angepasste Betriebsweise möglich ist.
+Die Sanitärbereiche der Sporthalle
+
+erhalten eine Lüftungsanlage.
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+Seite 11/19
+
+STESADE:
+WIR
+
+ENTWICKELN
+
+DRESDEN
+
+6 |Starkstromanlagen
+1
+
+|Allgemeine Hinweise
+A Elektrotechnische Ausstattungen agestuft für Grund-, Mittelschulen und Gymnasien.
+2 Grundausstattungen nach Festlegungen der AMEV - öffentliche Gebäude.
+3 Pro Etage, im Hausmeisterraum, in HLS-Zentralen mindestens 1 GEE-Steckdose 16 A
+
+2
+
+|Eigenstromversorgung
+Schulen und Sporthallen mit Sicherheitsbeleuchtung. Dafür eine Zentralbatterieanlage. Sicherheitslichtgerät mit
+1 |Stromkreisüberwachung der Endstromkreise mit elektronischem Prüfbuch. Meldetableau vorzugsweise im
+Sekretariat oder Leiterzimmer
+2
+
+Externe Anschlussmöglichkeit für mobiles Netzersatzaggregat zum Anschluss an die Schulen und Sporthallen
+
+x
+x
+
+prüfen.
+3
+
+|Niederspannungsschalt- und installationsanlagen
+1
+
+[Schulgebäude und Sporthallen getrennt abrechenbar. Weiter Unterzähler für die HLS-Anlagen.
+
+2
+
+Unterverteilungen nach Möglichkeit in Nebenräumen, verschließbar mit einheitlichem Schließsystem pro Objekt
+bzw. Liegenschaft
+
+3
+
+|Kabeltrassen möglichst nicht sichtbar, mit Nachinstallationsmöglichkeiten
+
+4
+
+|Haupttrassen vorzugsweise außerhalb von notwendigen Fluren und notwendigen Treppenräumen
+
+5
+
+in den Klassenzimmern je eine Schuko-Doppelsteckdose links und rechts neben der Wandtafel sowie eine
+|Einfachsteckdose als Reinigungssteckdose neben der Eingangstür 0,9m über OKFF, in den Fachkabinette gemäß
+
+Ausstattungsplan.
+6
+
+|Steckdosen für Versuchsdurchführungen mit Not-Aus-Schaltung, nur vom Personal zurück zu setzen
+
+7
+8
+
+|In Grundschulen und angeschlossenen Sporthallen: Steckdosen mit integrierter Kindersicherung.
+Jin den Gängen eine Reinigungssteckdose je Brandabschnitt, Abstand maximal 20m
+
+9
+
+in EDV-Kabinetten-alle EDV-Stromkreise über Schlüsselschalter abschaltbar, Schlüssel in allen Stellungen
+abziehbar, Steckdosen mit roten Zentralscheiben oder Beschriftung „nur für EDV“
+
+10
+
+|Fachkabinett Physik: elektrische Ansteuerung der Vollverdunkelung
+
+11
+
+|Fachkabinett Chemie: Steuerschaltung mit Fensterkontakt für Digestorium
+
+12
+
+|Sonnenschutzanlagen elektrisch steuern.
+
+13
+
+|Netzanschlüsse für Türfeststellanlagen und Automatiktüren vorsehen
+
+14
+
+Steuerung (ohne Antriebe und Öffnungen) von natürliche Rauchabzugsanlagen (RWA) nach EN 12101
+\entsprechend Brandschutzkonzept bzw. Baugenehmigung. (Hinweis: Für RWA-Anlagen sind komplett geprüfte
+Systeme aus RWA-Öffnungselement und Antrieb einzusetzen )
+
+15
+
+|Bei RWA als Lüftungsöffnungen Taster in 150 cm OKFF
+
+16
+
+|Der Einsatz von Wind- und Regensensoren ist zu prüfen
+
+17
+
+Elektrische Antriebe für hochziehbare Sportgeräte in Schulsporthallen mit Schlüsseltastern (Totmannschaltung) und
+
+x
+
+Not-Aus-Tastern mit Sichtkontakt zu den zu bedienenden Geräten
+
+4
+
+18
+
+in Einfeldhallen mind. vier ballwurfsichere Doppel-Schukosteckdosen, wandbündig in der Prallwand
+
+19
+
+|notwendige Installationsgeräte im Hallenbereich sind in die Prallwand zu integrieren
+
+|Beleuchtung
+Leuchtenauswahl prinzipiell in Abstimmung mit den Architekten unter Beachtung der Energieeffizienz (2,5 Wim? auf
+
+1
+
+100 Ix nicht unterschreiten). Ausnahme sind repräsentative Bereiche.
+
+in Klassenräumen vorzugsweise Leuchten mit staubdicht schließenden Abdeckungen und Spiegeloptik. Leuchten
+mit hohem Betriebswirkungsgrad. Abdeckung transluzent und Licht richtend. Möglichst mit Abstrahlung von etwa
+10 - 20 % des Gesamtlichtstromes als Indirektanteil zur Deckenaufhellung.
+3
+
+Räume mit überwiegenden Bildschirmarbeitsplätzen mit dafür geeigneten Leuchten. Bei Einsatz von TFTFlachbildschirmen Grenzausstrahlwinkel ggf. größer als 50° mit Nachweis.
+
+4
+
+|zusätzliche Wandtafelbeleuchtung mit äußerlich baugleichen Leuchten mit asymmetrischer Lichtverteilung
+
+5
+
+Beleuchtungsschaltung mit zweikanaligen Präsenzmeldern. Leuchtenreihen getrennt schaltbar, mit zusätzlicher
+Schaltmöglichkeiten in der Nähe des Lehrertisches zum übergeordneten Eingriff in die Automatik
+
+6
+
+Schaltung der Wandtafelbeleuchtung mit Installationsfernschaltern mit Zentral-Aus-Funktion und Tastschaltern.
+Zentral-Aus über Scharfschaltung der EMA oder über Zeitschaltuhr als Wischbefehl
+
+7
+
+in Fachkabinetten Stufenschaltung oder Dimmung, damit bei Verdunkelung die Möglichkeit zur Schaltung einer
+
+8
+
+|Anzahl der verschiedenen Leuchtentypen und Leuchtmiltelarten optimieren
+
+Mitschreibebeleuchtung (etwa 25Ix) besteht
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+Seite12/19
+
+STESADE:
+WIR
+
+ENTWICKELN
+
+DRESDEN
+
+6 |Starkstromanlagen
+9
+
+Beleuchtung in den Fluren und Treppenräumen automatisch und tageslichtabhängig. Schaltungen zwei Stufen.
+|Erste Stufe mit ca. 30 % der Nennbeleuchtungsstärke über Dämmerungsschalter während der Betriebszeit als
+Orientierungsbeleuchtung. Restliche Leuchten bereichsweise automatisch über Bewegungsmelder
+
+10
+
+|Schüler-WC Beleuchtungsschaltung mittels Bewegungsmelder
+Sporthallenleuchten mit weißem Rastern. Nennbeleuchtungsstärke in Stufen zu 200, 300 und 500 Ix schaltbar.
+
+11
+
+|Stufe 1 und 2 mit Wahlschalter 1 - 0 - 2 oder als Reihentaster. Stufe 3 zusätzlich über Schlüsselschalter. Leuchten
+durch Konstruktion und/oder Montage gegen Ballablage gesichert.
+
+12
+
+5
+
+|Räume mit Vollverdunkelung ggf. mit Antipanikbeleuchtung
+
+|Blitzschutz- und Erdungsanlagen
+4
+
+2
+
+Blitzschutzklasse festlegen. Möglichst geringe Trennungsabstände. Maschenweiten und Anzahl der Ableitungen
+ggf. mit einer höheren Klasse.
+Ableitungen im Bereich von Eingangstüren nicht im Handbereich führen, nicht im Bereich mit
+
+IMenschenansammlungen oder mit besonderer Isolierung
+
+“ Version 1.0 - Teil 2 - 31.05.2013
+
+Seite13/19
+
+STESADEWIR
+
+ENTWICKELN
+
+DRESDEN
+
+7 |Fernmelde- und informationstechnische Anlagen
+Telekommunikationsanlagen
+TK-Anlage: Aus Gründen der optimalen Wartung und Ersatzteilhaltung ist der Hersteller und Typ der TK-Anlage mit
+
+1
+oaleloln
+
+dem Eigenbetrieb EBITO, SG Komminikationstechnik, abzustimmen.
+Telefonzentrale nach Möglichkeit im Netzwerkschrank
+
+Systemtelefone für Sekretariat, Direktor und für stellverlretenden Direktor
+für Notruf ein Fernsprechapparat unabhängig von der allgemeinen Stromversorgung
+
+igenügende Anzahl von DECT-Telefonen
+Türsprechstellen auf Telefonanlage aufschalten. Für den Parallelbetrieb dafür zusätzliches TK-Endgerät im
+Sekretariat (Aufrechterhaltung von Telefonaten und der Verbindung zur Türsprechstelle)
+
+In Sporthallen mit Freizeit- und Vereinssport ein vandalenfestes Notruftelefon an einer allgemein gut zugänglichen
+
+7
+
+Stelle. Als wandbündiges Freisprechgerät mit 3 Zielwahltasten.
+Analoge Telefonanschlüsse für Medienversorger zur Fernauslesung.
+
+8
+2
+
+|Such- und Signalanlagen
+Behindertengerechtes WC mit Notrufanlage. Notrufanzeige im Sekretariat und im Lehrerzimmer
+
+1
+
+Türsprechstelle am Haupteingang, mittels Koppler auf die Telefonzentrale aufgeschaltet. Türöffnersignal über die
+
+2
+
+TK-Endgeräte auslösbar (Rufweiterschaltung zur Wechselsprechfunktion auf Endgeräte).
+Sekretariat mit Klingel und elektrischem Türöffner
+
+3
+3
+
+|Zeitdienstanlagen
+Hauptuhr als Funkuhr und als Schaltcomputer steuert die Pausensignale sowie analoge Tochteruhren
+
+1
+2
+4
+
+Tochteruhren für Foyer, Aula, Mensa, Hauptgänge, Lehrerzimmer, Sekretariat und Direktion, in Turnhallen im
+
+Umkleidebereich sowie in der Halle pro Spielfeld je eine Uhr
+
+|Elektroakustische Anlagen
+1
+
+ELA zur Übertragung des Pausensignals und von Sprachdurchsagen. Zwei 19°-Einschubplätze und Audioeingänge
+
+für den optionalen Einbau von Audiogeräten freihalten
+
+oloalsaloln
+
+ELA-Zentrale vorzugsweise im Hausmeisterraum oder im Serverraum
+
+Mikrofonsprechstelle im Sekretariat mit Linienschaltern für bereichsweise Rufdurchsagen
+Verständlichkeit bei geschlossenen Türen, wenn erforderlich mit Lautsprechern in den Klassenräumen
+ELA nicht primär für Notrufe. Jedoch auch für Durchsagen aus "Bedrohungs- und Amoklagen" benutzbar.
+
+Weitere Forderungen an die ELA-Anlage nach Abstimmung entsprechend der geplanten Nutzung
+Induktions-Hörschleife für einen Versammlungsraum und ausgewählte Klassenräume, mindestens ein mobiler
+
+Hörschleifenverstärker mit Mikrofon und Anschlussset
+8
+5
+
+Übertragung der Pausensignale und Sprachdurchsagen in die Sporthalle.
+
+|Gefahrenmelde- und Alarmanlagen
+Einbruchmeldeanlagen nach Empfehlung der Polizeidirektion Dresden, Inspektion Prävention / Zentrale Dienste, FD
+
+Prävention, Kriminalpolizeiliche Beratungsstelle
+Außenhautüberwachung durch Magnet- und Riegelkontakten an allen Außentüren
+fallmäßige Überwachung ausgewählter Gangbereiche und Treppenräume mit Bewegungsmeldern
+Überwachung der Sporthallen nach Abstimmung
+
+Computerräume mit zugehörigen Vorbereitungsräumen, Serverräume und Sekretariat über Blockbereiche gesondert
+überwacht
+eventuelle Aufschaltung auf Wachdienst
+
+[Zentrale ist mit potentialfreien Kontakten (Blockierung der Sicherheilsbeleuchtungsanlage und Abschaltung der
+Grundbeleuchtung nach Scharfschaltung). Mit Impuls für die Zentral-Aus-Schleife.
+Hausalarmanlage ohne Aufschaltung auf die Feuerwehr unter Verwendung von roten Druckknopfmeldern.
+
+Alarmierung im Brandfall primär durch Sirenen im Haus.
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+Seite 14/19
+
+STESADEwin
+
+ENTWICKELN
+
+DRESDEN
+
+Fernmelde- und informationstechnische Anlagen
+6
+
+|Übertragungsnetze
+1
+Strukturierte Verkabelung im Gebäude Datenübertragung und Telekommunikation.
+2
+
+Netzwerk so, dass Verwaltungsnetz und das Pädagogiknetz getrennt werden kann.
+
+3
+
+Übertragungsleitungen für Beamer, interaktive Tafeln sowie Anzeigetafeln in Schulsporthallen
+
+4
+
+Glasfaseranbindung in kommunalen Schulen Dresden
+
+Innerhalb des Gebäudes:
+Grundsätzlich sollen durchgehende Kabelzugtrassen errichtet werden, welche eine nachträgliche Belegbarkeit
+mit Informationskabeln ermöglichen. Dies können unter anderem Kabelpritschen oder Kabelleerrohre sein.
+Dabei sind jeweils gebäudetechnische Besonderheiten wie Brandscholtungs-abschnitte, Zugängigkeiten,
+
+1
+
+Schutz vor Vandalismus usw. zu beachten.
+Innerhalb der Gebäude ist geplant, metall- und halogenfreie Glasfaserkabel vom Typ ADQ(Zn)B2Y oder
+|gleichwertig zu verlegen. Der Außendurchmesser beträgt ca. 15 mm. Der minimale Biegeradius von 0,3 m darf
+
+2
+
+bei der nachträglichen Verlegung nicht unterschritten werden.
+3
+
+|Die Angaben gelten für die gesamte Trassierung vom Gebäudeeintritt bis zum Serverraum.
+
+Außerhalb des Gebäudes:
+Grundsätzlich besteht die Möglichkeit eine Verbindung an die Leerrohranlagen der DREWAG,
+
+DVB oder LSA
+
+1
+
+|herzustellen. Weiterhin ist auch die Anbindung an Fernwärmekanäle bzw. ausgediente Gas- und
+Wasserleitungen möglich.
+
+2
+
+|Dafür ist jedoch jeweils eine konkrete Einzelfallprüfung vor Ort notwendig.
+Vorzugsweise sind vom Anbindepunkt Schulgebäude bis zum möglichen Übergabepunkt an das LWL-Stadtnetz
+
+3
+
+lim öffentlichen Bereich Schutzrohre PVC 110 x 3,2 mm in 6 m Stangen mit angeformter Steckmuffe und
+eingeklebtem Dichtring nach DIN 8061/62 zu legen.
+
+4
+
+Die Abdichtung zur Gebäudewand sollte mit Dichtpackungen Hauff HSI 150 / 110 kaltschrumpfend oder
+gleichwertig (UGA, Doyma Ringraumdichtungen) erfolgen.
+
+5
+
+Bis zum Einzug der Glasfaserkabel in die Anlagen sind die Leehrrohre wasser- und gasdicht zu verschließen.
+Dies erfolgt zum Beispiel mit Abdichtstopfen Ads 110 der Fa. Gabo-Systemtechnik.
+
+6
+
+|Als Übergang zum LWL-Stadtnetz sind Kabelzugschächte vom Typ AZK 83 einzubauen.
+
+7
+
+Unterirdische Anlagen im Außenbereich sind einzumessen! Trassen im Gebäude sind detailliert zu
+dokumentieren.
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+Seite 15/19
+
+STESADE:WIR
+
+ENTWICKELN
+
+DRESDEN
+
+Fördertechnik
+AI gemeine Hinweise
+1
+
+nur bauartgeprüfte Teile
+
+2
+
+nur Anlagen nach der besten Energieeffizienzklasse entsprechend VDI
+
+3
+
+Beistellung der Prüfgewichte
+
+4
+
+Anmeldung der Anlagenbetreibung beim TÜV
+
+5
+
+Leiter mit Haken für Zugang Maschinenraum und Handlampe als Zubehör
+
+Kleingüteraufzugsanlagen
+1
+
+Kabinenmaße B 1.000 x T 700 x H 1.200 mm
+
+2
+
+Tragfähigkeit
+
+3
+
+Türen und Fahrkorb Edelstahl
+
+100 kg
+
+Laibungsfläche/Kante, Umfassungszarge Edelstahl, im Bereich Küche ggf. auch Fliesen, Abstimmung mit
+Gebäudeplanung
+Arretierung für Wagen in der Kabine
+Türen als Schiebetüren bodenbündig, ggf. einflügelige Drehtür
+
+Türen abschließbar, abschalten im Küchenbereich, und/oder Parkhaltestelle im Küchenbereich oder zwischen
+den Geschossen
+Türe Maschinenraum einflügelig mit Grund- und Fertiganstrich oder Edelstahl nach Abstimmung mit
+
+8
+
+Gebäudeplanung, bei Brandschutzanforderung/ Lärm
+
+evtl. doppelwandig
+
+Bedienelemente im oberen Bereich des Portals anordnen, Anzeige Fahrt + Standort, visuell + akustisch, Rufen
+mit Schlüsseltaster
+
+9
+
+Personenaufzugsanlagen
+1 Seilantrieb (getriebeloser Treibscheibenantrieb als Axial-Synchronmotor mit Frequenzregelung)
+2
+
+Aufzug mit behindertengerechter Ausstattung (für Rollstuhlfahrer und Blinde)
+
+3
+
+Seilaufzug maschinenraumlos, Antrieb frequenzgeregelt
+
+4
+
+Kabine Edelstahl, Oberflächen strukturiert, Kabinenwände und Zargen entdröhnt,
+
+5
+
+Spiegel halbhoch, Handlauf, Anfahrschutz
+
+6
+
+geschlossene Decke, Leuchtmittel leicht austauschbar
+
+TA
+
+einseitig schließende Teleskopschiebetüren
+
+8
+
+Schachttüren mit Portal in Abstimmung mit Gebäudeplanung
+
+9
+
+Fußboden ohne Belag, Boden mit Grundanstrich vorbereitet für bauseitig einzubringenden Bodenbelag
+
+0
+
+|Schlüsselschalter für Vorrangfahrt
+
+11
+
+|Aufzugruf über Zweiknopfsammeltaste und ein zusätzliches „Schlüsselsystem“ z.Bsp. für Behinderte
+
+Von zentraler Stelle kann die Umschaltung zwischen den Sammeltastern und dem Schlüsselsystem erfolgen.
+12
+
+Hintergrund ist die Nutzung für den normalen Schulalltag (Schlüsselsystem) und für Sondernutzungen (freie
+Nutzung des Aufzugs) im Gebäude.
+
+13
+
+Neben der akustischen Wahrnehmung im Notruffall auch eine visuelle Anzeige in der Kabine installieren mit dem
+Hintergrund, dass der schwerhörig Notrufende von der Gegenstelle verstanden wurde und eine zeitnahe
+Hilfestellung erfolgt
+
+14
+
+|Außentableaus mit Schriftzug tiefengeprägt „Im Brandfall nicht benutzen“
+
+15
+
+Geforderte Entrauchungsanlagen (Rauchgasöffnung in der Schachtdecke) sind vom Aufzugserrichter zu liefern,
+Schnittstellenabstimmung mit ELT-Planer, ENEV — Forderungen sind einzuhalten.
+
+16
+
+Ventilator der Kabine verdeckt angeordnet, leises Laufgeräusch und mit Nachlaufzeit
+
+17
+
+Hilfsstromquelle für Notbeleuchtung/Notruf und Evakuierungsfahrt
+Batterie und mit Ladegerät
+
+18
+
+Integration von BMA-Signalen bei Bedarf (statische oder dynamische Brandfallsteuerung)
+
+19
+
+|Handleuchte mit mind. 5 m Kabel, Abstiegsleiter in die Schachtgrube
+
+bei Stromausfall in EG mit wartungsfreier
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+Seite 16/19
+
+STESADEwin ENTWICKELN
+
+DRESDEN
+
+Gebäudeautomation
+Komplexe Heizungs- und Lüftungstechnische Anlagen müssen aus energetischen Gründen miteinander
+
+kommunizieren. Die Steuerung der Anlagen muss als in sich geschlossenes System regelbar und funktionstüchtig
+
+x
+
+sein. Folgende Managementprogramme sind mindestens abzubilden:
+
+aloln|-
+
+die Vorgabe von Soll-/Istwerten bei verschiedenen Betriebszuständen
+
+5
+
+Idie leicht zu praktizierende Änderung von Betriebszeiten und Fahrkurven
+Anlagenbilddarstellung mit Messwerten, Nutzungszeiten usw.
+das
+
+Ausgeben von Störmeldungen
+
+das Fernabfragen und Aufzeichnen von Zählerständen und Trendkurven
+
+Weitere Einsatzmöglichkeiten der Gebäudeautomation zur Steuerung des Sonnenschutzes im Zusammenhang mit der
+Raumtemperierung durch eine Lüftungsanlage, der Raumtemperierung durch eine statische Heizungsanlage, einer
+
+zentralen Raumlicht- und Türschließsteuerung sind technisch und wirtschaftlich in der Leistungsphase 2 zu prüfen und
+mit dem SVA abzustimmen.
+Bei Einsatz der Gebäudeautomalion ist der volle Zugriff durch den Nutzer zu sichern.
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+Seite 17/19
+
+STESADEwiR
+
+ENTWICKELN
+
+DRESDEN
+
+10/Schnittstellen zum Roh-/Ausbau und zum Tiefbau
+1
+
+|Allgemein
+
+1
+
+1
+
+|keine Verlegung von Haupttrassen unter der Gebäudegründung
+
+1 | 2
+
+|Optimierung von Anzahl und Lage der Medien-Hauseinführungen
+
+1 | 3
+
+[Hausanschlussraum möglichst mit separatem Außenzugang für Medienversorger
+
+1 | 4
+
+[Koordination und Optimierung der Schlüsseltresore (Zugang Dritter zum Gebäude)
+
+ıl5
+
+innerhalb der Gebäude Verlegung der Rohre vertikal nicht sichtbar in Rohbauschächten, horizontale Verteilung
+im Bereich abgehängter Decken, im Fußbodenaufbau bzw. durch Einlegearbeiten in Rohdecken
+
+1 | 6
+
+[sichtbare Rohrverlegung vorzugsweise im Kellerbereich sowie in Neben- und Funktionsräumen mit
+
+1
+
+Anordnung notwendiger Absperrungen und Revisionsklappen
+
+1 | 8
+
+2
+
+|Gräben, Verfüllen, Fundamente und sonstige Tiefbauleistungen für die Medienverlegung im Gelände
+
+|Sanitär
+
+2 | 1
+
+|Hebeanlagen in rückstaugefährdeten Bereichen
+
+2|2
+
+Außenwasserhähne als frostfreie Wandarmatur (verschließbar, selbstentleerend) bzw. Prüfung der Integration in
+
+2 | 3
+
+kombinierten, verschließbaren Wandeinbaukasten Wasser / Elektro
+|Fettabscheider im Außenbereich für Ausgabeküchen ab 100 Portionen / Kochküchen ab 50 Portionen
+
+2 | 4
+
+|Fußbodeneinläufe nach DIN EN 12056 (Standorte im Gebäude, Ausführungen)
+
+3
+
+|Heizung
+
+3 | 1
+
+|Prüfung des Einsatzes von Fußbodenheizungssystemen
+
+3 | 2
+
+Jim Bereich der Sportflächen Einsatz von Fußbodenheizung, abgestimmt auf das Sportbodensystem
+
+3|3
+
+Bei Heizkörperheizung Heizflächen vorzugsweise als Stahlröhrenradiator, ggf. auch Ventilheizkörper als Platte
+
+3 | 4
+
+mit glatter Front
+|Revisionsklappen im Kinderzugriffsbereich verschließbar
+
+4 |Lüftung
+alı
+Raumlufttechnik in innenliegenden Räumen, in Bereichen mit Wärmelasten sowie der notwendigen
+Außenluftraten in m?/h pro Person nach DIN EN 13779
+4 | 2
+
+|Außenluftansaugung vorzugsweise an Stellen mit geringer Verunreinigung (Nord- / Ostseite Gebäude)
+
+4 | 3
+
+|Anordnung der Technikzentrale (keine „Lokomotive auf Dach)
+
+4 | 4
+
+|Lüftungsgeräte schallgedämpft und schallentkoppelt, jeweils in Abstimmung mit der Baukonstruktion
+
+5
+
+|Elektro
+
+5|
+
+1
+
+Hauptverteilung, Zählerschränke und Zentralbatterieanlage in elektrotechnischen Betriebsräumen (Lage und
+Bauart nach SächsEltBauR), Unterverteiler in öffentlich zugängigen Bereichen generell verschließbar
+
+s|
+
+2
+
+Standorte für Schränke des TK- und Datennetzes möglichst an zentraler Stelle (maximale Kabelstrecken und
+Längen beachten)
+
+5 | 3
+
+‚Auf-Putz-Installationen im Installationsrohr oder auf Kabelbahnen in Neben- und Technikräumen. Verlegung der
+|Kabel und Leitungen sonst vorzugsweise mit Leerverrohrung in Beton, im Trockenbau und im Bereich
+abgehängter Decken,
+
+5
+
+Festlegung von Wand-, Decken- und Fußbodenfarben zur Beleuchtungsberechnung
+
+5 | 6
+
+[Beleuchtung von außenliegenden Fluchttreppen immer mit Allgemein- und Sicherheitsbeleuchtung
+
+5|
+
+‚Ableitungen des äußeren Blitzschutzes vorzugsweise in der Fassade mit Trennstellen auf dem Dach, sonst UPTrennstellenkästen oder AP-Installation vorzugsweise an Regenfallrohren
+[Notruftelefon an frei zugängiger oder immer besetzter Stelle
+Die Grundausstattung in den allgemeinen Unterrichtsräumen ist in allen Schulen gleich und erfolgt nach den
+Festlegungen der AMEV-Richtlinie Elektroinstallationen in öffentlichen Gebäuden.
+Installations- (Schalter-) programm für Grundschulen mit Kantenradius > 2 mm und erhöhtem Berührungsschutz
+bei Steckdosen
+
+7
+
+5 | 8
+s|
+9
+5 | 10
+5 | 11
+
+|Sonnenschutzanlagen vorrangig elektrisch, um an Wochenenden automatisch verschatten zu können
+
+5 | 42
+
+Dresdener Schulen sollen entsprechend einer Empfehlung der Polizei mit Einbruchmeldeanlagen ausgerüstet
+werden. Die Hinweise der Polizei sind zu beachten.
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+Seite 18/19
+
+STESADEoO
+
+_
+
+win
+
+Schnittstellen zum Roh-/Ausbau und zum Tiefbau
+
+6
+
+Aufzug
+
+6
+
+|Lasteinwirkungen, Lasthaken
+
+6 | 3
+
+|Standort Maschine
+
+6
+
+|Standort für Schaltschrank
+
+|°4
+
+6 | 5
+
+|Rüsthülsen bzw. Gerüste im Schacht
+
+6 | 6
+
+|Außenruftableau unter Putz
+
+6 | 7
+
+|Schlüsseltresore
+
+6 | 8
+
+|Kabinenfußboden
+
+6 | 9
+
+|Übergänge zwischen Kabine und Fußboden im Vorraum
+
+6 | 10
+
+|Portale
+
+7
+
+DRESDEN
+
+|Schächte, Türaussparungen, Schacht- bzw. Maschinenraumboden, Rachabzugsöffnung
+
+1
+
+6 | 2
+
+7
+
+ENTWICKELN
+
+|Küchen
+1
+
+TAusgabeküchen, Küchen und sonstige vergleichbare Räume
+
+Version 1.0 - Teil 2 - 31.05.2013
+
+Seite
+
+19/19
+
+Anlage:
+
+Energetiscche Standards als Auszüge aus dem
+
+LEITFADEN
+
+ENERGIESPARENDES
+
+Für Kommunale Hochbauten der Landeshauptstadt Dresden
+
+BAUEN
+erstelit HBA 2008
+
+Hier Fachteil TGA - aktualisiert Mai 2013
+1.
+
+Allgemeines
+
+Vordringliches Ziel bei allen Bauvorhaben der Stadt Dresden ist es, die Summe aller Investitions-,
+Betriebs- und Folgekosten über den gesamten Lebenszyklus des Gebäudes zu minimieren und die
+COz-Emissionen zu senken.
+
+In Folge des Beitritts der Landeshauptstadt Dresden zum „Klimabündnis europäischer Städte“ 1994
+wurde 1998 ein Rahmenprogramm zur Verminderung der Emission von Kohlendioxid und Methan durch
+
+den Stadtrat verabschiedet, welches zyklisch fortgeschrieben wird. Durch den Stadtratsbeschluss wird
+
+die Bedeutung der folgenden Planungsanweisungen unterstrichen.
+Die gegenwärtigen Forderungen des städtischen Rahmenprogramms sehen für Neubauten eine 25%ige
+Unterschreitung des Jahresprimärenergiebedarfs und des Transmissionstransferkoeffizienten der EnEV
+(zur Zeit Fassung 2009) vor.
+Für Sanierungsmaßnahmen ist nicht nur der Bauteilnachweis zu erstellen, sondern auch der
+Energiebedarfsausweis, wobei die Anforderungen für Neubauten nach EnEV gelten, sofern nicht Fragen
+des Denkmalschutzes bei historischen Fassadengestaltungen einer Außendämmung entgegen stehen
+und andere Maßnahmen nicht zum Ziel führen.
+Eine wesentliche Voraussetzung zum Erreichen dieses Zieles ist die integrale Gesamtplanung des
+Bauvorhabens. Dabei werden vom Architekten bzw. Projektleiter neben dem Nutzer auch die Fachplaner
+von Beginn an hinzugezogen, um auf der Grundlage der Nutzungsanforderungen und der
+standorttypischen Gegebenheiten eine wirtschaftlich optimierte Gesamtkonzeption des Gebäudes zu
+entwickeln.
+
+Das EEWärmeG sieht vor, dass ein Teil des Wärmebedarfes in neuen Gebäuden aus erneuerbaren
+Energien abgedeckt werden muss. Alternativ ist auch eine Verbesserung der energetischen Qualität des
+Gebäudes um 15 % möglich.
+Die Vorgaben sind verbindlich einzuhalten. Abweichungen sind möglich, wenn sie nachweislich zu
+wirtschaftlicheren Lösungen führen.
+
+Planungs- und Ausfühningsgrundlagen
+für Bauvorhaben der Landeshauptstadt Dresden
+
+2.
+
+Wirtschaftlichkeitsberechnungen
+Im Rahmen der Vorplanung Leistungsphase 2 werden zur Optimierung des Gebäudes, einzelner
+Bauteile oder unterschiedlichen konkurrierenden technischer Anlagen, deren Vor- und Nachteile ohne
+detaillierte Untersuchungen nicht überschaubar sind, Wirtschaftlichkeitsvorbetrachtungen und
+Variantenvergleiche erforderlich. .Grundsätzlicher Maßstab für die Bewertung der Maßnahmen sind
+neben wirtschaftlichen, technischen, energetischen und ökologischen Kriterien langfristig niedrige
+Betriebs- und Unterhaltskosten der Gebäude sowie umweltpolitische Ziele (Nachhaltiges Bauen) der
+Stadt Dresden.
+Auf Basis dieser Untersuchungsergebnisse erfolgen in der Entwurfsplanung Leistungsphase 3
+detaillierte Wirtschaftlichkeitsberechnungen zu ausgewählten Systemen. Diese sind mit folgenden
+Ansätzen durchzuführen:
+e
+
+‘e
+e
+
+e
+
+e
+
+Dynamische Berechnungen nach der Barwertmethode, basierend auf der vollständigen und
+periodengerechten Aufstellung aller Einzahlungen und Auszahlungen (Bau- und
+Baunutzungskosten, u. a. Investitionskosten, Instandsetzungskosten für Baukonstruktion und
+technische Anlagen, Betriebskosten, Bedienung, Inspektion und Wartung)
+Der Zeitraum für die dynamische Wirtschaftlichkeitsberechnung richtet sich nach dem Lebenszyklus
+des Gebäudes, der Bauteile bzw. der technischen Anlage
+Füralle Betriebs- und Folgekosten ist mit differenzierten Preissteigerungen zu rechnen. Die Einund Auszahlungen sind mit geeigneten Zeitreihen oder Preisindizes über den Betrachtungszeitraum
+zu kalkulieren
+Das jährliche Ergebnis ( = Einzahlungen - Auszahlungen) ist mit einem geeigneten
+Diskontierungssatz auf das Basisjahr abzuzinsen. Die Summe der abgezinsten jährlichen Beträge
+bildet den Barwert der jeweiligen Variante.
+Als Diskontierungssatz ist der Zinssatz von Pfandbriefen entsprechend dem Betrachtunsgzeitraum
+zu verwenden. Bei Betrachtungszeiträumen über 10 Jahre ist der 10 - jährge Zinssatz der
+Pfandbriefe zu verwenden
+Die jährliche Energiepreissteigerung ist in den Varianten 6% und 10% anzusetzen
+Die Berechnungen erfolgen für 20 Jahre Nutzungsdauer
+
+Auf Grundlage des Barwertes kann jeweils die wirtschaftlichste Variante festgestellt werden.
+
+Seito
+2 von 7
+
+Planungs- und Ausführungsgrundlagen
+für Bauvorhaben der Landeshauptstadt Dresden
+
+Anlagentechnik
+3.1
+
+Heizung
+
+3.1.1
+
+Wärmeerzeugung
+-
+
+Der Energieträgereinsatz ist unter Beachtung des EEWärmeG vorzunehmen.
+Bevorzugt ist auf Grund des günstigen Primärenergiefaktors Fernwärme aus Kraft-Wärme-Kopplung
+für Heizzwecke zu nutzen. Außerhalb des Fernwärmenetzes der DREWAG ist unter anderem der
+Einsatz von BHKWs als Ersatzmaßnahme für erneuerbare Energien mit Wirtschaftlichkeitsnachweis zu prüfen.
+
+-
+
+Grundsätzlich ist der wirtschaftliche Einsatz erneuerbarer Energien nach dem Prinzip der
+Lebenszykluskosten zu untersuchen
+Fest installierte elektrische Direktheizungen sind nur in Ausnahmefällen möglich. Die Leistung muss
+unter 2 kW liegen und ein Wirtschaftlichkeitsnachweis muss erstellt werden.
+Bei Gasversorgung ist Brennwerttechnik einzusetzen.
+Bei Kesseltausch ist grundsätzlich die Kesselleistung neu zu berechnen.
+Maßnahmen zur Einhaltung niedriger Rücklauftemperaturen sind vorzusehen.
+
+-
+
+Systemtemperaturen sind möglichst niedrig zu halten.
+
+-
+
+Elektrische Rohrbegleitheizungen, Dachrinnenbeheizungen und Rampenbeheizungen sollen nicht
+eingesetzt werden.
+
+Heizungs-, Lüftungs- und Klimaanlagen sind an günstigen Gebäudestandorten zu planen, um kurze
+Rohr- und Kanalnetze zu ermöglichen. Hierbei sind die Rohr- und Kanalquerschnitte und
+Leitungsführungen so zu wählen, dass nur geringe Reibungsverluste entstehen.
+
+-
+
+- _ Wärmeerzeuger sollen innerhalb der thermischen Hülle
+(soweit technisch möglich) liegen
+
+3.1.2
+
+Wärmeverteilung und Regelung
+-
+
+Heizkreise wenn möglich nach Nord-Süd-Ausrichtung separieren
+Heizkreise nach Funktionsbereichen mit zeitlich unterschiedlicher Nutzung jeweils ab 50 kW trennen
+Spreizung in Anpassung an Wärmeerzeugen und Nutzung
+
+-
+
+Niedrige Rücklauftemperaturen bei Brennwertgeräten
+
+(6)
+
+S 45
+
+°
+
+C
+
+selbstoptimierender Absenk- und Aufheizzeitpunkt und Heizkurve (Raumtemperaturfühler Nordseite
+als Führungsgröße in Nichtnutzungszeiten)
+Außerhalb der Nutzungszeiten sind oberhalb einer Außentemperatur von 5°C auch die
+Heizkreispumpen abzuschalten.
+
+-
+
+Thermostatventile mit Regelabweichung
+
+max. 1K
+
+Min/Max- Begrenzung, Frost/Raumsolltemperatur oder Einzelraumregelung über Präsenzmelder in
+Verbindung mit Beleuchtungssteuerung
+Die Abnahme der Heizung erfolgt erst nach Vorlage des Protokolls über den hydraulischen
+‚Abgleich. Dabei werden die tatsächlichen Raumtemperaturen überprüft.
+
+-
+
+-
+
+Beidder Einregulierung der Anlagen sind während der Nutzungszeit die Temperaturvorgaben nach
+der AMEV-Richtlinie Heizbetrieb 2001 mit Nachweis einzustellen.
+Umwälzpumpen sind grundsätzlich als Hocheffizienzpumpen mit einem Stromverbrauch von max.
+1 W/kW Heizleistung mit Zeitschaltung und elektronischer Drehzahlregelung einzusetzen
+
+Seite 3 von 7
+
+Planungs- und Ausführungsgrundlagen
+für Bauvorhaben der Landeshauptstadt Dresden
+
+3.1.3
+
+Heizflächen
+
+Vor transparenten Außenflächen generell vermeiden
+In begründeten Ausnahmefällen ist die Anordnung von Heizkörpern vor Fenstern möglich, sofern
+eine integrierte nicht demontierbare Abdeckung zwischen Heizkörper und Fassade angebracht wird,
+deren U-Wert unter 0,6 W/m/K liegt.
+Zur Beheizung von Sporthallen mit hoher Wärmedämmung sind vorrangig Heizflächen oder
+Heizkörper mit einem möglichst hohen Strahlungsanteil einzusetzen.
+Windfänge sind generell nicht mit Heizkörpern auszustatten.
+3.1.4
+
+Warmwasserbereitung
+Bei weit verzweigten, wenigen Abnahmestellen ist die Wirtschaftlichkeit dezentraler Anlagen zu
+prüfen.
+Warmwasserspeichergrößen
+sind unter Beachtung zur Verhinderung von Stagnation festzulegen
+
+32
+
+Lüftung
+Eine Belüftung der Räume ist vorrangig über das Öffnen der Fenster zu realisieren, um die
+Abschaltung der Lüftungsanlage außerhalb der Heizperiode zu ermöglichen.
+Wenn die freie Belüftung nicht für die notwendige Luftmenge und den Außentuftanteil nach DIN EN
+13779 ausreicht, ist der Einsatz von mechanischen Belüftungsanlagen in der Leistungsphase 2
+festzustellen, zu begründen und die Wirtschaftlichkeitsberechnungen einzubeziehen.
+Die Luftmenge und der Außenluftanteil sind auf das unbedingt notwendige Maß zu beschränken
+und in m?/h pro Person in Schulen und Kindertagesstätten in Abhängigkeit vom Alter und der
+zugelassenen CO; Konzentration < 1.000 ppm zu ermitteln.
+Ausnahmen müssen durch das Gesundheitsamt schriftlich bestätigt werden.
+Anlagen haben im Betriebszustand die Effizienzklasse SFP 1 oder SFP 2 einzuhalten
+Ventilatoren:
+_
+grundsätzlich drehzahlgeregeit
+Hocheffizienter Wirkungsgrad für den Betriebspunkt mit der höchsten
+Jahreslaufzeit
+Rückwärmezahl:
+> 0,8'bei Anlagen > 3.000 m?/h und 1.000 h/a
+Regelung/Steuerung: Entsprechend der Anforderung und zusätzlich über Feuchtefühler, COzFühler, Zeitprogramm
+
+33
+
+Klimatisierung
+Grundsätzlich sollte eine Klimatisierung durch bauliche Maßnahmen mit Sonnenschutz, hoher
+Speichermasse, Nachtkühlung und Anordnung von Räumen mit technologischen Wärmelasten
+nordseitig vermieden werden.
+Sollten im Einzelfall Räume aktiv gekühlt werden müssen, muss die Notwendigkeit der Kühlung
+mittels qualifizierten Verfahrens (z.B. dynamische Gebäudesimulation) nachgewiesen werden, das
+sowohl Aussagen zur Kühlleistung als auch zum Ausmaß der Komforteinschränkungen macht.
+Bei Notwendigkeit einer Kühlung ist zunächst der Einsatz natürlicher Wärmesenken, insbesondere
+der freien Nachtkühlung zu prüfen (z.Bsp. mechanisch angesteuerte Fensterkipp- und Drehflügel).
+Der Einsatz von direkter Erd- und Grundwasserkühlung zu prüfen.
+Wenn eine maschinelle Kühlung erforderlich ist, sind die Anlagenaufwandszahl und der
+flächenspezifische Energieeinsatz auszuweisen.
+Bei Fernwärmenutzung oder Einsatz eines BHKWs soll der Einsatz von Absorptionskälte geprüft
+werden.
+Trinkwasser darf nicht für Kühlzwecke verwendet werden.
+
+Seite 4 von 7
+
+Planungs- und Ausführungsgrundlagen
+für Bauvorhaben der Landeshauptstadt Dresden
+
+3.4
+
+Sanitärtechnik
+
+-
+
+Warmwasser ist grundsätzlich nur dann bereitzustellen, wenn gesetzliche Forderungen bestehen.
+Handwaschbecken in WC-Räumen in Schulen und Verwaltungsgebäuden erhalten nur Kaltwasser.
+Die Sanitärräume sind möglichst nicht unterhalb der Rückstauebene anzuordnen zur Vermeidung
+von Hebeanlagen.
+In Absprache mit dem Nutzer ist bei hohem Benutzungsgrad einer WC-Anlage der Einsatz von
+Trockenurinalen zu prüfen.
+_Beieinem Bedarf von mehr als 1.000 m? Brauchwasser ist Regenwasser zur Gartenbewässerung
+und für Reinigungszwecke im Außenbereich einzusetzen. Die Nutzung von Regenwasser für die
+WC-Spülung ist zu prüfen.
+
+-
+
+-
+
+Essind Spararmaturen mit geringen Volumen-
+
+-
+
+strömen einzusetzen.
+Grundsätzlich sind Selbstschlussarmaturen
+einzusetzen, die an Waschtischen auf 5 sec.,
+
+6-7 I/min
+
+vorgesehen werden, um die Vermehrung von
+Keimen und entsprechende Wärmeverluste zu
+vermeiden. Die Trinkwassererwärmung soll
+
+m
+
+möglichst nahe an den Verbrauchsstellen
+
+|
+
+erfolgen, die Leitungsvolumina müssen
+minimiert werden.
+Zur Legionellenprophylaxe sind in Duschen
+möglichst nur so genannte
+Frischwasserstationen einzusetzen. Bei
+entfernten nur gelegentlich genutzten Duschen
+ist die Wirtschaftlichkeit von
+Kleindurchlauferhitzern zu prüfen.
+
+-
+
+|
+
+|
+a
+
+2
+
+3.5.1
+
+Beleuchtung
+
+D
+
+=
+a
+
+|
+
+Emminue)
+
+| Emnmic)
+
+|
+| ss
+m
+m Rantene
+un 000indrt
+1). "sneberavern
+Elektrotechnik
+
+g”
+u
+
+D2
+Emmuc)
+
+3.5
+
+|
+
+|
+
+’
+
+Trinkwasserspeicher sollen möglichst nicht
+
+N”
+
+—
+
+|
+
+zu
+
+bei Duschen auf 30 sec. einzustellen sind.
+
+=
+
+En
+;
+
+8-10l/min
+okfeı
+
+|
+
+_temeno
+
+(m
+
+|
+
+|
+
+Emwenan
+
+Die erforderliche Beleuchtungsstärke nach DIN EN 12464 darf nicht überschritten werden. Dazu ist
+für jede Raumart ein rechnerischer Nachweis mit einem geprüften Programm zu erbringen. Die
+erreichte Beleuchtungsstärke ist bei der Abnahme zu messen und zu protokollieren.
+Die installierte Leuchtenleistung wird gemäß DIN 18599 auf die erforderliche
+Nennbeleuchtungsstärke bezogen. Der Grenzwert beträgt einschl. Vorschaltgerät 3,5 W/m? 100 Ix,
+der Zielwert 2,0 W/m? 100Ix (Bei Forderung nach Leuchtenabdeckung wie z.B. in Kitas gelten 3,5 4,5 W/m? 100 Lux). Die Werte gelten für die Grundbeleuchtung.
+
+-
+
+Leuchtmittel mit einer Lichtausbeute von mindestens 50 Lumen/Watt sowie hochwertige Leuchten
+
+-
+
+-
+
+mit einem Betriebswirkungsgrad von mindestens 80% sind einzusetzen.
+Grundsätzlich sind elektronische Vorschaltgeräte einzusetzen.
+
+e
+
+Beleuchtungssteuerung
+
+-
+
+In Sporthallen und größeren Räumen soll die Beleuchtung mit Präsenzmeldern geschaltet werden.
+
+Seite $ von 7
+
+Planungs- und Ausführungsgrundiagen
+für Bauvorhaben der Landeshauptstadt Dresden
+
+In Unterrichtsräumen in Schulen wird die Beleuchtung der Wand- und der Fensterbereiche getrennt
+über Präsenzmelder geschalten.
+Wenig frequentierte Räume wie Flure, Treppen, Lagerräume, WC, Sanitär- und Umkleideräume
+usw. sind mit Präsenzmeldern mit Lichtsensor auszustatten.
+Außenbeleuchtungen müssen über Dämmerungsschalter und Zeitschaltuhr und eventuell in
+. Verbindung mit Bewegungsmeldern gesteuert werden.
+Rettungszeichenleuchten mit LED
+
+3.5.2
+
+Anschlussleistung / Kostensenkung
+Blindleistung:
+Spitzenlast:
+
+3.6
+
+bei Erfordernis dezentrale Kompensation am Gerät
+Prüfung der Leistungsreduzierung
+Ggf. Lastabwurf prüfen
+
+Aufzugs- und Fördertechnik
+Bei ständiger Nutzung sind Seilaufzüge mit Frequenzumrichter einzusetzen
+Eine automatische Kabinenbeleuchtung ist vorzusehen.
+Zur Vermeidung von Wärmeverlusten aus dem Gebäude muss eine ständig offen stehende
+Schachtbe- und -entlüftung durch den Einsatz einer RWA verhindert werden.
+Elektrische Antriebe sind mit Energiesparmotoren der besten Energieeffizienzklasse gemäß VDI
+auszustatten.
+
+3.7
+
+Zähleinrichtungen
+Ein Regel-, Steuerungs- und Messkonzept mit Topologie und Funktionsprogramm ist innerhalb der
+Entwurfsplanung zu erstellen.
+Für jedes Gebäude sind getrennte Zähler für Wärme, Strom und Wasser vorzusehen.
+Wird ein Gebäude von mehreren Nutzern genutzt und können die genutzten Bereiche eindeutig den
+einzelnen Nutzern zugeordnet werden, so ist für jeden Nutzer und für jede Versorgungsart ein
+Verbrauchszähler, möglichst ein Unterzähler einzubauen.
+Die Verbrauchszähler sind für Hausmeister und technisches Betriebspersonal zugängig und
+ablesbar einzubauen.
+Bei Wärmepumpenanlagen sind grundsätzlich Stromzähler und Wärmemengenzähler zur Ermittlung
+der Jahresarbeitszahl zu installieren.
+Bei Solaranlagen ist neben einem Ertragszähler ein Wasserzähler am Pufferspeicher zu installieren.
+Stromzähler mit Leistungsmessung sind nur ab einem Jahresverbrauch >100.000 kWh einzubauen.
+Bei schwer zugängigen Wasserzählern (in Schächten) sind Funkzähler vorzusehen.
+Außenwasserarmaturen sind mit Gieß-)Wasserzählem auszustatten.
+Beim Einsatz von Anlagen der Gebäudeautomation sind die Zähleinrichtungen mit entsprechenden
+elektronischen Zählwerken zu versehen. Das notwendige Datennetz ist in der Leistungsphase 2
+abzustimmen.
+
+3.8
+
+Gebäudeautomation / Monitoring
+Bei großen Objekten sind in Wirtschaftlichkeitsvorbetrachtungen
+zentralen Gebäudeleittechnik einzubeziehen.
+
+Untersuchungen zur Errichtung einer
+
+Wesentliche Leistungsmerkmale der Systeme bei der Betrachtung für die Gebäudeleittechnik sind die
+optimierte Betriebsführung bezüglich energetischer, wirtschaftlicher und Ökologischer Gesichtspunkte.
+Das Fernabfragen und Aufzeichnen von Zählerständen und Trendkurven als Managementprogramm
+(Monitoring) sind zu sichern.
+
+Seite 6 von 7
+
+Planungs- und Ausführungsgnundlagen
+für Bauvorhaben der Landeshauptstadt Dresden
+
+Der Einsatz einer Gebäudeautomation zur Steuerung des Sonnenschutzes im Zusammenhang mit der
+Raumtemperierung durch Lüftungsanlagen, der Raumtemperierung durch eine statische Heizungsanlage und
+einer zentralen Raumlicht- und Türschließsteuerung sind technisch und wirtschaftlich in der Leistungsphase 2
+zu prüfen.
+
+Seite
+7 von ?
+
+Geschäftsbereich Allgemeine Verwaltung
+Schulverwaltungsamt
+
+Aktualisierung am 10.07.2013,
+
+GZ:
+Bearbeiter:
+Tel.:
+
+140Frau Frank/Frau Runschke
+488 92 82 / 488 92 08
+
+Email:
+
+SFrank@dresden.de
+
+Sitz!
+Datum:
+
+Fiedlerstr. 30
+10.07.2013
+
+Kennzeichnungsfarbe rot
+
+Checkliste Verantwortlichkeiten Essenausgabestellen
+chung, SG Allgemeine Lebensmittel und
+Pflichtig ist die nachweisliche Überprüfung/Bestätigung durch die Abt. Lebensmittelüberwa
+Bedarfsgegenstände der Landeshauptstadt Dresden.
+
+In Essenausgabestellen finden ausschließlich folgende Versorgungsformen
+
+Platz:
+
+bis
+Heißkost: Das Essen wird fertig vorproduziert in Thermoport-Behältern angeliefert und
+
+zur Ausgabe heiß gehalten.
+
+% vorgefertigt, innerhalb von 30 min bei mind.
+Kühlkost: Das Essen wird in der Produktionsstätte bis zu einem Gar- Grad von 85 — 95
+schock gekühlt. In der Essenausgabestelle
+65°C Kerntemperatur abgefüllt/portioniert und innerhalb von max. 90 min auf 0 - +3°C
+
+werden die Portionen mittels Heißluftöfen reerhitzt und dann ausgegeben.
+
+Tiefkühlkost:
+
+Die direkt aus dem Ofen kommenden
+
+Produkte werden innerhalb von maximal 4 h von garheiß auf
+
+-18°C
+
+die Portionen mittels
+Kerntemperatur bei einer Lufttemperatur von 35°/-40° C eingefroren. In den Essenausgabestellen werden
+
+dann ausgegeben.
+Combidämpfer (ausgestattet mit integrierten Kondensationshauben) reerhitzt und
+
+.
+
+mehrere Tiefkühlschränke benötigt
+Dabei ist die Versorgung mit Tiefkühlkost die baulich anspruchsvollste aller Varianten, da immer
+sein müssen.
+werden, sowie in jedem Fall 1-2 Starkstromanschlüsse und ein Kaltwasseranschluss vorhanden
+ng Essenausgabe zu Spülbereich
+Hinweis: Die Benennung der Räume ist abhängig vom Raum-J/Platzangebot. Die Unterteilu
+
+sowie Trennung Lager für Lebensmittel und Putzmittel sind zwingend einzuhalten.
+
+Checkliste Verantwortlichkeiten Essenausgabestellen
+
+Seite 1 von 9
+
+Raum/Gegenstand
+Büro
+
+Caterer
+
+Arbeitsplatz/Schrank
+
+Technik
+Umkleide Personal
+(ohne Toilette)
+Garderobenschränke
+Schwarz/weiß
+
+bauliche Vorleistungen
+|
+1 DSD
+1 DSD und 1 Datendose
+1 Telefonanschluss/
+Region
+
+Ausstattung
+durch Vermieter
+
+Ausstattung durch Mieter
+
+Bauseitige Vorbereitung der
+Anschlüsse durch Vermieter
+durch Betreiber / Mieter
+
+kein Zugang zum Schulnetz —
+
+durch Mieter*
+
+*Einzelobjektabstimmung zw.
+
+u
+1 Datendoseneinheit und 1
+ESD im Kassenbereich
+1 DSD beim
+Handwaschbecken /
+Keramik
+
+Erste-HilfeMaterial-Schrank
+(Bestückung
+durch Mieter)
+
+[Anmerkungen allgemein
+
+Datenschutz
+
+Vermieter/Mieter,
+
+Bereitstellung abhängig von
+
+den HH-Mitteln beim Vermieter
+zum jeweiligen Vorhaben
+
+wenn Fenster, dann
+Sichtschutzfolie bauseitig_
+
+Checkliste Verantwortlichkeiten Essenausgabestellen
+Seite 2 von 9
+
+Raum/Gegenstand
+
+bauliche Vorleistungen
+
+Ausstattung
+durch Vermieter
+
+Ausstattung durch Mieter
+
+| Anmerkungen allgemein
+
+Spülbereich
+HLS:
+
+X
+
+Ausgussbecken-
+
+KW:
+
+Seifenspender,
+
+Kombination aus
+Edelstahl mit Armatur
+ca. 500/800/850 mm
+
+ww: DN 20
+|AW: DN50
+Anschlusspunkt mittig
+
+Handwasch-
+
+DN20
+
+Handtuchspender
+(Bestückung
+durch Mieter)
+
+wenn
+|1 DSD für
+Geschirrspülmaschine
+altegerät
+Osmosevorsch
+durch Mieter
+AW
+KW;
+|
+:
+eingebracht wird, dann
+|
+HLS:
+Spültisch mit zwei
+Becken
+KW. DN 20
+ca.1900/700/850 mm
+|WW: DN 20
+AW: DN 50
+mittig unter Becken
+
+x
+
+Geschirrwaschbrause
+
+X
+
+sonst:
+
+gewerbliche
+Dreifachspüle aus
+Edelstahl mit Armatur
+ca. 2400/700/850 mm
+
+Schrankkombination mit
+Schiebetüren, Edelstahl
+
+HLS:
+KW.
+|WW:
+|AW:
+mittig
+
+alle Armaturen bauseits
+|Wäscheständer
+
+Durchreichefenster zur Mensa,
+verschließ- oder -riegelbar
+innen, Sicherheitsglas
+
+ggf.
+Geschirrspülmaschine,
+Ausführung unter
+Beachtung der Anzahl
+Essenteilnehmer
+
+Bodeneinlauf
+|
+Fettabscheider
+
+X
+DN 20
+DN 20
+DNS5O
+unter Becken
+Einzelobjektabstimmung zw.
+Vermieter/Mieter
+Checkliste Verantwortlic :hkeiten Essenausgabestellen
+Seite 3von9
+
+Raum/Gegenstand
+
+bauliche Vorleistungen
+
+Ausstattung
+
+Ausstattung durch Mieter
+
+Anmerkungen allgemein
+
+durch Vermieter
+entsprechend der Anzahl der
+Essenteilnehmer erhöht sich
+
+Lager Lebensmittel
+
+Regale
+
+mind.
+OKFF
+
+2 DSD 190 cm
+
+1 ESD für Reinigung
+
+x
+x
+
+Haushaltskühlschränke
+Tiefkühlgeräte
+
+die Anzähl der Kühlgeräte,
+daraus folgend Erhöhung
+
+Anzahl DSD°
+
+Lager Putzmittel
+x
+x
+
+Regale
+Putzmittelschrank
+
+Vorbereitung'
+Konvektomaten
+einschließlich Unterbauten
+
+1 DSD Absicherung je 16 A,
+230 Volt, 130 cm OKFF für.
+
+die Anzahl der Konvektomaten,
+
+Wärmeregenerationswagen
+
+3-4 Transport- und
+Servierwagen, Edelstahl
+
+1 DSD 400 Volt Drehstrom,
+190 cm OKFF für
+Thermophoren
+
+HandwaschAusgussbeckenKombination aus
+Edelstahl
+ca. 500/800/850 mm
+
+Arbeitstisch
+
+HLS:
+KW: DN 20
+ww: DN 20
+AW: DN50
+Anschlusspunkt mittig
+
+entsprechend der Anzahl der
+|Essenteilnehmer erhöht sich
+daraus folgend Erhöhung
+|Anzahl DSD
+
+Einschweißgerät
+x
+Seifenspender,
+Handtuchspender
+Desinfektionsspender
+(Bestückung
+durch Mieter)
+unter Beachtung
+der räumlichen
+
+Gegebenheiten
+Checkliste Verantwortlichkeiten Essenausgabestellen
+Seite 4 von 9
+
+Raum/Gegenstand
+
+bauliche Vorleistungen
+
+Ausstattung
+durch Vermieter
+Einbringen eines
+Arbeitstisch
+
+Ausgabe"
+
+Anmerkungen allgemein
+bauseits:
+Schiebetür zur Ausgabe;
+Bodeneinlauf;
+
+Fettabscheider
+Armaturen
+
+x
+
+Schrankkombination mit
+Schiebetüren, Edelstahl
+1 DSD Absicherung je 16 A,
+
+Wärmewagen
+
+entsprechend der Anzahl der
+
+230 Volt, 130 cm OKFF für
+Wärmeregenerationswagen;
+1 DSD, 130 cm OKFF
+
+Tellerspender
+
+Essenteilnehmer erhöht sich
+die Anzahl der Wärmewagen,
+daraus folgend Erhöhung
+Anzahl DSD
+
+x
+
+HLS:
+
+Handwasch-
+
+Ausstattung durch Mieter
+
+AusgussbeckenKombination aus
+
+KW:
+ww:
+
+DN 20
+DN 20
+
+Edelstahl mit Armatur
+
+|AW:
+
+DN50
+
+ca. 500/800/850 mm
+
+Anschlusspunkt mittig
+
+Geschirr
+
+Seifenspender,
+Handtuchspender | Transportabler
+
+Desinfektions-
+
+|Besteckblock
+
+spender
+
+(Bestückung
+
+|Besteck
+
+durch Mieter)
+Ausgabebesteck
+
+Ausgabetresen mit ggf. | verschließbare Rollladen,
+Schrankunterbau,
+
+bündig schließend mit
+
+Schiebetüren,
+
+Tresenplatte
+
+Edelstahl,
+Ausgabeplatte aus
+Edelstahl,
+Hustenschutz
+
+1 Datendoseneinheit und 1
+ESD im Kassenbereich
+
+verschließbare
+Rollladen
+
+_
+
+Anschluss/Anschlüsse für
+
+x
+Tablettspender
+
+Kassierungssystem beachten
+
+(abhängig von Anzahl
+Tabletts
+
+Essenteilnehmer oder/und
+Anbieter)
+
+Tablettrückgabewagen
+Kassensystem
+x
+
+Hustenschutz, 1-etagig, jedoch
+beachten, dass somit
+Gesamthöhe 1200 mm OKFF
+erreicht wird, Anwendung in
+Grundschulen und
+
+Checkliste Verantwortlichkeiten Essenausgabestellen
+Seite 5 von 9
+
+Raum/Gegenstand
+
+bauliche Vorleistungen
+
+Ausstattung
+durch Vermieter
+
+Ausstattung durch Mieter
+
+| Anmerkungen allgemein
+Förderschulen mit
+Grundschulcharakter auf
+Einsatzhöhe prüfen, sonst
+Durchreiche;
+
+keine integrierte Beleuchtung_|
+Cafeteria Lager“
+Regale
+
+2 DSD 190 cm OKFF
+1 ESD für Reinigung
+
+Cafeteria“
+
+2 DSD, 130 cm OKFF
+
+X
+
+Haushaltskühlschränke
+Tiefkühlgeräte
+
+kein Herd/Backofen, keine
+Dunstabzugshaube, keine
+Friteuse
+
+1 ESD für Reinigung
+1 Datendoseneinheit und
+1 ESD im Kassenbereich
+HandwaschAusgussbeckenKombination aus
+Edelstahl mit Armatur
+ca. 500/800/850 mm
+
+Ausgabetresen mit
+Schrankunterbau,
+Schiebetüren,
+Edelstahl,
+
+Ausgabeplatte aus
+Edelstahl,
+Hustenschutz
+
+HLS:
+KW: DN 20
+ww: DN 20
+|AW: DN50
+Anschlusspunkt mittig
+|
+
+Kassensystem
+Wasserkocher,
+Kaffeemaschine,
+X
+Kühl- und
+|Mikrowelle,
+Seifenspender,
+Handtuchspender | Gefrierschränke (ggf.
+|unterbaufähig)
+Desinfektionsspender
+(Bestückung
+durch Mieter)
+
+x
+
+Unter Beachtung der
+räumlichen Gegebenheiten
+Einbringen einer Kühlwanne
+und Ständervitrine, dazu
+
+Einzelobjektabstimmung zw.
+Vermieter/Mieter
+Checkliste Verantwortlichkeiten Essenausgabestellen
+Seite 6 von 9
+
+Raum/Gegenstand
+
+bauliche Vorleistungen
+
+Ausstattung
+durch Vermieter
+
+Ausstattung durch Mieter
+
+| Anmerkungen allgemein
+Durchreichefenster, verschließoder -riegelbar innen,
+
+Sicherheitsglas
+Bodeneinlauf
+Fettabscheider
+kann baubedingt ein Raum sein
+
+2 nicht bei jeder Schulart
+$ Berechnungshinweise bei Tiefkühlkost
+
+- ca. 200 bis 250 Essenteilnehmern täglich, ca. 5 TK-Schränke und 1 Kühlschrank im Einsatz
+
+-ca. 400 bis 500 Essenteilnehmern täglich, ca. 10 TK-Schränke und 2 Kühlschränke im Einsatz
+-ca. 600 bis 750 Essenteilnehmern täglich, ca. 15 TK-Schränke und 3 Kühlschränke im Einsatz, hier ggf. in Abstimmung
+
+mit Vermieter und baulichen/räumlichen Gegebenheiten das Einbringen von Kühlzelle
+
+Weitere bauliche Erfordernisse
+
+Innenbereich:
+- Lüftungsanlage für gesamten Essenausgabereich (mindestens für Spüle, Vorbereitung, Ausgabe)
+- Essenausgabe: separater Raum mit Fenster(n), Gaze an mindestens einem zu öffnenden Fenster
+- wenn Trockenlager vorhanden: mit Fenster (alternativ: Zwangslüftung)
+
+- separate Umkleidemöglichkeit (nicht im Küchenbereich!)
+zur Beachtung: separater Eingang, Erreichbarkeit durch Küchenbereich nicht gestattet!
+- separater Raum zur Lagerung der Küchenchemie und Reinigungsmittel, mit Fenster (alternativ: Zwangslüftung)
+- Fußböden und Wände glatt und leicht zu reinigen;
+- Bodenfliesen R 10; höchstens R 11; Kehlfliesen
+
+- Fettabscheider,
+
+- keine offenen Wandabsätze/Fugen (Wischstreifen über Wandfliesen inkl. Silikonverfugung bzw. wandhohe Fliesung)
+- Beleuchtung nach DIN VDE für Küchen, Leuchtmittelabdeckung mit Splitterschutz
+- für Trinkwasserproben: Einrichtung von 3 zentralen Entnahmestellen (KW, WW, Zirkulation)
+Checkliste Verantwortlichkeiten Essenausgabestellen
+Seite 7 von 9
+
+- für Stellplätze der Servierwagen:> abwischbare Wand bzw. Fliesen
+> Bumsinchen bzw. Metallleiste
+
+- Kantenschutz an allen Problemstellen
+zwingend erforderlich
+- wenn separate Toilette für Personal des Caterers, dann Handwaschbecken mit KW und WW
+Außenbereich:
+- fester Untergrund des Entsorgungsplatzes, möglichst überdacht
+
+e Speiseresteentsorgung durch den Vermieter
+- es erfolgt keine bauliche und ausstattungsmäßige Bereitstellung für gekühlte Stellplätz
+Anschlüsse:
+
+tigkeitsfaktor!
+- Elt.- Anschlüsse: max. 30 KW (ansonsten Leistungstarif) - Beachtung Gleichzei
+- Starkstromanschluss Konvektomaten/Combidämpfer
+- Steckdosen in Arbeitshöhe (Feuchtraumdosen)
+3 Becken)
+- für 3er-Edelstahlspüle sind 2 Wasseranschlüsse inkl. Amaturen (f. Bedienung aller
+
+zu installieren
+
+nicht einzubringen sind (Auflistung kann durch Schulverwaltungsamt ergänzt werden):
+rät des Mieters
+- Arbeitstisch mit Einschweißbecken, hier reicht Stromanschluss 1 ESD und das Schweißge
+
+in Einzelabstimmung zum jeweiligen Objekt
+- die ausschließliche bauliche Vorleistung für das Einbringen einer oder mehrerer Kühlzellen
+
+Betrifft Ausstattungen im Rahmen von Neu-, Ersatzneubauten und Sanierungsmaßnahmen
+
+unter Beachtung der räumlichen
+Durch den Vermieter wird eine Schrankkombination/Edelstahl eingebracht. Der Mieter entscheidet
+Gegebenheiten, in welchen Raum (Vorbereitung/Ausgabe) diese fest eingebracht wird.
+
+Checkliste Verantwortlichkeiten Essenausgabestellen
+Seite
+
+8 von 9
+
+HLS - Angaben für Vermieter
+jeweils eigene Zählerplätze Essenausgabe und Cafeteria, Unterzähler für ELT
+Anschlüsse WW, KW, AW nach Stückliste
+
+Erstausstattung ohne Bestückung: Seifenspender, Handtuchspender
+
+HLS - Angaben für Mieter
+ausschließliches Einbringen von Gargeräten mit integrierter Abluft
+Bestückung Seifenspender, Handtuchspender
+Erstausstattung und Bestückung Desinfektionsspender
+Erstausstattung und Bestückung Erste-Hilfe-Material
+Feuerlöschmitttel entsprechend Brandschutzkonzept der Einrichtung, Wartung und Betreuung durch Beauftragten des Mieters
+Auszug aus Aktennotiz Beratung zu Verantwortlichkeiten/Abgrenzungen Planung Essenausgaben am 09.12.2009
+
+TN:
+
+Amtsleiter SVA, alle Abteilungsleiter SVA, SGL 40.2-2, SGL 40-1-4
+
+Lfd.
+Nr.
+
+| Aufgabe
+
+1
+
+Planung der Finanzierung Ausstattung, Investhaushalt
+
+2.
+3
+
+Planung der Finanzierung Bauleistungen
+Vorinfo zum Versorgungskonzept
+
+4
+5
+6
+7
+
+Verantwortlichkeit
+
+|
+
+40.1-4
+40.2-2
+40.1-2
+
+Zusammenstellung der Pos. 1 bis 3 für Bauherrenauftrag an HBA
+Planung/Ausführungsplanung _
+zur Ausführungsplanung
+Einholung der Zustimmung Amt 36/Lebensmittelüberwachung
+
+Vorbereitung, Durchführung Vergabeverfahren nach VOB einschließlich Auftragsvergabe
+für Lieferung und Montage Ausstattungen sowie Leistungsabnahme, siehe Checkliste
+
+40.2-2
+HBA
+HBA
+HBA
+
+Essenausgabestellen, Ausstattung durch Vermieter
+
+Checkliste Verantwortlichkeiten Essenausgabestellen
+Seite 9 von 9
+
+
