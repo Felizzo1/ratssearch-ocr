@@ -1,0 +1,693 @@
+Schnitt RQ 7
+Höhenangaben gültig für Station 2+800,00
+
+Regelquerschnitt
+Neubau Bohrpfahlwand, BT L7
+
+Regelquerschnitt
+
+Neubau Schwergewichtsmauer, BT R6
+
+gültig von Station 2+797,19 bis 2+832,89
+
+gültig von Station 2+776,00 bis 2+858
+
+60
+30
+
+18
+
+e@
+
+x
+
+nz
+Bituminöser
+Anstrich
+
+|
+
+Aufbau
+
+- +-|_ı.= 119,50
++ ,V5,77
+9
+119,00
+|
+
+\
+
+-
+
+"DI
+
+T
+
+K7I0 Wu
+
+B
+
+7
+
+5=
+
+N
+
+Flutmulde,
+
+118,50 \atursteinverblendun
+
+BTL
+
+11
+
+Be
+
+werkstein, 9 glatt, betongrau
+9
+
+Handlauf, h=0,20 m, © 60,3 x 2,9
+
+og
+
+Regelquerschnitt
+
+ültig von Station 2+698,00 bis 2+895,00
+gulig
+
+auerkopfabdeckung, Beton-
+
+5
+
+60
+
+Regelquerschnitt
+
+Verankerung nach!Gel 14
+
+&
+
+20 cm Oberboden mitN
+
+Rasenansaat_
+
+Rohrgeländer, h=1,0 m, nach
+
+-
+
+s
+
+.
+
+stand
+
+Gewässersohle,
+lki
+
+Neubau Trennmauer, BT L6
+
+mit
+
+9
+
+Mauerkopfabcieckung, Beton-
+
+2
+
+Regelq uerschnitt
+
+gultg von
+
+Stati
+
+station
+
+Br
+
+=
+
+a
+
+BTM3
+
+2+761.00
+
++
+
+a
+
+bis
+
+‚Y
+
+?+983
+
+50
+
++
+
+DIS
+
+ültig 9 von Station 2+765,25
+bis 2+895,00
+’
+’
+
++3,79
+
+Natursteinverblendung mit
+® 4 0 0 = 1 1 g ’ 3 9 Mm
+
+Sandstein nach|Verb 1|, Dicke 15 cm
+
+in nach Verb1], Di
+
+H N
+
+N
+
+8
+
+HN,
+
+85 2
+
+Sandstein nach Verb 1], Dicke 15 cm
+
+=
+
+—_s
+
+AN)
+
+—k
+
+Bituminöser
+
+@, Anstrich f
+
+L
+
+-
+
+En | 2.
+
+_
+
+\V
+
+C30/37 XC4, XD1, XF3, XA1, WA
+
+Pfahlkopfbalken
+C 30/37, XCA, XD1, XF3, XA1, WA
+
+Teilsickerrohr DN100
+
+Hoooo=11/.4cm
+U
+
+Auslauf: BT L6
+
+_
+
+YH9.=HS5-90%
+Drainage- Edelstahlrohr DN 100
+
+3\RQ\RQ_2-4.dwg
+L\\2012\DE0140\DE0111_000716_Weisseritz\0120_Pro )jekt\60_Supportdaten\ACAD\LPH
+
+| =
+
+it
+
+Vi
+
+Auslauf mit Froschklappe,
+
+B
+
+a=4 m
+
+ca. 15 cm Abdeckung mit Sohlsubstrat
+
+Stützwand, Beton eingefärbt (gelb)
+
+Längsriegel aus Wasserbausteinen nach TWL,
+
+C30/37 XC4A, XD1, XF3, XA1, Wa
+
+QUZ u
+
+Großblöcke, Kantenlänge > 120 cm
+
+(35
+
+Scheinfugen alle 6 m
+
+-114,56
+
+V
+
+tlich
+
+u
+
+V
+
+N
+ML.
+I
+TH
+
+N
+
+BlDr
+
+RR
+N Boden
+
+Großblöcke, Kantenlänge
+
+HN
+
+5,00
+r
+
+-
+
+280 cm,
+
+in Beton C20 / 25 gesetzt
+
+-114,41
+Bestand
+
+ZB
+
+Ian.
+
+— 220227222
+MAR
+
+EEE
+grobkörniger
+
+|
+gemischtkörniger
+
+\
+
+Boden .....
+
+Bemerkung:
+
+N ER
+
+2 Reihen Wasserbausteine nach TWL,
+
+r
+
+m
+
+Eee
+|. 100:
+
+XF1, XA1 Zementtyp SL, langsam erhärtend
+Scheinfugen alle 6 m
+
+NV
+
+=
+
+N
+
+2
+
+NOCMWOSSEF
+
+m%Y/s)=114.92m
+
+118,60 - GOK
+
+Rasenansaat
+
+|
+
+Schwergewichtsmauer C 25/30
+
+HN
+
+h
+
+| Cr e5
+
+Filterstein
+
+Auslauf Edelstahlrohr DN 100 mit Froschklappe
+
+HN
+
+HQ 20= 116&.17m
+
+i
+
+Scheinfugen alle 6 m
+|
+
+=
+
+18
+
+in Kies-Filter
+
+HN
+
+20 cm Oberboden mit
+
+4
+
+Brüstungsmauer,
+
+grobkörniger Boden
+
+N |
+
+\
+
++0,70
+
+Y
+
+0,50
+
+Sohlhöhe + 0,00 entspricht
+
+UN
+
+5
+
+IN
+
+7
+
+N)
+
+AHANGERRRGCER
+
+ll
+
+o
+
+Planung Sohle MW-Rinne im Längsschnitt
+
+77,
+—
+
+2: EEE
+
+7777 77
+
+Umrechnungsfaktor Höhenbezug: NHN = HN + 0,140 m
+
+Br
+
+N
+
+BI
+
+VIII
+
+BI
+
+Fr
+
+F
+
+-
+
+u
+
+u
+
+LLLLLIILENS
+
+u
+
+Er Er Gr
+
+Er
+
+a
+
+Gr Gr
+
+En
+
+SEN
+
+N
+
+Sc
+
+Sb
+as)
+
+!
+
+—
+
+30 cm Bettung: Steinschüttung aus Wasserbau-
+
+1,00
+
+steinen CP 45/125
+
+1,60
+
+|
+
+|
+
+1,00
+
+|
+
+-
+
+IS
+
+|
+
+10 cm Sauberkeitsschicht,
+
+3,60
+
+Beton C12/15 X0
+
+wamwa
+’
+
+’
+
+I
+
+30cm
+
+Kantenlänge > 100 cm,
+.
+Zwischenräume mit Sohlsubstrat verfüllen
+Bettung: Steinschüttung aus Wasserbau-
+
+steinen. CP 45/125
+
+III
+
+NELZIEITEIIITZLLELZ,
+
+Def
+RZ
+
+XC2, XD1, XF3
+
+\
+106,50
+
+| NN
+© 1,18
+
+15,00
+
+|
+
+|
+
+Landeshauptstadt Dresden
+
+Betrieb Oberes Elbtal
+
+Umweltamt
+
+Auffragnehmer
+
+clio ARCADIS DEUTSCHLAND GMBH
+ARC
+
+10 cm Sauberkeitsschicht,
+Beton C12/15 XO
+
+4,00
+
+S
+
+Könneritzstraße 29, D-01067 Dresden,
+
+Tel: 0351 263588-0, Fax: 0351 263588-99
+
+CONSULT
+Fundament
+
+SSUIST GE. IF KAN
+
+|
+
+ADI
+
+‚
+7
+
+i
+
+16,50
+
+Arbeitsgemeinschaft
+
+RLTL.
+
+= eo
+
+Länge Pfahl = 10,80 m
+
+Bemerkung
+
+Mafinahmenbeteiligfer
+
+LTV des Freistaates Sachsen
+
+100 cm Steinsatz aus Wasserbausteinen nach TWL,
+
+2
+—
+
+überschnittene Bohrpfahlwand
+
+-
+
+Name
+
+=
+
+on
+
+.
+
+118 cm, C 30 / 37, XA1,
+
+Datum
+
+Maßlnahmenfräger
+
+ne
+
+Rn
+
+REDEN
+
+Zwischenräume mit Sohlsubstrat verfüllen
+—
+
+I
+
+V__
+
+70cm Steinsatz aus Wasserbausteinen nach TWL,
+Kantenlänge
+> 70 cm,
+
+8
+
+. Q
+
++ 0,00
+L
+
+Lagebezug: RD 83, 4. Meridianstreifen
+Landkreis: Kreisfreie Stadt Dresden
+Gemarkung: Lobtau
+
+Datum
+
+|
+
+Name
+
+| Unterschrift|
+
+.
+
+Höhenbezug:
+Gemeinde:
+Flursfück:
+
+Ausbau
+
+=
+
+HN 76
+Dresden
+
+der Vereinigten Weilleritz im Stadtgebiet
+
+Gezei. | 13-06-17 | vu/ksc
+
+Dresden von der Brücke Wernerstraße bis oberhalb
+
+Bearb.\ 13-06-17
+
+\eth
+
+der Brücke Dederaner
+
+Gepr.
+
+|tbl
+
+Fluss - km 2+602 - 3+106
+
+|13-06-17
+
+Regelauerschniff
+Auffragsnr.:
+Phase:
+RQ.dwq
+
+1511.060.06
+Genehmigungsplanung
+
+Plan-Nr.:
+Ers. f.:
+
+2.4
+Nummer
+
+Straße, Los 2, Teillos 21,
+
+RQ 07, Station 2+280,00
+Maßstab
+1:50
+
+(m, cm) | Blatt
+
+7
+12 Bl.
+
+

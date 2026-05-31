@@ -1,0 +1,1151 @@
+Schnitt RQ 4
+Regelquerschnitt
+
+Höhenangaben gültig für Station
+
+Neubau Winkelstützmauer,
+
+BT L4
+
+gültig von Station 2+703,05 bis 2+752,64
+
+Regelquerschnitt
+Neubau Bohrpfahlwand, BT R4
+
+Regelquerschnitt
+
+75
+
+gültig von Station 2+690,00 bis 2+718,17
+
+Gewässersohle, BT M2
+
+nn
+1
+
+2+7 15,00
+
+‚90
+
+7
+
+,
+
+25
+
+|
+
+|
+
+75
+
+gültig von Station 2+616,00 bis 2+728,00
+
+Füllstabgeländer, h=1,0 m
+
+vw
+
+Iyorland
+
+_
+
+040
+>01 %
+
+vorh. Ökopflaster
+
+119.00
+
+I
+RS a
+
+er...
+en
+er
+| 22
+|
+
+—
+
+BE 1
+
+EHR
+
+N
+
+7
+
+T
+
+Leitung öffentliche Beleuchtung (Planung)
+Be
+
+“
+
+3\RQ\RQ_2-4.dwg
+L\\2012\DE0140\DE0111_000716_Weisseritz\0120_Pro )jekt\60_Supportdaten\ACAD\LPH
+
+_
+
+>
+
+_
+
+Dicke
+
+_
+
+_
+
+N
+
+BEREN
+
+20T
+
+113,20
+
+_
+
+_—
+
+SZ
+
+Be
+1...
+
+_—
+
+EZDETEETI
+
+_-
+
+_—
+
+(Te)
+
+,
+
+uch:
+
+|
+
+; |
+
+10 cm Sauberkeitsschicht,
+
+Beton C12/15,X0
+
+/
+
+—
+
+I
+
+7777
+4
+
++ 0,60
+\_
+
+x
+|
+
+U
+
+= —
+
+BG
+
+UNI
+GI
+
+=
+
+I
+
+(
+
+SINN
+
+|
+
+SER
+
+7
+
+|
+
+1,30
+5,00
+
+| |
+
+.
+
+MI
+
+Scheinfugen alle 6 m
+
+u ILL
+
+Natursteinverblendung mit
+
+Wi
+=
+
+HQ
+
+-115
+
+107
+
+m/7
+
+5/=
+
+74
+
+HN
+
+Auslauf mit Froschklappe,
+
+|
++0,10...0,30
+
+|
+
+75
+
+|
+Bestand
+
++0,00
+
+113,64
+
+0-
+
+'
+
+|
+
+Ä
+
+—
+
+u
+
+,
+
+SS
+
+m
+
+Ali
+
+7
+50
+
+|
+
+|
+
+S
+
+—n—
+
+a=4 m
+
+29
+
+1
+
+nach
+
+”
+
+112,60
+’
+
+Fundament
+
+C30/37 XC2, XF3, XA1, WA
+
+j
+
+-
+
+-
+
+S
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Q
+
+>
+
+BER
+IZIT
+
+ha INN
+
+Rx
+N
+STRWT
+
+45
+
+30cm
+
+N
+, N
+
+S
+
+—
+
+|
+
+Umrechnungsfaktor Höhenbezug: NHN = HN + 0,140 m
+
+N
+N
+
+SI:
+QSb
+
+SR S
+
+2
+
+I
+
+Datum
+
+Name
+
+Mafinahmenfrager
+
+N
+N
+N
+
+Maflnahmenbefeiligfer
+
+LTV des Freistaates Sachsen
+
+Landeshauptstadt Dresden
+
+1
+Betrieb
+Oberes Elbtal
+
+Umweltamt
+
+.
+
+Auftragnehmer
+
+’
+
+IN
+SON
+
+.
+
+Arbeitsgemeinschaft
+
+RN
+
+SISSS
+
+Zwischenräume mit Sohlsubstrat verfüllen
+Bettung: Steinschüttung aus Wasserbau-
+
+Bemerkun
+
+.
+
+NIINS
+NN
+
+Kantenlänge 2 100 cm,
+
+steinen CP 45/125
+
+14199:2012-01,
+
+.
+
+Planung Sohle MW-Rinne im Längsschnitt
+
+W
+
+<
+
+SINN
+
+Großblöcke, Kantenlänge > 120 cm
+
+—
+
+EN
+
+k
+
+emerKuUnNg:
+
+2
+Sohlhöhe
++ 0,00 entspricht
+
+SL
+
+Längsriegel aus Wasserbausteinen nach TWL,
+
+100 cm Steinsatz aus Wasserbausteinen nach TWL,
+
+B
+
+| NS
+
+7
+
+—
+
+DIN
+
+a=2,16 m, z.B. Ischebeck TITAN o.giw.,
+
+I
+5
+
+|
+
+j
+N
+
+u
+
+ji
+
+|
+
+n
+
+’
+
+113,10
+
+?
+
+Auslauf: am Ende Stützwand in Böschung
+
+NN
+
+ar
+
+|
++0,10...0,30
+
+in Kies-Filter,
+
+Rückverankerung mittels Dauerverpresspfahl
+114
+
+.
+
+5.00
+
+N N
+
+N A
+
+Mm
+
+ı
+
+75
+
+Rückentwässerung Teilsickerrohr DN100
+
+Drainage - Edelstahlrohr DN 100
+im Boden mit Vlies ummantelt
+
+5 ar Ser
+
+2
+'
+
+Mm
+
+S
+
+u
+
+.
+
+.
+
+5%
+35
+
+11,40.
+I
+/
+
+_Oberflächenwasser
+
+1.5
+
+SL RN
+
+FI
+
+Sandstein nach[Verb1], Dicke 15 cm
+
+HN
+
+10m
+
+chotter 16/32 zur Ableitung
+X
+
+HREEGSEIDSG
+
+N
+
+Va
+
+8%
+
+’ ge
+
+es < “, "03
+=
+
+0
+
+NN
+
+SL
+
+|
+|
+
+1,50
+
+HN
+
+TTS
+
+C 30/37 XCA, XD1, XF3, XAL,WA
+
+4
+
+SIININININININS
+
+2,20
+
+11/7,33m
+
+Wr,
+
+.
+
+Ex N
+
+N
+N N N
+DIN
+N
+——— N m
+
+|
+
+|| |
+
+NIIUIIUNI
+
+NN
+
+|
+I
+
+m
+
+.
+ne:
+
+HQ 200
+
+HQ>4=116
+
+||
+7777
+
+GR
+
+HIT
+
+_-
+
+LL 0
+EX:
+7 yes
+For:
+
+EI
+
+|
+
+|
+
+|
+
+N8
+
+ITI
+IT TTS
+VILLLIIIIILLL?
+
+18
+
+/
+
+Da
+7HANS0
+
+—
+
+|
+
+N GGG NT;
+7
+
+I S\ N
+
+Y
+
+|
+
+NIIT
+N
+LH
+RN GI
+
+|
+
+80 cm, Kantenlänge = 80 cm, u
+Großblöcke
+in Beton C20 / 25 gesetzt
+114,24
+
+|
+
+AU
+
+Geländer, vorh.
+
+Anstrich
+
+ı
+
+5
+
+/
+
+.8
+Freibord >
+Pfahlkopfbalken
+
+|
+
+2 Reihen Wasserbausteine nach TWL,
+
+Ta
+7 |
+77,0
+
+NNINN
+
+80
+
+|
+
+-
+
+777
+
+N
+
+\
+INS
+N
+NZZ
+I
+
+|
+
+|
+
+HN
+
+—
+
+|
+.
+
+Auslauf Edelstahlrohr DN 100 mit Froschklappe
+-
+
+777
+PN,
+
+BEE
+
+|
+
+.
+
+Bituminäser
+
+vb
+
+N -
+
+Q400=118.29m
+‚2.
+7M
+I
+
+|
+
+_Fiterstein
+
+_
+
+|N
+
+ke
+
+SOEEEETTEL
+
+SRSANIN
+
+_-
+
+|
+
+6 m
+Scheinfugen alle
+
+AIR
+
+ERRRRRRRRR
+RRREREERL
+
+IN N
+
+N
+
+Sandstein nach!|Verb 1|, Dicke 15 cm
+
+Winkelstützmauer,
+
+SAP
+
+a
+OO ERRRRERRRRRRERO
+N
+
+|
+
+"
+
+NIT
+IL.
+
+LEEREN
+
+N
+
+Natursteinverblendung mit
+\{18
+
+Fe
+
+|
+
+SEELEN
+EEE
+
+N
+
+|
+
+000
+EL.
+
+|
+
+ERERRERRRERERERRRRRRINU
+EEREREERERERRRRRRRRENT
+RRERRERKERERRERRRRRRINN
+
+N
+
+|
+
+|
+
+C30/37 XC4, XD1, XF3, XA1, WA
+
+SEA
+RER
+
+\
+
+_
+
+—
+
+|
+ee
+
+\
+
+.
+
+.—
+
+|
+
+EEE
+
+T
+
+41
+
+,
+GI
+
+Rasenansaat
+
+Te)
+&,
+zg8l44g00
+
+|
+
+|
+
+|
+
+7777
+
+N
+Der, ca
+“
+
+*
+
+\|N
+
+N\/
+
+|
+
+nn
+
+|
+
+N
+
+Leitung öffentliche Beleuchtung (Bestand)
+
+an
+
+777
+
+Fun
+Ni
+@©
+
+Bestand
+
+ee
+
+ee .
+
+ca. 20 cm
+
+.—
+
+400.
+
+Bestand
+
+@©
+
+A
+
+ap
+
+I
+\
+Bu
+
+|
+
+HL
+
+Er
+
+nch
+
+.
+
+En
+
+Baugrubensicherung
+
+>
+
+|
+
+SI
+
+Spritzbetonschale,
+
+u
+
+|
+Hinterfüllung
+
+7
+
+SL
+
+_-
+
+2.
+
+IN
+
+C25/30 XC4, XD1,XF2, XAL,LP
+
+Freibord
+
+77
+
+-2,40
+
+Kappe nach|Kap6
+
+C25/30 XC4, XD1, XF3, XA1, LP
+
+me
+
+ei
+
+\
+
+Dee
+
+|
+
+"PT
+
+\
+N
+
+.—
+
+_-
+
+HER ——
+5
+
+N
+
+Bodennägel, Länge ca.
+6 m
+
+BEE HR
+
+1
+
+Rückbau Spritzbeton bis 1,50 m GOK
+
+”
+
+Ir ss6
+
+NN 9 1=# 1,5: -Frostschutzschicht
+0/45 -. |
+iDboeb di]
+RT
+Derbi)
+rn one
+
+|
+
+.
+
+20 cm Oberboden mit
+
+i
+
+Ye,
+
+—
+
+2,77
+
+1
+
+mn
+
+= 0,24%
+
+Kappe nach|Kap
+6 |
+Fri
+
+5 50
+
+Füllstabgeländer, h=1,0 m
+
+—
+
+Ä
+
+clo ARCADIS
+DEUTSCHLAND GMBH
+Könneritzstraße 29, D-01067 Dresden,
+
+CONSULT
+
+N N
+SS N \
+
+Lagebezug:
+Landkreis:
+
+überschnittene Bohrpfahlwand
+
+EIS
+
+Gemarkung: Löbtau
+
+@ 64 cm, C 30 / 37, XA1,XC2,XF3
+
+| N“
+
+Datum
+
+N
+
+Gezei. | 13-06-17 | vu/ksc
+
+Dresden
+
+NT
+
+Bearb.| 13-06-17
+
+der Brücke
+
+Länge Pfahl - 10,80 m
+
+z
+
+SOON
+
+NN
+
+107,04
+
+Gepr.
+
+RD 83, h. Meridianstreifen
+Kreisfreie Stadt Dresden
+
+| Name
+
+Höhenbezug:
+Gemeinde:
+
+HN 76
+Dresden
+
+Flursfück:
+
+| Unterschrift| Ausbau der Vereinigten Weilleritz im Stadtgebiet
+
+|eth
+
+|13-06-17 |tbl
+
+064
+
+..
+
+von der Brücke Wernersftraße
+Dederaner
+
+1511,060.06
+Genehmigungsplanung
+
+Straße,
+
+Los
+
+bis oberhalb
+
+2, Teillos
+
+21,
+
+Fluss - km 2+602 - 3+106
+Regelauerschniff
+
+Auffragsnr.:
+Phase:
+RQ.dwq
+
+Tel: 0351 263588-0, Fax: 0351 263588-99
+
+_
+
+Plan-Nr.:
+Ers.f:
+
+2.4
+Nummer
+
+RQ 04, Station 2+ 115,00
+Maßstab
+1:50
+
+(m, cm) | Blatt
+
+4
+12 Bl.
+
+

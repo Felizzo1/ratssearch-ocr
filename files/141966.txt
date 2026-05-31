@@ -1,0 +1,148 @@
+LEGENDE
+Neubau Stützmauer
+Neubau Bohrpfahlwand
+
+Neubau Böschung
+Sanierung Böschung Bestand
+Instandsetzung Stützmauer Bestand
+Sohle Steinsatz
+
+Sohle Wasserbaupflaster in Beton
+ne DE
+
+Sohle Querriegel Einzelsteine in Beton
+
+AI
+
+Abbruch
+
+x
+
+x
+
+Neuplanung Niedrigwasserrinne
+Ufermauer
+
+Gewässer
+—
+
+1707
+
+Flussachse
+
+nn
+
+Flutmuldenachse
+
+Kilometrierung Dezember 2006
+Höhenangaben in HN
+Umrechnungsfaktor Höhenbezug:
+
+NHN
+
+= HN + 0,140 m
+
+Name
+
+Bemerkung
+
+ec
+
+2b
+
+IS
+
+.„S
+
+I
+
+Datum
+
+Maflnahmenfräger
+
+Mafinahmenbefeiligfer
+
+LTV des Freistaates Sachsen
+
+Landeshauptstadt Dresden
+
+Betrieb Oberes Elbtal
+
+Umweltamt
+
+Auffragnehmer
+
+Arbeitsgemeinschaft
+clio ARCADIS DEUTSCHLAND GMBH
+ARC
+
+ADI
+
+\
+
+Könneritzstraße 29, D-01067 Dresden,
+
+Tel: 0351 263588-0, Fax: 0351 263588-99
+
+CONSULT
+Lagebezug:RD 83, 4. Meridianstreifen
+Landkreis: Kreisfreie Stadt Dresden
+Gemarkung: Lobtau
+
+Datum | Name
+Gezei.\ 13-06-17 | vu/ksc
+
+Höhenbezug:
+Gemeinde:
+Flurstück:
+
+°
+
+HN 76
+Dresden
+
+|Unterschrift| Ausbau der Vereinigten Weißjeritz im Stadtgebiet
+Dresden von der Brucke Wernerstraßje bis oberhalb
+
+Bearb.|13-06-17
+
+\eth
+
+der Brücke Oederaner
+
+Gepr.
+
+|tbl
+
+Fluss - km 2+602 - 3+106
+
+|13-06-17
+
+Lageplan
+Auffragsnr.:
+Phase:
+LP.dwq
+
+”
+
+1511.060.06
+Genehmigungsplanung
+
+Plan-Nr.:
+Ers.f:
+
+Straße, Los 2, Teillos 2.1,
+
+und Hohenplan
+2.2
+Nummer
+
+Maßstab
+1:500
+
+(m, cm) | Blatt
+
+1
+2 Bl.
+
+
