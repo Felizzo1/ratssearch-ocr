@@ -1,0 +1,1653 @@
+Autage
+
+kr
+
+INGENIEU
+
+RE
+
+AUS
+
+LEIDENSCHAFT
+
+Ei
+
+Bau- und Ausstattungsbeschreibung
+zum Um- und Neubau einer Kindertageseinrichtung
+in Dresden-Mockritz
+
+Bauherr:
+
+Foto + Minilabsysteme R. Saal GmbH
+Weidenauer Straße 160, 57076 Siegen
+vertreten durch den Geschäftsführer Herrn Reinhard Saal
+
+Bauvorhaben:
+
+Gebäudekomplex
+Sanierung Grundschlösschen mit Erweiterungsneubau
+zur Nutzung als Kindertageseinrichtung
+Münzteichweg 19
+01217 Dresden
+
+Flur Dresden-Mockritz, Flurstücke 110a,
+Nutzer:
+
+110c und 110h
+
+Eigenbetrieb Kindertageseinrichtung Dresden
+
+Landeshauptstadt Dresden
+Dr.-Külz-Ring 19, 01067 Dresden
+vertreten durch Oberbürgermeisterin Frau Helma Orosz
+Projektbetreuer:
+
+B.l.S. GmbH Beratende Ingenieure Schaaf
+Königsbrücker Straße 65
+01099 Dresden
+
+Stand:
+
+22.11.2013
+
+5. GmbH Beratende Ingenieure Schaaf
+
+Königsbrücker Str. 65
+01099 Dresden
+Fon +49 (351) 86 27 86 -20
+Fax
++49 (351) 86 27 86 -28
+@ dresc
+)
+
+Lindwurmstraße 45
+80337 München
+Fon +49 (89) 544 7939-0
+) 544 7939-18
+
+HRB 136711 Amtsgericht München
+
+USt.-ID DE 217771225
+
+Gottfried Schaaf
+
+HypoVereinsbank
+Konto 608 661 123
+BLZ 850 200 86
+
+http://www.bis-netwo
+
+-Seite
+
+2-
+
+INGENIEURE
+
+AUS
+
+LEIDENSCHAFT
+
+Inhaltsverzeichnis
+l.
+I.
+
+Vorbemerkung
+Zufahrt und Außenanlagen
+
+I.1.
+
+Erschließungsstraße
+
+I.2.
+
+Außenanlagen
+Sanierung und Umbau denkmalgeschützter Altbau - Grundschlösschen 1.1.
+Allgemein...
+1.2.
+Raumnutzungen.
+1113.
+Fassade.
+11.4.
+1115.
+Fundamente.
+111.6.
+Außenwand...
+1.7.
+Innenwand...
+111.8.
+Decken..
+111.9.
+Treppen
+111.10.
+11.11.
+111.12.
+Fenster.
+u
+11.13.
+Wandbekleidungen...unennnenennnenn.
+IV.
+Neubau
+V..
+Allgemein.
+IV.2.
+Raumnutzungen.
+IV.3.
+Fassade
+IV.A.
+IV.S.
+Fundamente.
+IV.6.
+Außenwand...
+IV.7.
+Innenwand
+IV.8.
+IV9.
+IV.10.
+Iv.11.
+IV.12.
+Fenster
+IV.13. _ Wandbekleidungen.
+Ill.
+
+V.
+
+Haustechnik
+
+V.1.
+Heizungstechnik..
+V.2.
+Sanitärtechnik...
+V.3.
+Beleuchtungstechnik
+V.4.
+Elektroinstallation, Kommunikations- und Sicherheitstechnik
+VI.
+Sonstiges
+v1.
+Kleingüteraufzug für beide Gebäude.
+VL2.
+Außenbeleuchtungsanlagen
+
+VII.
+
+Nachbemerkungen
+
+1034_2013-11-22_Baubeschreibung
+
+-Seite 3INEENTTEUFE
+
+I.
+
+AUS
+
+LEIDENSCHAFT
+
+Vorbemerkung
+Die nachfolgende Beschreibung basiert auf den zu diesem Zeitpunkt geltenden
+einschlägigen Vorschriften und Gesetzen sowie den anerkannten Regeln der
+
+Technik.
+Für Ausführung und Gewährleistung gilt die "Verdingungsordnung für
+
+Bauleistungen“ (VOB) in ihrer neuesten Fassung.
+Zur Baubeschreibung sind beiliegend:
+e
+e
+e
+e
+
+Lageplan M1:500 zur Darstellung der Bebauungs- und Außenflächen
+Erschließungsplan M1:250 zur Darstellung der Zufahrtsstraße Variante1
+Grundrisse M1:100 Alt- und Neubau
+Raumprogramm mit Nutzflächen
+
+Maßangaben in der Baubeschreibung sind immer als „Cirka- Maße” zu verstehen.
+Bei der Angabe von Baustoffen, Fabrikaten und Produkten können gleichwertige
+
+Erzeugnisse anderer Hersteller zur Ausführung kommen.
+Der Mieter kann Änderungen in der Einteilung und Ausstattung vornehmen, soweit
+sie baurechtlich, technisch und terminlich durchführbar sind.
+Grundlage der Bauausführung bildet die Baugenehmigung mit allen entsprechenden
+Auflagen, die Werk- und Ausführungsplanungen, welche den DIN-Vorschriften und
+den anerkannten Regeln der Baukunst entsprechen. Änderungen bleiben dem
+Bauherrn vorbehalten.
+
+Entsprechend den beiliegenden Planungshinweisen für Kindertageseinrichtungen
+der Unfallkasse (10/2012) sollen offene Bereiche unter Treppenläufen bis 2m Höhe
+gegen unbeabsichtigtes Unterlaufen gesichert werden.
+
+1034_2013-11-22_Baubeschreibung
+
+-Seite
+
+4-
+
+Zufahrt und Außenanlagen
+1.1.
+
+Erschließungsstraße
+Die Zufahrt von der Boderitzer Straße über den Münzteichweg als Stichstraße wird
+
+auf Basis der Breite des öffentlichen Raumes (variiert zwischen 4,50 und 15m) im
+Zusammenhang mit der Erneuerung der Straße in Teilbereichen verbreitert, so u.a.
+die Einmündung des Münzteichweges in die Boderitzer Straße.
+In die Straße selbst wird eine Schmutzwasserleitung als Erschließungsleitung für das
+Grundstück verlegt, welche zu Hebeanlage des Freibades Mockritz führt, sofern
+diese für die Anschlusswerte geeignet und die Leitung über Fremdgrundstücke
+realisierbar ist.
+Die Straßenausstattung und die Sicherung erdverlegter Leitungen erfolgt
+entsprechend den Abstimmungen mit dem Straßen- und Tiefbauamt und der
+
+Straßenverkehrsbehörde.
+
+I.2.
+
+Außenanlagen
+Die Nutzung der Außenanlage wird ausschließlich an die Belange einer
+Kindertageseinrichtung ausgerichtet. Neben Aktiv-, Krippen- und Mischbereichen
+werden die vielen Grünflächen parkähnlich gestaltet und der Münzteich selbst
+saniert. Das Grundstück mit Teich wird durch eine ca. Im-hohe Einfriedung
+geschützt.
+Das genaue Freiraumkonzept wird in Abstimmung mit dem Nutzer unter Beachtung
+des Baumbestandes sowie des Artenschutzes erstellt.
+Die gesamten Aussenanlagen, auch außerhalb des Mietbereichs werden nach dem
+behördlich genehmigten Aussenanlagenplan hergestellt, einschl. der notwendigen
+Pflanzen und Rasenflächen. Die einjährige Anwuchspflege für die Pflanzen
+übernimmt der Vermieter, die Rasenmaht übernimmt der Mieter.
+Neben den Spielgeräten inkl. Fundamenten und Befestigungen werden sowohl Sand
+als auch Fallschutzkies durch den Mieter gestellt. Die Flächen werden vom
+Vermieter in einer Tiefe von 40 cm ausgekoffert und mit Randbefestigungen
+versehen. Die Spielgeräte werden vom Mieter gestellt und montiert. Die
+notwendigen Sicherheitseinrichtungen werden vom Mieter eigenverantwortlich
+hergestellt.
+Die Bereiche des Hauptzuganges zwischen den Gebäuden sowie der Parkstellplätze
+werden befestigt. Für die Mitarbeiter der Kindereinrichtung werden ca. 8 PKWStellplätze geschaffen.
+Weitere Einzelheiten erfolgen gemäß Abstimmungen mit dem Nutzer. Ein
+Gestaltungsvorschlag (Lageplan) liegt der Baubeschreibung bei.
+Die Errichtung einer Luft-Wasser-oder Wasser-Wasser-Wärmepumpe zur
+Abschöpfung der Heizwärme aus dem Grundwasser zur positiven Energiebilanz wird
+an geeigneter Stelle im Außenbereich platziert.
+
+1034_2013-11-22_Baubeschreibung
+
+-Seite
+
+5-
+
+INGENEEURE.
+
+Il.
+
+WUE
+
+LEIDENSCHAFT
+
+Sanierung und Umbau denkmalgeschützter Altbau
+- Grundschlösschen II1.1.
+e
+e
+e
+e
+
+Allgemein
+
+Erstellung eines Holz- und Bautenschutzgutachtens mit statischer Betrachtung als
+Sanierungsgrundlage des 1970 geschlossenen Grundschlösschens
+Sicherungsmaßanahmen, Fundamentverstärkungen laut Gutachten
+Einhaltung Belange des Denkmalschutzes, die die Umnutzung unterstützt
+Einhaltung baurechtlicher Anforderungen zum Brand-, Wärme- und Schallschutz
+
+I.2.
+
+Raumnutzungen
+
+o
+
+KG:
+
+Abstellräume, Lager @##), Technikräume
+
+°
+
+EG
+
+e
+
+1.0G:
+2.0G/DG:
+
+Krippenräume 1x, Garderobe, Kinderwagen, WC/Bäder
+Behinderten-WC, Personalraum und Lager
+Krippenräume
+1x, Garderobe, WC/Bäder
+Kindergarten Gruppenräume 1x, Garderobe, WC/Bäder
+
+3.0G/DG:
+
+Personalräume, Leiterin, Garderobe, WC
+
+(#) Der Keller ist zur Lagerung feuchteempfindlicher Materialien nicht geeignet.
+
+II.3.
+e
+
+Fassade
+
+e
+
+Rekonstruktion der Putzfassade als Dämmputz mit aufgesetztem Fachwerk und
+Holzverschalungen
+Abriss der nachträglich angebauten Veranden
+
+e
+
+Putz- und Holzfarben nach Musterkarte Hersteller
+
+III.4.
+e
+e
+e
+e
+
+Dach
+
+Erneuerung des Holztragdachwerkes gemäß Abstimmung mit der Denkmalpflege
+Biberschwanz-Doppeldeckung rot
+Anschlüsse und Abdeckungen in Titanzink
+Ausführung Blitzschutz, nach rechtlicher Erfordernis
+
+1034_2013-11-22_Baubeschreibung
+
+-Seite 6-
+
+NGENIEURE
+
+II5.
+
+o
+
+Au
+
+Fundamente
+
+Trockenlegung und Abdichtung der Fundamente aus Bruchsteinmauerwerk
+Verstärkung und Unterfangung der Fundamente gemäß statischer Berechnung
+Ausführung von Leistungen gemäß Bautenschutzgutachtens
+aufßenseitige Vertikalsperre und Drainage an vorgesetzter Betongründung als Ring
+keine Horizontalsperre an Bruchsteingründung
+
+II.6.
+
+Außenwand
+
+e
+
+Sanierung Bestand Ziegelmauerwerk im KG bis DG inkl. Horizontalsperren
+
+e
+
+Wärmedämmputz außen, Kalkzement- bzw. Sanierputz innen
+
+III.7.
+e
+e
+e
+
+Sanierung Bestand Ziegelmauerwerk im KG bis DG inkl. Horizontalsperren
+Kompletter Abbruch von Innenwänden und Ersatz durch Trockenbauwände zur
+Anpassung des Grundrisses;
+Bekleidung durch Kalkzementputz bei Ziegelmauerwerk bzw. Gipskarton bei
+Trockenbau
+
+1.8.
+e
+e
+e
+e
+e
+
+Decken
+
+Je nach Erfordernis Sanierung Gewölbedecken im Bestand im KG gemäß Statik
+Ersatz aller Holzbalkendecken EG bis DG durch Stahlbetondecken gemäß Statik
+Ausführung als Ortbetondecken in glatter Sichtschalung
+Betonspachtelung in Q3-Qualität oder abgehängte GK-Decken
+Deckenanstrich mit Silikatfarbe nach Farbkonzept und in Abstimmung mit Nutzer
+
+19.
+e
+°
+e
+
+Innenwand
+
+Treppen
+
+Sanierung oder Ersatz der Betontreppen im Bestand gemäß Bautenschutzgutachten
+Errichtung Treppe außen mit Geländer als neuer Hauptzugang
+Geländer aus Stahl lackiert mit rundem Handlauf aus Holz oder Edelstahl
+
+11.10.
+
+Fußböden
+
+e
+e
+
+Fußbodenheizung in allen Geschossen
+schwimmender Heizestrich mit Wärme- und Schalldämmung im EG
+
+e
+
+schwimmender Heizestrich mit Schalldämmung in den übrigen Geschossen
+
+e
+e
+
+in Naßbereichen Bodenfliesen, sonst Linoleum- oder Kautschukbelag
+Treppenläufe rutschhemmender Belag, Beschichtung oder Steinzeugfliesen
+
+1034_2013-11-22_Baubeschreibung
+
+-Seite 7INGENIEUFE
+
+11.11.
+
+AUS
+
+LEIDENSCHAFT
+
+Türen
+
+e
+
+untergeordnete Räume zu Technik — und Lagerräumen als Stahltüren mit Anstrich
+
+eo
+
+Ersatz aller Türen durch Holztüren aus HPL mit Stahlzargen, Oberfläche gemäß
+Abstimmung zwischen Nutzer und Bauherr
+
+11.12.
+e
+
+Fenster
+
+neue Holzisolierglasfenster gemäß Bestand
+
+e
+
+Einhaltung Wärmeschutz nach Standard Niedrigenergiehaus mit Profilbreiten und
+
+e
+
+Verglasungen gemäß Abstimmung mit Denkmalschutz
+innenliegender Sonnenschutz zur Süd- und Westseite des Gebäudes
+
+11.13.
+
+Wandbekleidungen
+
+e
+
+Wandanstrich mit Silikatfarbe nach Farbkonzept und in Abstimmung mit Nutzer
+
+e
+
+Wandbekleidung von Nassräumen, mind. Türhöhe mit Fliesen, Format und Fabrikat
+
+e
+
+nach Abstimmung zwischen Nutzer und Bauherr, Fliesen Preisklasse 1
+Sonderanstriche in Neben- und Technikräumen gemäß Anforderungen an
+Raumnutzung und gesetzlichen Bestimmungen
+
+1034_2013-11-22_Baubeschreibung
+
+-Seite
+
+8-
+
+NGENIEURE
+AUS
+
+IV.
+
+DEIDEN
+
+SCHAFT
+
+Neubau
+IV.1.
+e
+e
+e
+
+Allgemein
+
+Errichtung eines nicht unterkellerten mehrgeschossigen Neubaus in
+Massivbauweise als Niedrigenergiehaus
+Einhaltung Belange des Denkmalschutzes zum benachbarten Altbau
+Einhaltung baurechtlicher Anforderungen zum Brand-, Wärme- und Schallschutz
+
+IV.2.
+o
+
+°
+°
+
+Raumnutzungen
+
+EG
+
+Garderobe, WC/Bäder, Küche, Umkleide, Wäsche;
+
+1.06:
+2.06:
+
+Speise- und Mehrzweckraum;
+Hausanschlussraum, Lager
+Kindergarten Gruppenräume 2x, Garderobe, WC/Bäder, Lager
+Kindergarten Gruppenräume 2x, Garderobe, WC/Bäder
+
+oe 3.0G/DG:
+
+IV.3.
+e
+e
+
+Kindergarten Gruppenräume 2x, Garderobe, WC/Bäder
+
+Fassade
+
+Putz auf Ziegel-Mauerwerk oder vorgehängte Fassade, wärmegedämmt
+Putzfarben nach Musterkarte Hersteller oder Materialabstimmung bekleidete
+Fassade nach Bemusterung
+
+IV.4.
+
+Dach
+
+e
+
+wahlweise Flach- oder Satteldach entsprechend genehmigungsrelevanter
+Entwurfsentscheidungen
+
+°
+
+Flachdach:
+o
+o
+
+_extensiv begrünte Dachfläche mit geneigtem Abdichtungssystem
+innenliegende Entwässerung
+
+o
+
+Anschlüsse aus Titanzink
+
+o
+
+Abdeckungen in Aluminium, pulverbeschichtet
+
+o Satteldach:
+o
+[o}
+[o}
+jo}
+
+o
+
+geeignete Deckung, wahlweise Ziegel, Biberschwanz oder Metalldeckung
+verdeckt eingebaute Rinnen an Traufe
+in Fassade integrierte Fallrohre
+Anschlüsse und Abdeckungen in Titanzink
+Ausführung Blitzschutz, nach rechtlicher Erfordernis
+
+1034_2013-11-22_Baubeschreibung
+
+IV.5.
+e
+
+e
+e
+«
+
+7.)
+
+oO
+
+Fundamente
+
+WU-Bodenplatte mit Streifenfundamenten
+
+IV.6.
+°
+
+AUS
+
+m
+
+ENEEBIME
+
+)
+
+9-
+
+[9,)
+
+-Seite
+
+Außenwand
+
+hochwärmegedämmter Tonziegel mit mineralischer Dämmeinlage, Dicke 42,5cm,
+Steinfestigkeitsklasse mind. 12
+alternativ Stahlbetonwände oder KS-Mauerwerk für vorgehängte Fassade
+Attika aus Stahlbeton im Fassadensystem bekleidet
+mineralischer Putz außen, innen Gips- oder Kalkzementputz
+
+IV.7.
+
+Innenwand
+
+e
+
+tragende Stahlbetonwände oder Ziegelmauerwerk an Treppenhäusern
+
+e
+
+GK-Trockenbauwände zur Raumaufteilung gemäß Anforderungen an Schall- und
+Brandschutz
+
+e
+e
+e
+
+Stahlbetonstützen mit deckengleichen Unterzügen im Systemraster
+Bekleidung durch Gips- oder Kalkzementputz bei Ziegelmauerwerk
+Q3-Betonspachtelung an Stahlbetonwänden und -stützen
+
+IV.8.
+
+Decken
+
+e
+
+Stahlbeton-Filigrandecken mit Aufbeton und Bauteilaktivierung
+
+e
+e
+
+Betonspachtelung in Q3-Qualität oder abgehängte GK-Decken
+Deckenanstrich mit Dispersions- oder Silikatfarbe nach Farbkonzept Architekt und in
+Abstimmung mit Nutzer
+
+IV9.
+
+Treppen
+
+e
+
+Stahlbeton-Fertigteiltreppen, gerade zweiläufig mit Podesten
+
+e
+
+Geländer aus Stahl lackiert mit rundem Handlauf (inkl. Kinderhandlauf) aus Holz
+oder Edelstahl
+
+IV.10.
+e
+e
+e
+e
+e
+
+Fußböden
+
+Fußbodenheizung in allen Geschossen
+schwimmender Heizestrich mit Wärme- und Schalldämmung im EG
+schwimmender Heizestrich mit Schalldämmung über EG
+in Naßbereichen Bodenfliesen, wahlweise Beschichtungssystem, sonst Linoleumoder Kautschukbelag
+Treppenläufe mit Steinzeugfliesen
+
+1034_2013-11-22_Baubeschreibung
+
+IV.11.
+
+I
+
+LE
+
+>
+
+AUS
+
+zZ
+un
+
+NGENIEURE
+
+o
+
+-Seite 10-
+
+Türen
+
+e
+
+Holztüren aus HPL mit Stahlzargen, Oberfläche gemäß Abstimmung zwischen
+Nutzer und Bauherr
+
+e
+
+Stahlblechtüren für Nebenräume mit Anforderungen an Brandschutz
+
+©
+
+Hauseingangstür aus AL-Rohrahmentür mit Verglasung
+
+IV.12.
+e
+e
+e
+
+ALl- oder Holzisolierglasfenster
+Einhaltung Wärmeschutz nach Standard Niedrigenergiehaus
+außenliegender Sonnenschutz
+
+IV.13.
+e
+e
+e
+
+e
+
+Fenster
+
+Wandbekleidungen
+
+Wandanstrich mit Dispersions- oder Silikatfarbe nach Farbkonzept und in
+Abstimmung mit Nutzer
+Wandbekleidung von Nassräumen, mind. Türhöhe mit Fliesen, Format und Fabrikat
+nach Abstimmung zwischen Nutzer und Bauherr, Fliesen Preisklasse 1
+Sonderanstriche in Neben- und Technikräumen gemäß Anforderungen an
+Raumnutzung und gesetzlichen Bestimmungen
+
+Ggfs. Wandbekleidungen aus Holz/Holzwerkstoff
+für den Raumbildenden Ausbau
+(Einbauschränke, Garderobenschränke, Spielzonen)
+
+1034_2013-11-22_Baubeschreibung
+
+-Seite 11 NGENIEURE
+
+V.
+
+AUS
+
+Lit
+
+DENSCHAFT
+
+Haustechnik
+V.1.
+e
+
+Heizungstechnik
+
+Wärmepumpe als Luft/Wasser-Wärmepumpe, Wasser/Wasser-Wärmepumpe oder
+
+Sole/Wasser-Wärmepumpe
+e
+e
+
+zentrale Beheizung, aussentemperaturabhängig gesteuert
+dezentrale Warmwasseraufbereitung mit Durchlauferhitzern
+
+V2.
+e
+
++
+e
+e
+
+sanitäre Einrichtungsgegenstände gemäß Anforderungen an die Kindereinrichtung,
+getrennt nach Kinderkrippe, Kindergarten und Personal sowie Besucher, inkl.
+behindertengerechten Einrichtungen
+Trinkwasserversorgung aus dem städtischen Wasserversorgungsnetz
+Wenn Einleitung in Hebeanlage des Freibades nicht möglich ist, so erfolgt die
+Reinigung des Abwassers mittels Biokläranlage auf dem Grundstück.
+Versickerung des Regenwassers auf dem Grundstück bzw. bei Genehmigung
+Einleitung des Regenwassers in den Münzteich
+
+V.3.
+e
+e
+e
+e
+
+e
+
+_ Sanitärtechnik
+
+_ Beleuchtungstechnik
+
+Unterbau-Deckenleuchten oder Deckenleuchten in allen Nebenräumen
+Wandleuchten im Treppenhaus mit Tasterschaltung (Minutenschaltung)
+Auswahl der Leuchten in den Gruppenräumen durch Nutzer in Abstimmung mit
+Bauherr
+Ausrüstung mit Sicherheits- und Rettungszeichenleuchten an Zentralbatterieanlage,
+die Bereitschaft der Sicherheitsbeleuchtung ist in den nutzungsfreien Zeiten zu
+deaktivieren
+Rettungszeichenleuchten vorzugsweise mit LED-Leuchtmitteln
+
+1034_2013-11-22_Baubeschreibung
+
+-Seite 12INGENBEURE
+
+V.4.
+
+WUE
+
+LEIDENSCHAÄF
+
+Elektroinstallation, Kommunikations- und Sicherheitstechnik
+
+Schalter- und Steckdosen an den Türen in den Kellergeschossen auf Putz
+
+Schalter- und Steckdosen in anderen Geschossen unter Putz
+alle Steckdosen über FI und mit integriertem Kinderschutz
+Elektrische Betriebsräume, Lage und Bauart nach SächsEltBauR
+Elt-Einspeisung mit Direktmessung für den Kitabereich und der Ausgabeküche
+Telefon- und Netzwerkdosen in jeden Personalraum + Leiterin
+Strukturiertes Leitungsnetz Cat 7, Datenschrank mit mind. 8HE im Technikraum
+
+Schnurlostelefone mit Ladestationen
+Klingel-, Sprech- und Türöffneranlagen
+Netzanschlüsse für Türfeststellanlagen
+Einbruchmeldeanlage in Abstimmung mit EB-Kita
+
+e
+
+in Abstimmung mit Nutzer werden die Anzahl und örtliche Lage der
+Verbrauchsstellen für Elektroenergie sowie für Kommunikation definiert
+
+e
+
+Installation für Hausanschluss-, Heizungs- und Maschinenraum entsprechend den
+
+VDE und Herstellerrichtlinien
+e
+e
+e
+
+Dosen- und Schalterprogramm eines Herstellers
+grundsätzlicher Einsatz von halogenfreien Kabeln, Leitungen und Verlegesystemen
+Elektrische Jalousie- und Markisensteuerungen mit dezentralen Tastern und
+zentraler Steuerung
+
+o
+
+Hausalarmierungsanlage gemäß DIN 14675 / DIN VDE 0833 mit Hand- und
+
+e
+
+automatischen Meldern
+innere und äußerere Blitzschutzanlage, Erdungsanlage
+
+e
+
+Natürliche Rauchabzugsanlagen (RWA) bei Forderung aus dem Brandschutzkonzept
+bzw. der Baugenehmigung
+
+1034_2013-11-22_Baubeschreibung
+
+-Seite 13-
+
+Vl.
+
+Sonstiges
+Vl1.
+
+Kleingüteraufzug für beide Gebäude
+
+Aufzug mit Ketten oder-Seilzugantrieb KG bis DG als Andienung aus der Küche,
+
+Tragfähigkeit ca. 100 kg
+Fahrkorbabmessung ca. B1000xT700xH1200 mm für die Beförderung von
+Speisentransportwagen mit den Abmessungen B900XT600xH950 mm
+Fahrkorb und Aufzugstüren aus hygienischen Gründen in Edelstahl
+Halt und Türöffnung in jedem Geschoss sowie Aufzugsteuerung mit
+Vorrangschaltung Küche
+Ladegutsicherung Fahrkorb, Kindersicherung etagenweise
+
+VI2.
+
+Außenbeleuchtungsanlagen
+
+Außenbeleuchtungsanlage zur Einhaltung der Verkehrssicherung, mittlere
+Beleuchtungsstärke ca. 15Lux
+
+Schaltung mit Bewegungsmelder und Dämmerungsschalter
+
+VI.
+
+Nachbemerkungen
+Abweichungen und Änderungen in konstruktiver sowie gestalterischer Hinsicht
+bleiben vorbehalten, soweit sie den Wert und die Nutzbarkeit nur geringfügig
+
+berühren.
+Sonderwünsche der Mieter können gegen Aufrechnung der Mehr- und
+Minderkosten nach rechtzeitiger vorheriger Absprache nach technischer
+Möglichkeit, in beschränktem Umfang berücksichtigt werden.
+
+1034_2013-11-22_Baubeschreibung
+
+1034 Münzteichweg
+
+19, Dresden
+
+Raumbuch Altbau+Neubau
+
+Neubau/Altbausanierung Kindertagesstätte
+Raum-Nr.
+A-E99.01
+A-E99.02
+IA-E99.03
+A-E99.04
+A-E99.05
+A-E99.06
+A-E99.07
+A-E99.08
+A-E99.09
+A-E99.10
+A-E99.11
+A-E99.12
+A-E99.13
+IA-E99.14
+A-E00.01
+/A-E00.02
+A-E00.03
+A-E00.04
+A-E00.05
+A-E00.06
+A-E00.07
+A-E00.08
+A-E00.09
+A-E00.10
+A-E01.01
+A-E01.02
+A-E01.03
+A-E01.04
+A-E01.05
+A-E01.06
+A-E01.07
+A-E01.08
+A-E02.01
+A-E02.02
+A-E02.03
+A-E02.04
+A-E02.05
+A-E02.06
+A-E02.07
+
+| Baukörper | Geschoss
+Altbau
+Altbau
+[Altbau
+Altbau
+Altbau
+Altbau
+Altbau
+Altbau
+Altbau
+[Altbau
+[Altbau
+|Altbau
+|Altbau
+|Altbau
+Altbau
+Altbau
+Altbau
+Altbau
+Altbau
+Altbau
+Altbau
+|Altbau
+Altbau
+|Altbau
+Altbau
+Altbau
+Altbau
+|Altbau
+|Altbau
+Altbau
+Altbau
+Altbau
+Altbau
+Altbau
+Altbau
+|Altbau
+|Altbau
+Altbau
+_|Altbau
+
+UG
+UG
+UG
+UG
+UG
+UG
+UG
+UG
+UG
+UG
+UG
+UG
+UG
+UG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+1.0G
+1.0G
+1.0G
+1.0G
+1.0G
+1.0G
+1.0G
+1.0G
+DG
+DG
+DG
+DG
+DG
+DG
+DG
+
+Bearbeiter: Kla
+
+Raumkategorie
+
+Bezeichnung
+
+Nebenräume
+Nebenräume
+Nebenräume
+WC/Bäder
+WC/Bäder
+Nebenräume
+Nebenräume
+|Nebenräume
+\WCi/Bäder
+Erschließung
+Erschließung
+Erschließung/Garderobe
+Nebenräume
+Erschließung/Garderobe
+Gruppenräume
+Gruppenräume
+WC/Bäder
+WCi/Bäder
+Erschließung/Garderobe
+WCiBäder
+Erschließung
+Erschließung
+Erschließung/Garderobe
+Gruppenräume
+Gruppenräume
+Erschließung/Garderobe
+WGC/Bäder
+Erschließung
+Erschließung
+Nebenräume
+WC/Bäder
+Gruppenräume
+Nebenräume
+WC/Bäder
+Erschließung
+Erschließung
+
+Lager / Anlieferung Küche
+Geräteschuppen
+Hausanschlussraum
+WC Außen
+WC Personal
+Personalraum
+Umkleide Küche
+Dusche Küche
+WC Küche
+Speiseaufzug
+Treppenhaus
+Flur
+Ausgabeküche
+Windfang
+Krippe 1
+Krippe 1 Schlafen
+WC Krippe
+WC Personal
+Flur/Garderobe
+WE Besucher/Behinderten
+Speiseaufzug
+Treppenhaus
+Flur zum Neubau
+Speise- und Mehrzweckraum
+KiGa 1
+|Flur/Garderobe
+WC Personal
+Speiseaufzug
+Treppenhaus
+Lager Angebotsraum
+WC KiGa
+Angebotsraum
+Personalumkleide
+WC Personal
+Speiseaufzug Schacht
+Treppenhaus
+Flur
+Lager 1
+Lager 2
+
+Datei: 1034_2013-11-15_Raumbuch_V2 Raumliste
+
+Seite 1 von 2
+
+Fläche
+
+Mietfläche
+
+15,64 m?
+8,78 m?
+10,78 m?
+5,09 m?
+5,43 m?
+14,64 m?
+4,54 m?
+3,67 m?
+4,01 m?
+1,42 m?
+12,46 m?
+22,87 m?
+42,12 m?
+20,06 m?
+71,45 m?
+27,25 m?
+19,45 m?
+3,93 m?
+36,21 m?
+6,61 m?
+2,25 m?
+27,52 m?)
+21,93 m?
+70,62 m?
+48,21 m?
+27,35 m?
+3,08 m?
+2,40 m?
+27,47 m?
+2,72 m?
+10,11 m?
+32,53 m?
+8,87 m?
+6,50 m?
+2,46 m?|
+27,50 m?|
+10,58 m)
+30,00 m?
+30,00 m?
+
+ja
+ja
+ja
+ja
+ja
+ja
+ja
+ja
+ja
+nein
+nein
+ja
+ja
+ja
+ja
+ja
+ja
+ja
+ja
+ja
+nein
+nein
+ja
+ja
+ja
+ja
+ja
+nein
+nein)
+ja
+ja
+ja
+ja
+ja
+nein
+nein
+nein
+nein
+nein
+
+Stand: 19.11.2013
+
+1034 Münzteichweg 19, Dresden
+
+Raumbuch Altbau+Neubau
+
+Neubau/Altbausanierung Kindertagesstätte
+
+Bearbeiter: Kla
+
+Raum-Nr.
+
+| Baukörper | Geschoss
+
+Raumkategorie
+
+|
+
+Bezeichnung
+
+Fläche
+
+E99.01
+E99.02
+E99.03
+E99.04
+E99.05
+E99.06
+E99.07
+E99.08
+E99.09
+E99.10
+E99.11
+E99.12
+E99.13
+E00.01
+E00.02
+E00.03
+E00.04
+E00.05
+E00.06
+E00.07
+E00.08
+E00.09
+
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+
+|UG
+UG
+UG
+UG
+UG
+UG
+UG
+UG
+UG
+UG
+UG
+UG
+UG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+
+Erschließung/Garderobe
+Erschließung/Garderobe
+WC/Bäder
+Nebenräume
+Erschließung
+Nebenräume
+WC/Bäder
+WC/Bäder
+Erschließung/Garderobe
+Nebenräume
+Gruppenräume
+Gruppenräume
+Gruppenräume
+Erschließung/Garderobe
+Erschließung/Garderobe
+Erschließung
+WC/Bäder
+WC/Bäder
+Nebenräume
+Nebenräume
+Gruppenräume
+|Gruppenräume
+
+'Flur/Garderobe
+Gaderobe KiGa/Krippe
+WC Außen
+Hausanschlussraum
+Treppenhaus
+Wäscheraum
+WC Krippe/KiGa
+WC Personal
+|Garderobe Krippe 2
+Lager Krippe 2
+KiGa/Krippe
+Schlafen Krippe 2
+Krippe 2
+|Windfang, Kinderwagen
+Flur/Garderobe
+Treppenhaus
+WC Personal
+\WC KiGa
+|Büroraum Leiterin
+Lager KiGa
+KiGa 2
+Angebotsraum
+
+56,19 m?
+7,02 m?
+7,27 m?
+14,27 m?
+8,99 m?
+6,20 m?|
+22,44 m?
+4,96 m?
+9,96 m?
+6,50 m?
+51,60 m?|
+28,80 m?
+57,02 m?
+53,46 m?
+47,50 m?
+20,31 m?
+5,43 m?
+23,18 m?
+15,50 m?
+11,25 m?
+48,00 m?
+24,87 m?
+
+ja
+ja
+ja
+ja
+nein)
+ja
+ja
+ja
+ja
+ja
+ja
+ja
+ja
+ja
+ja
+nein
+ja
+ja
+ja
+ja
+ja
+ja
+
+E00.10
+
+Neubau
+
+EG
+
+Gruppenräume
+
+‚KiGa 3
+
+48,60 m?
+
+ja
+
+E01.01
+E01.02
+E01.03
+E01.04
+E01.05
+E01.06
+E01.07
+E01.08
+
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+Neubau
+
+1.0G
+1.0G
+1.0G
+1.0G
+1.0G
+1.0G
+1.0G
+11.0G
+
+Erschließung/Garderobe
+| Erschließung
+|WC/Bäder
+WGC/Bäder
+Nebenräume
+Gruppenräume
+Gruppenräume
+Gruppenräume
+
+|Flur/Garderobe
+Treppenhaus
+WC Personal
+WC KiGa
+Lager KiGa
+KiGa 4
+Angebotsraum
+KiGa 5
+
+29,85
+20,31
+4,13
+21,53
+4,80
+50,94
+23,88
+48,14
+
+|
+
+Mietfläche
+
+m?
+m?
+m?
+m?
+m?
+m?
+m?
+m?
+
+ja
+nein
+ja
+ja
+ja
+ja
+ja
+ja
+
+rot: exklusive Flächen (nicht im Mietpreis enthalten)
+
+Gebäude
+
+|Geschoss
+
+Altbau
+Altbau
+Altbau
+Altbau
+Altbau
+Neubau
+Neubau
+Neubau
+Neubau
+Gesamt
+
+UG
+EG
+1.0G
+DG
+Summe
+UG
+EG
+1.0G
+Summe
+Summen
+
+Fläche unvermietet
+13,88 m?
+29,77 m?
+29,87 m?
+100,54 m?!
+174,06 m?)
+8,99 m?
+20,31 m?
+20,31 m?
+49,61 m?
+223,67 m?
+
+Fläche vermietet
+157,63 m?
+257,45 m?
+124,00 m?
+15,37 m?
+554,45 m?
+272,23 m?
+277,79 m?
+183,27 m?
+733,29 m?
+1287,74 m?
+
+Gebäude
+Altbau
+Altbau
+
+Nutzungsart
+Nebenräume
+WC/Bäder
+
+Altbau
+
+Erschließung/Garderobe
+
+128,42 m?
+
+Altbau
+Altbau
+Neubau
+Neubau
+Neubau
+
+Gruppenräume
+
+250,06 m?
+554,45 m?
+‚58,52 m?
+88,94 m?
+203,98 m?
+
+Summe
+Nebenräume
+WC/Bäder
+Erschließung/Garderobe
+
+Neubau
+
+Neubau
+Gesamt
+
+Gruppenräume
+
+171,51
+287,22
+153,87
+115,91
+728,51
+281,22
+298,10
+203,58
+782,90
+1511,41
+
+m?
+m?
+m?
+m?
+m?
+m?
+m?
+m?
+m?
+m?
+
+Fläche vermietet
+111,76 m?
+64,21 m?
+
+381,85 m?
+
+Summe
+Summen
+
+Datei: 1034_2013-11-15_Raumbuch_V2 Raumliste
+
+Gesamtfläche
+
+733,29 m?
+1287,74 m?
+
+Seite 2 von 2
+
+Stand: 19.11.2013
+
+

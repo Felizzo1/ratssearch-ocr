@@ -1,0 +1,130 @@
+Biotop- und Nutzungstypen
+Modifizierter
+
+Biı
+
+lin Anlı
+
+an die "Bi
+
+Wälder und Forsten
+
+E23 01010 Vorwald (frischer Standorte)
+ES
+
+01110 Bruchwald ($26 Biotop)
+
+1]
+
+01920 Kiefern-Eichen-Forst
+
+Gebüsche, Hecken und Gehölze
+OS
+
+02100 Gebüsche
+
+E33
+
+02120 Feuchtgebüsche: Auengebüsche, Ufergebüsche
+
+0/0) 02230 Einzelbaum, Altbaum
+
+®
+
+02231 Einzelbaum, Neupflanzung
+
+B
+
+Fledermausbaum
+
+Fließgewässer
+E&
+
+03211 Renaturierter Bachabschnitt
+
+Standgewässer
+04120 Naturnahes, ausdauerndes
+Kleingewässer (826 Biotop)
+04511 Regenrückhaltebecken,
+umzäunt
+
+En
+
+04512 Versickerungsbecken
+
+Staudenfluren, Säume und Ruderalfluren
+E
+
+07311 Ruderalflur feuchter Standorte mit Tendenz
+zur Naßwiese (Rohrglanz-Röhricht)
+
+= | 07312 Ruderalflur frischer Standorte mit Tendenz
+zu artenarmen Grünland
+07313 Ruderalflur frischer Standorte mit Tendenz
+zu artenreichem Grünland
+a
+
+07313v2 Ruderalflur frischer Standorte mit mittlerer
+Verbuschung
+i
+
+E53
+
+07321 Ruderalflur trockener Standorte mit Tendenz
+zu Magerrasen
+
+Siedlungsbereiche, Infrastruktur j
+11140 Einfamilienhaussiedlung mit hohem
+
+Grünanteil
+
+[EEE] 11220 Gewerbiich genutzte Fläche
+9
+
+11321 Skateanlage
+11370 Garten- und Grabeland
+
+BE] 11350 Friednot
+11410 Straße, asphaltiert
+
+[7] 114411 Fußweg, gepflastert
+3]
+
+11412 Weg, unbefestigt
+
+11413 Pfad, unbefestigt
+Pflanzenarten, flächig vorkommend
+
+Rauhaarige Wicke - Vicia hirsuta L.
+Großer Wiesenknopf -Sanguisorba officinalis L.
+
+Biotopbewertung
+E
+
+sehr hoch
+
+=
+
+hoch
+
+m
+
+mittel
+
+un
+
+Grenze Geltungsbereich B-Plan Nr.200
+Dresden-Klotzsche Nr. 7
+
+——
+
+Grenzverlauf Wald
+
+Anlage 2 zur Vorlage _
+Anlage zum Grünordnungsplan
+Teil
+A- Anlage 1 / öffentlich
+Biotop- und Nutzungstyp mit
+Biotopbewertung
+
+
