@@ -1,0 +1,259 @@
+Vorhabenb ezogener Bebauungsplan Nr. 6021
+Dresden-Al tstadt I
+An der Herzogin Ga rten
+2
+
+LEGENDE:
+
+211921
+
+—
+
+2204a
+
+NEU- BZW. UMVERLEGUNG
+
+BESTAND
+
+®
+
+-.—
+
+DB-Telematik /Arcor-Kabelkanal /-kabel
+
+——
+
+L &
+
+SA, 233373 "1
+
+Kabel Sachsen/Sachsen-Anhalt/Thüringen GmbH&Co KG — - — DVB Fernmeldeanlagen
+
+L
+
+C) 110.18
+
+©)
+
+DVB Bahnstrom
+
+DVB Weichenausrüstung
+
+—
+
+DREWAG
+
+Elt Hochspannungskabel
+
+DREWAG
+
+ElIt Hochspannung Freileitung
+
+DREWAG
+
+Elt Mittelspannungskabel
+
+DREWAG
+DREWAG
+DREWAG
+
+Elt Niederspannungskabel
+Elt Luftkabel
+Fernmeldekabel
+
+ENSO
+
+Fernmeldekabel
+
+—
+
+|
+|
+
+Fahrleitung DB AG
+—
+FL
+
+Fahrleitung DVB AG
+Brand-/Rettungsamt (a.B.)
+DREWAG Fernwärmekanal/ -leitung
+DREWAG Hochdruck-Gasleitung
+DREWAG Mitteldruck-Gasleitung
+DREWAG Niederdruck-Gasleitung
+
+Mischwasserkanal/ -leitung
+Regenwasserkanal/ -leitung
+Schmutzwasserkanal/ -leitung
+Gleisentwässerung
+Straßenentwässerung
+Dränage DN100 PVC
+Grundstücksentwässerung Mischwasser
+Grundstücksentwässerung Regenwasser
+
+Grundstücksentwässerung Schmutzwasser
+LSA-Kabelkanal /-Kabel
+Öffentliche Beleuchtung Kabelkanal /-Kabel
+Luftkabel
+
+=
+A
+
+Öffentliche Beleuchtung
+
+Telekom Kabelkanal /-Kabel
+Telekom Luftkabel
+DREWAG Trinkwasserleitung
+
+i
+
+Grundwasser- / Brauchwasserleitung
+Lüftungserdkanal / -leitung
+
+LEITUNGSEINTRAGUNG
+
+NACH ANGABEN
+
+DER EIGENTÜMER
+Schutzstreifen MW
+
+geplanter Baum
+
+2107/3
+
+I]
+
+Schutzstreifen
+
+FW
+
+geplanter Baum, Kübel
+
+Wurzelschutz
+
+12.81m}
+
+32.65n}
+
+er
+
+u
+
+9072000 MA
+
+[131%]
+
+6.21m-1.12%
+
+5106.63
+
+32.65m-2.16?
+
+Ar
+
+5
+
+B
+
+„v
+A
+
+-3.56Yi0
+
+1400/2200 MA-38.24m
+
+Stadtverwaltung Dresden
+
+Fassung
+
+Stadtplanungsamt
+Amtsleiter
+
+23.09.2013
+
+Planungsbüro
+
+Vorhabenträger
+
+ET
+
+alle-pat
+ne
+27781187 Dresden
+Tel. 0351 478 88-0 / Fax 478 88-50
+
+„aa
+
+Plantechniker/ in
+
+SGL 61.5.1
+
+Sachbearbeiter/ in
+
+Datum der letzten Änderung
+
+rer
+Abt.-Ltr. 61.5
+
+28.03.2014
+SGL 61.53
+
+rsese__5 10654
+
+KM
+
+Übersichtsplan
+SE"
+
+Cu 259
+750/ 100x208
+
+N 2337 100r2u,8
+
+M 1:20 000
+
+ß
+
+7 BU 200,8
+
+BL WKZAUB
+
+2099/2
+
+Bi,
+ar
+
+ou
+
+\
+
+en
+
+2098/5
+
+Dresden.
+
+Vorhabenbezogener
+Bebauungsplan Nr. 6021
+Dresden-Altstadt |
+
+An der Herzogin Garten
+- Entwurf zum Satzungsbeschluss Erschließungsplan Medien
+
+3166/1
+
+Maßstab 1:500
+
+Blatt
+
+6 von6
+
+2079/4
+
+Anlage 2
+K:\T\2610\Plaene_Zeichnungen\AutoLAD\Lageplane\G
+
+_LTK_05_BP.dwg, Erschließungsplan
+
+Medien A1, 06.05.2014 09:32:08, DWG To PDF-OhnelLayer gemischt .pc3
+
+
