@@ -1,0 +1,226 @@
+zur
+zur V2995/14
+V2995/14
+
+Anlage 8
+
+Miet- und Umzugskosten
+Variantenabhängig
+
+Variantenuntersuchung Umzugs- und Mietkosten
+Nr
+
+1. Variante
+
+{
+
+2. Variante
+
+2.RA
+Anzahl Mitarbeiter / erforderlicher
+
+£
+
+Arbeitsplätze je RA
+
+2
+
+Flächenbedarf pro Mitarbeiter
+
+3 (1x2)
+N
+
+Flächenbedarf je RA
+an
+
+3. Variante
+
+2.RA
+
+,
+
+2
+
+5
+
+,
+
+307
+
+3.RA
+a
+
+15
+
+2.RA
+bs
+
+25,00 m?
+17.725 m? NGF
+
+11.550 m? NGF
+
+pro Arbeitsplatz
+
+18:20
+
+210
+
+2
+
+370
+
+3.RA
+267
+
+4.RA
+00
+109
+
+200
+
+|
+
+NGF/Mitarbeiter
+
+11.300 m? NGF
+
+9.800 m? NGF
+
+9.400 m? NGF
+
+6.825 m? NGF
+
+250,00 €/Arbeitsplatz
+
+Anzahl Umzüge
+
+>
+
+(Aus- und Wiedereinzug)
+
+z
+
+6
+
+Zuschlag für Begleitmaßnahmen
+(Entsorgung, anteilige Neu- oder
+Ersatzbeschaffung, ...)
+Umzugskosten je RA (brutto)
+
+212.700 €
+
+7 (5x7)
+
+Umzugskosten gesamt (brutto)
+
+425.400 €
+
+9 (3x8)
+
+2
+
+138.600 €
+
+135.600 €
+
+{2.00
+
+Ausweichsflächen (brutto, warm)
+
+u
+
+Mieikosten JE’ RA
+
+=
+
+2
+
+117.600 €
+
+112.800 €
+
+81.900 €
+
+548.400 €
+
+monatliche Mietkosten von
+
+ie
+
+e
+6
+
+Kir
+
+8
+
+5
+
+624.600 €
+
+€/m2 NGF
+
+und Mona
+
+ee
+
+212.700 €/Monat | 138.600 €/Monat | 135.600 €/Monat | 117.600 €/Monat | 112.800 €/Monat | 81.900 €/Monat
+
+10 |
+
+jährliche Mietkosten Jje RA
+
+(brutto) | 2.552.400 €/Jahr | 1.663.200 €/Jahr | 1.627.200 €/Jahr | 1.411.200 €/Jahr | 1.353.600 €/Jahr
+
+11
+
+MIEtzeiktaum je BA INK). Vor
+
+3,5 Jahre
+
+di Si
+
+Mietkosten gesamt (brutto)
+
+8.933.400 €
+
+9.871.200 €
+
+9.369.000 €
+
+min)
+
+Kosten gesamt (brutto)
+
+9.358.800 €
+
+10.419.600 €
+
+9.993.600 €
+
+Nachlauf je RA von 6 Monaten)
+
+3,0 Jahre
+
+3,0 Jahre
+
+2,5 Jahre
+
+2,5 Jahre
+
+982.800 €/Jahr
+2,5 Jahre
+
+Die grundlegenden Daten dieser Tabelle (unter Nr. 1/1.Variante, Nr. 2, Nr. 4, Nr. 8) wurden in einer E-Mail vom 15.01.2014 durch den ZTD zur Verfügung gestellt.
+
+Die
+
+Orange-markierten
+
+Werte entsprechen der Anzahl der Mitarbeiter / erforderlicher Arbeitsplätze je RA, die aufgrund der Einrichtung von Sicherheitsbereichen an den
+
+Schnittstellen der RA zusätzlich „umzuziehen“ sind.
+1 von 1
+
+
