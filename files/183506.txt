@@ -1,0 +1,61 @@
+Lage im Stadtgebiet
+
+Abgrenzung des Untersuchungsgebietes
+
+IN
+
+"Dresden- Gartenstadt Hellerau" 98,3 ha
+
+Abgrenzung Erhaltungssatzung und
+Sachgesamtheit Gartenstadt Hellerau 150,7 ha
+
+LANDESHAUPTSTADT
+Base
+
+Integriertes Quartierskonzept
+
+Gartenstadt Hellerau
+
+all
+Quelle b@siskarte sachsen: Staatsbetrieb Geobasisinformation und Vermessung Sachsen
+Grundlagenkarte: Städtisches Vermessungsamt Dresden
+Bezugssysteme: Lage: RD83; Höhe: NHN
+ergänzt durch dieSTEG
+Diese Karte ist urheberrechtlich geschützt. Nachdruck oder sonstige Vervielfältigung,
+auch auszugsweise, nur mit Genehmigung des Herausgebers.
+
+DRESDEN
+
+Plan 01
+93310
+
+1. Änd.
+
+0
+
+500
+
+| 07.07.2014 Neumann/ Lippert
+
+.
+
+[ a
+
+2. Änd.
+
+MASSSTAB
+1000
+
+1500
+
+2000
+
+2500 M
+
+STADTENTWICKLUNG GMBH, NL DRESDEN
+BODENBACHER STR. 97,
+01277 DRESDEN
+teg.de,
+E-Mail: steg-dresden@steg.de
+
+
