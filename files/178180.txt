@@ -1,0 +1,1090 @@
+Anlage - Maßnahmeliste für bauliche Investitionen und Erhaltungsmaßnahmen
+
+Priorität / Kategorie
+Brandschutz- und Sicherheitsmaßnahmen / dringliche Maßnahmen zum Erhalt der
+Bausubstanz
+
+2
+
+|Maßnahmen zur Realisierung behindertengerechter Zugänge
+
+3
+
+|Maßnahmen zur Verbesserung der Wirtschaftlichkeit
+
+4
+
+|Maßnahmen mit pädagogischer Notwendigkeit
+
+5
+
+sonstige Maßnahmen
+
+Id. Nr.
+
+1
+
+2
+
+3
+
+4
+
+Akten-zeichen
+
+1018.00.02.1n1
+Be
+
+[15.00.10
+
+115.00.12. IN
+
+Träger
+
+Lebenshilfe OV
+Dresden e.V,
+
+Angebot
+
+Jugendhaus
+"InterWall"
+
+Mobile
+Outlaw Gesellschaft | ArbeitFriedrichstadt -
+
+für Kinder-und
+A
+
+|[Kinder- und
+
+Anschrift des Objektes
+
+Bedartsanzeige LH DD
+
+=
+Prioritäten-
+
+angezeigte Baumaßnahmen
+
+geplante Kosten
+
+Altgorbitzer Ring 1,
+01169 Dresden
+
+an a eanrepp e Sanierun
+Rampe
+9
+’
+9
+
+8.610.00
+nr
+
+8.359 50
+m
+
+Adiergasse
+2
+01067 Dresden
+
+Einrichtung
+eines Fluchtwegsystems
+über Anbau von Rerettungsbalkonen
+
+11.500,00
+
+11.500.000
+
+Altgorbitzer Ring 1,
+01169 Dresden
+
+j
+Sanierung Aufzug
+
+13.830,00
+
+:
+13.830,00
+
+!
+
+Sicherheitsmaßnahme auf Grund
+Sachverständigengutachten
+
+Trockenlegung tragender Wände
+[{Putz abhacken, Drainage legen,
+Lüftungslöcher bohren, Erneuerung
+
+8.000,00
+
+8.000,00
+
+1
+
+.
+.
+gesundheitsgefährdender Schimmelbefall
+
+Jugendhilfe gGmbH
+
+|Jugendtreff +
+Streetwork
+
+|018.00.02.1N2
+
+Lebenshilfe OV
+Dresden e.V.
+
+Jugendhaus
+“InterWall"
+
+1390.00.01. IN1
+
+KulturLeben
+Dresden UG
+(haftungsbe-
+
+Jugendhaus Pieschen |Großenhainer Str. 93,
+Nord
+01127 Dresden
+
+schränkt)
+
+ar
+
+j
+
+(EUR)
+
+(EUR)
+
+setzung
+4
+
+Bemerkung
+
+Auflage Brandschutz, Geländer nicht DIN
+gerecht (Brüstungshöhe und Fallschutz)
+
+0 i _ |sicherheitsmaßnahme/Brandschutz
+
+Ziegel u. Putz, Malerarbeiten)
+
+5
+
+1060.00.03. IN1
+
+Stadtjugendring
+Dresden e. V.
+
+Parkhaus Klotzsche
+
+Stralsunder Straße 21,|Befestigung Sportplatz (Belag
+01109 Dresden
+Spielfeld)
+
+9.400,00
+
+9.400,00
+
+1
+
+.
+erhebliche Verletzungsgefahr
+
+6
+
+[060.16.05.1N1
+
+Kindervereinigung
+Dresden e. V.
+
+|Kinder- und
+Jugendzirkus KAOS
+
+Moränenende /Ecke
+|Pirnaer Landstraße
+
+|Befestigung Platz, Umzäunung inkl.
+|Tor
+
+15.000,00
+
+15.000,00
+
+1
+
+.
+j
+.
+Sicherheitsmaßnahme
+
+7
+
+1077.00.01.IN1
+
+1|Spielprojekte.V.
+
+|Eselnest
+
+Eisenberger Str. 2a,
+
+Fensterreparatur
+
+4.500,00
+
+4.500,00
+
+1
+
+zum Erhalt der Fenster dringend notwendig
+
+01127 Dresden
+
+ivon4
+
+Ifd. Nr.
+
+Akten-zeichen
+
+Träger
+
+8
+
+1052.00.05.1N1
+
+Kinderland Sachsen IKinder- und
+e.V.
+Jugendhaus T3
+
+9
+
+[135.00.01.INI
+
+Kinder- und
+IJugendbauernhof
+j
+Nickern e.V.
+
+Kinder- und
+|Jugendbauernhof
+.
+Nickern
+
+1135.00.01.IN2
+
+Kinder- und
+IJugendbauernhof
+.
+
+Kinder- und
+T[Jugendbauernhof
+.
+
+Am Stausee 3
+
+10
+
+Kinder- und
+
+Nickern e.V.
+
+Angebot .
+
+Nickern
+
+geplante Kosten
+(EUR)
+
+Bedarfsanzeige LH DD
+(EUR)
+
+Anschrift des Objektes
+
+‚angezeigte Baumaßnahmen
+.
+
+Prioritätensetzung
+
+Bemerkung
+
+Tharandter Straße 3,
+01159 Dresden
+
+|Sanierung der Decken und Wände der
+WO-Anlage im Untergeschoss
+
+21.000,00
+
+21.000,00
+
+1
+
+_
+Erhalt der Bausubstanz und Hygiene
+
+'
+
+Erneuerung/Reparatur Koppel
+
+5.000,00
+
+5.000,00
+
+1
+
+Sicherheitsmaßnahme
+
+'
+
+Zaunbau (Teich, Außenzaun Gelände)
+
+1.200,00
+
+1.200,00
+
+1
+
+Sicherheitsmaßnahme
+
+Teilerneuerungen im Sanitärbereich
+
+10.000,00
+
+10.000,00
+
+1
+
+Erhalt der Bausubstanz und Hygiene
+
+Erneuerung des Fußbodenbelages
+|Küche, Verlegung von Elektro - und
+Wasseranschlüssen
+
+4.000,00
+
+4.000,00
+
+1
+
+Sicherheitsmaßnahme/Hygiene
+
+Am Stausee 3
+01239 Dresden
+
+01239 Dresden
+
+11
+
+140.00.03.1N1
+
+LJBW e.V.
+
+Jugendhaus "Insel"
+
+Meißner
+Landstr.
+[16/18: 01157 DD
+
+12
+
+1234.00.01.IN1
+
+|[Aitstrehlen 1 e.V.
+
+|Jugendtreff SPIKE
+
+Karl-Laux-Straße 5
+01219 Dresden
+’
+
+Kindervereinigung
+
+|Kinder- und
+
+Moränenende /Ecke
+
+jMetalltreppen für Wagen,
+
+13
+
+[060.16.05.1N2
+
+Dresden e.V,
+
+Jugendzirkus KAOS
+
+|Pirnaer Landstraße
+
+|Schwerlastanker
+
+4.800,00
+
+4.800,00
+
+1
+
+Sicherheitsmaßnahme
+
+14
+
+|018.00.02.1N3
+
+Lebenshilfe OV
+Dresden e.V.
+
+Jugendhaus
+“InterWall"
+
+Altgorbitzer Ring
+1.01169 Dresden
+
+Zaunersatz (gesamter Zaun)
+
+10.000,00
+
+10.000,00
+
+1
+
+.
+.
+Sicherheitsmaßnahme
+
+15
+
+1077.00.01.IN2
+
+|Spielprojekte.V.
+
+|Eselnest
+
+01127 Dresden
+
+|Errichten eines Toilettencontainers mit
+
+10.000,00
+
+10.000,00
+
+2
+
+Barrierefreiheit
+
+16
+
+[060.16.05.1N3
+
+Rolistuh! SaniContainer
+
+7.300,00
+
+7.300,00
+
+2
+
+Barrierefreiheit
+
+17
+
+I381.00.01.101
+
+Schaffung eines barrierefreien
+Zugangs zum Hauptgebäude (Rampe)
+
+53.244,00
+
+53.244,00
+
+2
+
+Förderung von 50% als Kofinanzierung
+anderer Fördermittel vorgesehen (spezielle
+Förderprogramme bzgl. barrierefreier
+=
+
+j
+
+18
+
+[154.00.02.1N1
+
+RIESEN
+
+Kindervereinigung
+
+|Kinder- und
+
+Eisenberger Str. 2a,
+
+Dresden e. V.
+
+Jugendzirkus
+
+Trägerverein AZ
+Conni e.V.
+
+Jugendarbeit im AZ
+Conni
+
+.
+5
+Trepernile Dresden MobiD
+.
+
+KAOS
+
+,
+zugendarbeit
+
+Moränenende / Ecke
+|Pirnaer Landstraße
+
+Audotf-LeonhardStraße 39, 01097
+Dresden
+
+.
+
+Sani
+
+.
+
+Behindertentoilette
+
+.
+
+.
+
+.
+
+.
+
+ar
+
+.
+
+RR
+
+.
+
+Zugänge, SAB)
+
+ee
+
+Mietobjekt, Vermieter übernimmt den Umbau
+nicht , für das Klientel aus der Drogen- und
+Obdachlosenszene sind psychische und
+physische Einschränkungen nicht
+außergewöhnlich
+
+Barrierefreie Sanitäranlage
+
+2.305,86|
+
+Summe
+
+2von4
+
+199.689,86
+
+2.305,86
+
+199.439,36
+
+2
+
+ltd. Nr.
+
+Akten-zeichen
+
+Angebot
+
+Träger
+
+angezeigte Baumaßnahmen
+
+Anschrift des Objektes
+
+Zur Information: Außerdem wurden nachfolgende Bedarfe angezeigt, welche 2014
+
+geplante Kosten
+
+(EUR)
+
+Bedarfsanzeige LH DD
+(EUR)
+
+Prioritätensetzung
+
+Bemerkung
+
+aufgrund der begrenzt zur Verfügung stehenden Mittel nicht realisierbar sind oder keine Priorität aufzeigen.
+
+Heizungssanierung (Abriss und
+042.00.04.IN?
+
+CJD Heidenau,
+|Außenstelle
+Dresden
+
+.
+aufsuchende Arbeit im Waldteichstraße 2a
+Dresdner Norden
+
+Entsorgung der alten
+
+.
+Nachtspeicheröfen, Verlegung
+Gasanschluss, Neuinstalation
+
+Lebenshilfe OV
+Dresden e.V.
+
+Jugendhaus
+"“InterWall”
+
+Altgorbitzer Ring
+1,01169 Dresden
+
+060.00.03.1N2
+
+Stadtjugendring
+Dresden e. V.
+
+Parkhaus Klotzsche
+
+Stralsunder Straße 21,
+.
+01109 Dresden
+Anbau pädagogischer Raum
+
+Repapratur und Anstrich Fassade
+(einschl. Gerüst)
+
+(80 m?)
+
+Neubau einer Umkleidehütte im
+Kinderland Sachsen
+
+1. \.
+
+Am Hutberg
+u
+‘
+
+Kinder- und
+
+einer
+
+01328 Dresden
+
+22.325,00
+
+3
+
+5.000,00
+
+5.000,00
+
+3
+
+88.700,00
+
+84.265,00
+
+4
+
+2.800,00
+
+2.800,00
+
+4
+
+2.600,00
+
+2.600,00
+
+4
+
+13.500.00|
+
+13.500,00
+
+4
+
+9.200000
+
+9.200,00
+
+4
+
+3.000,00
+
+3.000,00
+
+>
+
+5.500000
+
+5.500,00|
+
+5
+
+600,00
+
+600,00
+
+5
+
+4.000,00
+
+4.000,00
+
+5
+
+,
+.
+Brennkessel und Heizkörper sowie
+Zuleitungen)
+
+018.00.02.1N4
+
+052.00.06.N1
+
+23.500,00
+
+Fachwerksti
+
+—
+
+Neubau einer winterfesten
+Futterküche
+
+.
+
+I
+
+381.00.01.1n2 . |T"ägerverein
+AZ | |Jugendarbeitim
+AZ
+Connie. V.
+Conni
+381.00.01.1n8
+018.00.02.1N6
+
+115.00.10.1N1
+
+.
+
+| geveninAz
+Lebenshilfe OV
+Dresden e.V.
+
+135.00.01.IN4
+
+Jugendhaus
+"“InterWail”
+
+Outlaw Gesellschaft | _.
+
+|fürKinder-und
+
+Jugendhilfe gGmbH
+
+135.00.01.1N3
+
+n:
+
+[ugendarbeit im AZ
+
+[nmeuni De
+
+Rudolf-Leonhard-
+
+[orrane 39,01097
+Dresden
+
+inkl. Errichtung einer Graffitiwand
+
+Rudoff-Leonhard-
+
+Kinder- und
+|yJugendbauernhof
+,
+Nickern
+
+Kinder- und
+|Uugendbauernhof
+
+Kinder- und
+Augenrbauernhol
+
+Umgestaltung des Vorplatzes des
+
+straße 39, 01097 _
+
+|Vorderhauses zur
+
+Dresden
+
+behindertengerechten Sitzecke
+
+Altgorbitzer Ring
+1,01169 Dresden
+
+Sanierung Jalousien (Austausch von
+Verschleißteilen)
+
+R
+
+rgerst 68, 01127
+
+9
+
+Kinder- und
+|Uugendbauernhof
+,
+Nickern e.V.
+
+Bau einer den Sicherheitsnormen
+
+|entsprechenden
+Schalschutzwand
+.
+.
+.
+u
+
+Wartungs- und
+Instandsetzungsarbeiten im Saal des
+
+[Kinder- und Jugendhauses
+
+(Überarbeitung Parkettboden, Malerund Putzarbeiten)
+Am Stausee 3
+01239 Dresden
+Am Stausee 3,
+01239 Dresden
+
+’
+
+Unterstellplatz Traktor
+
+.
+Dachsanierung am Gebäude für
+Gartengeräte und Zubehör
+
+Nickern e.V.
+
+Ivon4
+
+.
+ar
+BR
+Seitens des Trägers wird eine Realisierung
+erst 2015 vorgesehen .
+
+11a.Pr Nr.
+
+Akten-zeichen
+
+. Träger
+
+Angebot
+
+Anschrift des Objektes
+
+angezeigte Baumaßnahmen
+
+018.00.02.1IN7
+
+Lebenshilfe
+OV
+Dresden e. V.
+
+Jugendhaus InterWall
+
+Altgorbitzer
+Ring 1,
+01169 Dresden
+
+gemauerter Grill mit Metallabdeckung
+
+135.00.01.IN5
+
+115.00.10.IN2
+
+Kinder- und
+
+Kinder- und
+
+Am Stausee 3
+
+Sanierung der Windmühle
+
+IJugendbauernhof
+Nickern e.V.
+
+|Jugendbauernhof
+Nickern
+
+01239 Dres den
+
+(Repapartur Fassade und Dach; Bau
+einer Fluchttreppe für Obergeschoss)
+
+Outlaw Gesellschaft
+
+|.
+
+_|für Kinder- und
+
+nn
+
+Jugendhilfe gGmbH
+
+281.00.01.1N3
+
+CL
+
+.
+Trägerverein AZ
+Connie. V.
+
+FMGZ MEDEA
+
+R
+
+Emmers geist 68, 01127 | Dachsanierung und -begrünung,
+
+9
+
+(EUR)
+
+Bedartsan-
+
+zeige
+LH DD
+(EUR)
+
+Priorltäten-
+
+seizung .
+
+1.000,00
+
+1.000,00
+
+5
+
+11.000,00
+
+11.000,00
+
+5
+
+6.700,00
+
+6.700.00|
+
+5
+
+28.800,00
+
+28.800,00
+
+5
+
+Bemerkung
+
+Fenster, Elektrik, Wasser, Abwasser,
+Wärmeversorgung)
+
+2:
+Jugendarbeit im AZ
+Conni
+
+i
+
+Baumaßnahmen am NAW-Haus im
+Kinder- und Jugendhaus
+
+geplante Kosten
+
+mau
+
+Rudotf-LeonhardStraße 39, 01097
+Dresden
+
+|Prießnitzstraße 55
+
+Anhebung des Dachgeschosses des
+Vorderhauses zur Nutzba smachung
+durch Jugendliche und junge
+Menschen
+
+.
+
+2.000,00
+
+Klärung, ob Repapratur durch Vermieter
+
+12.00.01
+
+e.V.
+
+Mädchentreif "Maxi"
+
+| 099 Dresden
+
+Reparatur Fußboden
+
+2.000,00
+
+060.16.05
+
+Kindervereinigung
+Dresden e.V.
+
+I|Kinder- und
+Jugendzirkus KAOS
+
+Moränenende / Ecke
+|Pirnaer Landstraße
+
+Bepflanzung Gelände, Fahrradständer
+
+2.500,00
+
+2.500,00
+
+keine Baumaßnahme -> keine Förderung im
+Rahmen dieses Beschlusses
+
+060.19.01
+
+Die Falken
+en
+
+Jugendhaus "East
+End’
+
+neue Standort
+
+Küche und Tresen
+
+4.150,00
+
+4.150,00
+
+keine Baumaßnahme -> keine Förderung im
+Rahmen dieses Beschlusses
+
+* Der in der Anlage in der Spalte „Bedarfsanzeige* ausgewiesene Betrag dient zur Information bezüglich der Größenordnung des Wertumfanges der Baumaßnahme.
+** Die Reihenfolge der Förderung der Maßnahmen ergibt sich aus der laufenden Nummer.
+
+4von4
+
+realisiert wird, steht noch aus
+
+

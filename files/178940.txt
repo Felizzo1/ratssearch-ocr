@@ -1,0 +1,6430 @@
+zur
+V2995/14
+zur V2995/14
+
+Anlage9
+|
+
+Projektstudie „Kostenrahmenermittlung‘“,
+ARCADIS vom Stand
+13.06.2014
+
+FAQ
+ARCADIS
+Inrastuktur- Wasser Umwelt Inmotien
+
+FQ ARCADIS.
+Wasser Umer
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Projektstudie Kostenrahmenermittlung
+Neues Rathaus Dresden
+Projekt
+
+Sanierung Neues Rathaus Dresden
+
+Thema
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Datum
+
+31.01.2014, überarbeitet am 13.06.2014
+
+Verfasser
+
+ARCADIS
+
+Inhaltsverzeichnis
+
+Projektnr. DE0112.001293
+
+Deutschland GmbH
+
+Anlagen
+
+Könneritzstraße 29
+
+Siehe
+‚Anlagenverzeichnis
+
+01067 Dresden
++49 351 263588 0, rathaus-dresden@arcadis.de
+
+0.
+
+Einleitung und Aufgabenstellung
+
+8
+
+0.1.
+
+Vorwort
+
+8
+
+0.2.
+0.3.
+0.4.
+
+Einleitung
+Allgemeine Aufgabenstellung
+Leistungsbereiche
+
+8
+g
+9
+
+0.5.
+
+Methodik der Studie
+
+13
+
+%
+
+Anforderungen an die Nutzung
+
+14
+
+1.1.
+1.2.
+
+Nutzungsziele
+Quantitative und qualitative Sanierungsziele
+
+14
+15
+
+2.
+
+Baulicher und Technischer Bestand
+
+21
+
+2.1
+2.2.
+2.3.
+
+Erkenntnisse bisheriger Planungen
+Erkenntnisse aus vorliegenden Gutachten und Prüfberichten
+Angemessener zusätzlicher Erkundungsaufwand
+
+21
+21
+23
+
+3:
+
+Organisation
+
+24
+
+3.1.
+3.2.
+3.3.
+
+4.
+
+Beteillgte
+
+—
+
+Frau Röder
+
+Firma
+
+Mail
+
+_ Verteiler
+
+Abt.-Ltr. Regiebtr. ZTD
+
+uroeder@dresden.de
+
+x
+
+Herr Ullmann
+
+Sachbearb. Regiebtr. ZTD
+
+kullmann@dresden.de
+
+x
+
+Herr Sieß
+
+‚Abt.-Ltr. Hochbau I1//GB2/65.5
+
+esiess@dresden.de
+
+SL
+
+Herr Lenhart
+
+Projektleiter/GB2/65.5
+
+mienhart@dresden.de
+
+x
+
+Herr Lerch
+
+stellv. Projektleiter/GB2/65.5
+
+Jlerch1@dresden.de
+
+x
+
+Frau Nadollek
+
+Fachingenieurin TGA/GB2/65.2
+
+inadollek@dresden.de
+
+x
+
+Herr Blankenhagen
+
+Fachingenieur TGA/GB2/65.2
+
+tblankenhagen@dresden.de
+
+x
+
+Arcadis
+
+ps-rathaus-dresden@arcadis.de
+
+x
+
+1753
+
+24
+33
+34
+
+Basiskosten
+
+35
+
+4.1.
+
+Grundlagen
+
+4.2.
+
+Ermittlung Globalkennwerte
+
+4.3.
+
+Bereinigung Globalkennwerte - Ermittlung Bedarfsgerechter Kennwerte
+
+36
+
+4.4.
+
+Ermittlung Basiskosten
+
+42
+
+5.
+
+Risikorahmen
+
+43
+
+5.1.
+
+Projektrisiken
+
+43
+
+5.2.
+Ir
+
+_ Variantenuntersuchung zur Abschnittsbildung
+Grobablaufplan
+_ Projektstruktur
+
+35
+
+.
+
+Ermittlung Risikokosten
+
+36
+
+44
+
+6.
+
+Kostenrahmen
+
+47
+
+6.1.
+6.2.
+6.3.
+
+Auswertung Basiskosten und Risikokosten - Ermittlung Kostenrahmen
+Vergleichs- und Kontrollrechnung
+Zusammenfassung und Fazit
+
+47
+48
+51
+
+2753
+
+FAQ
+ARCADIS
+Intrastnaktur Wüsser Ummeit.mmabihen
+
+FA ARCADIS
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Abkürzungsverzeichnis
+
+RA
+
+RZ
+SF
+AG
+
+Auftraggeber
+
+AN
+
+Auftragnehmer
+
+ARGE
+
+‚Arbeitsgemeinschaft msp Architekten / IB Schmid
+
+AWF
+
+Außenwandfläche
+
+BA
+
+Bauabschnitt
+
+BGF
+
+Bruttogeschossfläche
+
+BMA
+
+Brandmeldeanlage
+
+DG
+
+Dachgeschoss
+
+DIN
+
+Deutsche Industrie-Norm
+
+EG
+
+Erdgeschoss
+
+EMS
+
+Erweiterte Machbarkeitsstudie
+
+GA
+
+Gebäudeautomation
+
+Gr
+
+Grundfläche
+
+HBA
+
+Hochbauamt
+
+HOAI
+
+Honorarordnung für Architekten und Ingenieure
+
+KG
+
+Kellergeschoss
+
+KGR
+
+Kostengruppe
+
+KGE
+
+Kostengruppenebene
+
+LAP
+
+Leonhardt, Andrä & Partner Beratende Ingenieure VBI AG
+
+LB
+
+Leistungsbereich
+
+LP
+
+Leistungsphase
+
+LV
+
+Leistungsverzeichnis
+
+MF
+
+Mittelflügel
+
+MM
+
+Mengenmehrungen
+
+NF
+
+Nordflügel
+
+NGF
+
+Nettogrundfläche
+
+NRD
+
+Neues Rathaus Dresden
+
+or
+
+Ostflügel
+
+0G
+
+Obergeschoss
+
+353
+
+Realisierungsabschnitt
+
+| Rechenzentrum
+Südflügel
+
+SoF
+
+Sonderfall
+
+SRB
+
+Stadtratsbeschluss
+
+UG
+
+Untergeschoss
+
+TK
+
+Tiefkeller
+
+VL
+
+Vergabelos
+
+VvOoB
+
+Vergabe- und Vertragsordnung für Bauleistungen
+
+Wr
+
+Westflügel
+
+ZG
+
+Zwischengeschoss
+
+ZR
+
+Zentralregistratur
+
+ZTD
+
+Zentrale Technische Dienstleistungen
+
+453
+
+FR ARCADIS
+
+FAQ
+ARCADIS
+Infrastrustur Wasser Umweit-mmobiben
+
+bee
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Anlagenverzeichnis
+
+Quellenverzeichnis
+
+Anlage 1:
+
+Übersichtspläne Nutzungsverteilung NRD
+
+Anlage 2:
+
+Aufstellung BGF und weitere Mengen
+
+Anlage 3:
+
+Stellungnahme Tragwerksplanung (LAP)
+
+Anlage 4:
+
+Übersicht über vorhandene Gutachten (LAP)
+
+‚Anlage 5:
+
+Katalogisierung Gutachten (LAP)
+
+Anlage 6:
+
+Übersicht über die Deckensysteme (LAP)
+
+Anlage 7:
+
+Nachrechnung Dachbinder (LAP)
+
+Anlage 8
+
+Übersichtspläne Variantenuntersuchung Abschnittsbildung
+
+Anlage 9:
+
+Variantenuntersuchung Umzugs- und Mietkosten
+
+Anlage 10:
+
+Terminrahmen Vorzugsvariante
+
+Anlage 11:
+
+Projektstrukturplan
+
+Anlage 12:
+
+Kostenerfassung - Grundlegenden Kosten
+
+Anlage 13:
+
+Kennwerte - Basiskosten
+
+Anlage 14:
+
+Bereinigung Globalkennwerte
+
+Anlage 15:
+
+Vergleichs- und Kontrollrechnung
+
+Anlage 16:
+
+Fotodokumentation (Kurzfassung)
+
+‚Anlage 17:
+
+Mittelabfluss Varianten
+
+Anlage 18:
+
+Untersuchung Angebot und Nachfrage Büroimmobilien Dresden
+
+m
+
+Projekt- und Risikoanalyse Sanierung Neues Rathaus Dresden, ARCADIS
+26.04.2013
+
+[2]
+
+Beschlussvorlage V0744_10, Fortsetzung Sanierungsprozess Neues Rathaus Dresden, Landeshauptstand Dresden, 02.11.10
+
+Io
+
+Beschlussvorlage V1534_12, Fortsetzung Sanierungsprozess Neues Rathaus Dresden, Landeshauptstand Dresden, 02.03.12
+
+14]
+
+Beschlussvorlage V2434_13, Fortsetzung Sanierungsprozess Neues Rathaus Dresden, Landeshauptstand Dresden, 28.08.13
+
+15]
+
+Bauantrag Fortsetzung Sanierungsprozess Neues Rathaus Dresden, Landeshauptstadt Dresden,
+
+[6]
+u)
+
+Baugenehmigung
+
+Hochbauamt, 10.08.2010
+(Gesamtnachweise), Landeshauptstadt Dresden, Bauaufsichtsamt, 21.12.2010
+
+Erweiterte Machbarkeitsstudie „Gesamtkomplex Neues Rathaus“ der SPB Ingenieurgesellschaft
+GmbH & Co. KG vom 16.05.2007
+
+18]
+0)
+110]
+m]
+
+Kostenstrukturplan, ARGE msp Architekten / IB Schmid, 25.05.2011
+
+112]
+13]
+114]
+
+Schnittstellenkatalog, ARGE msp Architekten / IB Schmid, 17.06.2013
+
+115]
+
+Nachweis der Feuerwiderstandsdauer tragender Bauteile Neues Rathaus Dresden (inkl. Über-
+
+116]
+
+Verdingungs-, Auftrags-, Nachtrags- und Abrechnungsunterlagen der Gewerke NRD bis
+
+un
+18]
+
+5/53
+
+Deutschland GmbH,
+
+Kostenberechnung, ARGE msp Architekten / IB Schmid, 06.05.2011
+Kostenanschlag, ARGE msp Architekten / IB Schmid, 03.09.2013
+Kostenanschläge Fachplaner (Akustik Bureau Dresden Ingenieurgesellschaft mbH vom
+22.08.2013, D.l.E. Projekt GmbH vom 23.08.2013, Ingenieurbüro Eggerichs und Irmscher vom
+23.08.2013, Klemm Ingenieure GmbH & Co. KG vom 20.08.2013)
+
+Gutachten und Untersuchungsberichte (Schadstoffe, Bestandserkundungen, Mängel)
+Brandschutzkonzept Genehmigungsplanung, Neues Rathaus Dresden, Ingenieurbüro Heilmann,
+
+10.08.2010
+sichtspläne), Ingenieurbüro Kless Müller GmbH, 02.06.2010
+20.12.2013
+Übersichtsplan Bauabschnitte, ARGE
+
+msp Architekten / IB Schmid, 19.11.2013
+
+Grundrisse, Ansichten und Schnitte (Entwurfs-)Planung, ARGE msp Architekten / IB Schmid bis
+20.12.2010
+
+19
+121]
+[22]
+
+Zusammenstellung BGF, ARGE
+
+123]
+[24]
+
+DIN 276-1, Kosten im Bauwesen, Teil 1: Hochbau, 11/2006
+
+msp Architekten / IB Schmid,
+
+15.09.2011
+
+Flächenzusammenstellung (Tektur), ARGE msp Architekten / IB Schmid, 06.05.2011
+Vorschriften und Ausstattungsvorgaben für die Errichtung von Leitungsnetzen (Telekommunikations- und Datennetze), Landeshauptstadt Dresden, 07.09.2010
+
+Richtlinien der Staatlichen Vermögens- und Hochbauverwaltung
+ligung freiberuflich Tätiger (RifT), Stand 07/2013
+
+Baden-Württemberg für die Betei-
+
+6153
+
+FA
+ARCADIS
+Intrastruktor- Wasser Umweit- Immabaden
+
+FAQ
+ARCADIS
+Infrastruktur Wasser Umwelt rmmabllen
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Tabellenverzeichnis
+
+0.
+
+Einleitung und Aufgabenstellung
+
+0.1.
+
+Vorwort
+
+Tabelle 1: Übersicht Nutzungsverteilung / Sanierungsaufwand
+Tabelle 2: Übersicht bisher ermittelter (Gesamt-)Baukosten ..
+Tabelle 3: Erneuerungs- / Sanierungsbedarf ...
+
+Tabelle 4: Zeitlicher Ablauf der untersuchten Varianten ...
+Tabelle 5: Variantenuntersuchung Abschnittsbildung ...
+Tabelle 6: Auswahl Kennwerte...
+
+In dieser Dokumentation
+
+zur Projektstudie werden
+
+die Herangehensweise
+
+der Projektstudie erklärt, deren Rahmenbedingungen
+
+und
+
+Methodik
+
+zur Erarbeitung
+
+definiert sowie die erzielten Ergebnisse
+
+ausführlich
+
+dargelegt und beschrieben.
+
+Tabelle 7: Wertermittlung Altbausubstanz.
+
+Alle Formulare
+
+Tabelle 8: Honorarermittlung...
+
+stellt.
+
+und
+
+Listen sowie diese Dokumentation
+
+werden
+
+den
+
+Projektbeteiligten zur Verfügung
+
+ge-
+
+Tabelle 9: Basiskosten Varianten...
+Tabelle 10: Ermittlung Projektrisiken
+
+Die Berechnungsgänge
+
+Tabelle 11: Kostenrahmen Varianten...
+
+eingesehen werden.
+
+zur Ermittlung der grundlegenden
+
+Kostenkennwerte können
+
+mit „Microsoft Excel“
+
+Tabelle 12: Systematik Vergleichs- und Kontrollrechnung
+Tabelle 13: Ergebnisse Vergleichs- und Kontrollrechnung Variante
+
+0.2.
+
+Einleitung
+
+Das Neue
+
+Rathaus
+
+sentlich durch den
+
+Dresden
+
+wurde
+
+1910 erbaut. Das
+
+1965 abgeschlossenen
+
+äußere
+
+Wiederaufbau
+
+Erscheinungsbild
+
+bestimmt, wenn
+
+des Rathauses wird we-
+
+auch die Grundstrukturen
+
+und
+
+große Teile der Bausubstanz vom Originalbau erhalten sind.
+Die als Planungsschwerpunkt
+
+vorgegebene
+
+brandschutztechnische
+
+Ertüchtigung des Gebäudes
+
+erfordert
+
+die Betrachtung aller funktionellen, baulich-konstruktiven, haustechnischen und sicherheitstechnischen Belange des Gebäudes.
+
+Damit wird erstmalig seit der Ursprungsplanung
+
+vor ca. 100 Jahren ein komplexes
+
+Planungskonzept für das Gesamtgebäude angestrebt.
+Die Projektstruktur für das Gesamtprojekt war ursprünglich auf 7 Bauabschnitte ausgerichtet. Die Struktur
+wurde nach weiterführenden Planungen zu Gunsten der Bildung eines 1. Realisierungsabschnittes (1. RA)
+aufgegeben. Der 1. RA umfasst neben dem Ostflügel, die Zentralregistratur (Abbruch und Rohbau
+flügel 2), Brandschutztüren im Turm (Mittelflügel), den Abbruch und Ersatzneubau
+Neubau entfällt), das Rechenzentrum, den Südflügel 1,
+
+im Süd-
+
+im Hof C (nur Abbruch,
+
+2 WC-Achsen im Nordflügel, das Turmtreppenhaus
+
+sowie die Gestaltung der Höfe C und D.
+Über die weitere Realisierung des Gesamtprojektes
+
+in Bau- oder Realisierungsabschnitten
+
+ist noch nicht
+
+entschieden (Stand 01/2014).
+
+8/53
+
+FR ARCADIS
+
+al
+
+a ARCADIS
+
+=
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Die BGF des Gebäudes
+lässlichen
+
+beträgt gemäß
+
+Kostenermittlungen
+
+23.890 m? BGF gemäß
+
+[19] ca. 76.930 m?. Für das Gesamtprojekt sind derzeit keine ver-
+
+vorhanden
+
+(letzter Stand
+
+vgl.
+
+Kapitel
+
+1.2).
+
+Derzeit
+
+wird
+
+der 1.RA
+
+- ca.
+
+[19] - mit einem Projektbudget in Höhe von mittlerweile 36,56 Mio. € brutto umge-
+
+setzt.
+
+0.3.
+
+LB 1 - Anforderungen an die Nutzung
+
+Ermittlui
+
+uantitativer und
+
+Festlegung
+
+eines Bedarfsprogrammes
+
+itativer
+
+Anforderungen
+
+an die
+
+Nutzun:
+
+als Maßstab für die Zuordnung
+
+bzw.
+
+Einordnung
+
+der weiteren Er-
+
+kenntnisse und die Ableitung des Erkundungsbedarfes.
+
+Allgemeine Aufgabenstellung
+
+Im Rahmen
+
+der bisherigen Projektdurchführung
+
+Erarbeitung
+
+umfangreichen
+
+Datenmaterials
+
+des Neuen
+
+einschließlich
+
+Rathauses
+
+Dresden
+
+Fachgutachten
+
+=
+
+Auswertung der Baugenehmigung und des vorliegenden Raumkonzepts;
+
+»
+
+Aktualisierung des Bedarfsprogramms anhand der Ermittlung und Auswertung der derzeitigen Nut-
+
+ist auftraggeberseitig die
+
+zu vorhandenen
+
+zungsverteilung, bisheriger Bedarfsanmeldungen und eines Fragenkataloges an den Nutzer;
+
+Schadstoffen,
+
+=
+
+Zuständen der Tragkonstruktionen und Substanzschäden veranlasst worden.
+Nunmehr
+
+ist die Auswertung
+
+dieser
+
+Daten
+
+(baulich-technische
+
+bildung;
+
+Rahmenbedingungen)
+
+bisher unsanierter Gebäudeteile
+
+neuesten Erkenntnisse und evtl. weiterer notwendiger Substanzerkundungen
+ge ist dabei zunächst
+
+die Aufgabenstellung
+
+ches. Sollten sich aus den
+
+Untersuchungen
+
+der Studie Zusatzaufgaben
+
+bzw. Projekt-
+
+unter Beachtung der
+
+ermöglicht wird. Ausgangsla-
+
+zur Ertüchtigung des Brandschutzes
+
+und Sanierung
+
+ergeben,
+
+um
+
+®
+
+so vorzunehmen,
+
+dass eine weitestgehend sichere Ermittlung der voraussichtlichen Baukosten (Kostenrahmen
+budget) für die Modernisierung und Instandsetzung
+
+des Da-
+
+die vorgenannten
+
+LB 2 - Baulicher und technischer Bestand
+Ermittlung des Zustandes der Substanz und der technischen Anlagen
+Strukturierung und Systematisierung vorliegender Gutachten und Prüfberichte, Festlegung eines angemessenen zusätzlichen Erkundungsaufwandes und Durchführung von weiteren Bauteilerkundungen gem. Opti-
+
+=
+sind neben der Festlegung sachlicher, zeitlicher und organisatorischer Projekt-
+
+ziele und einer Zerlegung des Projektes in eine handhabbare
+che abzubilden.
+
+Durch Analogieschlüsse
+
+aus
+
+besonderen
+
+Lieferung von Plänen (Darstellungstiefe: Nutzungsverteilung).
+
+onsrahmen, Kartierung besonderer Bauzustände bzw. -bedarfe.
+
+Leistungen umsetzen zu können, sind diese darzustellen.
+In diesem Zusammenhang
+
+Darstellung der vorzugsweisen Nutzungsverteilung und Berücksichtigung bei der Kostenkennwert-
+
+=
+
+Projektstruktur entsprechende Kostenberei-
+
+Erkenntnissen des
+
+1. RA
+
+Auswertung und Strukturierung vorliegender Erkundungsgutachten;
+Begehung aller Gebäudeteile und -trakte, Dokumentation und Abgrenzung vergleichbarer bzw.
+gleichartiger Bauelemente, Baugruppen bzw. Gebäudeflächen;
+
+sind Unwägbarkeiten
+
+und Unsicherheiten zu bewerten und als differenzierte Risikobetrachtung zu berücksichtigen.
+
+*
+
+Berücksichtigung bei der Kostenkennwertbildung;
+
+«
+
+Berücksichtigung von Erkenntnissen aus dem 1. RA (vorgefundener Zustand, Besonderheiten der
+Baukonstruktion, z. B. sog. Ackermanndecken).
+
+0.4.
+
+Leistungsbereiche
+LB3
+
+Im Rahmen
+
+der Beauftragung der Projektstudie wurden
+
+insgesamt
+
+-Organisation
+
+neun verschiedene Leistungsbereiche
+
+(LB) definiert, welche die Grundlage für die Durchführung und somit auch für die Zielerreichung der Studie
+
+Zeitliche, sachliche und organisatorische Bestimmung der Projektziele
+Analyse des konkreten
+
+bilden. Diese LB werden nachfolgend aufgeführt.
+
+Projektumfeldes,
+
+Untersuchung
+
+zur Abgrenzung
+
+von örtlichen Projektabschnitten,
+
+Optimierung und Plausibilisierung der gewählten Ablaufstruktur.
+»
+
+Erarbeitung Grobterminablaufplan;
+
+"
+
+Erarbeitung Projektstrukturplan, objektbezogen, kostenbereichsweise;
+
+"
+
+Darstellung organisatorischer Maßnahmen zur Sicherung der Zielerreichung und zur Erkennung
+von besonderen Maßnahmen
+
+953
+
+im Rahmen der Mitwirkung oder von Abhängigkeiten;
+
+*
+
+Kontrolle der Zuordnung und Vollständigkeit der Kostenansätze;
+
+*
+
+textliche Erläuterungen.
+
+10153
+
+FA ARCADIS
+
+FA ARCADIS
+
+I
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+LB 4 - Basiskosten
+
+=
+
+Ermittlung der Basiskosten
+
+Durchführung einer Kontrollrechnung auf der Basis
+
+(Gesamtbaukosten)
+
+Prüfung der Kostenberechnung
+
+der vorliegenden
+
+Gesamtstudie auf Aktualität und Plausibilität, Ermittlung
+
+unter Ansatz der eigenen
+
+Analyseergebnisse,
+
+vergleichende
+
+Kostenschätzung
+
+Kostenschätzungen
+
+alternativ verfügbarer (allgemeiner) Baupreissammlungen;
+der Abrechnung vergleichbarer Objekte oder unter Berücksichtigung vergleichbarer funktional,
+räumlich, baulich und ggf. wirtschaftlich abgrenzbarer Einheiten.
+
+von Vergleichskosten aus Kostenstand bzw. Abrechnung des 1. RA, Festlegen von Kostenkennwerten und
+-bezügen aus dem Objekt und laufenden Projekt, überschlägige Mengenermittlungen,
+
+o
+o
+
+LB 7 - Dokumentation
+
+auf Basis frei verfügbarer
+Fertigung
+
+Kostenkennwerte, Ermitteln von Gesamtbaukosten (Basiskosten) als Bestandteil des Projektbudgets.
+
+einer
+
+vollständigen,
+
+ggf.
+
+zusammenfassenden,
+
+kopierfähigen
+
+Dokumentationsunterlage,
+
+CD-
+
+ROM mit Bildschirmpräsentation, pdf, dwg und Foto-/Videoarchiv.
+=
+
+Auswertung der vorliegenden, aus derzeitiger Sicht unvollständigen Kostenberechnung
+
+(brand-
+
+schutztechnischen Sanierung);
+
+LB 8 - Beratungsleistungen der Tragwerksplanung
+
+.
+
+*
+
+Sichtung und Auswertung der vorliegenden Auftrags-LV und Abrechnungsstände des 1. RA;
+
+Die parallel zu erbringenden
+
+=
+
+Durchführung von Fragerunden mit Projektsteuerung (z. B. zu bisherigen Kostenständen);
+
+sich in folgende Leistungsbereiche:
+
+*
+
+Bildung / Berechnung geeigneter, übertragbarer Kostenkennwerte (z. B. Ackermanndecken)
+
+in an-
+
+gemessener Darstellungstiefe;
+*
+
+lückenlose Darstellung des Objektes nach den ermittelten / festgelegten Bezugsgrößen und Kos-
+
+- Risikorahmen
+
+Bewertung der
+
+zur Bestandsanalyse
+
+aus
+
+Sicht der Tragwerksplanung
+
+"
+
+Objektbegehungen;
+
+=
+
+Sichten und Durcharbeiten von Bestands- und Planungsunterlagen;
+
+gliedern
+
+"Aufstellen eines Kataloges ggf. notwendiger Bestandsuntersuchungen;
+
+tenkennwerten.
+LB5
+
+Leistungen
+
+(Leistung LAP)
+
+Risikogruppen
+
+Differenzierte Risikobetrachtung und Ableitung eines Risikokostenrahmens.
+
+"
+
+Analyse der Planungsaufgabe aus Sicht der Tragwerksplanung;
+
+*
+
+Mitwirkung bei der Kostenermittlung / Terminkontrolle;
+
+"
+
+Systematisierung von Bestandserkundungen, Schadstoff- und Materialuntersuchungen;
+
+*
+
+Tragwerksanalyse — Dachtragwerk, Dachbinder, Decken.
+
+LB 9 Gutachten und Sonderfachleute (Option)
+
+*
+
+Ermittlung von Marktrisiken;
+
+=
+
+Ermittlung von politischen Risiken;
+
+Erkundungsleistungen,
+
+=
+
+Ermittlung von Grundlagenrisiken;
+
+chen Kenntnisstand hinaus, sind nach dem derzeitigen Kenntnisstand nur aufgrund besonderer oder neuer
+
+=
+
+Substanzuntersuchungen
+
+und Laboranalysen etc. über den bisherigen, umfangrei-
+
+Ermittlung allgemeiner Risiken (Unwägbarkeiten) und projektspezifischer Risiken (Unsicherheiten)
+
+Erkenntnisse aus der Auftragsbearbeitung erforderlich. Diese Leistungen waren
+
+mindestens in Untergruppen;
+
+Empfehlung erforderlich und wären gesondert abzurufen. Während
+
+=
+
+Anfertigung einer Risikocheckliste;
+
+nehmlich darauf verzichtet worden, weitere Beprobungen durchzuführen
+
+=
+
+Bewertung und Wichtung der Risiken;
+
+dazu Kapitel 2.3).
+
+=
+
+Bildung eines Risiko-Kostenrahmens.
+
+daher nur auf besondere
+
+des Bearbeitungsprozesses ist einverund Gutachten
+
+anzufertigen (vgl.
+
+LB6 - Kostenrahmen
+Ermittlung eines Kostenrahmens, bezogen auf den Zeitpunkt der Fertigstellung
+Zusammenstellen
+
+und
+
+Feststellen
+
+Kostenrahmens
+
+eines
+
+Auswerten
+
+der kostenbezogenen
+als Grundlage
+
+Ergebnisse
+
+zu
+
+Basiskosten
+
+einer Investitionsentscheidung
+
+des
+
+und
+
+Risikokosten,
+
+Bauherrn,
+
+Kontroll-
+
+rechnung(en).
+
+11753
+
+12953
+
+zw O0g'L
+(%Y)
+(% 81) zw 008°
+zw 0092
+(%9)
+
+gsipL
+
+Suuab
+Buuaß
+Buua6
+(KA)
+(%Z)
+(% Sp)
+(% EZ)
+
+ä
+
+'ususysssßlon
+
+Jap
+
+usdunzjnn
+
+nz Jepaqg- 'mzq puewynesßunjalueg une}
+
+apuaßlo)
+
+uabyunynz
+
+yoıs
+
+usgey
+
+(oingysdung
+
+puelg
+
+&
+
+JıW
+
+‚usqaßıa Bunjısuansßunz
+FLOZ Jenuer
+
+"usßunz
+
+'L'L
+
+Jap Jyundsßueßsny
+
+gjazsbunzynn
+
+ususwwousßue
+
+gseL
+*(S pun p jsndey
+-aııyosge ||oS Bunuysayıoyuoy
+
+'I6A) uaue1|
+
+aıpnıg Jap ssiemsusyaßueJsH Jap uon aulg
+
+sessıugsBJapug LayasıUauy9sJ sap Bunualsijigisnejd Inz puay
+
+NZ) Uayamagq nz Alyeyjuenb asaıp puis 'uun) uelsoy| uayaız
+
+pun -sysIajßJay aBIßueygeun
+
+‘(uayy:
+
+pun
+
+usyayyayaısun
+
+(usyasıızedspjalo,d)
+
+wnz
+
+un
+
+wn
+
+'yowwmoy
+
+"uuey UsBuNg yaıs pw
+
+uajaın
+
+IIayuy
+
+ueßunysremgy Jep
+
+aIp 'u2}soy) Ua}soy Jap
+
+(ueylaybineusdun)
+
+uapıam (puis Jequaiqe Iyolu
+
+usjeg Jenjenjuenb Jepusßaıon
+
+as/jeuy Jep Bunjdnuysey
+
+1ÖUNab
+
+uayos
+
+YoınpyaıH
+
+=
+
+YIPoyaNı ayaspsnejs
+
+aule
+
+sjypassßspepag ‚ne Bunblulajag) Bunysssquny auls young "uanamsdunuyepg
+
+16 Bıbuedyaunp aıp aImos syasJauls uajeg Lapuaßaılıon ue aßuayy uay
+
+Pam ‘(uaygußsÄnzag Jeyaubısah siayım BunuypsuypoH/-wN) sNasiasspue
+
+"Yonemus jeyiwy ueyasısgejs
+
+;sejy) Jap ne uayyenay asıamsjj!
+
+uauıe ıny yaıbıpa]
+
+uap yw
+
+pun Bunypessgaip
+
+=
+
+"soyIsiy sap Bunyamag
+
+pun yıpoyjeyy vayasısnejs Buays Jauıs Bunyeyuigalg
+
+UaaıyUoY
+
+UaPuaIya} alp Yoınp weile Jon Jopunibag — suaıyeyay sas
+
+:ualypesq nz usJuauodwoy Iemz Bunjyuuaus}soy Jap Iaq puis "uayalulwıe nz puayab
+
+vonesbaju
+
+uayaıpan
+
+ssıempuyas
+
+pun
+
+ua}
+
+"uuey Uayay) uebessny ayoısselen (ssazo.dssunu
+
+Öigewuysleld
+
+sjaußlsaß aula yaınp spesaß jlos Jyswjar
+
+-usßnejdne}
+
+'usiyez epuaß:
+
+Ion Jayem aIpnıS apuaßaınon aıq
+
+Apn3g op yıpoyzanı "g’0
+
+SIavIuV 9
+
+uapsaıq sneyyey sanaN alpnıspyefoig uopeyuaunyog
+uopsaud SnEUJEN sonen Buniajues Maloıd
+
+sep Iagom 'sne uauoneuwuoju] pun usjeg
+
+suswyeuusjsoy LEJegjsejaq sauls Bunyyuug aıp jne yoııquıy WI ueyye-j| Jeseip Bunyemag Jap ‚ne Yıatı
+
+uajje ‚ne Jeuls laq Inu aselp ep ‘Jon UaßunueIg LayasIUy9a} "uausbozegiyafgo aulay Juwiu sıpnıg alg 1681
+
+-ejd J2ueInba)
+
+anyeweye
+
+-aıp aysyayaIsun aıp wN 'uapJam uayonaB „geion“ abessneusjsoy ayegisejaq auie asıamsuaysßue/sH
+
+-Isaylam — uSBEIPUNID UayosuaueId
+
+ı1zadsyyafoyd
+
+06 yauıs (uamuusy
+
+usjeg Jasaıp Bunjpueyag abıney;
+
+yarsıbsny ura 'mzq Bunyelg auı:
+
+usßuneß
+
+eg (uaya%
+
+Jayasusuejd usßejpunig osje 'uayuequajepuajsoy uon uasia,dsyplajßsaN Jepo UaßUNZIRYDSUSISOoyneg uon
+
+"Japuamuan 'uy
+
+Bunysenzagoyisiy
+
+-0Jd we usßunuelg UaÖlausıq Jap ayeyosun UaJepunußaqzuejsans Jap PunJdlsjulH WEp Jon BJepuosagsuj
+
+-qeun Bunypensgoyisiy aule Is! ey Ponıpaßsne Bunyaßlejsuajsoy uaWous Jap uI Welle Jon yols aıp yal
+
+(uaulswaßjle)
+
+-nsoußoud yoııbunsdsin sıseg Jeyosiuypa}-yosuauej jne Jap Bunygy»3 Jeuls nz uayısıy on NINulg Jap eq
+d
+
+uabunysiaemgy
+
+%
+
+| sbejuy uı puis Bunzinusßueßsny uapuaysjsJon Jap Buejwn pun uYy
+
+uon
+
+aıp }
+
+°L
+
+aıp UI ualaysegbemun
+
+uayoeı4 aösuos
+Bunzin auyo awıney
+uaypeinIyay pun -Jaße7
+
+2 sbejuy yewaß (yY ‘| auyo) vg sblgn ayppipluesad
+
+(uayısuuaßejpunsg pun uayısupueyy) sapjajuunyalod sap pun usßunßuipsgpuew Jep Bunsapugsay aypıı
+-gabyew aula
+“Yazıneyaloıd abue] asıamsyalsjdlsn aıp JWIWoy nzi
+“uayalzagnzuls BuniWIeusIsoy}
+
+(% 001) zu 008'yr
+[MEE=I
+
+PEIEISTTERFENNER)
+aypelsuomyung ayssıuysaL
+Bunzynuoung yw swney
+(eÖnzyny ‘swneuusddaul ‘sun]4) ayseysıyayıan
+
+(498 zu) ay9ı9
+
+zWwooNL
+zu 000'1
+zw 00002
+zw 0020
+
+on
+Buuaß
+op
+yooy
+puemynesßunusjues
+
+Jenneyjenb
+
+(ayneya Jaygu „uajsoysiseg“ p jaıdey
+wı pm ayamuusyuajsoy Jsp BunpiigsnessH ag) "uapıom JÖlyaIsyonJag 'yolllsplopa yamos 'ayamuuay
+
+"puIs uOysız
+
+-USJSOY Jap Bunpiig Jap Iaq puis (| SjleqgeL ayals) uoßunzınN Jap usbUNUPJOUBYJAL9 alp pun Bunjlspay IQ
+
+"yIeysaßyep yasyeß
+
+-jenb usp Jaqn assniyasyany yane yoeuom 'uaßunzinn uaysıNuasem uap yoeu S18jopa Bunsaizussayig aid
+
+usjdluysusß
+
+I yoIsJegBuLSEI NW WNeEJSIFNUES/-UagoJspJeH) 93 WI UBsyoewney Z U) VaBUnZInN on yosne]L
+BönInsempng wı yoisssqyZiesuuy Bunyanuıg
+
+-INN
+
+01/229E0 ‘IN Bunßiwysusßneg
+
+INN uaysııpalyassajun Jap Bunjlspay SWWnsaßge uuayneg wap yw 'ayaıjuasam ap syaysq yeyyua as
+-21Q 'PIWIYDS gI / vapayıyaıy dsw 3JOYV Jap Bunueidsunmug ueusgeßaßıayj Jap sıseg Jap jne QLOZ'ZL'LZ
+won
+
+Bunzyny 3ıp ue uaßunAapIoguy
+
+uapsayg sneyjey sanan Bunusjues pielosd
+
+uapsaıg sneyjey sanaN ajpnIspjafoıg uopejuaunyoq
+
+SIAVIUV 3
+
+FA ARCADIS
+all
+
+FR ARCADIS
+
++
+al
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+1.2.
+
+Quantitative und qualitative Sanierungsziele
+
+Aus der einfachen Hochrechnung des Kostenanschlages zum 1. RA auf die entsprechenden Flächen erge-
+
+In quantitativer Hinsicht ist die Problematik der Sanierungstiefe der vorgesehenen
+scheidend für die kostenmäßige
+Gesamtheit
+(Umfang
+
+Bewertung
+
+der mit dem jeweiligen
+
+vorbereitender und
+
+der Gesamtmaßnahme.
+
+Sanierungsziel
+
+nachbereitender
+
+verbundenen
+
+Maßnahmen,
+
+Einzelmaßnahmen
+
+ent-
+
+Unter Sanierungstiefe wird dabei die
+
+Intensität des
+
+örtliche und
+
+Eingriffs in die Substanz
+
+organisatorische Abgrenzbarkeit
+
+ben sich theoretisch 1.844 €/m? BGF (brutto, siehe Tabelle 2). Allein anhand der sich hier ergebenden hohen Abweichung
+
+zu den früher ermittelten
+
+(z.B. 2011:
+
+1.295 €/m? BGF,
+
+Kostenstrukturplan
+
+und Erfordernisse des zukünftigen Projektes nicht realis-
+
+tisch abbilden konnten. Für die Bewertung des Kostenrahmens
+die qualitative Einordnung
+
+der Leistung, Immissionen, zusätzliche Kosten) verstanden.
+
+Kennwerten
+
+ARGE) wird offenkundig, dass diese die Zwänge
+
+(Projektbudgets) der übrigen BA ist somit
+
+der Sanierungsaufgabe von grundsätzlicher Bedeutung.
+
+Hierbei stellt sich vor-
+
+rangig die Frage:
+Vor
+
+diesem
+
+Hintergrund
+
+war
+
+vorrangig
+
+„nachhaltige bestimmungsgemäße
+
+die
+
+Nutzung“
+
+Frage
+
+zu
+
+beantworten,
+
+wie
+
+das
+
+allgemeine
+
+Sanierungsziel
+
+angesichts enormer und stetig steigender Anforderungen an
+
+die sicherheitstechnischen Belange, die Anforderungen an die Arbeitsumgebung
+
+und die Funktionalität öf-
+
+fentlicher Einrichtungen und ferner denkmalpflegerischer Anforderungen konkret zu definieren ist.
+
+Welchen
+
+tatsächlichen
+
+Umfang
+
+erreicht eine (bauordnungsrechtliche)
+
+Sanierungsumfanges
+möglich.
+
+mit dem Begriff „statische und brandschutztechnische Sanierung“ gefasst wurden.
+
+auf einen
+
+Mindestumfang
+
+im
+
+Sinne
+
+Vielmehr handelt es sich hier (mittlerweile) um
+
+rung). Da die übrigen BA strukturell und nutzungsbezogen
+
+durch
+
+der von
+
+Beginn
+
+an unabwendbar
+
+bisher vier aufeinander aufbauende
+
+analyse ARCADIS
+Projektbudget
+
+Deutschland GmbH,
+
+entstanden.
+
+Während
+
+stanzbegründete Mehrleistungen
+
+stetig zu erweiternden
+SRB
+
+Sanierungstiefe
+
+im 1. RA — verifiziert
+
+und diverse Planungsstufen (vgl. [1], Projekt- und Risiko-
+
+Kapitel 1.3) - sind berechtigte Zweifel am ursprünglich ermittelten
+
+im
+
+1. RA
+
+die Kostenplanung
+
+und damit zusammenhängende
+
+vor allem
+
+an unvorhergesehene
+
+begleitende Leistungen
+
+gleichbar mit dem
+
+EMS 05/2007
+
+37.16 Mio. €
+
+einschl. Neben-
+
+Kostenstrukturplan
+ARGE v. 25.05.2011
+Projektkostenübersicht
+ARCADIS v.
+06.01.2014 (Budget)
+BGF gemäß Anlage 2
+
+63.47 Mio. €
+..
+
+(Komplettsanie-
+
+(trotz einiger Abweichungen) grundsätzlich verob eine ähnliche Sanierungstiefe - flä-
+
+gen zu erfüllen.
+
+Erneuerungs-/Sanierungsbedarf und Einfluss auf die Sanierungstiefe:
+Nr. | Leistungsbereiche
+
+Bedarf
+(vgl.
+Kapitel 2)
+
+Auswirkung auf
+die Sanierungstiefe
+(begleitender
+Leistungsbedarf)
+
+| räuml./organisat. | Einfluss
+‚Abgrenzbarkeit
+auf / Ab(innerhalb RA und | hängigkeit
+
+zu anderen Bau-
+
+von 1.
+
+maßnahmen)
+
+1. Gruppe: baurechtliche Erfordernisse (zwingender Bedarf)
+
+davon übrige RA
+
+568 €im? | 12,00 Mio. €
+576€Im: | 25,16Mio.e|
+BGF
+BGF
+g71&im® | 26,99 Mio.€ | 1.295 €/m? | 36,48Mio.€|
+BGF
+BGF
+=--| 36,56 Mio.€ | 1.754 m:
+=
+BGF
+
+Grundsanierung
+
+1. RA sind, muss zunächst untersucht werden,
+
+bisher ermittelte Kosten (brutto)
+davon 1.RA
+
+einer sicherheitstechnischen
+eine vollumfassende Sanierung
+
+chendeckend bis in den Rohbau wie im 1. RA - unausweichlich ist, um die materiellen Mindestanforderun-
+
+vom 25.05.2011, „Kostenstrukturplan“) „stehengeblieben“.
+
+Gesamtprojekt
+
+Hinter-
+
+sub-
+
+kosten gleitend angepasst werden musste, ist für das Gesamtprojekt die Kostenermittlung bei 63,47 Mio. €
+brutto (Kostenberechnung ARGE
+
+vor dem
+
+Beim 1. RA war und ist nach derzeitiger Planungs- und Erkenntnislage keine wesentliche Eingrenzung des
+
+Ausgangspunkt dieser Überlegung bilden die Mindestanforderungen des materiellen Baurechts, die bisher
+
+Aufgrund
+
+Mindestsanierung
+
+grund der vorhandenen Substanz und des gesamten Projektumfeldes?
+
+565 €m?
+BGF
+819 Em
+BGF
+Se
+
+1. | Standsicherheit/Brandschutz | hoch
+der Decken (Neubaudecken)
+
+hoch
+
+2. | Standsicherheit/Brandschutz | hoch
+
+mittel
+
+nicht möglich, da
+hoher Flächenanteil
+kaum möglich
+
+hoch
+
+hoch
+
+kaum möglich
+
+hoch
+
+mittel
+
+möglich
+
+des Daches inkl. damit verbundener Stützkonstruktionen im 4. OG
+3. | Neubau der Überdachung
+
+des Lichthofes inkl. Fenster
+zum Lichthof
+4. | Brandwände bzw. Feuer-
+
+schutzabschlüsse, Rauchschutzunterteilung von Fluren
+
+15/53
+
+16153
+
+>
+
+FAQ
+ARCADIS
+nfrastrustar. Wasser. Ummest. mmabilen
+
+FR ARCADIS
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Nr.
+
+Projektstudie Neues Rathaus Dresden
+
+Leistungsbereiche
+
+BMA und Sicherheitselemente für Evakuie-
+
+Bedarf
+
+Auswirkung auf
+
+(vgl.
+Kapitel 2)
+
+die Sanie-
+
+hoch
+
+rungstiefe
+(begleitender
+Leistungsbedarf)
+
+mittel
+
+räuml./organisat.
+Abgrenzbarkeit
+(innerhalb RA und
+
+Einfluss
+auf / Ab-
+
+zu anderen Bau-
+
+von 1.
+
+hängigkeit
+
+Nr. | Leistungsbereiche
+
+Bedarf
+vgl.
+Kapitel 2)
+
+Auswirkung auf
+die Sanierungstiefe
+(begleitender
+Leistungsbedarf)
+
+13. | Erneuerung und Aufarbeitung der Normaltüren (Bü-
+
+gering
+
+gering
+
+gut möglich
+
+hoch
+
+14. | Erneuerung großer Anteile
+
+gering
+
+mittel
+
+gut möglich
+
+mittel
+
+|
+
+15. | Vollausbau Toilettenanlagen | gering
+
+gering
+
+möglich
+
+hoch
+
+|
+|
+
+16. | neue Teeküchen (Nutzungsergänzung nach Bau-
+
+mittel
+
+mittel
+
+möglich
+
+gering
+
+17. | Vollabdeckung W-LAN, erweiterter LAN-Zugriff im Gesamtgebäude
+
+mittel
+
+hoch
+
+kaum möglich
+
+gering
+
+18. | Neubauten/Erweiterungsbauten
+
+mittel
+
+mittel
+
+möglich
+
+gering
+
+19. | flächendeckende Klimatisierung/automatisierte Be- und
+Entlüftung, Wärmerückgewinnung, Niedrigenergie
+
+| gering
+
+hoch
+
+nicht möglich
+
+gering
+
+gering
+
+hoch
+
+kaum möglich
+
+gering
+
+|
+
+maßnahmen)
+kaum möglich
+
+ros)
+
+rung/Rettungswege, Technische Serviceleistungen
+Erneuerung Lüftungszentra-
+
+hoch
+
+le SF 2 mit Brandschutz-
+
+|
+
+hoch
+
+der Wandflächen
+
+kaum möglich
+
+erneuerung der Kanäle/
+Durchführungen (Lichthof,
+Registratur, 13er-Räume,
+WC-Achsen; Anlagen 15,
+16, 17.1, 17.2)
+sowie Erneuerung RLTKleinanlagen (WC-Achsen,
+Umkleiden, Teeküchen,
+Druckerei)
+Teilerneuerung ElektroHauptverteilungen im Zusammenhang mit brand-
+
+antrag)
+
+3. Gruppe: Nicht-Ziele
+
+mittel
+
+mittel
+
+kaum möglich
+
+schutztechnischer Ertüchtigung
+Vollersatz Aufzugstechnik
+Innenaufzüge MF 1 und 2
+
+gering
+
+hoch
+
+möglich
+
+Erneuerung und Aufarbeitung der Normaltüren (Büros)
+
+gering
+
+gering
+
+gut möglich
+
+|
+
+20.
+
+2. Gruppe: Rekonstruktionsmaßnahmen zur Erhaltung bzw. Wiederherstellung der NutzungsqualiErneuerung Heizkörper in
+
+öffentlichen Bereichen
+11.
+
+12.
+
+mittel
+
+Fenstererneuerung, Fensterbänke (ohne Lichthof)
+
+hoch
+
+Erneuerung der Fußböden
+und großer Anteile von Est-
+
+mittel
+
+mittel
+mittel
+
+möglich
+
+gut möglich (bei
+
+Temp.-Überwachung, Ein-/
+Auschecksysteme etc., GA)
+
+gering
+
+21.
+
+möglich
+
+| Ausbau DG
+
+gering
+
+hoch
+
+kaum möglich
+
+gering
+
+| mittel
+
+mittel
+
+gut möglich
+
+gering
+
+23. | Errichtung von Neu- oder
+Eigenanlagen für Wärmebzw. Stromerzeugung oder übergabe
+
+gering
+
+mittel
+
+gut möglich
+
+gering
+
+24. | Vollersatz elektrotechn. Anlagen der AV
+
+| gering
+
+hoch
+
+kaum möglich
+
+gering
+
+22. | Erweiterung Kfz-Stellplätze
+
+gering
+
+Einzeltausch)
+
+mittel
+
+| Automationssysteme für
+Nutzer (z. B. komplette Zu-
+
+trittskontrolle, Fenster-/
+
+tätui ind Verbesserung der Funktionalität
+10.
+
+| räuml./organisat. | Einfluss
+Abgrenzbarkeit
+auf / Ab(innerhalb RA und | hängigkeit
+zu anderen Bauvon 1.
+| maßnahmen)
+
+hoch
+|
+
+richen
+
+|
+
+|
+17153
+
+18153
+
+FR ARCADIS
+
++
+al
+
+FAQ ARCADIS
+
++
+
+|
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Nr. | Leistungsbereiche
+
+Auswirkung auf
+die Sanierungstiefe
+
+Bedarf
+(vgl.
+Kapitel 2)
+
+| räuml./organisat. | Einfluss
+Abgrenzbarkeit
+auf/ Ab(innerhalb RA und | hängigkeit
+
+(begleitender
+Leistungsbedarf)
+
+zu anderen Bau-
+
+| von1.
+
+Zusammenfassung:
+Es handelt sich bei der Mehrzahl der vorgesehenen
+Leistungen mit äußerst hohem
+
+| maßnahmen)
+
+Maßnahmen
+
+Koordinierungsaufwand.
+
+um
+
+komplexe,
+
+voneinander abhängige
+
+Dies ergibt sich unter anderem
+
+aus den Erkennt-
+
+nissen des 1. RA, jedoch auch aus den allgemeinen baufachlichen Erfahrungen.
+25. | Bewertungssystem Nachhal- | gering
+tiges Bauen (BNB) o.ä.
+Nachhaltigkeitskriterien
+
+gering
+
+---
+
+gering
+Insbesondere aufgrund der aus Gründen einer mangelhaften Standsicherheit gebotenen
+
+Deckensanierun-
+
+gen und Deckenneubauten (Schädigung bzw. Überlastung der Stahlbetondecken-Konstruktionen und somit
+
+26. | Sanierung Turmgebäude
+
+mittel
+
+mittel
+
+gut möglich
+
+gering
+
+unzureichende Tragfähigkeit infolge Brandeinwirkungen während
+
+27. | Sanierung Zwischengeschosse
+
+gering
+
+gering
+
+gut möglich
+
+gering
+
+ckenaufbauten,
+
+28. | Ersatzneubau Hof C
+
+gering
+
+gering
+
+gut möglich
+
+gering
+
+meidlich.
+
+des 2. Weltkriegs und zu schweren
+
+vgl. Anlage 3 S. 6) sowie der weiteren Maßnahmen
+
+De-
+
+der brandschutztechnischen Ertüchti-
+
+gung (v.a. Gewölbe- und Ziegelkappendecken, vgl. Anlage 3 S. 7f.), ist eine hohe Sanierungstiefe unverDamit ist die Infragestellung einzelner aufgeführter Rekonstruktionsmaßnahmen
+
+(2. Gruppe)
+
+bis
+
+auf kleinere Detailarbeiten hinfällig.
+Vor dem
+
+Erläuterungen zur Tabelle:
+
+Hintergrund
+
+der großen
+
+Sanierungstiefe
+
+ist wiederum
+
+die Reduktion
+
+der Komplexität
+
+der Ab-
+
+schnittsbildung (und damit der Gesamt-Ablauforganisation) geboten, da eine bereits gegebene hohe Kom-
+
+1. Gruppe (zwingender Bedarf):
+
+plexität nicht mit weiteren Abhängigkeiten überlagert werden sollte. Auch hier bestätigt sich die Erkenntnis
+
+Die Leistungsgruppe 1 enthält die unabdingbaren Leistungen zur Erreichung des Sanierungszieles. Gleichzeitig ergeben sich hier die wesentlichen
+
+Eingriffe in die Bestandsituation
+
+(hohe Sanierungstiefe, geringe
+
+aus dem
+
+1. RA, dass bei einer schrittweisen räumlichen
+
+Erweiterung überproportional höhere Anforderun-
+
+gen an den bauherrenseitigen Koordinationsaufwand entstehen.
+
+Abgrenzbarkeit). Für die Bewertung der Arbeiten an den Deckenkonstruktionen (hoher Flächenanteil) sind
+die Umfänge im 1. RA sowie die Erkenntnisse des Büros LAP Beratende Ingenieure maßgeblich (siehe Anlage 3).
+2. Gruppe (allgemeine Nutzungsqualität und Funktionalität):
+Diese Maßnahmen
+
+sind grundsätzlich abkömmlich, jedoch von den Auswirkungen bzw. der Abgrenzbarkeit
+
+der 1. Gruppe stark abhängig.
+
+Die mittel bis hoch abhängigen
+
+können somit nicht oder nur unter erheblichem
+
+Mehraufwand
+
+Maßnahmen
+
+(siehe 6. Spalte in Tabelle 3)
+
+zurückgestellt werden - sie müssen demzu-
+
+folge unabhängig vom Bedarfsmaß umgesetzt werden.
+3. Gruppe (Hochwertigkeitsmerkmale):
+Die hier gelisteten
+
+Maßnahmen
+
+sind durchgängig
+
+abkömmlich
+
+und von
+
+der 1. Gruppe
+
+nur gering
+
+beein-
+
+flusst, da es sich um zusätzliche, bisher nicht vorhandene Beschaffenheiten des Gebäudes handelt („freie*
+planerische Entscheidung gegeben).
+Die vorgenannten
+
+Leistungsbereiche
+
+der 1. und der 2. Gruppe sind bei der Bereinigung der Kostenkenn-
+
+werte des 1. RA berücksichtigt worden (vgl. Kapitel 4).
+
+1953
+
+20153
+
+FAQ
+ARCADIS
+Infrastruktur Wasser Umwer Immoben
+
+Ama
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+2.
+
+Projektstudie Neues Rathaus Dresden
+
+dringend
+
+Baulicher und Technischer Bestand
+
+davon
+
+u
+al
+|
+
+ausgegangen
+
+werden,
+
+dass die Standsicherheit in den
+
+Mängel aufweist und somit umfangreiche
+
+Sanierungs-
+
+übrigen
+
+BA
+
+und Ersatzneubaumaßnahmen
+
+ebenfalls erhebliche
+notwendig
+
+werden.
+
+Laut LAP ist eine detaillierte und örtlich eingrenzbare Festlegung der Sanierungsleistungen derzeit jedoch
+
+2.1.
+
+Erkenntnisse bisheriger Planungen
+
+Die Entwurfsplanung
+Nachweise
+
+bis hin zu
+
+zur Gesamtmaßnahme
+den
+
+im
+
+1. RA
+
+nicht möglich.
+
+enthält - vor allem unter Rückgriff auf die bautechnischen
+
+laufenden
+
+Sachverständigen-,
+
+Brandschutz-
+
+und
+
+Standsicherheits-
+
+Einschätzung
+
+müsste
+
+auch
+
+bei weiteren
+
+punktuellen
+
+Erkundungsmaßnahmen
+
+wurde auf eine zwar vertretbare, jedoch letztlich nicht zielführende Erweiterung der Erkundungen
+men
+
+nachweisen — die zur Abschätzung des Leistungsbedarfes planerisch erforderlichen Angaben.
+
+Diese
+
+auf-
+
+rechterhalten werden, da eine hohe Unterschiedlichkeit der Zustände erkennbar ist. Aus diesem Grund
+der Studie
+
+verzichtet.
+
+Die kostenmäßige,
+
+bei der Bereinigung
+
+und
+
+Hoch-/Umrechnung
+
+im Rah-
+
+der Global-
+
+kennwerte verwendete Differenzierung wurde somit — analog mit der gewählten Methodik — auf drei haupt-
+
+2.2.
+
+sächliche Sanierungsarten begrenzt: Partielle Sanierung, flächenhafte Ertüchtigung und Abbruch/Neubau..
+
+Erkenntnisse aus vorliegenden Gutachten und Prüfberichten
+
+Die diversen bisher vorliegenden Gutachten sind seitens des in die Projektstudie einbezogenen Büros LAP
+ausgewertet
+
+und zur Übersicht in Anlage 4 und
+
+5 zusammengestellt worden.
+
+Die dabei gewonnenen
+
+Er-
+
+kenntnisse zum baulichen und technischen Bestand sind nachfolgend beschrieben. Darüber hinaus enthält
+Anlage 3 eine Stellungnahme zum baulichen Bestand
+
+aus Sicht der Tragwerksplanung,
+
+ebenfalls verfasst
+
+durch LAP.
+
+Brandschutz
+Die vorliegenden Kiwa-Untersuchungen, entsprechend bewertet durch die IKM GmbH
+sind wichtige Grundlage des Brandschutzkonzeptes geworden.
+
+sowie das Büro LAP,
+
+Danach sind große Teile der vorhandenen
+
+Decken, im Wesentlichen Gewölbe- und Ziegelkappendecken, umfassend brandschutztechnisch zu ertüchtigen (Vgl. Anlage 3). Zudem
+
+sind umfangreiche Kompensationsmaßnahmen
+
+erforderlich. Dazu zählen ne-
+
+ben der Installation einer flächendeckenden BMA u.a. auch eine brandschutztechnische Abschottung der
+
+Schadstoffe
+
+Fluchttreppenhäuser.
+Weder eine akute Gefährdung
+
+noch eine vom
+
+sen) im 1. RA abweichende Qualität wurde
+
+Sanierungsaufwand
+
+bei der Bewertung
+
+(und damit von den Gefährdungsklas-
+
+der noch zu realisierenden BA erkennbar.
+
+Partielle und
+
+flächenhaft
+
+notwendige
+
+standsicherheitsbedingte
+
+Ertüchtigungen
+
+der
+
+Decken wurden zu einer „Sanierungsart‘ zusammengefasst (Vgl. Absatz Konstruktion). Brennbare Decken
+(Holzbalkendecken
+
+über Teilen
+
+des
+
+4.0G)
+
+sowie
+
+Neubaudecken,
+
+die aufgrund
+
+besonderer
+
+Umbauten
+
+Die Erkenntnisdichte ist im 1. RA jedoch höher. Die Schadstoffverteilung wird demzufolge als ähnlich dicht
+
+(Öffnungen,
+
+und gleichartig angenommen wie im 1. RA. Somit ist, auch auf Grundlage der Erkenntnisse aus dem 1. RA,
+
+sind, bilden eine weitere „Sanierungsart“. Diese Herangehensweise entspricht den erheblichen Aufwänden
+
+hinsichtlich der Thematik Schadstoffe ein hoher Sanierungsaufwand notwendig.
+handener Schadstoffe
+
+auf die Sanierungskosten
+
+Da die Auswirkungen vor-
+
+in dem weiter unten ausgewerteten
+
+Kostenanschlag
+
+reits eingepreist sind, sind besondere Kostenansätze im Rahmen der Hoch-/Umrechnung
+Gemäß
+
+Methodik
+
+der vorliegenden
+
+Kostenermittlung
+
+(vgl. Kapitel 0.5) kann
+
+durch
+
+be-
+
+Verschlüsse)
+
+einschl. Auflastverteilungs- und Schallschutzebenen für RLT im SF erforderlich
+
+bezüglich der Deckensanierungs- und
+
+Ersatzbaumaßnahmen
+
+im 1. RA.
+
+Die vorgenommene
+
+Kennwertbe-
+
+reinigung berücksichtigt die Verteilung dieser „Sanierungsarten“ im 1. RA.
+
+nicht erforderlich.
+
+eine Berücksichtigung
+
+innerhalb der Risikobetrachtung eine hinreichende Kostensicherheit erreicht werden.
+
+Technische Ausrüstung
+Während
+
+das Risikopotenzial ähnlich wie beim
+
+1. RA eingestuft werden
+
+kann (in der Risikokostenaufstel-
+
+lung der Tabelle 10 berücksichtigt), ist der Sanierungsumfang der Technischen Anlagen in den übrigen BA
+
+Konstruktion
+
+wesentlich geringer zu bewerten. Nichtsdestotrotz sind umfassende Sanierungsmaßnahmen notwendig. So
+Die Untersuchung der vorhandenen
+
+Konstruktionsarten und der verwendeten
+
+Baustoffe von Decken
+
+und
+
+sind gemäß
+
+Genehmigungsplanung
+
+im Wesentlichen
+
+die Lüftungs-/ RLT-Anlagen
+
+im Dachgeschoss
+
+(An-
+
+Unterzügen erfolgte vorrangig durch die Kiwa Bautest Dresden GmbH.
+
+Der auswertende Bericht des Büros
+
+bindung über Technikschächte) u.a. für Lichthof, Zentralregistratur, Besprechungsräume sowie WC-, Sani-
+
+LAP
+
+eigener Inaugenscheinnahmen
+
+tär- und Umkleidebereiche zu erneuern.
+
+(Anlage 3) stellt zusammenfassend
+
+dass v.a. im Falle der Stahlbeton- sowie
+
+und unter Berücksichtigung
+der Holzbalkendecken
+
+mit einer unzureichenden
+
+bzw. Gebrauchstauglichkeit zu rechnen ist (teilweise stark durchhängende
+
+Decken bzw. nicht für Nutzlas-
+
+ten vorgesehen). Auch aufgrund der Erkenntnisse aus dem 1. RA (massive Schädigungen
+und Ackermanndecken
+
+fest,
+
+Tragfähigkeit
+
+der Stahlbeton-
+
+und daher umfangreiche Sanierungs- und Ersatzneubaumaßnahmen)
+
+muss daher
+
+21/53
+
+chendeckenden
+
+Projektziel ist es darüber hinaus, neben der Installation einer flä-
+
+BMA (Vgl. Absatz Brandschutz), die Steigerstränge sowie die zentralen Leitungen und Ka-
+
+näle zu erneuern. Außerdem
+
+ist die bestehende Maschinentechnik der Aufzüge vollständig zu ersetzen. In
+
+öffentlichen und repräsentativen Bereichen (Flure, WC-Bereiche, etc.) sind des Weiteren die vorhandenen
+Heizkörper
+
+samt
+
+Armaturen
+
+auszutauschen
+
+und
+
+in das
+
+bestehende
+
+System
+
+einzubinden.
+
+Umfangreiche
+
+22/53
+
+FAQ
+ARCADIS
+Infrastruktur Wise Ummeit-immobilen
+
+FAQ ARCADIS
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Maßnahmen,
+
+Projektstudie Neues Rathaus Dresden
+
+wie der zentrale Warmwasserspeicher
+
+sowie der Hauptübergabepunkt
+
+Fernwärme,
+
+bleiben
+
+hingegen erhalten.
+
+2.3.
+
+Angemessener zusätzlicher Erkundungsaufwand
+
+Während
+
+des Bearbeitungsprozesses der Projektstudie ist, wie bereits erwähnt wurde, einvernehmlich da-
+
+rauf verzichtet worden,
+
+weitere Beprobungen
+
+durchzuführen
+
+und
+
+Gutachten
+
+anzufertigen.
+
+Aus Sicht von
+
+>)
+
+3.
+
+Organisation
+
+3.1.
+
+Variantenuntersuchung zur Abschnittsbildung
+
+Mit dem Ziel die Größe,
+
+die Schnittstellen
+
+und die Reihenfolge
+
+bei der Realisierung der übrigen
+
+Bauab-
+
+schnitte festzulegen, wurde eine Variantenuntersuchung durchgeführt, um so eine Vorzugsvariante für die
+
+Arcadis sowie LAP war dies im Rahmen der Studie aus folgenden Gründen auch nicht zwingend notwendig
+
+Abschnittsbildung zu ermitteln. Auf Grundlage dessen galt es darüber hinaus, die notwendigen
+
+(vgl. Anlage 3 Kapitel 5):
+
+ten (Größe und Dauer) festzulegen, um so beispielsweise Miet- und Umzugs- sowie damit verbundene Ne-
+
+Baufreihei-
+
+benkosten einschätzen zu können sowie eine Basis für eine kurz- bzw. mittelfristige Planung zu notwendi=
+
+Durch die Kiwa Bautest Dresden GmbH
+
+wurden bereits umfangreiche Untersuchungen des bauli-
+
+chen
+
+des
+
+Bestandes
+
+in allen Gebäudeteilen
+
+Rathauses
+
+angestellt
+
+(siehe Anlage 4 und
+
+gen Anmietungen zu erhalten.
+
+5). Der
+Insgesamt wurden
+
+grundsätzliche Zustand ist also im Wesentlichen bekannt.
+
+drei Varianten untersucht, wobei
+
+bei der 1. Variante ein weiterer,
+
+bei der 2. Variante
+
+zwei weitere und bei der 3. Variante drei weitere RA in Ergänzung zum 1. RA gebildet wurden.
+=
+
+Weitere Untersuchungen hätten die Risiken und somit auch die veranschlagten
+
+Risikokosten (sie-
+
+he Kapitel 5) nicht wesentlich minimiert und somit auch nicht zu einer höheren
+
+Kostensicherheit
+
+beigetragen.
+
+die jedoch den
+
+Dazu
+
+wären
+
+umfangreichere
+
+Untersuchungen
+
+notwendig
+
+gewesen,
+
+knappen Zeitrahmen der Studie deutlich überschritten hätten.
+
+Wesentliche
+
+Randbedingungen
+
+reichbarkeit
+
+von
+
+kundungen
+
+der gewonnenen
+bzw.
+
+Erkenntnisse
+
+Substanzuntersuchungen
+
+chendeckende Vermessung
+heit über den Zustand
+
+im Rahmen
+
+der Projektstudie ist es jedoch sinnvoll, weitere
+
+unabhängig
+
+von der Studie durchzuführen.
+
+So kann eine flä-
+
+der Stahlbetondecken hinsichtlich eines zu starken Durchhängens
+
+und die Sanierungsbedürftigkeit
+
+dieser Decken
+
+geben.
+
+Dadurch
+
+Er-
+
+mehr Klar-
+
+Miet- und
+
+der Untersuchung
+
+waren
+
+Rettungswegen),
+
+die
+
+Umzugslogistik,
+
+von
+
+an
+
+Schnittstellen
+
+(z. B. Angrenzen
+Aufgrund
+
+Die einzel-
+
+nen Varianten und die jeweilige Unterteilung der RA sind in Anlage 8 graphisch aufbereitet worden.
+
+Büroflächen
+
+Umzugskosten).
+
+kein maßgeblicher
+
+Ferner wurde
+
+die
+
+Minimierung
+
+RA/Bestand)
+
+der Mittelabfluss
+
+Vor- oder Nachteil festzustellen,
+
+u. a. bauordnungsrechtliche
+
+sowie
+
+(Jahresumsatz)
+
+da die Dauern
+
+Belange
+
+der Belästigung
+Zeit- und
+
+(z. B. ErBaulärm
+
+Kostenfaktoren
+
+untersucht.
+
+nicht wesentlich
+
+durch
+
+(z.B.
+
+Dabei war jedoch
+voneinander abwei-
+
+chen.
+
+könnten die Sub-
+
+stanzrisiken (siehe Tabelle 10) verringert und somit die Kostensicherheit merklich erhöht werden (vgl. An-
+
+Tabelle 4 gibt einen Überblick über den zeitlichen Ablauf der drei untersuchten Varianten. Alle berücksich-
+
+lage 3 Kapitel 6).
+
+tigten Kriterien und deren Bewertung
+
+(variantenabhängig) können in Tabelle 5 nachvollzogen werden. An-
+
+lage 9 liefert darüber hinaus eine Variantenuntersuchung zu den Umzugs- und Mietkosten.
+
+23153
+
+24153
+
+yaiuayasıyemun Bunbuuyauobauyeusny
+(6 oBeyuy ayaıs) juasnewargoıd Bamsbunnes rm
+
+auoor er
+
+auerz
+auoogzı
+
+auerz
+
+BwioH
+win eras|
+va?
+
+au oogeh
+
+aerz
+
+auer 9
+
+ayensiih
+
+sera am|
+ver
+
+FEIERT
+anusweam|
+veE
+SiUeHeA E
+
+Smerzuz
+
+er
+
+ayerzuz
+
+u 00z0z
+au 008 7Z
+EEIET
+an'sswe| av ioH zu an
+amweam| wi amwzas
+wz
+ve
+SuepenZ
+
+er 9
+
+Goma
+-sSungemuan
+in abamsbunnay
+vayeayauz
+mpunise
+vazınemelaig
+
+(var ı auyo)
+amuyasqy
+
+vzeuse
+amerg|
+wesssuozneg
+meps
+„a6 vozneg
+auere
+Te ober
+408
+au 00s’pr | -uv veweß)
+yo pun jabnıg uoßuan ae |
+ve?
+SNUEReA +
+
+WOpsaIQ sneujey sonan apnısptafo3g uopejuaunyog
+uODenG Sunny son Dunng ak
+
+SIavOUV &3
+
+vo82
+
+9202
+
+]
+
+szoz
+
+|
+
+»vzoz
+
+|
+
+czoz
+
+| zzoz
+
+|
+
+vzoz
+
+|
+
+var
+
+ozoz
+
+|
+
+EEE
+
+eroz
+
+|
+
+sıoz
+
+|
+
+|
+
+zuoz
+
+sr0z
+
+vac
+
+ji
+
+|
+
+mm
+
+|
+
+|
+
+vuz
+
+mm
+
+KEEIIEIDETTTTIWN
+»ıoz |
+BueBion
+
+rmemindag
+
+TI
+TEEN
+Bemeegeng
+Bonayeneindlg
+BorwenaaneBanamung
+Brumeneaig
+„Bangeseganyelang
+(va 22oyam €) auenen ec
+En
+Bornavenemeelng,
+Borengsanbunngeng
+Bunaepiglaig
+„Bumereaneloig
+(va aıam zZ) AueHeA Z
+SempgemHOid
+Banaumyenemmeoid
+Bargonsarorsbunungeny
+Berseeneaig
+
+sıoz
+
+VOpsayg sneyjey sonan aypnıspjofo2g vonejuawunyog
+epsang wege sonay Bunuaves molakg
+
+SIavauv&3
+
+Fa ARCADIS
+Projekt Sanierung Neues Rathaus Dresden
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+1. Variante
+2. Variante
+3. Variante
+Umzugsiogistik | Kompiettfreizug erforderiich,
+phasenweises Freiziehen der übrigen BA dadurch gedadurch höchster Bedarf an Ausingster Bedarf an Ausweichflächen
+weichflächen (ggf. Aufspittung
+erforderlich)
+einmaliger Planungs- und Vorbe- | mern
+mehrmaliger Planungs- und Vorbereitungsaufwand
+reitungsaufwand
+Verwaltungs- | einmaliger Ausschreibungsschrainungs- | Wiederholung der Ausschreibungsphase, dadurch
+aufwand/
+Prozess, dadurch Zeiterspamisse
+ec
+jerer Z
+höchster Zeit- und Kostenbedarf
+‚Ausschreibung! | uns Kostenvorteite
+Kostenbedart
+Vergabe
+Belästigung
+genngste Belästigung durch Bau- | mise
+&
+Jurch
+Bauları | höchste Beiastigung durch Baularm
+urch Baularm _ | jarm
+Schnitstellen/ | Nutzung vorhandener Abtrennungrößter Umfang Maßnahmen Schnitistellen, somit
+Provisorien
+gen 1. RA2 RA, daher keine weijone | auch höchster Zeit- und Kostenbedart, großzügiger
+teren Maßnahmen Schnitstellerv
+Freizug an Schnittstellen erforderlich
+Provisorien erforderlich, somit
+zug
+(Sicherheitsbereich)
+Zeit- und Kostenersparnisse
+i
+e
+Kosten Schnitist. | in Basiskosten enthalten
+€ (brtto) | 2x 470.000 € = 640.000 € (brutto) zusätzlich
+1 Provisorien
+=
+
+Projekt Sanlerung Neues Rathaus Dresden
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+ES
+
+7, Variante
+malge Emnichtung BE.
+hohe Flexibiktat. ausreichend
+BE-Flachen verfügbar
+
+Kosten BE
+Honorare
+Risikokosten
+
+In Basıskosten enthaken
+In Basiskosten enthahen
+In Riskokosten pemaß Tabeia 10,
+
+besondere Ris- |keme
+ken
+Mehrkosten
+0,00€
+gerundet
+(Projektbudget)
+Umzugs-und |= 011 700€ (brutto)
+Mietkosten gemäß Anlage 9
+
+2. Variante
+3. Variante
+Ungenügendes Flächenangebot für | ungenügendes Flachenangebottur2. RA.
+2 RA, geringe Flexibilt
+geringe Flexibiltät, gg? Ausweichen auf Außenflächen
+ggf. Ausweichen auf Außenflächen | erforderlich
+erforderlich
+a
+€
+v2
+678.800 € bruto zusätzich
+:
+275.400 € brumo zusätzlich
+7
+7.570.000 € brutto zusätzlich
+Baupreis
+(hW. Baupreisrisiko)
+kene
+Keine
+Brom
+m
+
+have
+633.000 € (brumo)
+
+Frausunhn,
+
+9.460.000 € (bruto)
+| (Kosten Schnittstellen, Provisorien, BE, Honarare,
+Risikokosten)
+#0
+ba
+
+385
+
+FAQ
+ARCADIS
+Intrastuutur Wasser Umweit Immabsien
+
+FREARCADIS
+L
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Projektstudie Neues Rathaus Dresden
+
+Erläuterungen:
+
+al
+
+958.700 € brutto) ergibt sich ein Kostenansatz von 18.800 €/Monat (brutto). Unter Verwendung dieses Kostenansatzes resultieren, bezogen auf den Gesamtkostenrahmen
+
+Schnittstellenkosten und Kosten für Provisorien
+Die Kosten der im 1. RA zu erwartenden Schnittstellen und Provisorien zu den übrigen BA (SF2 + MF2
+und NF 3) sind von der ARGE
+Kosten,
+
+in Höhe
+
+von
+
+der 1. Variante, folgende Mehrkosten für
+
+die Varianten 2 und 3 (Vgl. Tabelle 5):
+"2.
+
+Variante: 5 Jahre Bauzeit (2 RA je 2,5 Jahre Bauzeit), um 24 Monate längere Bauzeit:
+
+in einem „Schnittstellenkatalog“ (Stand 17.06.2013) ermittelt worden. Diese
+
+575.000
+€ brutto,
+
+sind
+
+Bestandteil
+
+des
+
+Kostenanschlages
+
+- sie sind
+
+also
+
+24 Monate x 18.800 €/Monat = 451.200 € brutto;
+
+in den
+
+„Grundlegenden Kosten“ enthalten - und wurden somit bei der Ermittlung der Basiskosten gemäß Methodik
+"3.
+
+berücksichtigt.
+
+36 Monate x 18.800 €/Monat = 676.800 € brutto.
+
+Die dabei berücksichtigen Kosten sind im Wesentlichen für Baustelleneinrichtung und technische Ausrüstung. So sind u.a. Provisorien für Brand-, Sicht- und Wärmeschutz,
+
+Variante: 6 Jahre Bauzeit (3 RA je 2 Jahre Bauzeit), um 36 Monate längere Bauzeit:
+
+provisorische BMA und Begleitheizung
+
+Honorare
+
+sowie sonstige Kleinleistungen erforderlich und kostenmäßig erfasst.
+
+Im Zuge der Erhöhung der Kosten für Schnittstellen, Provisorien sowie Baustelleneinrichtung und somit der
+Bei einer Unterteilung der Gesamtbaumaßnahme
+
+in weitere, über die Anzahl der Variante 1 hinausgehende
+
+RA entstehen jedoch zusätzliche Kosten für Schnittstellen und Provisorien, um den Betrieb und die Sicherheit der angrenzenden
+
+Bereiche sicherzustellen. Aufbauend auf den Kostenangaben der ARGE
+
+Erhöhung
+
+der Basiskosten, sind die Honorare der Varianten 2 und 3, separat zur Variante
+
+1 (siehe dazu
+
+Kapitel 4.3), zu ermitteln.
+
+wurde da-
+
+her im Rahmen der Projektstudie unterstellt, dass je weiterem RA zusätzlich 470.000 € brutto anfallen. Die-
+
+Auf Grundlage des prozentualen Anteils der Honorarkosten
+
+se Kosten
+
+der Kostengruppen 300 - 600 der 1. Variante (17,026 % = 11.140.000 € / 65.430.000 €) wurden die Hono-
+
+entstehen
+
+vorrangig
+
+im Zusammenhang
+
+mit der Einrichtung
+
+großzügiger Sicherheitsbereiche
+
+der 1. Variante bezogen
+
+auf die Basiskosten
+
+(siehe Anlage 8). Somit wurden für die 2. Variante (zwei weitere RA) 470.000 € brutto und für die 3. Varian-
+
+rarkosten der Varianten 2 und 3 entsprechend linear approximiert. Somit ergeben sich folgende Kosten der
+
+te (drei weitere RA) 940.000 € brutto an zusätzlichen Kosten angesetzt (Vgl. Tabelle 5).
+
+Kostengruppe 700:
+"
+
+2. Variante: 66.351.000 € (BK 300-600) x 17,026 % = 11.296.900 € brutto;
+
+*
+
+3. Variante: 67.047.000 € (BK 300-600) x 17,026 % = 11.415.400 € brutto.
+
+Baustelleneinrichtung
+Die Kosten für Baustelleneinrichtung sind bei der 1. Variante in den Basiskosten enthalten.
+Für die Varianten 2 und 3 ergeben sich durch die Untergliederung der übrigen Baumaßnahme
+RA längere Bau- und
+
+Projektlaufzeiten. Während
+
+die 1. Variante gemäß
+
+in mehrere
+
+prognostiziertem Terminrahmen
+
+Dies entspricht zusätzlichen Honorarkosten in Höhe von (Vgl. Tabelle 5):
+
+"
+
+2. Variante: 11.296.900 € - 11.140.000 € = 156.900 € brutto;
+
+"
+
+3. Variante: 11.415.400 € - 11.140.000 € = 275.400 € brutto.
+
+bereits Anfang Februar 2021 abgeschlossen ist (siehe Anlage 10), erfolgt die Übergabe an den Nutzer bei
+der 2. Variante Anfang 2025 und bei der 3. Variante Ende 2026 (siehe Tabelle 4).
+Die relativ zur 1. Variante längeren Bauzeiten der 2. und 3. Variante haben Auswirkungen
+
+auf die Kosten
+
+der Baustelleneinrichtung. Somit sind hinsichtlich Einrichtung und Vorhaltung sowohl der Baustelleneinrichtung als auch der Gerüste höhere Kosten bei den Varianten 2 und 3 anzusetzen.
+
+Risikokosten
+Die Identifikation von Projektrisiken und deren Bewertung nach Art, Umfang und Eintrittswahrscheinlichkeit
+gemäß DIN 276 erfolgt für die Variante 1 in Kapitel 5.2. Hierbei wurden alle (projektspezifischen) Unsicher-
+
+‚Auf Grundlage der sich aus der Gesamtbauzeit ergebenen Ausführungsdauer der BE von 51 Monaten (von
+
+heiten und (allgemeinen) Unwägbarkeiten, bezogen auf die Projektlaufzeit von ca. 6 Jahren, in die Kosten-
+
+Anfang Juni 2011
+
+ermittlung einbezogen.
+
+392
+
+und
+
+491
+
+bis Anfang
+
+gemäß
+
+September 2015) und den ermittelten „Grundlegenden Kosten“ der KG 391,
+
+Kostenerfassung
+
+in Höhe
+
+von
+
+805.600
+
+€ netto (siehe
+
+Anlage
+
+12,
+
+entspricht
+
+ca.
+
+29153
+
+30/53
+
+FR ARCADIS
+
+=
+al
+|
+
+FA ARCADIS
+
+De
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Aufgrund der längeren Bau- und Projektlaufzeiten sowie höherer Basiskosten sind die Risiken der Varian-
+
+Umzugs- und Mietkosten
+
+ten 2 und 3 separat zu ermitteln. So erfordern die bezogen auf die 1. Variante längeren Bau- und Projekt-
+
+Die Anzahl
+
+laufzeiten der 2. und 3. Variante u.a. eine Neubewertung der Grundlagenrisiken (Marktrisiken).
+
+durch den ZTD vorgegeben (677 Mitarbeiter). Aufgeteilt auf die einzelnen RA der Varianten ergeben sich
+
+der Mitarbeiter,
+
+die im Rahmen
+
+der Sanierung
+
+der übrigen
+
+BA
+
+insgesamt
+
+umziehen,
+
+wurde
+
+die weiteren Mitarbeiterzahlen unter Nr. 1 in Anlage 9. Darüber hinaus galt es, diese Zahlen auf Grundlage
+
+Somit wird das Baupreisrisiko, auf Grundlage der Basiskosten der Varianten, wie folgt bewertet:
+
+der Erkenntnis aus dem 1. RA, großzügige „Sicherheitsbereiche“ an den Schnittstellen der RA vorzusehen
+*
+
+(siehe Anlage 8), zu erhöhen.
+
+2. Variante: 10 Jahre, 3 % / Jahr bis Baubeginn, ab Baubeginn 1,5 % / Jahr (lineares Mittel) —
+
+Diese Anzahl an Mitarbeitern, die aufgrund der Einrichtung von Sicherheits-
+
+bereichen zusätzlich umziehen, kann je RA ebenfalls unter Nr. 1 in Anlage 9 nachvollzogen werden.
+
+(9,273 % x 77.650.000 €) + (9,273 % x 77.650.000 €) + 77.650.000 €) x 11,494 %
+
+Im Rahmen der Umzugs- und Mietkostenuntersuchung (siehe Anlage 9) wurde davon ausgegangen, dass
+= 16.953.000 € brutto;
+=
+
+der Umfang der Anmietung von Ausweichflächen entsprechend den Erfordernissen der jeweiligen Realisierungsphase und somit entsprechend der Zahl an „umziehenden“
+
+3. Variante: 11,5 Jahre, 3 % / Jahr bis Baubeginn, ab Baubeginn 1,5 % / Jahr (lineares Mittel) —
+
+Mitarbeitern je RA (Nr. 1 in Anlage 9) op-
+
+timiert wird. Das heißt, dass je RA nur so viele m? an Ausweichflächen veranschlagt wurden, wie es der
+
+(6,09 % x 78.460.000 €) + ((6,09 % x 78.460.000 €) + 78.460.000 €) x 16,21 %
+
+errechnete Flächenbedarf (Nr. 3 in Anlage 9) je RA erfordert.
+
+= 18.271.000 € brutto;
+Die Projektspezifischen Risiken (z.B. Planungs-, Ausführungs- und Vergaberisiken) wurden, gemäß
+
+Die monatlichen Mietkosten (Nr. 8 in Anlage 9) wurden durchgehend mit 12 €/m? NGF veranschlagt. Dabei
+ihrem
+
+‚Anteil an den Risikokosten der 1. Variante bezogen auf die Basiskosten der 1. Variante, linear für die Varianten 2 und 3 approximiert. Dieser Anteil berechnet sich somit wie folgt (Zahlen siehe Kapitel 5.2, brutto):
+"
+
+(Risikokosten 1. Variante - Baupreisrisiko 1. Variante) / Basiskosten 1. Variante =
+
+*
+
+(22.250.000 € - 10.979.000 €) / 76.570.000 € = 14,72 %.
+
+unberücksichtigt blieben Angebot und Nachfrage auf dem örtlichen Markt für Büroimmobilien. Eine entsprechende Untersuchung wurde in Anlage 18 ergänzt.
+Aus dem Flächenbedarf je RA und den angesetzten Mietkosten ergeben sich letztlich die gesamten Mietkosten je RA und Variante (Nr. 10 und 12 in Anlage 9).
+Die Umzugs- und Mietkosten sind nicht Bestandteil des Projektbudgets und werden auch nicht als solches
+angerechnet.
+
+Gemäß den vorstehenden Erläuterungen ergeben sich folgende Risikokosten für die Varianten 2 und 3:
+Die grundlegenden
+
+Daten der Anlage 9 (unter Nr. 1/1.Variante, Nr. 2, Nr. 4, Nr. 8) wurden
+
+*
+
+Baupreisrisiko + Anteil Projektspezifische Risiken x Basiskosten =
+
+vom 15.01.2014 durch den ZTD zur Verfügung gestellt.
+
+"
+
+Variante 2: 16.953.000 € + 0,1472 x 77.650.000 € = 28.380.000 € brutto;
+
+Vorzugsvariante
+
+in einer E-Mail
+
+Unter Berücksichtigung aller Vor- und Nachteile (siehe Tabelle 5), insbesondere aufgrund der notwendigen
+
+"Variante 3: 18.271.000 € + 0,1472 x 78.460.000 € = 29.820.000 € brutto.
+
+Sanierungstiefe und der damit gebotenen Komplexität sowie unter dem Aspekt der Wirtschaftlichkeit (z.B.
+Daraus resultiert ein zusätzliches Risikobudget in Höhe von (Vgl. Tabelle 5):
+
+=
+
+Variante 2: 28.380.000 € - 22.250.000 € = 6.130.000 € brutto;
+
+=
+
+Variante 3: 29.820.000 € - 22.250.000 € = 7.570.000 € brutto.
+
+Auslastung
+
+der TGA)
+
+und der aus der Bausubstanz resultierenden Notwendigkeit
+
+cherheit), erscheint die 1. Variante als die Vorteilhafteste.
+würden zudem
+
+zusätzliche (umfassende) Überlegungen
+
+(Brandschutz,
+
+Standsi-
+
+Im Zuge einer Entscheidung für diese Variante
+bezüglich einer Schwerpunktsetzung / Abwägung
+
+(Bausubstanz oder Wirtschaftlichkeit) bei der Reihenfolge der weiteren Realisierung entfallen.
+Die 1. Variante bildet die Grundlage für die weiteren Untersuchungen im Rahmen der Projektstudie.
+
+3153
+
+32153
+
+>
+
+=
+
+FAQYrastmaturARCADIS
+Wasser Umwelt mmobulen
+
+FAQ ARCADIS
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+3.2.
+
+Projektstudie Neues Rathaus Dresden
+
+Grobablaufplan
+
+3.3.
+
+Für die im vorhergehenden Kapitel ausgewiesene Vorzugsvariante (1. Variante, ein weiterer RA) wurde ein
+
+Projektstruktur
+
+Die Projektstruktur wurde objektbezogen und kostenbereichsweise anhand der in der Projektstudie vorge-
+
+Terminrahmen entwickelt, der für den dabei gebildeten 2. RA die wesentlichen Vorgänge und Meilensteine,
+
+schlagenen Realisierungsabschnitte (1. Variante) aufgestellt und ist in dem in Anlage 11 dargestellten Pro-
+
+untergliedert nach den Projektstufen gemäß AHO, abbildet.
+
+jektstrukturplan nachzuvollziehen.
+
+Der Terminrahmen für die Vorzugsvariante ist in Anlage 10 dargestellt.
+
+Es wurden 4 Ebenen gebildet:
+
+Bei diesem Terminrahmen
+
+wurde
+
+die Dauer der Bauausführungsphase
+
+Jahre terminiert. Die Voraussetzungen
+
+dafür, dass dieser Zeitrahmen
+
+für den
+
+2. RA auf insgesamt
+
+eingehalten werden
+
+kann,
+
+drei
+
+sind je-
+
+»
+
+1. Ebene > Projekt;
+
+»
+
+2.Ebene
+
+doch, dass vor Beginn der Baumaßnahmen
+
+>
+
+Realisierungsabschnitte
+
+1.RA
+
+und
+
+2.RA
+
+mit
+
+den
+
+Gesamtkosten
+
+=
+
+eine im Wesentlichen abgeschlossene Ausführungsplanung vorliegt,
+=
+
+mindestens die fünf wesentlichen Gewerke (BE, Abbruch/Entsorgung, erweiterter Rohbau, Ausbau
+
+der KGR 300 - 600 in € brutto (für den 2. RA), zusätzlich die „Sonstigen
+
+und TA) vergeben sind,
+
+kosten und die ermittelten Risikokosten;
+
+"
+
+«
+
+"=
+
+die zentralen Projektziele mit allen Nutzern übereinstimmend beschlossen,
+
+»
+
+alle für den Bauablauf maßgeblichen Unterlagen abschließend geprüft und vorgelegt,
+
+"
+
+die vereinbarten Fertigstellungstermine mit Vertragsstrafen unterlegt und
+
+KGR 300
+- 700
+
+in € brutto;
+3. Ebene > Die bisher als Bauabschnitte bezeichneten Flügel und Höfe mit den jeweiligen Kosten
+Kosten“, wie Bauneben-
+
+4. Ebene > Weitere Unterteilung in die Bauteile (Flügel 1 - 6, Höfe A, E, F usw.) mit den jeweiligen
+
+Kosten der KGR 300 - 600.
+Der Projektstrukturplan
+
+entspricht der mit dem
+
+Auftraggeber
+
+abgestimmten
+
+Kostenstruktur für den 2. RA
+
+und gibt einen Überblick über die Einzelkosten je Bauteil des 2. RA bis hin zu den Projektgesamtkosten der
+=
+
+über den gesamten Projektzeitraum verwaltungsintern erhöhte personelle Kapazitäten bereitgestellt
+
+werden.
+
+KGR 300 - 700.
+‚Auf eine Darstellung der Kosten in der 3. und 4. Ebene des 1. RA wurde verzichtet, da hier gemäß
+
+Kosten-
+
+anschlag eine Aufgliederung der Kosten in Losen erfolgte. Auf Basis der vorliegenden Unterlagen ist somit
+- im Rahmen
+
+der Projektstudie — keine objektbezogene Zuordnung
+
+möglich und unseres
+
+Erachtens auch
+
+nicht erforderlich.
+Eine gewerkeorientierte Aufteilung in der 4. Ebene (z. B. in zusammenfassende
+sade, Rohbau, Ausbau, TGA
+
+2. RA zielführend, wenn auch die Baukosten
+traggeber
+
+abgestimmten
+
+nach Gewerken
+
+Gewerke wie Dach,
+
+Fas-
+
+etc.) wurde im Zuge der Projektstudie diskutiert. Diese Aufteilung ist für den
+
+Kostenstruktur
+
+vorgenommen,
+
+sodass
+
+nach
+
+entsprechend
+DIN 276
+
+ein Übertragen
+
+zugeordnet werden.
+
+in Kostengruppen
+der Kosten
+
+Gemäß
+
+der mit dem Auf-
+
+keine
+
+Kostenermittlung
+
+wurde
+
+in die Gewerke
+
+wie „Dach, Fassade,
+
+Rohbau, Ausbau, TGA“ etc. nicht gegeben ist. Nach Bedarf könnte durch die Umstrukturierung der Kosten
+eine gewerkeorientierte Aufteilung in der 4. Ebene in einem nächsten Schritt vorgenommen werden.
+Die Umzugs- und Mietkosten wurden, da nicht Bestandteil des Projektbudgets,
+
+im Projektstrukturplan nicht
+
+betrachtet.
+
+33753
+
+34153
+
+fQnrrastukturARCADIS
+Wasser Umeit- mobi
+
+FA ARCADIS
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+4.
+
+Die Zusammenstellung der BGF der ARGE
+
+Basiskosten
+
+lung sowie
+
+Basiskostenermittlung
+
+Ersatzneubaus Hof
+
+4.1.
+
+Grundlagen
+
+wurden die BGF
+
+Der Grundgedanke bei der Ermittlung des Projektbudgets des Gesamtprojektes bzw. der weiteren Bauaufgabe
+
+bestand
+
+darin, den
+
+Kostenansätzen
+
+bereits im 1. RA
+
+abgerechneten
+
+bzw.
+
+erzeugten
+
+gegenüber den klassischen Datenbank-Kostenansätzen
+
+Kosten
+
+bei den erforderlichen
+
+bzw. Vergleichswerten
+
+rang zu geben. Dabei wurde davon ausgegangen, dass aufgrund der Größe,
+
+Substanz,
+
+den Vor-
+
+Nutzung
+
+Um einen belastbaren Kostenrahmen für das Gesamtprojekt NRD
+auf
+
+Grundlage
+
+des
+
+derzeitigen
+
+Projektbudgets
+
+1. RA
+
+- in der Projektstudie
+
+„Grundlegende Kosten“ bezeichnet — vereinbarungsgemäß nach DIN 276 zu ermitteln worden.
+ten
+
+sind
+
+in
+
+den
+
+Kostenanschlägen
+
+20.08.2013 - 23.08.2013) zum
+
+des
+
+Architekten
+
+(Stand
+
+03.09.2013)
+
+und
+
+der
+
+als
+
+Diese Kos-
+
+Fachplaner
+
+in [19] wurde für die nachfolgend beschriebene Kennwertermitt-
+
+die Mengen
+
+des Turmgebäudes,
+
+bereinigt, da es sich dabei um
+
+Nichtziele gemäß
+
+der Zwischengeschosse
+Tabelle 3 handelt.
+
+(Stand
+
+1. RA als bereits vergebene Leistungen und der Nachträge enthalten.
+
+des
+
+gemäß
+
+20.849 m? BGF für den 1. RA und 44.518 m? BGF für die
+
+übrigen BA angesetzt (siehe Anlage 2).
+Sämtliche Grundlegende Mengen und Bezugsmengen
+
+sind je Kennwert in Anlage 13 aufgeführt.
+
+Ermittlung Globalkennwerte
+
+Die Verknüpfung
+
+der „Grundlegenden
+
+Kosten“
+
+mit den jeweiligen
+
+„Grundlegenden
+
+„Globalkennwert“ je Kostengruppe als zunächst unbereinigten Kennwert.
+Weiteren durchlaufend
+
+Mengen“
+
+ergibt den
+
+Die Globalkennwerte werden
+
+bereinigt bzw. so aufgearbeitet, dass sie verwendbar für die Hochrechnung
+
+im
+
+der zu
+
+erwartenden Kosten sind (vgl. Kapitel 4.3).
+
+Die
+
+nicht in diesen beiden Gruppen erfassten Kosten des 1. RA (bis einschl. 10/2013 ein Anteil von ca. 30 %)
+
+Als Gliederung für die Kennwertbildung wurde, wie erwähnt, die DIN 276 (2006) verwendet.
+
+sind hilfsweise als „Prognosekosten“ analog in die Bereinigung (siehe Kapitel 4.3) eingeflossen.
+
+im Wesentlichen die Kostengruppenebene 3
+
+als Gliederungsebene übernommen,
+
+benen Detaillierungsgrad im Sinne der statistischen Glättung
+Die „Grundlegenden Kosten“ sind differenziert nach Kostengruppen und Vergabelosen
+
+und
+
+Des Weiteren
+
+der ZR und des Lichthofes separat betrachtet. Somit wurden statt 76.930 ? BGF
+
+[19] 65.367 m? BGF für das gesamte Gebäude,
+
+4.2.
+
+definieren zu können, sind zunächst die
+des
+
+um
+
+und des
+
+Projektumfeldes eine eindeutige Vergleichbarkeit des 1. RA mit dem Gesamtprojekt gegeben ist.
+
+Gesamtbaukosten
+
+=
+al
+
+in Anlage 12 aufge-
+
+Dabei wurde
+
+um den damit vorgege-
+
+beizubehalten. So wurde beispielsweise die
+
+Kostengruppe 361 „Dachkonstruktionen“ als eine Kenngröße vereinbart.
+
+führt.
+Sämtliche Globalkennwerte sind ebenfalls in Anlage 13 aufgeführt.
+Die Ermittlung des Projektbudgets
+
+anhand
+
+der eingangs
+
+beschriebenen
+
+Methodik
+
+erfolgt für die Kosten-
+
+gruppen 300 - 600.
+
+4.3.
+
+Bereinigung Globalkennwerte - Ermittlung Bedarfsgerechter Kennwerte
+
+Neben den „Grundlegenden Kosten“ sind des Weiteren Mengenansätze erforderlich. Dazu wurden im Zuge
+
+Da die gewonnenen Globalkennwerte ausschließlich die Charakteristika des 1. RA des NRD abbilden, die-
+
+der Bewertung
+
+ser also bei
+
+die Mengen
+
+des
+
+1. RA - nachfolgend
+
+gruppenweise erfasst. Die Mengen
+
+als „Grundlegende
+
+Mengen“
+
+bezeichnet — kosten-
+
+der übrigen BA - nachfolgend als „Bezugsmengen“
+
+bezeichnet — wur-
+
+den, teils mit Hilfe von sorgfältigen Schätzungen, teils mit gesonderten Ermittlungen, jeweils auf grafischer
+
+*
+
+definierten quantitativen und qualitativen Sanierungszielen (siehe Kapitel 1.2),
+
+Basis ermittelt.
+
+*
+
+_Proportionalität der Nutzungsverteilung (siehe Anlage 1) und
+
+Alle Mengen
+
+*
+
+Besonderheiten der Bauaufgabe
+
+wurden entsprechend
+
+den Kostengruppen zugeordnet.
+
+ihrer zuvor definierten „Bezugseinheit‘
+
+Die Bezugseinheiten
+
+(z. B. m? BGF,
+
+m? Dachfläche)
+
+orientieren sich dabei an den Einheiten, die in BKI-
+
+Bautabellen zu finden sind, teils jedoch auch an projektspezifischen Erfordernissen.
+
+nicht deckungsgleich mit den übrigen BA ist, waren die Kennwerte im Einzelnen auf ihre Verwendbarkeit zu
+prüfen. Die Prüfung erfolgte unter Berücksichtigung der Erkenntnisse und Erfahrungen aus beiden Teilen
+des Rathauses - dem
+
+1. RA und den übrigen BA - teils bis in die LV-Positionsebenen
+
+hinein (vgl. Anla-
+
+ge 13 bzw. Tabelle 6).
+
+35153
+
+36153
+
+FR ARCADIS.
+
+FAQ ARCADIS
+Häuser Umneit Irzmobsen
+
+D)
+
+al
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Projektstudie Neues Rathaus Dresden
+
+Beispielsweise sind die Säle im 1. OG des 1. RA einmalig im Bauwerk; somit waren einige „Grundlegende
+Kosten“ und die entsprechenden
+rechnung
+
+der jeweiligen
+
+„Grundlegenden
+
+Teilkosten
+
+irrelevant.
+
+Mengen“
+
+Eine
+
+für den
+
+zulässige
+
+KGR
+
+Bezeichnung
+
+Bereich der Säle im Zuge der Hoch-
+
+Hochrechnung
+
+mit vertretbarem
+
+Analogie411 | Abwasser-
+
+schluss konnte hier also nur ohne Saalanteile erfolgen.
+
+Global-
+
+Bereinigter
+
+Bezugs-
+
+Bereinigte Leistungen /
+
+kennwert
+
+Kennwert
+
+einheit
+
+Kosten
+
+(netto)
+
+(netto)
+
+24,30 €/m?
+
+20,77 €/m?
+
+| m? BGF
+
+anlagen
+
+ler-küche entfällt, nicht
+Leistungsbestandteil 1.
+
+Im Falle des neu zu errichtenden Glasdaches im Lichthof galt es, aufgrund fehlender „Grundlegender Kos-
+
+RA
+
+ten“ Vergleichskosten zu bilden. In diesem und vergleichbaren „Sonderfällen“ wurden die für die Kennwertbildung
+
+bzw. -bereinigung erforderlichen
+
+Mengen
+
+den zur Verfügung
+
+stehenden
+
+Unterlagen
+
+Grundleitungen ZR sepa-
+
+(Entwurfspla-
+
+423 | Raumheizflächen
+
+nung, Stand 19.02.2010) entnommen und plausible Vergleichskosten eruiert.
+Die weitere Bereinigung der Globalkennwerte kann in Anlage 14 nachvollzogen werden. Sämtliche „Berei-
+
+Sonderfälle (Auswahl)
+
+nigte Kennwerte“ sind ebenfalls in Anlage 13 aufgeführt. Eine Auswahl an Kennwerten ist in Tabelle 6 ent-
+
+361.2 | SoF Glasdach
+Lichthof
+
+halten.
+
+KGR
+
+|
+
+Bezeichnung
+
+Global-
+
+Bereinigter
+
+Bezugs-
+
+Bereinigte Leistungen /
+
+kennwert
+
+Kennwert
+
+einheit
+
+Kosten
+
+(netto)
+
+(netto)
+
+27,10 €&/m?
+
+25,63 €/m?
+
+2,59 €/m? | m? BGF
+
+3.750,00 €/m?
+
+| m? GF Glasdach
+
+riert in SoF
+Bodenkonvektoren Säle
+entfällt, nur im 1.RA
+fehlende Grundlegende
+Kosten, Vergleichskosten
+aus EMS, Zuschlag gemäß Anlage 15
+
+166,44 €/m?
+
+- | m’ AWF
+
+fenster
+| m? Baugru-
+
+ben-
+
+‚Aushub Aufzugsunterfahrt
+
+entfällt, nur im 1.RA
+
+25,20 €/m?
+
+11,25 €/m? | m? Grundflä-
+
+Beton- u. Stahlbetonarbei-
+
+Bodenplatten
+352 | Deckenbeläge
+
+51,23 &/m?
+
+49,41 €m?
+
+che Gebäude
+| m? BGF
+
+| ten ZR separiert in SoF
+Doppelböden RZ entfällt,
+
+394 | Abbruch-
+
+47,62 €/m?
+
+45,57 €Im? | m? BGF
+
+maßnahmen
+
+334.2 | Außenfenster
+Bestand
+334.3 | Außenfenster
+
+23,62 €/m?
+
+119,32 €/m?
+
+neu
+
+rauminhalt
+
+324 | Unterböden und
+
+4,15 €/m?
+
+über KGE 3 hinaus differenzierter Kennwerte (Auswahl)
+
+334 | Außentüren u. -
+
+Bereinigte Kennwerte (Auswahl)
+310 | Baugrube
+
+Grundleitungen Ratskel-
+
+nur im 1.RA
+‚Abbrucharbeiten Hof D +
+Sondergerüst entfällt, nur
+
+im 1.RA
+Abbruch Ackermanndecken entfällt, nur im 1.RA
+Abbrucharbeiten ZR sepa-
+
+riert in SoF
+
+334.4 | Außentüren neu
+334.5 | SoF Außentore
+Bestand
+351 | Decken-
+
+20,35 €/m?
+6.000 €/St | St Außentore
+25,52 €/m?
+
+- | m? BGF
+
+konstruktionen
+
+351.2 | Deckenkonstr.
+Neubau
+351.3 | Deckenkonstr.
+Sanierung
+351.4 | Gewölbedecken-
+
+-|
+=
+-
+
+210,65 €/m? | m? Fläche
+Neubau Decke
+67,37 €/m? | m? Fläche Sanierung Decke
+2,02 €/m? | m? Fläche Sa-
+
+konstr. Sanierung
+
+Einarbeitung Ratskeller-
+
+nierung Gewölbedecke
+
+küche entfällt, nicht Leis396 | Materialentsorgung
+
+3,48 €/m?
+
+2,84 €/m?
+
+| m? BGF
+
+tungsbestandteil 1.RA
+Einarbeitung Ratskeller-
+
+Die Bereinigten
+
+küche entfällt, nicht Leis-
+
+Kennwerte
+
+bilden ausschließlich
+
+1. und 2. Gruppe der Tabelle 3 benannt wurden.
+
+tungsbestandteil 1.RA
+
+die Maßnahmen
+
+der Leistungsbereiche
+
+ab,
+
+die in der
+
+Die in der 3. Gruppe der Tabelle 3 definierten Nichtziele
+
+blieben bei der weiteren Kostenermittlung also unberücksichtigt bzw. wurden bereinigt.
+
+Materialentsorgung ZR
+separiert in SoF
+
+37153
+
+38153
+
+FR ARCADIS
+
+f@nfratrukturARCADIS
+Wasser" UmweitImzmatalen
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Projektstudie Neues Rathaus Dresden
+
+Kostengruppe 700
+Die Kostenbetrachtung
+
+Der Wert der Altbausubstanz kann nur unterhalb von 2.919.000 € netto (vgl. Tabelle 7) liegen, da der Beder Kostengruppe 700 (Baunebenkosten)
+
+ist auf die Kostengruppen 713 (Projekt-
+
+steuerung), 730 (Architekten- und Ingenieurleistungen) und 740 (Gutachten und Beratung) beschränkt worden.
+
+Dabei wurde vorausgesetzt, dass alle weiteren Kosten dieser Kostengruppe nicht im Rahmen
+
+einer
+
+stand in der gegebenen
+
+Fläche und Größe
+
+keiner Verarbeitung
+
+unterliegen wird. Daher wird im Rahmen
+
+der Studie 1/3 des Wertes, d. h. 1.000.000 € netto, angesetzt.
+Leistungsbilder, Honorarzonen, -sätze:
+
+besonderen Projektfinanzierung zur Verfügung zu stellen sind bzw. teils bereits zur Verfügung standen (so
+Die Hochrechnung
+
+etwa 712/719 - Sonstige Bauherrenaufgaben/Bedarfsplanung).
+
+von oberhalb der Tafelwerte liegenden Honoraren der KGR 730 orientiert sich an den
+
+„Richtlinien der Staatlichen Vermögens-
+
+und
+
+Hochbauverwaltung
+
+Baden-Württemberg
+
+für die Beteiligung
+
+freiberuflich Tätiger (RifT)*.
+
+Honorarermittlung:
+
+Die anrechenbaren Kosten setzen sich seit Inkrafttreten der HOAI 2013 wieder aus den Baukosten und der
+
+Der Kostenansatz für alle weiteren Dienstleister, Gutachten und Sonderfachleute - KGR 713, 740 - wurde
+
+sogenannten
+
+gemäß
+
+gemäß
+
+mitzuverarbeitenden
+
+umgerechneten
+
+sichtigung
+
+des
+
+stanzwerte
+
+zusammen.
+
+Die anrechenbaren
+
+Kosten
+
+sind die
+
+Basiskosten zzgl. Baupreisindex (hier 1,5 Jahre). Für die „angemessene“
+
+Umfanges
+
+verbindlichen Regelungen.
+Wertzumessung
+
+Bausubstanz
+
+der mitzuverarbeitenden
+
+Bausubstanz
+
+bestehen
+
+keine
+
+HOAIBerück-
+
+im Sinne einer technischen
+
+und
+
+Bauelementen
+
+gestalterischen
+
+auszugehen.
+
+Verarbeitung
+
+Anteil an der KGR 700 im 1. RA hochgerechnet.
+
+Dieser Anteil bewegt sich bei Au-
+
+ermittlungsbezogenen
+
+Hier ist von einem großen Verhandlungs- und Interpretationsspielraum einschl.
+
+zu den einzelnen verbleibenden
+
+bestehendem
+
+Berachtlassung von ca. 750.000 € Honoraranteil (derzeit teils strittig!) für die LP 3/4 bei 35 % der KGR 730.
+
+Da die Frage, welche
+
+angerechnet
+
+werden
+
+Sub-
+
+müssten,
+
+Die Tabelle 8 weist die ermittelten Honoraransätze aus.
+Nach der Hochrechnung in Tabelle 8 ergeben sich Kosten der KGR 700 in Höhe von ca. 9.365.000 € netto
+(entspricht 11.140.000 € brutto), bezogen auf eine inhaltliche Abdeckung analog zum derzeitigen 1. RA.
+
+erhebliche Unklarheiten mit sich bringen kann, soll hier zur richtigen Einschätzung hilfsweise zunächst der
+Wert der wesentlichen verbleibenden Altbausubstanz ermittelt werden (siehe Tabelle 7).
+
+LB/ Elemente
+
+Bezugseinheit
+
+| Bezugsgröße
+
+BKI-Auswertung
+
+Wert
+
+Objektgruppe 1300,
+netto, gerundet
+
+Benben
+=
+012...014
+
+44.500
+
+m’ BGF
+
+240 € Im? BGF
+
+10.680.000 €
+
+bi
+a
+023...025
+
+44.500
+
+m? BGF
+
+88 € /m? BGF
+
+3.916.000 €
+
+Zwischensumme
+Abschlag für Wert-
+
+ä
+
+minderung
+
+Summe netto:
+
+14.596.000 €
+RND 20 Jahre
+
+80%
+
+- 11.676.800 €
+2.919.000 €
+
+39753
+
+40/53
+
+FA ARCADIS
+Projekt Sanierung Neues Rathaus Dresden
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+4.4.
+
+Ermittlung Basiskosten
+
+Mit Hilfe der Bereinigten Kennwerte wurden abschließend die Gesamtbaukosten (Basiskosten) der übrigen
+BA als Bestandteil des Projektbudgets ermittelt (Multiplikation bereinigter Kennwerte mit den jeweiligen Be-
+
+FA ARCADIS
+
+zugsmengen).
+
+Nach dieser Rechnung
+
+betragen die prognostizierten
+
+Baukosten
+
+(ohne Risiko) der übrigen
+
+betont, dass die Basiskosten ausschließlich die Maßnahmen
+
+der Leistungsbereiche um-
+
+2%
+
+BA ca. 54,98 Mio. € netto (entspricht ca. 65,43 Mio. € brutto).
+Es sei nochmals
+
+Profkt Sanierung Neues Rathaus Dresden
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+fassen, die in der 1. und 2. Gruppe der Tabelle 3 benannt wurden.
+Die Basiskosten sindje Kennwert in Anlage 13 aufgeführt.
+
+Te
+
+Friesen”
+
+sind:
+Kosten{net- | Bausubstanz | Gesamt (net10)
+(netto)
+0)
+DIGEIETZ
+1 | Obiektianung
+ken
+|
+anomome|
+100oooe|
+socssoo«|
+WERDE
+e|
+RogelbeiTa
+2 | Freisnagen
+75
+s21.000€
+S21000€
+en
+35% dor Bawnonsruktions3 | Tragwrksptanung | kosenunsıon | zusssoone|
+1ooomoe| z2sswoe|
+der Kosten,
+BerTA
+Tocmscnanım | Kosten
+ar Tech:
+a [Tee
+nischen.
+17ssaoe | 1ooaowe| 1essaome |
+on
+Anlagen
+Kosten
+der Bas“
+Bauphysik
+(va
+Konstruktionen
+an
+zo. | 4amooe | nooooooe | soomooe|
+Regel
+bei Ta
+50% ser Harser6 | Bauermessung
+Angsiosten | ansesoome | nocaoooe | aesesooe|
+Sen Okpektes
+Zuschensumme KORTI
+7 | PS.
+Guncheonung
+BET
+=
+=
+Summe nass (ca)
+[1 Smme nat (ca
+
+Hinweise [HZ
+
+Treiver- | Volnenerar T Veihonerar
+einbar
+bewertet
+ab.
+
+Tante
+
+Zu: T Honorar
+schlag
+
+orı | zus | s2850me
+
+ır: ırss
+
+||
+
+zsme|
+
+>2.2000€|
+
+assooe|
+
+wrs
+
+[m
+
+|ısmoce]|
+
+szome|
+
+ezowe|
+
+ım|
+
+urıs
+
+||
+
+ısmo.e|
+
+>ewooe|
+
+zsoowe|
+
+10 | 25% | 1.100me
+
+ıpss | u
+
+|somo.e|
+
+>sssome|
+
+1aoowe|
+
+oro | 2% | 17so0«
+
+ıps7
+
+||
+
+2smoe|
+
+>aso0el
+
+some]
+
+os | 20%
+
+24000€
+
+Fre
+IP
+bee)
+
+||
+
+somoe|
+
+>rsowel
+
+me]
+
+om | —
+
+zrowoe
+EEE
+2427 00€
+EESERTE
+KIKTIETTG
+
+“> ] immer
+
+T 6928000 €
+
+0
+
+-—
+
+]
+
+82000€
+
+Tabelle 9 enthält neben den Basiskosten der 1. ebenfalls die der 2. und 3. Variante. Die darin ausgewiesenen Mehrkosten (Kosten für Schnittstellen, Provisorien, BE und Honorare, vgl. Tabelle 5) wurden bereits in
+Kapitel 3.1 beziffert und erläutert.
+
+Basiskosten variantenabhängig
+1. Variante
+
+2. Variante
+
+3. Variante
+
+Basiskosten KG 300-600 brutto:
+
+65.430.000 €
+
+66.351.000 €
+
+67.047.000 €
+
+Basiskosten KG 700 brutto:
+
+11.140.000 €
+
+11.296.900 €
+
+11.415.400 €
+
+Baelekestenigesamt
+brutto
+(gerundet):
+
+76.570.000 €
+
+77.850.000 €
+
+78.460.000 €
+
+0€
+
+1.080.000 €
+
+1.890.000 €
+
+Mehrkosten brutto:
+Stichtag: 31.01.2014
+
+42753
+
+sr
+*o
+so
+»ooı
+wo
+_Toooos
+|ooosz
+
+50005
+os
+”
+[77
+wous
+Doodus02
+vn
+SOULEHE,
+eure
+onLs9L
+ET
+
+| moz
+or
+
+“o
+“=
+=.
+mL
+wor
+Er
+
+°
+E73
+ee
+SE
+wos
+Er
+
+P2
+
+usJalam Waule
+
+sUSWYEJUS}SOY
+
+"uowwousßJon
+
+Bißueygeun sıpnıs Jap YıpoyjawsßunuysaJag
+
+Usjapenus
+
+uajeiq syeßpng
+
+Jap uon Jauls
+
+INZ
+
+3uaayuoy UNEP
+
+won Jap Bunusmwiuny
+
+pun -syolajdsay aula z’g jaıdey wi pam Bunyorem
+
+yalıızya] sap YaM
+
+"U9UUOY NZ uayIamaq sIlamal aydlsssgoyIsıy
+
+USPUSJjS}SNZISF,
+
+Bunuypayjjosuoy
+
+nz Yıpoyjayy uspunjaßysunp
+
+-Maloyd / sUBWIYEJUSISOY uajjenIuue sap Bunsarzyjuen ayaızyesnz Suld OS UUey pun sıugaßyg uayaıbow
+
+uapusqlajqlan
+
+punsßjne Yun) as2l
+-qy
+
+usßunsyawusdusyy
+
+sie ajen
+
+almos
+
+„ualsoyJapuos"
+
+Jeyosyızadsjyafo,d
+
+Jeyen
+
+“uaJjeyJus UBJSONsIseg Lap uI slayaq NWos
+
+sıbojeuy ul - aipnyspjalolg Jap Bunyyoensgoyisiy alp yaIs Jyaızaq Nemosu]
+
+"sweigoJdiersg ayasıuyaay-yasuauejd aysjıam ne Jypıu - aBeisbueßsny usu
+
+"usßunßuipagpaloıg Jap pun spjajwunyyafoyd sap Bunyyenag ayaıı
+
+'yy ypeu Bunyamag ualap Iyallyas 94Z NIG yeWwab soyIsuusjsoy sap Bunyiuug siq
+
+wn 'uspJom japııgab (usneoyisıy) ueLoßajeyoyisıy OL SllageL UI puis Jeyeq 'uIa NEyylLlayssiyemsnun
+-ul3 pun Suejwn
+
+-Nayjwesaß auls ‚ne Wapuos
+
+susjaedjne
+
+-sqalıyosaq 0 Jajldey u sap yw
+
+'usIsoy
+
+-abpng yaızyesnz yy 'L WI OSje "Jejuueyag syNaJeq suuıg Wwı uayısıy "uspJom (BlulsJaq) ualuwousßsnessy
+
+puIs
+
+Boys
+
+MW (usyısuusßejpung
+
+Bunßlulsssquajsoy Jep uawıyey WI sılaJaq Is! Bundiyemagoyisiy Jap NUYOS JejsJe ulg
+
+LanamUUay Uap sne — UapJam jepemua Jyplu vg uaaLgn alp In) als uam — Jepo usssojjeßuls Bunuyaau
+uuam — puls Yy'L sap uayıs
+-aqhamuUuaY aip u) Jepamıua — ueuugy Leyasınz vg uaßlgn aıp ın) yone
+-19 Sjuueyaq
+
+"USÖNyDISYonJaq nz "uuey usdung yoıs
+
+pun usyIsupeyy) sapjsjLunpjsfosg sap pun usßunduipsqiyueyy sap Bunsspuesay syalgaßyew auıa alp "Nez
+
+(usulewaßlle)
+
+pun
+
+usyayıaysısun
+
+(uayasyızadspjslold)
+
+uajaın sp
+
+wn
+
+'yoıWwWoy
+
+-nenyaloyg uabue| ssiemsyplsjdlsn Jap punußjne wajje Jon puIs 3J8)2187 "uayaızagnzula Bunyluuausjsoy
+
+°L'S
+
+sadnedJos
+
+uoyısupjaloug
+
+'S
+
+ya
+
+Any
+
+mare)
+
+SIavIuV 9
+
+gen
+
+uapsaıg sneygey sanan Bunsaiues Paloud
+
+uapsauq sneyjey sanan ajpnysjyefold onejuaunyoq
+
+uswyeroyisiy
+
+JISJPLEISSg Jaysıyussam }sı Juawsßeuewoyisiy
+
+'uaplauuea nz 'mzq UsZueJsag nz 'usJalznpaı nz uayısiy 'SJapUosaq Jayep sa Ib uayaloıdyog
+uaxajdwoy Iag 'suJapuUeH UsyoıyeyosuIm
+
+-35 wn
+
+-UapI NZ Jsyogunz Yoopal uayısıy alp Puls ‘usuugy nz ua}8J613 Bunssiwiumwoyisig Inz uaWıyeugey sjaußlo
+
+"usyamaq nz pun uayalzuyı)
+
+-OJd WE uedunueld usslLEysıq Jep aleyasun us}spumibagzuejsans Jsp punußsajulH Wap Jon alapuossqsul
+
+Sıp UI usNaylegbemun
+
+(uauouratenun) uoymnaBeIpun.g
+
+-qeun Bun pesegoyisiy aus si ‘ey Ponıpaßsne Bunysßlejsusjsoy UsuLous Jap ul walje Jon yaıs aıp "Mal
+
+E
+
+E
+BenQ 1ouononeq ueßunening
+vorundenen
+seen
+WE | „us unbunsengstennn ma (noenbenenwennnaoneg
+ueumybNnAS sne Unaoy eyarrenz
+Teer
+a | une Bunprammuumay
+jonas eynessgruegy spungeruen m
+P
+mer"
+E77
+>IC2
+200 VeueyaIg YpnerumROGIRLg VenmssBununumunn
+ME | pun-saegıy ur ueßunıspigpny ungppspemeunmu uch Buruopup
+mean
+23 | ooy uobunsonsung pun „sung “stunung 109 ensumirenn
+Er}
+SnasdunopurmePig
+Ei
+11 Ron ueßmioneg Ip eyrosun
+(uanaayorsun)
+uayeny aupsurradsngelosd
+nzegneg nza-oge£on Bu geßlon eyrsmodesone pun -sapung
+lad
+ROERg Pu Une
+or ousen0d
+4099513 "Uoburungunu. 10p unnoyBLuRNay Oypenrockeununuon
+=
+
+Bnzeg
+
+SIAVIUV&3
+
+VOpsaıg sneyjey sonan aıpmspofoag uonejuaLunyog
+Wepsaug wnengey sonan Bunueruns Pilaid
+
+aueuu
+anorg
+uogsoyoyısıy Bunmuug ZS
+
+mans |. nme
+(aner 9) eneckBunzennueg
+(mus org
+[rer 7 JoounseFR | um cnEite
+arena pun -mpalg
+res emo
+
+TRIER OLG si umumeyt"Wone&ye unioyam uns on
+
+mouan 7 [re
+ons | sam ]
+o
+zuouamsa
+| ‚num | Dumm | immo
+
+E-=
+
+>
+FA ARCADIS
+
+5
+El
+
+Projekt Sanierung Neues Rathaus Dresden
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Erläuterungen
+Der Tabelle 10 ist die Einschätzung der wesentlichen Risiken des Projektes, bezogen auf die gewählte Pro-
+
+a
+al
+
+FA ARCADIS
+|
+
+Projekt Sanlerung Neues Rathaus Dressen
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+jektlaufzeit der Vorzugsvariante von ca. 6 Jahren, zu entnehmen.
+Eine über die vorgenommene
+
+Einteilung hinausgehende
+
+Eingrenzung der Risiken
+
+Zeitpunkt zwar denkbar, aber erfordert einen unangemessenen
+
+Die Grundwerte der Einzelrisiken stellen die jeweilige Wirkungsbreite des Risikos dar und dienen zur Festlegung einer maximalen Wirkung (erwarteter Höchstschaden
+
+|
+
+Posaune
+
+|
+
+Antirnnguraken
+
+|
+voii
+|
+|
+
+|
+
+Sonstige Risken
+
+Summe base
+
+Frame
+
+ee
+Ursunköniehe Angebte, mohenzrske
+
+Berg
+
+T Gemawen T Wrong T Erin T Ermener
+
+IrKonxome _| mat
+same]
+sm
+“
+
+zung wird „geglättet“ durch die Summe
+
+1m]
+s“|
+mm]
+
+_1e1co
+an2mm
+_ 0:00
+12200
+
+case“.
+
+zus
+mm
+2000
+11
+sum
+asom
+veoo
+
+1%]
+
+om]
+
+al
+Too |
+zom|
+som]
+Tr]
+zo |
+sro]
+
+Sul
+om]
+won]
+mow|
+sul
+mm]
+=]
+
+Su]
+sn]
+1%]
+2%]
+on]
+om]
+264]
+
+Unfalfolgen.
+
+6400
+
+2%
+
+25%
+
+KGR 300-500
+
+Team]
+
+su]
+_2=
+m]
+
+ım|
+
+su]
+
+2erzam
+
+22.000
+
+sm
+Er
+
+bzw. -wert). Die diesen wiederum zugeordne-
+
+ten Eintrittswahrscheinlichkeiten gewichten die Anteile am Gesamtrisikowert. Die Ungenauigkeit der Schät-
+
+Risiko (O
+
+ern]
+
+Bx
+
+es]
+em]
+oaaaoo|
+
+et5#|
+
+wahrsch.
+
+Techniogeche Anker Vateraher
+Konmose |
+Mangekigen, Srfatsnuke
+Hormon _|
+Gunnserans
+KoRS000 _|
+unerkannt geblnbanaAnmchungenvondenbevaatın
+Abweichunge von den bewerten Schait:Shmanf | yan con |
+unganntgehebene
+orcmenende
+San Basenander tn Topnaan.nonsm 0 | erar
+SaER Tag
+Tan
+Baogund. und Gnngasseprobeme
+E23
+Araston- und Kamp
+Es
+Brei Bunerhrg Sıe Veatoerungpoenia auzundder | 0x
+Wennngsernas
+63
+unse
+E
+Vandalamı
+KoRmoSO |
+Sernestien | Famlananeng (B03 engescman
+
+ist zum gegenwärtigen
+
+Mehraufwand.
+
+der Einzelrisiken.
+
+Der Gesamtrisikowert versteht sich als „worst
+
+Da das Gesamtrisiko auch mit Unsicherheiten behaftet ist, kann ein „best case“ nur innerhalb des Risikorahmens von ca. 22,25 Mio. € brutto liegen.
+Steuerbarkeit der Projektrisiken
+Steuerbar sind die projektspezifischen Risiken. Dazu sind - ausgehend von der identifizierten Problemlage
+— geeignete Maßnahmen der kontinuierlichen Risikomessung und -kontrolle zu ergreifen. Solche Maßnahmen
+
+bestehen
+
+z.B.
+
+aus
+
+Prüfroutinen (qualitative und
+
+quantitative Analysemodelle),
+
+die sich auf alle Pla-
+
+nungsschritte und vertragsrelevante Vorgänge beziehen und Aussagen zum Risiko treffen. Auch innerhalb
+von Teilbudgets, d. h. bei Vorgängen ohne negative Auswirkung auf die Mittelreserve, können sich Risiken
+verwirklicht haben — diese sind ebenso zu identifizieren, um z. B. evil. Folgekosten erkennen und eingrenzen zu können oder Fehlerquellen zu beseitigen.
+
+==
+
+Bildung Risikokostenrahmen
+Gemäß vorstehenden Erläuterungen ergibt sich nach sorgfältiger Einschätzung der Einzelrisiken ein für die
+Budgetierung des Projektes erforderlicher Risikokostenrahmen von ca. 22,25 Mio. € brutto.
+
+46/53
+
+FAQ
+ARCADIS
+Infrastruktur Wasser « Umweit- mobilen
+
+FA
+ARCADIS
+Infeastruktur- Wasser Umwelt nmobslen
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+6.
+
+Projektstudie Neues Rathaus Dresden
+
+6.2.
+
+Kostenrahmen
+
+Vergleichs- und Kontrollrechnung
+
+Die Vergleichs- und Kontrollrechnung
+bei der Zusammensetzung
+
+6.1.
+
+Auswertung Basiskosten und Risikokosten - Ermittlung Kostenrahmen
+
+Die durchgeführte Kostenermittlung (Kapitel
+
+menen
+
+4 und 5) weist Basiskosten für die 1. Variante in Höhe von ins-
+
+gesamt ca. 76,57 Mio. € brutto (77,5 %) sowie Risikokosten
+aus. Die sich aus diesen beiden Anteilen ergebenden
+
+in Höhe von ca. 22,25 Mio. €
+
+Gesamtbaukosten
+
+Ermittlung völlig unabhängigen Kostenermittlungsmethode wird im Folgenden das bisherige Ergeb-
+
+nis überprüft und plausibilisiert.
+Die Vergleichs- und Kontrollrechnung erfolgt nach den Grundsätzen der DIN 276 „Kosten im Bauwesen
+
+wird diese derselben
+
+BE, Honorare
+
+—
+
+Teil 1 Hochbau“. Als Kontrollinstrument für die im Rahmen der Projektstudie aufgestellte Kostenermittlung
+
+11 gibt einen Überblick über Basis-, Risikokosten,
+
+Schnittstellen, Provisorien,
+
+Unsicherheiten
+
+brutto (22,5 %)
+
+- das Projektbudget — belaufen
+
+sich somit auf ca. 98,82 Mio. € brutto (Vgl. Tabelle 11).
+Tabelle
+
+soll zur Minimierung der der Studie innewohnenden
+
+des endgültigen Kostenrahmens dienen. Durch eine von der bisher vorgenom-
+
+Kostenrahmen
+
+sowie Mehrkosten
+
+sowie Risikokosten, vgl. Tabelle 5, Erläuterungen
+
+(Kosten für
+siehe Kapitel
+
+Stufe nach DIN 276 zugeordnet, wie dem Kostenrahmen und dient als Grundlage für
+
+die Entscheidung über die Bedarfsplanung sowie für grundsätzliche Wirtschaftlichkeits- und Finanzierungsüberlegungen und zur Festlegung der Kostenvorgabe.
+
+3.1) der drei untersuchten Varianten.
+Bei dem
+
+Kostenrahmen variantenabhängig
+1. Variante
+
+Basiskosten brutto (gerundet):
+
+2. Variante
+
+76.570.000 €
+
+77.650.000 €
+
+Kostenrahmen
+
+werden
+
+insbesondere
+
+folgende
+
+Informationen
+
+zugrunde
+
+gelegt,
+
+die im
+
+Rahmen
+
+dieser Studie anhand der vorliegenden Projektunterlagen festgestellt und dokumentiert wurden:
+*
+
+3. Variante
+
+quantitative Bedarfsangaben, z. B. Raumprogramm
+
+mit Nutzeinheiten, Funktionselementen und de-
+
+ren Flächen,
+
+78.460.000 €
+
+"
+
+qualitative Bedarfsangaben, z. B. bautechnische Anforderungen, Funktionsanforderungen, Ausstattungsstandards.
+
+Risikokosten brutto (gerundet):
+
+22.250.000 €
+
+28.380.000 €
+
+29.820.000 €
+
+Kostenrahmenbrulto
+(gerundet):
+
+98.820.000 €
+
+105.030.000.€
+
+108.280.000 €
+
+€
+
+7.210.000 €
+
+9.460.000 €
+
+Mehrkosten brutto:
+
+Weitere Grundlage bilden die Erkenntnisse den 1. RA und dem daraus identifizierten Leistungsbedarf.
+Die Gliederung erfolgt entsprechend den Kostengruppen der DIN 276, und zwar bauteilbezogen. Die Baukosten werden bis zur 2. bzw. 1. Ebene nach folgender Systematik (siehe Tabelle 12) dargestellt.
+
+Stichtag: 31.01.2014
+
+KGR | Bezeichnung
+
+Bezugsgröße
+
+KGR 300 | Bauwerk-Baukonstruktionen (2. Ebene)
+KGR 310 | Baugrube
+
+Mittelabfluss
+Die geschätzten Mittelabflüsse pro Jahr für die Varianten 1, 2 und 3 sind in Anlage 17 der Ergänzung zur
+Projektstudie dargestellt.
+
+GRF
+
+KGR
+KGR
+KGR
+KGR
+KGR
+
+AWF
+BGF
+BGF
+DAF
+BGF
+
+330 | Außenwände
+340 | Innenwände
+350 | Decken
+360 | Dächer
+370 | Baukonstruktive Einbauten
+
+Inwieweit die angewandte Methodik (gemäß der Beschreibung in Kapitel 0.5) letztlich zu der Ermittlung ei-
+
+KGR 390 | Sonstige Maßnahmen für Baukonstruktionen
+
+nes belastbaren, voraussichtlichen Kostenrahmens geführt hat, wird nachfolgend beurteilt.
+
+KGR 400 | Bauwerk - Technische Anlagen (2.Ebene)
+
+47153
+
+BGI
+
+KGR 320 | Gründungen
+
+BGF
+
+KGR 410 | Abwasser-, Wasser-, Gasanlagen
+
+BGF
+
+KGR 420 | Wärmeversorgungsanlagen
+
+BGF
+
+48153
+
+=
+
+FAQ ARCADIS
+
+FA ARCADIS
+
+bet)
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+KGR 430 | Lufttechnische Anlagen
+
+BGF
+
+KGR 440 | Starkstromanlagen
+
+BGF
+
+KGR 450 | Fernmelde- und informationstechnische Anlagen
+
+BGF
+
+KGR 460 | Förderanlagen
+
+BGF
+
+KGR 470 | Nutzungsspezifische Anlagen
+
+BGF
+
+KGR 480 | Gebäudeautomation
+
+BGF
+
+KGR 490 | Sonstige Maßnahmen für technische Anlagen
+
+BGF
+AUF
+
+KGR 600 | Ausstattung und Kunstwerke (1.Ebene)
+KGR 600 | Ausstattung und Kunstwerke
+
+Basiskosten
+(ohne Risikokosten)
+
+36.320.000 €
+
+36.070.000 €
+
+KGR 300:
+
+KGR 500 | Außenanlagen (1.Ebene)
+KGR 500 | Außenanlagen
+
+Kosten gemäß Vergleichs- und
+Kontrollrechnung (ohne Risikokosten)
+
+BGF
+
+Für die Kostengruppe 700 Baunebenkosten wird aufgrund der gesonderten Ermittlung im Rahmen der Stu-
+
+KGR 400:
+
+14.590.000 €
+
+17.550.000 €
+
+KGR 300 + 400:
+
+50.910.000 €
+
+53.620.000 €
+
+KGR 500:
+
+530.000 €
+
+520.000 €
+
+KGR 600:
+
+870.000 €
+
+840.000 €
+
+Kosten gesamt netto:
+
+52.310.000 €
+
+54.980.000 €
+
+Kosten gesamt brutto:
+
+62.250.000 €
+
+65.430.000 €
+
+Abweichung
+bezogen auf
+Basiskosten
+
+die keine Kontrollrechnung durchgeführt.
+Entsprechend
+
+der favorisierten
+
+rücksichtigt die Vergleichsfunktionalen
+
+und
+
+räumlichen
+
+und
+
+Variante für die weitere Ausführung
+
+in einem
+
+Realisierungsabschnitt
+
+Kontrollrechnung
+
+in einem
+
+zeitlichen
+
+Abschnitte
+
+die Realisierung
+
+(Gebäudeflügel)
+
+sind
+
+getrennte
+
+Abschnitt;
+
+Kostenermittlungen
+
+für die
+
+Flächen (gemäß Anlage 2):
+
+aufgestellt
+
+sind jeweils in den entsprechen-
+
+den Kostengruppen
+
+ist in Abweichung
+
+Bausubstanz
+
+ö
+
+-17%
+
+-5%
+2%
+4%
+-5%
+-5%
+
+be-
+
+worden. Kosten für Abbruch-, Instandsetzungs- und Neubaumaßnahmen
+dargestellt. Der Wert der vorhandenen
+
+1%
+
+lenbı
+
+Kennzahlen
+
+brutto:
+
+| 44.500 m?BGF
+
+| 34.200 m? NGF
+
+1.400 €/m?
+
+1.820 €/m?
+
+3
+
+BGF
+
+NGF
+
+zur DIN 276
+Stichtag: 31.01.2014
+
+nicht ausgewiesen.
+Die Vergleichs- und Kontrollrechnung verwendet den im Rahmen der Studie festgestellten Leistungsbedarf
+und die ermittelten Mengenansätze für die einzelnen Bezugsgrößen.
+Die Vergleichs- und Kontrollrechnung erfolgt anhand von Kennwerten, die aus den statistischen Kennwer-
+
+=
+
+bestätigt
+in folgen-
+
+den Kostengruppen der 2. Ebene festgestellt:
+
+ten folgender Quellen für vergleichbare Leistungen gebildet wurden:
+
+=
+
+Nach der Kostenkontrollrechnung ist festzustellen, dass die durchgeführte Kostenermittlung i.d.R.
+werden kann. Größere Abweichungen wurden dabei in der KGR 400 und dabei im Wesentlichen
+
+BKI, Baukosten Altbau, statistische Kostenkennwerte 2013, Kostenstand 2.Quartal 2012;
+Kosten abgerechneter Referenzprojekte ARC.
+
+"
+
+_KGR 430 in Höhe von ca. -37 %,
+
+=
+
+KGR 460 in von ca. 19% und
+
+"
+
+_KGR 490 in Höhe von ca. -78 %.
+
+Als Ergebnis der Vergleichs- und Kontrollrechnung stellen sich die Projektkosten für die Kostengruppen der
+1. Ebene sowie deren Abweichung zu den BK wie in Tabelle 13 zusammengefasst dar. Einen detaillierteren
+
+In Abhängigkeit vom zu erwartenden Leistungsumfang sind diese Kostenansätze daher ggf. anzupassen.
+
+Überblick über die Kosten gemäß Vergleichs- und Kontrollrechnung liefert die Anlage 15.
+
+49153
+
+50/53
+
+FA
+ARCADIS
+Infrastruktur.
+Wüs er" Umwelt: mmobiion
+
+FA
+ARCADIS
+Infrastruktur Wasser. Umwert mobi
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Projekt Sanierung Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+Dokumentation Projektstudie Neues Rathaus Dresden
+
+6.3.
+
+ben sich letztlich (für die Variante 1) Basiskosten für die weitere Sanierung des Neuen
+
+Zusammenfassung
+
+und Fazit
+
+Ziel dieser Projektstudie war es, im Zuge einer Aus- und Bewertung des bereits vorhandenen Datenmaterials sowie der bisher gewonnenen
+
+Erkenntnisse aus dem
+
+bereits im Bau befindlichen
+
+1. RA einen voraus-
+
+Vor dem Hintergrund der substanzbegründeten
+
+Unschärfe der bisherigen Planungen
+
+sichtlichen, belastbaren Kostenrahmen für die weitere Sanierung des Neuen Rathauses Dresden zu ermit-
+
+gen
+
+der Projektstudie
+
+teln. Anlass zur Beauftragung der Arcadis Deutschland GmbH
+
+Ungenauigkeit ist eine Risikobetrachtung
+
+Bauherren, weil die bisherigen
+
+Kostenermittlungen
+
+auch aufgrund eines mehrmals veränderten
+ten.
+
+zur Erstellung dieser Studie gab es für den
+
+die Ziele und
+
+Leistungsumfangs
+
+Erfordernisse der weiteren Bauaufgabe,
+
+des 1. RA, nicht realistisch abbilden konn-
+
+Im Rahmen der Studie sollte dies durch eine statistische Methodik erreicht werden.
+
+planung zum Gesamtprojekt im Wesentlichen die bereits erstellten Erkundungsgutachten und Prüfberichte.
+Im Zuge der Erfassung und Aufbereitung aller daraus gewonnenen
+der Leistungsumfang
+
+bzw.
+
+die Sanierungstiefe der übrigen
+
+definierten Nutzungs-
+
+und Sanierungsziele
+
+BA
+
+Erkenntnisse und Informationen, wurde
+
+bewertet.
+
+Die in diesem
+
+(als Sanierungsschwerpunkte wurden
+
+Projektlaufzeit sowie der der im Rahmen
+
+Zusammenhang
+
+u.a. die Standsicherheit
+
+angewandten
+
+am
+
+Projekt, der lan-
+
+Methodik
+
+innewohnenden
+
+und die Ermittlung eines zusätzlichen Risikokostenrahmens
+
+un-
+
+abkömmlich. Dadurch wird erreicht, dass sowohl (projektspezifische) Unsicherheiten als auch (allgemeine)
+Unwägbarkeiten
+
+in die Kostenermittlung
+
+reits in der Kennwertbildung
+
+Die Datengrundlage für diese Studie bildeten neben der Baugenehmigung und der vorliegenden Entwurfs-
+
+Rathaus Dres-
+
+den in Höhe von ca. 76,57 Mio. € brutto.
+
+einfließen. Während
+
+die schon bekannten
+
+Risiken des 1. RA
+
+be-
+
+Berücksichtigung fanden, galt es darüber hinaus die zusätzlichen Risiken, dif-
+
+ferenziert nach Risikokategorien, zu quantifizieren. Daraus resultierte schließlich ein Risikokostenrahmen
+in Höhe von ca. 22,25 Mio. € brutto (Variante 1).
+Für die betrachtete Vorzugsvariante konnte abschließend, wie in Tabelle 11 nachvollzogen werden kann,
+ein Gesamtkostenrahmen
+
+bzw.
+
+Projektbudget in Höhe
+
+von
+
+ca. 98,82 Mio. € brutto
+
+Die ebenfalls betrachteten Varianten 2 (zwei weitere RA) und 3 (drei weitere RA) weisen
+
+ermittelt werden.
+hierbei, gemäß
+
+und der Brandschutz der Decken identifiziert) waren für die kostenmäßige Betrachtung der weiteren Sanie-
+
+den angestellten Untersuchungen, wesentlich höhere Gesamtkosten auf: ca. 106,03 Mio. € brutto (Va-
+
+rung essenziell, um die Möglichkeit und den Umfang von Analogieschlüssen aus dem 1. RA einschätzen zu
+
+riante 2) bzw. ca. 108,28 Mio. € brutto (Variante 3).
+
+können
+Ungeachtet dessen
+Ein weiterer notwendiger Schritt war die Festlegung einer durchgehenden
+
+Projektstruktur, insbesondere der
+
+wurden die im Rahmen
+
+der Projektstudie ausgewiesenen
+
+Ergebnisse und
+
+auch die angewandte
+
+Methodik durch eine durchgeführte Vergleichs- und Kontrollrechnung
+
+Größe, Schnittstellen und Reihenfolge bei der weiteren Realisierung der bisher unsanierten Bauabschnitte.
+
+sentlichen
+
+Somit
+
+Ergebnis der dazu durchgeführten
+
+Neuen
+
+Variantenuntersuchung war die Identifikation einer Vorzugsvariante für
+
+die Abschnittsbildung. Diese empfohlene Variante — ein weiterer Realisierungsabschnitt — erschien vor al-
+
+bestätigt.
+
+Rathauses
+
+kann von
+
+Dresden, dessen
+
+einem
+
+belastbaren
+
+Kostenrahmen
+
+für die weitere
+
+somit
+im We-
+
+Sanierung
+
+des
+
+Ermittlung das vorrangige Ziel dieser Studie war, ausgegangen
+
+wer-
+
+den.
+
+lem unter wirtschaftlichen und baurechtlichen Gesichtspunkten sowie unter Berücksichtigung diverser weiterer Kriterien (z. B. Bauzeit, Baulärmbelästigung, Verwaltungsaufwand, etc.) als die vorteilhafteste Lösung
+und bildete somit die Grundlage für die weiteren Untersuchungen im Rahmen der Projektstudie.
+Bei der Ermittlung
+schen dem
+und
+
+des
+
+Kostenrahmens
+
+wurde
+
+grundsätzlich
+
+1. RA und dem definierten 2. RA ausgegangen.
+
+Mengenansätze
+
+3. Kostengruppenebene)
+
+des
+
+1.RA
+
+gebildet.
+
+Kennwerte
+
+gemäß
+
+der
+
+von
+
+einer eindeutigen
+
+Vergleichbarkeit zwi-
+
+So wurden mithilfe der vorliegenden
+Gliederung
+
+nach
+
+DIN 276
+
+Kosten-
+
+(vornehmlich
+
+Im Weiteren bestand jedoch die Herausforderung darin, dass diese An-
+
+sätze vornehmlich die Charakteristika des 1. RA abbilden und somit nicht mit denen der übrigen Baumaßnahme
+aufgabe,
+
+deckungsgleich
+
+sind. Aufgrund
+
+Nutzungsverteilung
+
+und
+
+dessen
+
+galt es, die vorhandenen Abweichungen
+
+Sanierungszielen
+
+aufzubereiten
+
+und die gebildeten
+
+hinsichtlich
+
+Bau-
+
+Kennwerte je nach
+
+Erforderlichkeit zu „bereinigen“. Durch die Übertragung dieser Bereinigten Kennwerte auf den 2. RA erga-
+
+5153
+
+52753
+
+ao
+vor
+
+Y
+
+ayıe9 uensegag
+
+anz as}
+
+yaıyonyy sewoy
+
+'za6
+
+"edd
+
+pLoz'go'el 'uapsaıd
+
+"Hgw9 puelyasinaq SIOVISY
+
+a
+p ayatu pam ang ue ageßangp) 10q BunyeH aura Tuunsaq
+a1 YOn2j6
+
+FLoz'go'eL we jeyaqueisan 'pLoz Jenuef ‘LE
+
+veuy
+
+Haw9 pueiyasinag SIOVOUY
+
+uuewisH unyey 'ayled LeNsegas 'syonY pjelsg
+
+yaıyanın sewoyuL
+
+Jawwnupjalolg
+
+uneg
+
+:snelS
+
+yassepan
+
+uauony
+
+6luysuaß yeyuı
+
+gsies
+
+r
+
+our
+op ana u
+
+E62L00'2LL03Q
+
+paloıd
+
+EEE
+Bunpuamsay, Jojun uassım wojsaq yaeu SIOVOYY Y2unp opınm uopsaug sneyey sonan Mofoıd wunz aıpmısıyafoid Id :Buniemauossepon
+
+Lapsayq sneyjey sanan Bunisiues
+‘uapsaıq sneyjey sanaN alpnıspaloyd nz uoneuaWunyog
+
+wnssaudwj
+
+apsaıg sneyjey sanan Bunsalueg Maloıd
+
+uapsayq sneyyey sanaN alpn3spjafold onejuswnyon
+
+VRepouRUN Maya) Asa anwasuu
+
+SIavIuV %9
+
+
