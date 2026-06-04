@@ -1,0 +1,1018 @@
+Landeshauptstadt Dresden
+Geschäftsbereich Finanzen und Liegenschaften
+Hochbauamt
+
+Projektbericht
+
+Projekt:
+
+Kindertageseinrichtung
+Oskar- Seyffert- Str. 11
+01189
+
+Projektauftraggeber (PAG):
+
+Dresden
+
+Geschäftsbereich Soziales
+EB Kindertageseinrichtungen | GB5/ A55
+Dr.- Külz- Ring 19
+
+01067 Dresden
+0351 - 488 5130
+Tel:
+0351 - 488 5023
+Fax.:
+Projektleitung (PL):
+
+Geschäftsbereich Finanzen und Liegenschaften
+
+Hochbauamt I GB2/ A65
+Lingnerallee 3
+
+01069 Dresden
+Tel.:
+0351-488 3319
+Fax.:
+0351 - 488 3864
+
+Version:
+
+1.0 1 28.08.2014
+
+HI.5518611
+
+28.08.2014
+
+Landeshauptstadt Dresden I Hochbauamt
+
+Auftraggeber:
+Projekt:
+Projektleitung:
+
+Landeshauptstadt Dresden — Geschäftsbereich 5 | Eigenbetrieb Kindertageseinrichtungen
+Kindertageseinrichtung Oskar- Seyffert- Str. 11 101189 Dresden
+|
+Geschäftsbereich 2 | Hochbauamt
+
+1. Inhaltsverzeichnis
+
+N
+
+Projektstammdaten
+
+oo
+
+Inhaltsverzeichnis
+
+Ermittlung Basiskosten
+
+2
+
+Ermittlung Risikorahmen und Projektkosten
+Ermittlung und Auswertung der Projektkennwerte
+
+So
+
+Zusammenfassung
+Anlagen
+
+Projektbericht
+
+HI.5515611
+
+28.08.2014
+
+Landeshauptstadt Dresden
+
+Auftraggeber:
+Projekt:
+Projektleitung:
+
+I Hochbauamt
+
+Landeshauptstadt Dresden - Geschäftsbereich 5 | Eigenbetrieb Kindertageseinrichtungen
+Kindertageseinrichtung Oskar- Seyffert- Str. 11 1 01189 Dresden
+Geschäftsbereich 2 | Hochbauamt
+
+2. Projektstammdaten
+Projektstammdaten
+Projektbezeichnug:
+Innere Gebäudesanierung mit Dachgeschossumbau und Trockenlegung des Kellergeschosses
+(Umfang siehe Anlage 01: Erläuterung zur Entwurfsplanung vom 31.08.2011)
+Standort:
+
+Anschrift:
+
+Gemarkung:
+
+Oskar- Seyffert- Str. 11, 01189 Dresden
+
+Dresden Gittersee
+
+Flurstück:
+
+136k
+
+Grundstücksfläche:
+
+850 qm
+
+Eigentumsverhältnis:
+Landeshauptstadt Dresden
+
+Gebäudebestand:
+
+Kindertageseinrichtung mit 40 Kindern; seit den 1950er Jahren als KITA genutzt;
+ursprünglich als Zweifamilienhaus im Baujahr 1936 errichtet; bereits mehrere
+Teilbaumaßnahmen durchgeführt (z.B. Anbau Fluchttreppe, Sanierung Gebäudehülle); im
+Innenbereich stark sanierungsbedürftig, noch keine Gebäudetrockenlegung erfolgt
+
+Denkmalschutz:
+nein
+
+Baurecht:
+Baugenehmigung vom 06.03.2012 liegt vor, AZ 63/8/BG05802/11
+übergeordnete Pläne:
+Flächennutzungsplan Vorentwurf, Wohnbaufläche mit geringer Wohndichte
+Baulasten:
+keine bekannt
+Bssonderneiten,
+
+Cardo Auskunftssytem: Verdachtsfläche bergbaulicher u.a. anthrop. radioaktiver
+Kontaminationen und Radonrisikoklasse "sehr hoch"
+
+Übersichtsplan:
+
+u
+a
+
+\o
+
+MV
+
+w\
+175m
+
+Ex.
+gt
+mwar
+
+Projektbericht
+
+\ı
+
+®
+
+HI.5515611
+
+28.08.2014
+
+Landeshauptstadt
+
+Dresden
+
+| Hochbauamt
+
+Auftraggeber:
+
+Landeshauptstadt Dresden - Geschäftsbereich 5 I Eigenbetrieb Kindertageseinrichtungen
+
+Projekt:
+Projektleitung:
+
+Kindertageseinrichtung Oskar- Seyffert- Str. 11 101189 Dresden
+Geschäftsbereich 2 | Hochbauamt
+
+3. Ermittlung Basiskosten
+|
+
+Preisbasis: Kostenberechnung Entwurfsplanung (Stand 31.08.2011)
+alle Kostenangaben inkl. 19% MwSt.
+KG
+
+Bezeichnung
+
+Kosten (<Jahr>)
+
+‚Anteil
+
+[EUR]
+100
+
+[Grundstück
+
+200
+
+Herrichten und Erschließen
+
+300
+
+Bauwerk - Baukonstruktion
+
+”
+En
+
+[%]
+
+[%]
+
+0 EUR
+
+0
+
+1.785 EUR
+
+0,40
+
+221.421
+
+EUR
+
+58,45990965
+
+49,21
+34,97
+
+400
+
+|Bauwerk - Technische Anlagen
+
+157.336 EUR
+
+41,54009035
+
+BWK
+
+|Bauwerkskosten
+
+378.757 EUR
+
+100
+
+500
+
+Außenanlagen
+
+14.159 EUR
+
+600
+
+|Ausstattung und Kunst
+
+0 EUR
+
+0,00
+
+700
+
+|Baunebenkosten
+
+55.258 EUR
+
+12,28
+
+BK
+
+Basiskosten (ohne Baupreisindex - BPI)
+
+449.959 EUR
+
+100,00
+
+a) Ermittlung Baupreisindex:
+Kostenstand
+
+BPI / Jahr
+Planung in
+
+Bau in
+Summe
+
+3,15
+
+b) Ermittlung Kostenerhöhung HOAI 2013:
+
+2011
+
+2,30%
+
+KG700 2011
+
+2012
+
+2,30%
+
+Zulage in Höhe von
+
+2013
+
+2,30%
+
+Zulage KG700
+
+2014
+
+2,30%
+
+Anhebung der Honorare der Planer mit HOAI 2013
+
+2015
+
+2,30%
+
+um ca. 20%
+
+BPI bis Ausführung
+
+55.258 EUR
+20 %
+11.052 EUR
+
+als Durchschnittswert.
+
+11,50%
+
+Baupreisindex: 2,3 % jährlich als Durchschnittswert.
+
+Ermittlung Basiskosten Stand 2014
+BK
+
+Basiskosten (ohne Baupreisindex - BPI)
+
+449.959 EUR
+
+BPI
+
+Zulage Baupreisindex KG200-700 bis 2015
+
+aus a)
+
+KG 700
+
+|Zulage für Anhebung aus HOAI 2013
+
+aus b)
+
+BK
+
+Basiskosten (incl. Baupreisindex - BPI bis 2015)
+
+11,50%
+
+51.745 EUR
+11.052 EUR
+
+Stand 2014
+
+512.756 EUR
+
+Die vorgenannten Basiskosten verstehen sich einschließlich der einkalkulierten Baupreisindizees aber ohne Berücksichtigung weiterer
+Risiken. Zur Einschätzung weiterer Kostenrisiken erfolgt eine Risikobewertung gemäß beiliegender Tabelle unter Punkt 4.
+
+[0
+
+HI.5515 61
+
+28.08.2014
+
+Landeshauptstadt
+
+Dresden
+
+I Hochbauamt
+
+Auftraggeber:
+
+Landeshauptstadt Dresden - Geschäftsbereich 5 | Eigenbetrieb Kindertageseinrichtungen
+
+Projekt:
+Projektleitung:
+
+Kindertageseinrichtung Oskar- Seyffert- Str. 11101189 Dresden
+Geschäftsbereich 2 | Hochbauamt
+
+4. Ermittlung Risikorahmen und Projektkosten
+|
+
+Projektrisikoanalyse
+Risiken nach
+Kostengruppen
+
+kostenwirksame
+Risikoursachen
+
+Basiskosten/
+Grundwert inEUR
+
+mögliche
+| Auswirkung in %
+
+Eintrittswahrscheinlichkeit in %
+
+| bewertetes Risiko
+in EUR
+
+1. Planungsrisiken (Unsicherheiten/ Spezifische Risiken)
+
+-
+
+Flächenmodell
+
+513.000 €
+
+5%
+
+33%
+
+8.465 €
+
+Ermittlungsmethode
+
+513.000 €
+
+5%
+
+33%
+
+8.465 €
+
+Be
+
+36.936,00 €
+
+behördliche Auflag.
+
+513.000 €
+
+5%
+
+33%
+
+8.465 €
+
+technische Lös.
+
+513.000 €
+
+3%
+
+20%
+
+3.078 €
+
+Bauprozess/ Logistik
+
+513.000 €
+
+5%
+
+33%
+
+8.465 €
+
+2. Erkundungsrisiken (Unwägbarkeiten/ Allgemeine Risiken)
+
+en
+
+120.812 €
+
+Bausubstanz
+
+513.000 €)
+
+15%
+
+67%
+
+51.557 €
+
+Schadstoffe
+
+513.000 €
+
+15%
+
+90%
+
+69.255 €
+
+Boden/ Gründung
+
+0€
+
+Wasser/ Hochwasser
+
+0€
+
+Lärm/ Luft
+
+0€
+
+3. Grundlagenrisiken (Zielkonflikte Aufgabenstellung)
+
+76.950 €
+
+Änderung AST
+
+513.000 €
+
+5%
+
+33%
+
+8.465 €
+
+KG 300/ ‚Projektmodifikation
+400
+|Bauzeitverlängerung
+
+513.000 €
+513.000 €
+
+5%
+15%
+
+33%
+67%
+
+8.465 €
+51.557 €
+
+zusätzliche Leistung
+
+513.000 €
+
+5%
+
+33%
+
+8.465 €
+
+4. Marktrisiken (ohne Baupreissteigerungen - BPI)
+
+0€
+
+Baupreissteigerungen (BPI) - sind bereits auf die Basisikosten aufgeschlagen, siehe Teil 1 - hier nicht enthalten
+5. Sonstige Risiken
+
+58.040 €
+
+KG 200
+
+[Erschließung
+
+2.000 €
+
+100%
+
+67%
+
+1.340 €
+
+KG 500
+KG 700
+
+[Altlasten
+
+15.000 €
+
+200%
+
+90%
+
+27.000 €
+
+|zusätzl. Gutachter
+/ AK
+
+66.000 €
+
+50%
+
+90%
+
+29.700 €
+
+[Zwischensumme
+
+|
+
+[Summe Risikorahmen inkl. Minderung (Gleichzeitigkeitsfaktor)
+
+|
+
+50%
+
+|
+
+292.738 G
+
+|
+
+146.369 €]
+
+Legende der Eintrittswahrscheinlichkeit:
+
+| 90% | "wahrscheinlich"
+
+| 67% | "möglich"
+Summe
+
+33% | "unwahrscheinlich"
+Projektkosten Stand 2014
+
+Be
+
+Basiskosten
+
+512.756 EUR
+
+Risikorahmen
+
+146.369 EUR
+
+Summe Projektkosten
+
+Projektb
+
+(Prognose Stand 28.08.2014)
+
+HI.5515611
+
+"659.125 EUR
+
+28.08.2014
+
+shauptstadt
+
+Dresden
+
+I Hochbauamt
+
+Auftraggeber:
+Projekt:
+
+Landeshauptstadt Dresden - Geschäftsbereich 5 | Eigenbetrieb Kindertageseinrichtungen
+Kindertageseinrichtung Oskar- Seyffert- Str. 11 101189 Dresden
+
+Projektleitung:
+
+Geschäftsbereich 2 | Hochbauamt
+
+5. Ermittlung und Auswertung der Projektkennwerte
+Summe Projektkosten Stand 2014
+Basiskosten aus Teil 1
+
+512.756 EUR
+
+Risikorahmen aus Teil 2
+
+146.369 EUR
+
+Summe Projektkosten
+
+(Prognose Stand 28.08.2014)
+
+|
+
+659.125 EUR
+
+Ermittlung Kennwertbasis (Umkehrrechnung prozentual)
+
+|
+
+alle Kostenangaben inkl. 19% MwSt.
+KG
+
+Bezeichnung
+
+Kosten (<Jahr>)
+
+‚Anteil
+
+[EUR]
+100
+
+Grundstück
+
+200
+
+|Herrichten und Erschließen
+
+300
+
+[%]
+
+[%]
+
+0 EUR
+
+0
+
+2.637
+
+EUR
+
+0,40
+
+Bauwerk - Baukonstruktion
+
+324.290
+
+EUR
+
+58,43230404
+
+49,20
+
+400
+
+Bauwerk - Technische Anlagen
+
+230.694
+
+EUR
+
+41,56769596
+
+35,00
+
+BWK
+
+|Bauwerkskosten
+
+554.983 EUR
+21.092 EUR
+
+3,20
+
+0 EUR
+
+0,00
+
+100
+
+500
+
+Außenanlagen
+
+600
+
+|Ausstattung und Kunst
+
+700
+
+Baunebenkosten
+
+80.413 EUR
+
+12,20
+
+BK
+
+Projektkosten
+
+659.125 EUR
+
+100,00
+
+Kennwerte Projektkosten (Stand 2014)
+Kürzel
+
+Bezeichnung
+
+Einheit
+
+Kennwert
+
+BWK (KG 300+400)
+
+|Referenzwert Neubau
+
+NF
+
+Nutzfläche
+
+387,48 m?
+
+1.413,75 EUR/ m?
+
+547.800 EUR
+
+2.300 EUR/ m?
+
+BGF
+
+Bruttogrundfläche
+
+511,76 m?
+
+1.070,42 EUR/ m?
+
+547.800 |EUR
+
+1.500 EUR/ m?
+
+BRI
+
+Bruttorauminhalt
+
+1.434,82 m?
+
+381,79 EUR/ m?
+
+547.800 EUR
+
+390 EUR/ m?
+
+Platz
+
+Kinderanzahl
+
+13.360,98 EUR/ m?
+
+547.800 |EUR
+
+15.500 EUR/ m?
+
+41,00 Platz
+
+Die 0.g. Kennwerte dienen nur zur Orientierung. Die genannten Referenzwerte Neubau stammen von Projekten mit höherer Kinderzahl
+und sind daher nur bedingt vergleichbar. Projektkosten aus vorangegangen Teilbaumaßnahmen am Objekt wurden nicht berücksichtigt.
+
+HI.55
+
+28.08.2014
+
+Landeshauptstadt Dresden
+
+| Hochbauamt
+
+Auftraggeber:
+
+Landeshauptstadt Dresden — Geschäftsbereich 5 I Eigenbetrieb Kindertageseinrichtungen
+
+Projekt:
+
+Kindertageseinrichtung Oskar- Seyffert- Str. 11 101189 Dresden
+
+| Projektleitung:
+
+Geschäft sbereich 2 | Hochbauamt
+
+6. Zusammenfassung
+Kostenzusammenfassung
+Preisbasis:
+
+Kostenberechnung Entwurfsplanung vom 31.08.2011
+
+Preisbasis (aktuell zur
+
+4491959) E Un me
+
+EEE
+
+=
+
+Erstellung):
+
+Basiskosten
+
+512.756 EUR
+
+z
+
+(incl. Baupreisindex - BPI):
+Risikorahmen
+(ohne Baupreisindex - BPI):
+
+146.369 EUR
+
+Projektkosten
+
+659.125 EUR
+
+(Prognose Stand 28.08.2014)
+
+Bereits vorliegende Gutachten
+Bausubstanz:
+
+Entwurfs- und Ausführungsplanung vorliegend
+
+Boden:
+
+Nein
+
+Luft:
+
+nein
+
+Lärm:
+
+nein
+
+Schadstoffe:
+
+Radongutachten Gebäude
+
+re
+
+a,
+
+a
+
+ee
+A
+
+Abstimmungen zu öffentli ch-rechtlichen Belangen:
+Brandschutz:
+
+vorliegende Baugenehmigung vom 06.03.2012 (AZ 63/8/BG/05802/11)
+LHD Amt f. Brand- u. Katastrophenschutz: Abstimmung gemäß Protokoll vom 14.09.2010
+
+Bauaufsicht:
+
+vorliegende Baugenehmigung vom 06.03.2012 (AZ 63/8/BG/05802/11)
+LHD Bauaufsichtsamt: Abstimmung gemäß Protokoll vom 28.09.2010
+
+Träger öffentlicher Belange:
+
+LDD Arbeitsschutz: Abstimmung gemäß Protokoll vom 06.09.2010
+
+Nutzerabstimmungen:
+Folgende Abstimmungen fanden
+statt:
+
+Planungsberatungen im Zuge der Leistungsphasen 2-6:
+Protokolle Planungsberatungen 01) vom 27.08.2010 bis 09) vom 04.07.2011
+
+Auswertung Machbarkeit.
+Die Überprüfung der Machbarkeit
+ergab folgende Änderungen/
+Ergänzungen gegenüber den im
+Projektauftrag festgelegten
+Anfangsanforderungen:
+
+- SEHR hoher Sanierungsaufwand im Verhältnis zu Kinderzahl und Objektgröße (siehe Kennwerte)
+- grundsätzliche Machbarkeit ja- ABER
+
+durch Anforderungen aus KITA- Nutzung in dem ursprünglich
+
+als Wohnhaus errichteten Gebäude erhöhter Umbau- und Sanierungsaufwand
+- HOHE Kostenrisiken aus vorhandener Bausubstanz und aus Lage im Bereich von Verdachtsflächen bergbaulicher radioaktiver Kontamination (siehe Risikorahmen)
+- Bitte beachten: für innere Sanierung ist Freizug des Gebäudes zwingend erforderlich
+
+Empfehlungen zum weiteren Vorgehen:
+Ausgehend von den im Rahmen
+der Projektprüfung gewonnenen
+Erkenntnissen hält die
+Projektleitung folgende nächste
+
+Schritte für erforderlich:
+
+- Entscheidung durch EB KITA, ob Sanierungs- und Umbaumaßnahmen durchgeführt werden sollen
+- Beachtung der Fristen aus der o.g. Baugenehmigung (ohne Verlängerungsantrag erlischt die
+Baugenehmigung für die Umbau- und Sanierungsmaßnahmen am 06.03.2015)
+- schnellstmögliche Information zur Projektentscheidung an HBA, ggf. Abstimmung weiterer Schritte
+
+28.08.2014
+
+Landeshauptstadt Dresden | Hochbauamt
+
+Auftraggeber:
+Projekt:
+Projektleitung:
+
+Landeshauptstadt Dresden - Geschäftsbereich 5 | Eigenbetrieb Kindertageseinrichtungen
+Kindertageseinrichtung Oskar- Seyffert- Str. 11 1 01189 Dresden
+Geschäftsbereich 2 | Hochbauamt
+
+7. Anlagen
+Anlage 01
+
+Sanierungskonzept - Erläuterungsbericht zur Entwurfsplanung
+
+31.08.2011
+
+Anlage 02
+
+Kurzbeschreibung der Baumaßnahme zur Kostenberechnung nach DIN276
+
+31.08.2011
+
+Anlage 03
+
+Kostenberechnung nach DIN 276
+
+31.08.2011
+
+Projektbericht
+
+HI.5515611°
+
+.
+
+28.08.2014
+
+
