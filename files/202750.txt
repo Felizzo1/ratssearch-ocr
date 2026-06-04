@@ -1,0 +1,104 @@
+Anlage 3 zur Vorlage V0372/15
+Finanzielle Auswirkungen/Deckungsnachweis:
+
+Einanzhaushalt
+Verkaufserlös gesamt
+- davon Anteil
+Ablösebeträge für
+Erschließungsbeiträge
+- davon Anteil zu
+zahlender Kaufpreis
+
+PSP-Element
+
+Sachkonto
+
+Betrag
+in Euro
+
+70.800000.770.019
+
+68210000
+
+644.000,00
+45.254,93
+95.045,46
+
+70.800000.770.019
+
+68210000
+
+503.699,61
+
+10.100.57.1.0.01
+
+|
+50610000
+
+55.200,00
+
+10.100.57.1.0.01
+
+50190000
+
+82.616,00
+
+Ergebnishaushalt
+Ertrag
+‚Außerordentlicher Ertrag
+aus Anlagenabgang mit
+Erlös (Verkaufserlös
+abzgl. Buchwert)
+Ertragswirksame
+Auflösung Auflösung des
+passiven Sonderpostens
+Ertrag gesamt
+Aufwand
+Außerordentlicher
+Aufwand aus
+
+|
+
+137.816,00
+10.100.57.1.0.01
+
+51610000
+
+0)
+
+10.100.57.1.0.01
+
+51191000
+
+82.616,00
+
+Anlagenabgang mit
+Aufwand (Verkaufserlös
+abzgl. Buchwert)
+
+Aufwand für Bildung
+Rückstellung
+nicht durchgereichter
+Förderung
+Aufwand gesamt:
+
+82.616,00
+
+Saldo aus Aufwand
+und Ertrag:
+
+55.200,00
+
+Deckungsnachweis:
+PSP-Element:
+Kostenart:
+
+Werte der Anlagenbuchhaltung:
+Buchwert:
+Anlage 800294
+Verkehrswert:
+
+588.800,00 Euro
+644.000,00 Euro
+
+
