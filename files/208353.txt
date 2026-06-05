@@ -1,0 +1,373 @@
+=
+
+DACHAUFBAU <= 0,2 W/m2K
+2
+
+7
+7
+
+Hessen
+
+I
+
+f
+
+hicht
+
+Filtervlies
+Dränschicht für Extensiv-begrünung
+Abdichtung
+
+ÜITTLITIITTITELLLLETETTILITEITTETTIITTITETTOITTITTTOTTIIITIITTTTT
+
+Gefälledä
+
+=——
+
+ung
+
+Dampfsperre
+Trapezprofil
+
+—
+
+Holzverkleidung
+
+=
+
+——
+
+—
+
+ll
+
+3
+
+3-fach Verglasung <= 1,0 W/m?K
+
+WANDAUFBAU <= 0,2 W/m2K
+Stahlbetonfertigteil als
+Sandwichelement aus:
+- Sichtbeton Weiß
+- Luftschicht mit Distanzhalter
+
+-Wär
+
+x
+& 2 = NIE 2 x 3% x8 58 RR 5% ER I ZZ "2 2% 58 02%3% IS ERTER
+
+- Stahlbetoninnenschale
+
+DETAILANSICHT SPORTHALLE 1.25
+
+Energie- Lebenszykluskonzept.
+Zielstellung: Das Gebäude wird im Niedrigstenergiestandard geplant.
+Das Energii
+
+basiert auf der
+
+Reduzierung des Energiebedarfs für Wärme und Strom und der optimalen
+
+‚Ausnutzung der vor Ort vorhandenen regenerativen Energien. Neben dem hohen Energiestandard wird eine hohe thermische, visuelle
+und akustische Behaglichkeit angestrebt. Als weiteres Ziel werden minimierte
+
+im Lel
+
+zyl
+
+aus ö
+
+und
+
+gesamtökologischer Sicht aufgestellt.
+
+ILLLLLLILLLETLLLLLLLLLLLLLLIILIIIILILTLTTLLTILTLIIITLTDTETLZ7
+
+Integrale Planung / Nachhaltigkeit
+Zielstellung: Schwerpunkt bei der Planung stellt das Zusammenwirken aller baulichen und anlagentechnischen Komponenten dar, mit
+dem Ziel eine möglichst
+effektive
+und wir
+iche sowie
+gleichzt
+resourcenschonende
+Betreibung des Gesamtkomplexes zu
+
+BODENAUFBAU <= 0,2 W/m?K
+
+berbelag Linoleum
+
+Doppelschwingträg:
+
+erreichen.
+
+Wärmedämmung
+i
+E
+
+Wärmedämmung
+
+DETANSEHNITTSPORTHAUE 4,25
+
+Fall A: natürliche Lüftung ohne
+
+je
+
+ee
+
+ei
+
+IIND
+
+1 (ern
+
+il
+—
+
+i
+|gymnasium
+
+Trrrr
+
+3feld süd
+
+in Sommer- und Übergangszeiten
+
+mechanische Unterstützung
+
+Photovoltaik.
+
+e
+
+Dabei wird Wert auf eine möglichst einfache Anlagengestaltung gelegt, ohne dabei funktionale Anforderungen zu
+
+vernachlässigen.
+
+23
+
+_
+Burn
+
+Phokovokaik
+
+INN
+
+uno
+
+|mensa | oberschule
+
+1 (kn
+
+samt
+
+—
+
+oansasmeen
+
+a
+
+3
+3feld
+nord
+
+= |
+
+|
+
+- Srapitenkinung
+= natüriohe Li
+Tbedarfgefnie
+mech Lüftung /Nachauskihung
+
+Photovoltaik
+
+iu
+ensnnsmanz
+
+|
+rege
+
+mes
+
+enger;
+
+Des. mecn
+”
+"opimire Tagpschinzung
+
+Eigennutzung
+
+:
+Latur
+= -opimiere
+rogeerlve Sromerzuugung /Eigennutzung
+
+mare nu
+
+- luftdichte Gebäudehülle
+
+EB 8
+
+55%
+Z.u
+
+Löfung
+
+er
+
+1 Men
+
+ren
+Rurme
+
+zı
+—
+
+a
+|gymnasium
+
+TrrTr
+
+|3feld süd
+
+- spezifischer Jahreswärmebedarf 48 kWh/m?/a
+- spezifischer Jahresstrombedarf 14 kWh/m?/a
+
+ENERGETISCHES KONZEPT SOMMER
+
+(er
+
+IIIINN
+
+33
+
+|
+
+INN
+
+1 len
+
+_
+#
+
+|mensa | oberschule
+
+—3
+
+at Lrung
+WR Verbund mieLüftung
+
+naerene Lrung
+*opinlre Togeienmizung a
+
+durch normale Lüftungsflügel
+
+|eael
+TTIREOnETeE
+3
+3feld
+nord
+
+=
+ZnsileteLtung
+
+tung,
+
+Photovoltaik
+
+wro
+
+‚auch tagsüber, ggf. unterstützt
+
+bedarfsgeführte mechanische Lüftung
+
+Eoemnuzung
+
+ie
+
+rate lung
+m
+
+Lütung
+
+Frischluftversorgung und
+
+- luftdichte Gebäudehülle
+
+2: 3
+
+3E3
+2Eu
+
+- spezifischer Jahreswärmebedarf 48 kWh/m?/a
+- spezifischer Jahresstrombedarf 14 kWh/m?la
+
+ENERGETISCHES KONZEPT WINTER
+
+BEE DORT
+RER
+Fall B: Mechanische Unterstützung
+
+Wird nur während der Nutzungszeit
+
+‚durch Abluftventilator
+
+eingeschaltet, wenn der
+‚CO2-Grenzwert 1000ppm
+überschritten ist. Kaltluftabfall im
+Winter wird durch Beimischung
+von
+‚warmer Raumluft vermieden
+
+|
+
+mit hoher Lüftungseffizienz
+
+OBERSCHULE
+
++12.00 (Attika Gymnasium)
+SZ—
++07.50 (20G Gymnasium)
+Nu
+
++04.00 (10G Gymnasium)
+zZ _—_
+
+SCHNITT UND EINGANG OBERSCHULE
+
+dezentrale Abluft zur Unterstützung
+
+er natürlichen Lüftung
+en
+
+forschlag: Anregung Nutzer zur
+Fensterlüftung durch CO2-Ampel bei z.B.
+‚800ppm, dadurch Reduzierung der
+iebszeit
+LÜFTUNGSKONZEPT KLASSENRAUM
+
+GYMNASIUM
+
++ 12.00 (Attika Gymnasium)
+_—V
+
++07.50 (20G Gymnasium)ım)
+27
+
++04.00 (10G Gymnasium)
+_—V
++00.00 (113.5 ÜNN = OK Gelände = OK EG Gymnasium)
+
+SCHNITT GYMNASIUM UND SÜDL. SPORTHALLE 1:200.
+
+Anlage
+Anlage 5
+5 zur
+zur Begründung
+Begründung
+
+|
+
+|
+
+
