@@ -1,0 +1,48 @@
+Anlage 3
+zu V0633/15
+Anlage
+3 zu
+V0633/15
+Weintraubenstraße 13
+
+4011303405
+4011303405
+2300000007
+
+2000000891
+2000001737
+
+A20029
+A20121
+
+Anlage
+2000000891
+2000001737
+800337
+
+Anlagenbezeichnung
+Weintrauben-13 // Lager
+Weintrauben-13 // Garagen
+Neustadt, Flst. 390/4 (alt Flst. 390 a Teilfläche)
+
+Zujr
+1961
+1982
+2014
+
+SerialNr
+0001TRP
+N000067
+
+Ansch.Wert RBW
+Fläche in m?
+1,00
+1,00
+6.193,06
+1,00
+76.608,00
+76.608,00
+456
+76.610,00
+
+

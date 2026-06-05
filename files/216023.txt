@@ -1,0 +1,4048 @@
+Vintage ©
+zur
+
+V0545/15
+
+IPROconsult
+Kostenberechnung nach DIN 276 Ausgabe 12/2008
+
+Planer Architekten
+
+Bauvorhaben
+
+Kinder- und Jugendhaus (KJH) PIXEL, Ersatzneubau,
+
+Datum
+
+Auftraggeber
+
+Elsterwerdaer Str. 21, 01239 DD
+Landeshauptstadt Dresden / Hochbauamt,
+
+Projekt-Nr.
+
+j
+
+24.11.2014
+
+PF120020, 01001 Dresden
+
+Flächen und Rauminhalte
+
+Kennwerte netto
+
+KG 300
+
+KG 400
+
+- Bruttogrundfläche
+
+BGF
+
+610 m?
+
+1.200,82 €
+
+311,77 €
+
+- Bruttorauminhalt
+
+BRI
+
+2318 m?
+
+316,01 €
+
+82,04 €
+
+- Außenanlagefläche
+
+AUF
+
+625 m?
+
+- Wohnfläche
+
+WFL
+
+m?
+
+Vorgesehene Ausführungszeit
+
+09/2016 - 12/2017
+
+Preisstand
+
+11/ 2014
+
+KG 500
+€/m? BGF
+€/m? BRI
+157,99€
+
+&€/m? AUF
+€/m? WFL
+
+Grundlagen der Kostenberechnung
+Planung vom 30.09.2014
+Leistungsumfang/Leistungsabgrenzung/Risiken
+Abbruchkosten für das Bestandsgebäude sind in der Kostenberechnung nicht beinhaltet. Diese wurden durch die Ing.' Gemeinschaft Wätzig & Koch GbR mit 107.280,00€ BRUTTO inkl. Baunebenkosten eingeschätzt. Leistungsabgrenzung siehe
+Anlage.
+
+Zusammenstellung der Kosten
+
+Blattnr.
+
+Kostengruppen
+
+Betrag
+
+Kostengruppe 100 Baugrundstück
+
+Bemerkungen
+
+/
+
+Kostengruppe 200 Herrichten / Erschließen
+
+9.070,00 €
+
+Kostengruppe 300 Bauwerk - Baukonstruktion
+
+732.500,06 €
+
+Kostengruppe 400 Bauwerk - Techn. Anlagen
+
+190.176,78 €
+
+Kostengruppe 500 Außenanlagen
+
+98.740,65 €
+
+Kostengruppe 600 Ausstattung und Kunstwerke
+
+/
+
+Kostengruppe 700 Baunebenkosten
+
+228.423,05 €
+
+Kostengruppen 100 - 700
+
+1.258.910,54 €
+
+Mehrwertsteuer
+
+19%
+
+239.193,00 €
+
+zur Rundung
+Gesamtkosten
+
+1.498.103,54 €
+
+Planungsbüro
+
+Bauherr
+
+Datum
+
+24.11.2014
+
+Projektleiter
+
+Herr Christian Herold
+
+Unterschrift
+
+Leitender Fachplaner
+Unterschrift
+
+Bestätigung / Freigabe der Kosten
+
+Datum
+
+Herr Erik Noack
+
+Name
+Unterschrift
+
+N:\projekte\4688_16_KIH\9_KOST\99_KOST\893_LP3_A\Berechn\Kostenberechnung_20141113\KIHPixel_20141113_KoBernachDIN276KJHPIxel_20141113_Koße
+rnachDIN276
+
+[) IPROconsult
+Planer Architekten Ingenieure
+
+Kostenberechnung
+
+Kostengruppe
+
+Nr.
+
+100
+
+Baugrundstück
+
+110
+
+Grundstückswert
+
+Gesamtbetrag netto
+
+Teilbetrag netto
+EURO
+
+|
+
+EURO
+
+Summe 110
+
+120
+
+Grundstücksnebenkosten
+
+121
+
+Vermessungsgebühren
+
+122
+
+Gerichtsgebühren
+
+123
+
+Notariatsgebühren
+
+124
+
+Maklerprovisionen
+
+125
+
+Grunderwerbssteuer
+
+126
+
+Wertermittlungen, Untersuchungen
+
+127
+
+Genehmigungsgebühren
+
+128
+
+Bodenordnung, Grenzregulierung
+
+129
+
+Grundstücksnebenkosten, Sonstiges
+/
+
+Summe 120
+
+130
+
+Freimachen
+
+131
+
+Abfindungen
+
+132
+
+Ablösung dinglicher Rechte
+
+139
+
+Freimachen, Sonstiges
+
+Summe 130
+Summe
+
+/
+
+Kostengruppe 100
+
+Anmerkung:
+
+N:\projekte\4688_16_KIH\9_KOST\99_KOST\993_LP3_4\Berechn\Kostenberechnung_20141113\KJHPixel_20141113_KoBernachDIN276KJHPixel_2014111
+3_KoBernachDIN276
+
+Seite
+
+1von 12
+
+IPROconsult
+Kosten
+
+be rech nu ng
+
+Praner
+
+Kostengruppe
+
+Nr.
+
+200
+
+Herrichten und Erschließen
+
+210
+
+Herrichten
+
+211
+
+Sicherungsmaßnahmen
+
+212
+
+Abbruchmaßnahmen
+
+213
+
+Altlastenbeseitigung
+
+214
+
+Herrichten der Geländeoberfläche
+
+219
+
+Herrichten, Sonstiges
+
+Summe 210
+Öffentliche Erschließung
+
+221
+
+Abwasserentsorgung
+
+222
+
+Wasserversorgung
+
+223
+
+Gasversorgung
+
+224
+
+Fernwärmeversorgung
+
+225
+
+Stromversorgung
+
+226
+
+Telekommunikation
+
+227
+
+Verkehrserschließung
+
+228
+
+Abfallentsorgung
+
+229
+
+Öffentliche Erschließung, sonstiges
+
+Summe 220
+
+Gesamtbetrag netto
+
+_ EURO
+
+700,00 €
+7.620,00 €
+750,00 €
+
+9.070,00 €
+Nichtöffentliche Erschließung
+
+Summe 230
+240
+
+EURO
+
+ingenleure
+
+/
+
+220
+
+230
+
+|
+
+Teilbetrag netto
+
+Architekten
+
+/
+Ausgleichsabgaben
+
+Summe 240
+
+/
+
+250
+
+Übergangsmaßnahmen
+
+251
+
+Provisorien
+
+252
+
+Auslagerungen
+
+Summe 250
+
+Summe Kostengruppe 200
+
+/
+
+9.070,00 €
+
+Anmerkung:
+
+N:\projekte\4688_16_KIH\9_KOST\99_KOST\993_LP3_4\Berechn\Kostenberechnung_20141113\K)HPixel_20141113_KoßernachDIN276KJHPixel_2014111
+3_KoBernachDIN276
+
+Seite2 von 12
+
+d IPROconsuit
+
+Kostenberechnung
+
+Planer
+
+Kostengruppe
+
+Nr.
+
+Teilbetrag netto
+EURO
+
+300
+
+Bauwerk - Baukonstruktion
+
+310
+
+Baugrube
+
+311
+
+Baugrubenherstellung
+
+312
+
+Baugrubenumschließung
+
+313
+
+Wasserhaltung
+
+319
+
+Baugrube, sonstiges
+
+Summe 310
+
+|
+
+Architekten
+
+Ingenieute
+
+Gesamtbetrag netto
+EURO
+
+24.097,00 €
+
+24.097,00 €
+
+320
+
+Gründung
+
+321
+322
+
+Baugrundverbesserung
+Flachgründungen
+
+323
+
+Tiefgründungen
+
+324
+
+Unterböden und Bodenplatten
+
+325
+
+Bodenbeläge
+
+47.668,30 €
+
+326
+
+Bauwerksabdichtungen
+
+10.022,50 €
+
+327
+
+Dränagen
+
+329
+
+Gründung, sonstiges
+
+Summe 320
+
+44.320,50 €
+48.392,00 €
+
+150.403,30 €
+
+330
+
+Außenwände
+
+331
+
+Tragende Außenwände
+
+35.551,00 €
+
+332
+
+Nichttragende Außenwände
+
+333
+
+Außenstützen
+
+10.851,00 €
+
+334
+
+Außentüren und -fenster
+
+88.801,80 €
+
+335
+
+Außenwandbekleidungen, außen
+
+95.755,46 €
+
+336
+
+Außenwandbekleidungen, innen
+
+337
+
+Elementierte Außenwände
+
+338
+
+Sonnenschutz
+
+339
+
+Außenwände, sonstiges
+
+Summe 330
+
+230.959,26 €
+
+Anmerkung:
+
+N:\projekte\4688_16_KIH\9_KOST\99_KOST\993_LP3_4\Berechn\Kostenberechnung_20141113\KJHPixel_20141113_KoßernachDIN276KIHPixel_2014111
+3_KoBernachDIN 276
+
+Seite
+
+3von 12
+
+D
+
+Kostenberechnung
+
+Kostengruppe
+
+Nr.
+
+IPROconsuit
+Pianer
+
+Aschitekten
+
+Ingenieure
+
+Gesamtbetrag netto
+
+Teilbetrag netto
+EURO
+
+340
+
+Innenwände
+
+341
+342
+
+Tragende Innenwände
+Nichttragende Innenwände
+
+343
+
+Innenstützen
+
+1.123,00 €
+
+344
+
+Innentüren und -fenster
+
+18.326,00 €
+
+345
+
+Innenwandbekleidungen
+
+27.523,40 €
+
+346
+
+Elementierte Innenwände
+
+5.380,00 €
+
+349
+
+Innenwände, sonstiges
+
+4.795,00 €
+
+Summe 340
+
+18.586,54 €
+26.019,50 €
+
+101.753,44 €
+
+350
+
+Decken
+
+351
+
+Deckenkonstruktionen
+
+352
+
+Deckenbeläge
+
+353
+
+Deckenbekleidungen
+
+359
+
+Decken, sonstiges
+
+Summe 350
+
+/
+
+360
+
+Dächer
+
+361
+
+Dachkonstruktionen
+
+362
+
+Dachfenster, Dachöffnungen
+
+362
+
+Dachbeläge
+
+76.973,60 €
+
+364
+
+Dachbekleidungen
+
+25.281,00 €
+
+369
+
+Dächer, sonstiges
+
+1.333,60 €
+
+Summe 360
+
+70.080,00 €
+
+173.668,20 €
+
+370
+
+Baukonstruktive Einbauten
+
+371
+
+Allgemeine Einbauten
+
+372
+
+Besondere Einbauten
+
+379
+
+Baukonstruktive Einbauten, sonstiges '
+
+Summe 370
+
+6.950,00 €
+6.950,00 €
+
+Anmerkung:
+
+N:\projekte\4688_16_KIH\9_KOST\99_KOST\993_LP3_4\Berechn\Kostenberechnung_20141113\KJHPixe)_20141113_KoBernachDIN276KJHPixel_2014111
+3_KoBernachDIN 276
+
+Seite 4 von 12
+
+LI IPROconsult
+Kostenberechnung
+
+Planer
+
+Kostengruppe
+
+Nr.
+
+Teilbetrag netto
+EURO
+
+390
+
+Sonstige Maßnahmen für Baukonstruktionen
+
+391
+
+Baustelleneinrichtung
+
+34.037,30 €
+
+392
+
+Gerüste
+
+10.631,56 €
+
+393
+
+Sicherungsmaßnahmen
+
+394
+
+Abbruchmaßnahmen
+
+395
+
+Instandsetzungen
+
+396
+
+Materialentsorgung
+
+397
+
+Zusätzliche Maßnahmen
+
+398
+
+Provisorische Baukonstruktionen
+
+399
+
+Sonstige Maßnahmen für Baukonstruktionen,
+
+Architekten
+
+Ingenieure
+
+Gesamtbetrag netto
+EURO
+
+sonstiges
+
+Summe 390
+
+44.668,86 €
+
+Summe Kostengruppe 300
+
+732.500,06 €
+
+400
+
+Bauwerk - Technische Anlagen
+
+410
+
+Abwasser-, Wasser-, Gasanlagen
+
+411
+
+Abwasseranlagen
+
+6.012,30 €
+
+412
+
+Wasseranlagen
+
+26.663,60 €
+
+413
+
+Gasanlagen
+
+419
+
+Abwasser-, Wasser-, Gasanlagen, sonstiges
+
+Summe 410
+
+2.476,50 €
+
+35.152,40 €
+
+420
+
+Wärmeversorgungsanlagen
+
+421
+422
+
+Wärmeerzeugungsanlagen
+Wärmeverteilnetze
+
+7.250,00 €
+9.535,90 €
+
+423
+
+Raumheizflächen
+
+15.565,80 €
+
+429
+
+Wärmeversorgungsanlagen, sonstiges
+
+2.523,88 €
+
+Summe 420
+
+34.875,58 €
+
+430
+
+Lufttechnische Anlagen
+
+431
+
+Lüftungsanlagen
+
+432
+
+Teilklimaanlagen
+
+433
+
+Klimaanlagen
+
+434
+
+Kälteanlagen
+
+439
+
+Lufttechnische Anlagen, sonstiges
+
+Summe 430
+
+23.405,20 €
+
+2.536,00 €
+
+25.941,20 €
+
+Anmerkung:
+
+N:\projekte\4688_16_KJ H\9_KOST\99_KOST\993_LP3_4\Berechn\Kostenberechnung_20141113\KIHPixel_20141113_KoBernachDIN276KJHPixel_2014111
+3_KoßernachDIN276
+
+Seite5 von 12
+
+[l IPROconsult
+Kostenberechn
+
+u ng
+
+Planer
+
+Kostengruppe
+
+Nr.
+
+|
+
+Teilbetrag netto
+EURO
+
+440
+
+Starkstromanlagen
+
+441
+
+Hoch- und Mittelspannungsanlagen
+
+442
+
+Eigenstromversorgungsanlagen
+
+Gesamtbetrag netto
+
+6.571,00 €
+
+Niederspannungsschaltanlagen
+
+444
+
+Niederspannungsinstallationsanlagen
+
+33.087,10 €
+
+445
+
+Beleuchtungsanlagen
+
+19.365,00 €
+
+446
+
+Blitzschutz- und Erdungsanlagen
+
+3.959,00 €
+
+449
+
+Starkstromanlagen, sonstiges
+
+743,00 €
+
+63.725,10 €
+
+450
+
+Fernmelde- und informationstechnische Anlagen
+
+451
+
+Telekommunikationsanlagen
+
+199,50 €
+
+452
+
+Such- und Signalanlagen
+
+886,00 €
+
+453
+
+Zeitdienstanlagen
+
+454
+
+Elektroakustische Anlagen
+
+455
+
+Fernseh- und Antennenanlagen
+
+456
+
+Gefahrenmelde- und Alarmanlagen
+
+8.709,50 €
+
+457
+
+Übertragungsnetze
+
+4.949,50 €
+
+459
+
+Ingenieure
+
+EURO
+
+443
+
+Summe 440
+
+Architekten
+
+'
+
+Fernmelde- und informationstechnische
+Anlagen, sonstiges
+
+Summe 450
+
+14.744,50 €
+
+460
+
+Förderanlagen
+
+461
+
+Aufzugsanlagen
+
+462
+
+Fahrtreppen, Fahrsteige
+
+463
+
+Befahranlagen
+
+464
+
+Transportanlagen
+
+465
+
+Krananlagen
+
+469
+
+Förderanlagen, sonstiges
+
+Summe 460
+
+/
+
+Anmerkung:
+
+N:\projekte\4688_16_KIH\9_KOST\99_KOST\993_LP3_4\Berechn\Kostenberechnung_20141113\KJHPixel_20141113_KoßernachDIN276KJHPixel_2014111
+3_KoBernachDIN276
+
+Seite6 von 12
+
+[L) IPROconsult
+Koste
+
+n be rech nu ng
+
+Pianer
+
+Kostengruppe
+
+Nr.
+
+|
+
+Teilbetrag netto
+EURO
+
+470
+
+Ingenieure
+
+Gesamtbetrag netto
+EURO
+
+Nutzungsspezifische Anlagen
+
+471
+
+Küchentechnische Anlagen
+
+472
+
+Wäscherei- und Reinigungsanlagen
+
+473
+
+Medienversorgungsanlagen
+
+474
+
+Medizin- und labortechnische Anlagen
+
+475
+
+Feuerlöschanlagen
+
+476
+
+Badetechnische Anlagen
+
+477
+
+Prozesswärme-, kälte- und -luftanlagen
+
+478
+
+Entsorgungsanlagen
+
+479
+
+Nutzungsspezifische Anlagen, sonstiges
+
+Summe 470
+
+/
+
+480
+
+Gebäudeautomation
+
+481
+
+Automationssysteme
+
+482
+
+Schaltschränke
+
+483
+
+Management- und Bedieneinrichtungen
+
+484
+
+Raumautomationssysteme
+
+485
+
+Übertragungsnetze
+
+489
+
+Gebäudeautomation, sonstiges
+
+Summe 480
+
+/
+
+490
+
+Sonstige Maßnahmen für technische Anlagen
+
+491
+
+Baustelleneinrichtung
+
+492
+
+Gerüste
+
+"493
+
+Sicherungsmaßnahmen
+
+494
+
+Abbruchmaßnahmen
+
+495
+
+Instandsetzungen
+
+496
+
+Materialentsorgung
+
+497
+
+Zusätzliche Maßnahmen
+
+498
+
+Provisorische technische Anlagen
+
+499
+
+Architekten
+
+Sonstige Maßnahmen für technische Anlagen,
+
+14.868,00 €
+
+870,00 €
+
+sonstiges
+
+Summe 490
+
+Summe Kostengruppe 400
+
+15.738,00 €
+
+190.176,78 €
+
+Anmerkung:
+
+N:\projekte\4688_16_KIH\9_KOST\99_KOST\993_LP3_4\Berechn\Kostenberechnung_20141113\KJHPixel_20141113_KoBernachDIN276KJHPixel_2014111
+3_KoBernachDIN276
+
+Seite 7 von 12
+
+[L IPROconsult
+Planer
+
+Kostenberechnung
+
+Kostengruppe
+
+Nr.
+
+|
+
+Teilbetrag netto
+EURO
+
+500
+
+Außenanlagen
+
+510
+
+Geländeflächen
+
+511
+
+Oberbodenarbeiten
+
+512
+
+Bodenarbeiten
+
+519
+
+Geländeflächen, sonstiges
+
+Architekten
+
+Ingenieure
+
+Gesamtbetrag netto
+EURO
+
+/
+
+Summe 510
+
+520
+
+Befestigte Flächen
+
+521
+
+[wege
+
+6.585,00 €
+
+522
+
+Straßen
+
+21.980,00 €
+
+523
+
+Plätze, Höfe
+
+3.700,00 €
+
+524
+
+Stellplätze
+
+525
+
+Sportplatzflächen
+
+526
+
+Spielplatzflächen
+
+527
+
+Gleisanlagen
+
+529
+
+Befestigte Flächen, sonstiges
+
+Summe 520
+
+32.265,00 €
+
+530
+
+Baukonstruktionen in Außenanlagen
+
+531
+
+Einfriedungen
+
+532
+
+Schutzkonstruktionen
+
+533
+
+Mauern, Wände
+
+534
+
+Rampen, Treppen, Tribünen
+
+535
+
+Überdachungen
+
+536
+
+Brücken, Stege
+
+537
+
+Kanal- und Schachtbauanlagen
+
+538
+
+Wasserbauliche Anlagen
+
+539
+
+Baukonstruktionen in Außenanlagen, sonstiges
+
+Summe 530
+
+6.775,00 €
+
+25.814,65 €
+
+1.350,00 €
+33.939,65 €.
+
+Anmerkung:
+
+N:\projekte\4688_16_KJH\9_KOST\99_KOST\993_LP3_4\Berechn\Kostenberechnung_20141113\KJHPixel_20141113_KoBernachDIN276KJHPixel_2014111
+3_KoBernachDIN276
+
+Seite8von 12
+
+IPROconsult
+pianer
+
+Kostenberechnung
+
+Kostengruppe
+
+Nr.
+
+|
+
+Teilbetrag netto
+EURO
+
+Technische Anlagen in Außenanlagen
+Abwasseranlagen
+
+18.975,00 €
+
+542
+
+Wasseranlagen
+
+2.480,00 €
+
+543
+
+Gasanlagen
+Wärmeversorgungsanlagen
+
+545
+
+Lufttechnische Anlagen
+
+546
+
+Starkstromanlagen
+
+547
+548
+
+Fernmelde- und informationstechnische
+Anlagen
+Nutzungsspezifische Anlagen
+
+549
+
+Technische Anlagen in Außenanlagen, sonstiges
+
+Gesamtbetrag netto
+
+21.455,00 €
+
+Summe 540
+
+550
+
+Einbauten in Außenanlagen
+
+551
+
+Allgemeine Einbauten
+
+552
+
+Besondere Einbauten
+
+559
+
+Einbauten in Außenanlagen, sonstiges
+
+Summe 550
+
+5.000,00 €
+
+5.000,00 €
+
+560
+
+Wasserflächen
+
+561
+
+Abdichtungen
+
+562
+
+Bepflanzungen
+
+569
+
+Wasserflächen, sonstiges
+
+Summe 560
+
+/
+
+570
+571
+
+Pflanz- und Saatflächen
+Oberbodenarbeiten
+
+572
+
+Vegetationstechnische Bodenbearbeitung
+
+573
+
+Sicherungsbauweise
+
+574
+
+Pflanzen
+
+2.920,00 €
+
+575
+
+Rasen uns Ansaaten
+
+1.161,00 €
+
+576
+
+Begrünung unterbauter Flächen
+
+579
+
+Pflanz- und Saatflächen, sonstiges
+
+Summe 570
+
+Ingenteure
+
+EURO
+
+540
+541
+
+544
+
+Architekten
+
+4.081,00 €
+
+Anmerkung:
+
+N:\projekte\4688_16_KJH\9_KOST\99_KOST\993_LP3_4\Berechn\Kostenberechnung_20141113\KJHPixel_20141113_KoBernachDIN276KJHPixel_2014111
+3_KoBernachDIN276
+Seite 9 von 12
+
+IPROconsult
+Pianer
+
+Kosten berech nu ng
+
+Kostengruppe
+
+Nr.
+
+590
+
+Sonstige Außenanlagen
+
+591
+
+Baustelleneinrichtung
+
+592
+
+|
+
+Teilbetrag netto
+EURO
+
+Architekten
+
+Ingenieure
+
+Gesamtbetrag netto
+EURO
+
+1.000,00 €
+
+Gerüste
+
+593
+
+. [Sicherungsmaßnahmen
+
+594
+
+Abbruchmaßnahmen
+
+595
+
+Instandsetzungen
+
+596
+
+Materialentsorgung
+
+597
+
+Zusätzliche Maßnahmen
+
+598
+
+Provisorische Außenanlagen
+
+599
+
+Sonstige Maßnahmen für Außenanlagen,
+
+750,00 €
+
+250,00 €
+
+sonstiges
+
+Summe 590
+
+2.000,00 €
+
+Summe Kostengruppe 500
+600
+
+Ausstattung und Kunstwerke
+
+610
+
+Ausstattung
+
+611
+
+Allgemeine Ausstattung
+
+612
+
+Besondere Ausstattung
+
+619
+
+Ausstattung, sonstiges
+
+Summe 610
+
+98.740,65 €
+
+/
+
+620
+
+Kunstwerke
+
+621
+
+Kunstobjekte
+
+622
+
+Künstlerisch gestaltete Bauteile des Bauwerks
+
+623
+
+Künstlerisch gestaltete Bauteile der
+Außenalagen
+
+629
+
+Kunstwerke, sonstiges
+
+Summe 620
+
+Summe Kostengruppe 600
+
+/
+
+/
+
+Anmerkung:
+
+N:\projekte\4688_16_KIH\9_KOST\99_KOST\993_LP3_4\Berechn\Kostenberechnung_20141113\KJHPixel_20141113_KoBernachDIN276KJHPixel_2014111
+3_KoBernachDIN 276
+Seite 10 von 12
+
+IPROconsult
+Planer
+
+Kostenberechnung
+
+Kostengruppe
+
+Nr.
+
+700
+
+Baunebenkosten
+
+710
+
+Bauherrenaufgaben
+
+711
+
+Projektleitung
+
+712
+
+Bedarfsplanung
+
+713
+
+Projektsteuerung
+
+719
+
+Bauherrenaufgaben, sonstiges
+
+|
+
+Teilbetrag netto
+EURO
+
+Architekten
+
+Ingenieure
+
+Gesamtbetrag netto
+- EURO
+
+/
+
+Summe 710
+
+720
+
+Vorbereitung der Objektplanung
+
+721
+
+Untersuchungen
+
+722
+
+Wertermittlungen
+
+723
+
+Städtebauliche Leistungen
+
+724
+
+Landschaftsplanerische Leistungen
+
+725
+
+Wettbewerbe
+
+729
+
+Vorbereitung der Objektplanung, sonstiges
+
+Summe 720
+
+/
+
+730
+
+Architekten- und Ingenieurleistungen
+
+731
+732
+
+Gebäudeplanung
+Freianlagenplanung
+
+733
+
+Planung der raumbildenden Ausbauten
+
+734
+
+Planung der Ingenieurbauwerke und
+
+147.628,29 €
+9.440,52 €
+6.551,01 €
+
+Verkehrsanlagen
+735
+
+Tragwerksplanung
+
+736
+
+Planung der technischen Ausrüstung
+
+739
+
+Architekten- und Ingenieurleistungen, sonstiges
+
+Summe 730 Summe 710
+
+52.051,88 €
+
+215.671,70 €
+
+Anmerkung:
+
+N:\projekte\4688_16_KIH\9_KOST\99_KOST\993_LP3_4\Berechn\Kostenberechnung_20141113\KJHPixel_20141113_KoBernachDIN276KIHPixel_2014111
+3_KoBernachDIN276
+
+Seiteilvon12
+
+IPROconsult
+Planer
+
+Kostenberechnung
+
+Kostengruppe
+
+Nr.
+
+|
+
+Teilbetrag netto
+
+Gutachten und Beratung
+
+741
+
+Thermische Bauphysik
+
+742
+
+Schallschutz und Raumakustik
+
+743
+
+Bodenmechanik, Erd- und Grundbau
+
+7a4
+
+Vermessung
+
+745
+
+Lichttechnik, Tageslichttechnik
+
+746
+
+Brandschutz
+
+747
+
+Sicherheits- und Gesundheitsschutz
+
+. 748
+749
+
+Gesamtbetrag netto
+
+Umweltschutz, Altlasten
+Gutachten und Beratung, sonstiges
+
+12.751,35 €
+
+12.751,35 €
+
+Summe 740
+750
+
+Künstlerische Leistungen
+
+751
+
+Kunstwettbewerbe
+
+752
+
+Honorare
+
+759
+
+Künstlerische Leistungen, sonstiges
+/
+
+Summe 750
+
+760
+
+Finanzierungskosten
+
+761
+
+Finanzierungsbeschaffung
+
+762
+
+Fremdkapitalzinsen
+
+763
+
+Eigenkapitalzinsen
+
+769
+
+Finanzierungskosten, sonstiges
+
+/
+
+Summe 760
+770
+
+Allgemeine Baunebenkosten
+
+71
+
+Prüfung, Genehmigung, Abnahmen
+
+772
+
+Bewirtschaftungskosten
+
+773
+
+Bemusterungskosten
+
+774
+
+Betriebskosten nach der Abnahme
+
+775
+
+Versicherungen
+
+779
+
+Allgemeine Baunebenkosten, sonstiges
+/
+
+Summe 770
+790
+
+Ingenieure
+
+EURO
+
+EURO
+
+740
+
+Architekten
+
+Sonstige Baunebenkosten
+
+Summe 790
+Summe Kostengruppe 700
+
+/
+228.423,05 €
+
+Hinweis auf beigefügte Pläne, Erläuterungen und Berechnungen:
+
+N:\projekte\4688_16_KIH\9_KOST\99_KOST\993_LP3_4\Berechn\Kostenberechnung_20141113\KJHPixel_20141113_KoBernachDIN276KJHPixel_2014111
+3_KoBernachDIN276
+
+Seite 12 von 12
+
+080°0L’20'20°E0
+
+) 3195
+
+yun'quoa Ine "sagaıngs+'plarqne "asagzseypixod3 'yauysuy 'ggneIs
+
+jne
+
+szE
+
+-uspog
+
+0E0°01°L0°20°E0
+020°01°10°20°E0
+0L0'0,'10°20'E0
+
+pun
+
+obejag
+usyerdyuawepung
+
+(ewyBxor,) anerduspog Buniyamag
+
+0r0°02°L0°20'E0
+
+(S9S-F4-19) "wwgg 'yaıysaziay Sie "Puawunmyss "Wu)seguawsz
+wwog sıq OF '(Sd) Wney9sjosAsäjog 'Busqasuonejjejsuj
+punußisgun uabrulay
+
+0r0°0,°’L0°20'E0
+
+0r0°01’20°20°E0
+
+zw 000'62
+
+Guayun ‘339504 ne "Biyepiaige Puswwepjewpsyw 'Bejsqunajour]
+
+oo'ee
+
+08'82
+
+0£0°0L’Z0‘20°E0
+020°0,’20°20°E0
+0L.0°01°20°20°E0
+020°02°L0°20°E0
+0L.0°02°r0°20°E0
+050°0,’10°20°E0
+
+zw 000'°E9
+
+00'620°2
+
+00'091 2
+
+“aBrajun ‘saqlon jne "Puauswepjeyssyiu "Bersqunasjoum
+ww sıq 'ujstyoeds
+punrußssjun uablulay
+'
+9039 ‘Am 'wOL'LX0OG'Z "uawyeruspeyy+Inepagnes
+ua ‘4m 'worL‘1X0S'Z "uswyesuspeyy+nepagnes
+Oyumja]sgepuey
+
+0€'899'2%
+
+00'208°8
+00'zı6°€
+09'HrZ
+
+00'000'1
+
+pıns3 'uapauyos sbnysbundamag
+
+zw 000°582
+zu 000'E0r
+zw 000'E0r
+IS 000°1
+IS 000'1
+w 00001
+
+080°02'10°20°E0
+£°020'02'L0°Z0°E0
+2’020'02'L0'20’E0
+020'02'10°20°E0
+090°02'10°20°E0
+050°02'L0°20°E0
+
+00'5E
+00'Sh1
+ew 000'°621
+
+0zE
+
+rzE
+
+Bunpunıg
+
+Bunsassaquaapun.ßneg
+
+1 008'22
+
+00'009°22
+
+00'001
+00'251
+00'22
+00'000°2
+00'080'°2
+00'066'2
+
+A
+ew 000'28€E'1L
+
+w 000'0€
+
+00°9
+0s'€
+08'0
+00°002°
+00°002'1
+00'82
+ziu 000°68%
+zw 000'68r
+zw 000'68r
+
+(ewy5y02) juawepunjuapnans ‘Bunyamag
+Juawepunjusang 'nes ‘Bunjeyos
+z pepsoN "UOHE=A 'LOJBALyEIS '0E/SZI "UOWEPUNJuaJans
+(ewyBy2g) veßunynornuy Bunsyamag
+BunjnoAauy 'nes "Bunjeyos
+I+V asypy 'u002/001 "uaßunynonauy 'ayerduspog
+
+0E0°02'L0°20°E0
+020'02'L0°20°E0
+zze
+L.0L0°02°L0'20'E0
+
+00'E06
+00'566°21
+00'76€°8r
+00'8F0'02
+05'211
+
+00°
+
+o0'81
+00'8
+08'0
+100r'0
+zu 008'E
+ew 009'0
+-3.000'2
+zw 000'25
+ew 000'92
+
+wogZz=p 'Idgg Bungeypspuey
+WOGZ=P "IM 'LAX 'ZIX LEIDEN "SNerduspog'ais
+usßunpunußyserg
+wuyps}solJ wu Önznz "um SZ '(AwyM Z1'0=<) Jyonpsjeinueßuwneupsseig
+
+020°0€'L0°L0°E0
+
+00'0,2
+
+00'072
+0S'0Lr'1
+09'102
+00'002}
+00'002
+00'082
+
+00°000'1
+00'0r
+00'021
+00'000’
+00'0r
+00'StL
+zw 008'52
+ew 000'E51
+
+wwgg/o sıq ZE/0 "ystwaßjessumy ‘sqnußneg ‘Bunjnyny
+
+0g'z12 v2
+08'0zE pr
+
+3
+3
+3
+
+o1E
+00€
+
+Lie
+
+eqnıßneg
+uUSUONNNAJSUOYNEg - omneg
+jwesog
+
+8Pod
+
+»afoad
+
+aınajuaßu] uEPfalyssy Jaueld HAWS YNSUOIONdI
+
+uapsaıdı 69010 ‘02 Syensuouyos
+
+9, -L59P /LSEO OL
+
+[8Xid sneypusßnf pun -sapuıy - HrM 91 989%
+
+SNNNHI3UY3SN3ILSOM
+
+BunuypIozag
+
+Bunjeyssoyusgqnußneg
+
+0E'E0r°0St
+
+00'002° 1
+00'000°S
+
+000'8
+000'1
+000'L1
+000'1
+000°,
+000'920°1
+000'1
+000'02
+
+yayu3 ‚sbuayy
+
+oM
+wsd
+zw
+yosd
+ıasd
+ew
+yosd
+zw
+
+7’000°08’L0'L0°E0
+L’000'05’L0'10°E0
+0E0’OF’LO’LO’EO
+020’0F'L0’L0°E0
+0L0'0F'LO'LO’EO
+0L.0°0E°10°L0°E0
+0L0'02°L0°.0°E0
+L’000°0L°L0°L0'E0
+
+00'081
+00'000°G
+00'0SE
+00'008
+00°000°1
+0S'P1
+00'008°2
+00'92
+
+oyau d3
+
+Jaueld
+
+vd
+
+Bunjjeysassem Bunyeyson
+snoe-0, "ualıpnus'usyo'bunyeyiassem
+Gunuyog ayuyonan sje Puemyogioßes, ste neqianusgqnußneg
+nequay ANels
+neqsaA Bunfpuusuajjejsneg
+uaIyeJge Pun uasg] 'S-£ "Pig 'anysneusgnußneg 'Bunssyamız
+znypsjozinyy vewyeuyewsbunssuynis
+uawng4 'USJYPLUIS "LSPOLVS-SEIN 'INXEJOAS) "SUVEHPUEISUEIY
+
+00'160’vz
+
+00'228 v1
+00'008'°2
+00'025
+00‘160°92
+80'008’ZEL
+90'005’zEL
+
+ana ur eßenag alıy
+
+oysu d9
+
+vapjalıydıy
+
+FLOZLL EL
+aınamwmabur
+
+NNSUOIQUdI
+
+c 1a9S
+
+00.0095
+
+00'052
+
+00'005°S
+
+00'005°S
+
+0000091
+
+00'82
+
+00°002'91
+
+08‘108'88
+
+oo’ope'ze
+
+00,008"?
+
+00'051
+
+00'005°S
+
+00°008°S
+
+00°000°€
+
+co'sı
+
+c0'0sE
+
+00'00€
+
+00°000'
+
+00'6
+
+00'000°%
+
+00'960°S
+
+IS 000°
+
+IS 000'5
+
+wog‘ x 17°2 ‘(0Z2'L=<) BÖnyyaH “Biraßny-z In L-Seis-Nniv
+
+Bugjpuyn 'wog'zxgs'z '(0Z'L=<) BÖNYy4SH "IÖny-Z Un L-SELI-NIV
+
+syasusßsßpueg 'BusıpslaH "w JsyaNypsunjusgo
+
+0L0°02°L0°FO’EO
+
+‚0£0°02°L0°F0°E0
+
+L’0F0°02'L0°F0°E0
+
+OrL’02’L0'20°E0
+
+0S1’02'L0°20'E0
+
+091’02'L0’Z0°E0
+
+vEE
+
+OP0°0L’LO'F0'EO
+020°0,°L0°v0°E0
+0L0°01°L0°0'E0
+
+020°02’L0'P0°E0
+
+090°02°L0’90°E0
+
+IS 000°)
+
+BueBwsusas "wWwHOSZ/ZL'L SIA SBB'O "E20 =H/8 "BU-L IN L-SEIS-NIV
+
+"By-z 'qeinuejaßnyyaug Towonyalz
+
+IS 000'5
+
+Z1PsUsUVoS Jepausaju"Nsuoy-sajsuag-niy "abeinz
+
+IS 00072
+
+zu 000'5
+
+aM
+MN" NSUOY-ISURI-NIY
+wog'Z=y 'y'L=>P
+"usanluagny
+
+(euyB4y62) azımsusyny-gis Bunuyamag
+
+39)SU8J-
+
+zu 007°76
+
+WOZEIGZL SIQ OS/FZ UOR 'LEI0EI 'ZUS "SZIMSURYNY-IS Bungeyos
+
+Jajsua4-9M ‘Bunsajunes 'sßenz
+
+zu 000'%5
+
+1 000%
+
+zw 000'r04
+
+wozE/SZL SIQ 08/92 Uon '2E/0EI "azIsuagny-gNS
+
+oLE‘OZ’LO'20°EO
+
+080°07°L0’Z0’E0
+
+gee
+
+ew 000'E1
+
+uSZINIsuSgNy epuoßen,
+
+0L0°0F’L0’Z0’E0
+
+(euydygsı) exmv Bunsyamag
+
+o£€
+
+050°02'10'20°E0
+090°02'10°20'E0
+0E0°02°10'20°E0
+
+010°02°10°Z0°E0
+
+zuyßogı aqamaßuapjassejg ‘INxaj039 'sBejuuasL
+usßunyysipgessuomneg
+abJezin, YO stq Biguepysw 'WO0LXOL'EnaZUIaJSUI3 | ‘JejUeS 'asarygpuemy,
+
+0r0°0r’E0'20°E0
+
+01.0°02’L0'20°E0
+9zE
+090°0L’E0'20°E0
+
+L’020'02°L0'20°E0
+
+64 'WIOLXOL Teunozgujagy JeNUES Ssaiyuspog
+
+0L0’0L’EO'20°EO
+
+3p09
+
+090°01'20°20°E0
+
+020°0L°E0'20'E0
+
+0E0’0L’EO'20'EO
+
+Bunuypiazeg
+
+889%
+
+»iafold
+
+ONNNHI3UYISNFLSOM
+
+91
+
+Sınalushu] uepjagtyasy Jaueld HQWS ynsuo9QNdI
+
+ZIL-IS9P /LGEO "IOL
+uapsaıd 69010 ‘02 Byensuouyog
+
+[axId SNeypusßnrf pun -18puI4 - HM
+
+WOOL=H 'JOR NZ YOLIsUBjSPOS
+
+uSypapueq, 'ssniLPSuepugyyuapog
+
+050°04°E0'20'E0
+
+Bunsejosipjans
+eyueg ‘uapog
+punußsajun uabluay
+
+080°01°20'20'E0
+020°0,°20°20°E0
+
+[aPOSUBSa1 4
+
+uauSjpSUURJL
+wwgg Yeyyoyyo "IsIsuny 'alsjeespog
+
+bunwwepusjswusdg jne ugequaddon apatypseysana
+
+LEE
+
+opugmusgny
+
+060°02°10°20°E0
+
+Spuemusgny apuaßes,
+
+00.000°1
+
+ung'ge=Pp 'wGgE‘) 97 "lELPS-N-IaBaiz Jalsuay
+
+u 000'6}
+
+ywyMOr'0=> AOjauueM 'WOg'gE=P '8'L - IVZL 'ZIH 'Puemusgny-MWN
+
+00€°02°10°20°E0
+062°02'L0°20'E0
+0EL’OZ'L0'Z0'E0
+0Z1’0Z'L0’20°E0
+OLL’OZ'L0'20'E0
+001°02°L0'20'E0
+
+00'5h
+zw 000'202
+
+eymy Bunjeyps
+LEIOEI "EINS
+unze=qg 'ZzgS 'usyjeg-ais Bunjeups
+(euyBxost) uexieg-gis Bunuyamag
+WOLZLIZE "LEIOED 'MWN Jne 'puemuagny 'uayjeg-Ms
+(euyBygez) uayeg-gis Bunıyamag
+
+ew 000'°5
+
+020'02'L0'20'E0
+
+UMOB/ZE 'LEIDEO 'MIN INe "Puemusgny ‘uaxjeg-MS
+
+o0'sht
+
+ypepsoy "Bunupıpgy
+Bunsyryupanptegey) uayypıpuıg
+WU100Z SIq=P "Buniympunpıyoy uarpIpulg
+
+/aBuayy
+
+Aw 'Puemusyny Bunupipgy
+
+zu 000°,
+IS 000°5
+IS 000'5
+
+yeyug
+
+w 000'02
+
+w 000'92
+w 000'952
+
+zw
+
+000'89
+zu 000'89
+
+w 000'S22
+
+zw 000'89
+
+w 000'0, 1
+
+zu 000'661
+
+zw 000'119
+
+zu 000‘%65
+
+zw 000°2r
+
+PL S6LBLNIA Yeu ‘95 002 9 'uapog "sjyonag Bunyypipqy
+
+00'5%
+00°05
+
+00°01
+
+08'2
+
+00°01
+
+os’
+
+05'81
+
+o0'se
+00,5r
+00'59
+zw 000'2r
+
+» 00r'E
+
+00'88
+
+zw 000°LL1
+000'21
+eu 000'18
+zu
+’ 009}
+ew 000°
+’ 0021
+
+o0'sel
+
+Vd
+
+00°0€
+00'521
+00'%%
+00'000'}
+00'Stı
+00'000'}
+
+00'552}
+00°,58°01
+
+00'558
+
+oo'00r'E
+
+00'9L2'81
+
+00'0EE°E
+00'212
+0'SHOrE
+co'00r'1
+00'508
+00'002°}
+
+00'528
+
+97'696°0€7
+
+00',39’SE
+
+05'698
+
+00'565
+00'522
+o0'sze
+05'0#6
+
+00'076°5
+os’225'ı
+05'220°01
+00'596°8
+
+00'001}
+
+00'00r°E
+05'0
+
+059
+
+00'01
+
+052821
+
+00'089
+
+00’v€
+
+021
+ser
+00'5
+
+og'zzı
+05'620'1
+00°0SE
+
+onsu da
+
+una u oBenag alıy
+
+Jdueld
+
+onau JO
+
+vioz'rr'cı
+aınaıwaßu} WEPjalydıy
+
+NNSUOIQUdI
+
+€ 21195
+
+00'826
+00'09€°}
+00'ze1
+05'r6
+00'962
+05'09€
+00'36€ °
+00'921
+00'gE1
+00'912
+00'058
+00'8r
+05'151
+00'962°5
+00'E61 2
+00'090°9
+05'6L0°97
+00'25€°2
+00'2106°2
+00'090°21
+00'002
+0s'L8r
+0'985
+vs'983’8L
+vr'esz’r0r
+
+00'zr
+00°15
+00'09
+00'000'}
+05'€5
+02'€9
+
+00'9
+00°21
+0s'E
+os'E
+0s°€
+0g'€
+00'22
+00‘0r
+o0'E2
+00'212
+00'527
+00'727
+00'5H
+00'zr
+00'158
+00'09
+zu 000'99
+zw 000°45
+zu 000°,02
+I 002°0
+zu 000'6
+u 002'6
+
+w 000'E91
+w 000'08
+w 000'25
+w 000'22
+w 000'%8
+w 000'E01
+w 000'81
+w 00#'r
+w 0009
+w 000'8
+w 000'2
+w 000'2
+u 008'€
+zu 000'8E1
+zu 000'Er
+zw 000'L01
+
+zw 000'25
+w 000'59
+w 000'59
+w 000°0r
+w 000'02
+w 000'8€
+
+zu 000'88
+w 000'59
+zu O0’EFE
+zu 000’ErE
+zu 000.15}
+
+00'081
+00'01
+00'52
+00°57
+00'0€
+00'zE
+
+zu 000'81
+
+00'09E°6
+00'059
+00'529 1
+00'000'1
+00'009
+00'917 1
+
+00'91
+00'002
+SE
+00'051
+k2Or
+
+IS 000'1
+IS 000'1
+IS 000'1
+38 .000'9
+yoyurg jeßuayy
+
+zw 000962
+
+00'5%
+
+09'0€
+
+00'80p°}
+00'000'E1
+s9, 196€
+00'0SP'L5
+vaLıSı
+
+09'250°6
+
+00'052°€
+00'00r
+00'082°€
+1:771
+oyau d3
+
+J9UPId
+
+00'018
+90'992"96
+00'05z°E
+00'007
+00'052'€
+o8'ger
+oyau JO
+una u abenag allv
+WaPjalydIYy
+
+pIoz'rr’ei
+aınawaßu)
+
+1nSsUO)OUdI
+
+vd
+
+L’00Z’Or’L0’Z0'E0
+002°0P°L0°20°E0
+061°07°L0°20'E0
+081’0r°L.0°20'E0
+021’07°L0°20°E0
+091°0F’L0'Z0'E0
+0SL’0P'L0’Z0°E0
+OrL’OF'LO'Z0'E0
+0ELOF'LO'Z0’EO
+02L’0r'L0'20'E0
+OLL'OF'LO'Z0'EO
+00,.’0F’L0°20’E0
+060'0r'L0°20’E0
+020'0r’L0°20'E0
+090°0F°L0°20°E0
+0S0°0r'L0'20’E0
+ze
+0F0'0r'L0'20°E0
+0E0‘0F'L0'20'E0
+020'0#°L0'20'E0
+
+082°02°L0°20'E0
+
+022'02'L0°20’E0
+092°02'10'20’E0
+
+1% 23
+orE
+
+MN ‘pusyajß ssniypsueusspag
+uauaypsgniPSuBJSneNN
+wog‘) =P ‘00029 'Puem Bunnpipgespupssend
+wog'Z2i =P ‘000029 'puem Bunnpipgespupslendg
+un =P '0G0029 'pueM Bunypipgespiuypsseng
+ung'gE =P "00029 'puem Bunysipgesyuupsiong
+UPZ=p ‘063 'aÖnyynnpsueuspag
+unFZ=p 'Sjeyds-n-1ebarz "zunysunL
+ung’ LL=Pp 'wggL‘) 9701 'Zunsjeßarz
+USFZ=P ‘wgEL') 91‘ 'Zinnsjeßerz
+ung'2,=P ‘wGgg‘0 97 DL 'zunsjeßarz
+unpZ=Pp 'W92‘0 91 ‘DL 'zinsjeßeiz
+wog'ge=p "wgEL') 97 Un 'zinsjoßaiz
+MN
+puaßes you 'WOg'LL=P ‘ZW 'Puemuauu]AN
+puaßen yayu “wg'2,=P "ZW 'PLEMUaUUIpuaßen you “wOFZ=P "ZW 'Puemuauul-MWN
+Spugmuauuj apueßemmysiN
+puaßen ‘wog, L=Pp "ZW 'puemuauuf-MyN
+puaßen "wg‘2L=p "ZW 'Puemuauul-MiN
+puaßen "WOpZ=p "ZW 'Puemusuuj-yiy
+(euybugez) "abnziegun Buniyamag
+zZUP000, D’zugun'peiß'Bungeyos
+UMOS/PZ SIq UOPZIFZ "Weiß 'ZEIOEI ÄnZIJuN’S
+
+spugmueuuj opuaßbeu,L
+spuemueuu
+
+0L0°0r’LO°E0’EO
+
+0r0'01'L0°E0’EO
+0E0'OL’LO’EO’EO
+020°0,°10°E0’E0
+020°05°L0'20°E0
+
+0£0’04’LO'FO’EO
+060°04'L0°E0'E0
+080°01'L0°E0’E0
+020°0,°10°E0°E0
+090'0L’L0°E0’EO
+0S0'OL’LO’EO’EO
+
+01.0°08°L0°Z0°E0
+
+"wu 001 "AargoydompAy "Eanpsexsana 'omyy 'Bunwwepsuuem
+
+wos'z=y Öigie) "uazymS-uapesse 1on "Bunpjappay Nie}
+usßunuygsßunynnajumg "Zinyosuapjasuj
+wag}-OL "eo ayeıı "Bungspzing Bunpigsny
+ung 1-0, 'e9 Syer] "Bungiapsjsuag Bunpngsny
+usypeusyny Bunpggsny
+wO02 'e9 ayaL ‘ssniyosgejayP0g Bunpigsny
+
+Bunpuaigiay "2104-2 "ausdssyexßnypnag
+Sjosuoyjayuyy amISNeWIpueIgIEN
+Jayuejagug "panuanewpueiqe/
+Enyiay 'pful "WOG'LL=P oBaIzBayuNy Toynpayuıy SpawsanewpusjqiaA
+ww OF ejomjelautyy ‘Puem "Bunwueg
+
+2’000°05°10°20°E0
+sce
+DEO'OE'LO’FO'EO
+020°0€°10°F0’E0
+0,0°0E°L0°P0'E0
+050'02°L0'v0’E0
+8poQ
+
+00 Im
+
+wu.g0L=P ‘SAX 'OPOS ‘puemusgyny "Bunwwepiajswupag
+uegne ueßunpjepfegpusmuagny
+SLO 'wWOELZ/OLOL "eI=Hrg "By-L DL-SEIH-NIV
+"By-} "UORNUNynENSI "w JSJENLPSIMUSgO
+SLO 'wWOELZ/OLOL "O=H/E "BU-L INL-SEIH-NIV-DEL
+Jeqyuasge 'Gungypjpuspogin,
+Bunuypiezeg
+
+mafoad
+
+SNNNHI3U3SNILSONM
+
+[aXId Sneypusßnp pun -apuly - HM 91 889%
+
+c91-159P /LSEO :IOL
+uapsaıc) 69010 '02 Syensuouyos
+
+ainaluabu| upfanyasy Jeueid HQWS YNSU0o9QNMdI
+
+zu 000'8
+
+y @3S
+00'05€
+zw 000'9
+w 000'822
+zw 000'01
+zw 00081
+w 000'6L1
+zw 000'L2€
+zw 000'8Er
+zw 000'02
+zu 000'81
+w 000'202
+w 000'202
+w 000'202
+zw 000'9
+
+1’000°02'20’90’E0
+12%
+060°0L’E0'20°E0
+080°0r’E0'20°E0
+020'0r°E0°20°E0
+090'0r°E0’30°E0
+0S0'0L’E0’90°E0
+0F0’0L’E0'90°E0
+0E0’OL’EO’SO’EO
+0Z0°0L’E0’90°E0
+0:0°0L’E0'90°E0
+090°09'10'20°E0
+080°09°1.0°20°E0
+090°0910°20°E0
+0£0°09'L0'20°E0
+
+00'065
+0s’E
+00'085
+00’
+02€
+06'€
+06'€
+06°€
+00'6
+00'%
+05‘
+os'ıt
+00°2
+
+ww 0062 =H 'Puemuuau -walsÄS-Juawsjasejßzueg)
+apupMmuauu] Suopuawalg
+w>'0x0'E sıq 7'0x9'0 uon "tuawejsjoßards
+Bunßnyay 7sejasaneg
+UN0L=H 'aypny 'jaßardsuasayq
+EIN ‘01.06 Tv 'uorsiadsıg 'nzduaßewuung "USZIMS-AIS LPLNSUy
+ung2 Stq=} 'uosuadstg 'Gungıa yaLnsuy
+EIN '01.06 TVY uolsuedsig "ZIndsdigH-NJey apueM UOLISUy
+EIN '0L06 TvY 'uoissadstg "Zindsdig-Ney apueMm LPLNSUY
+ablezun, qleysago 'EyN "uolssadsıg "Iayypedsaß 49 apugM LPLnsuy
+Biypeymon "uszımsuojag Bunjajyseds
+Suaupszinyosp3
+yodyniyosuezyind
+un0z=} "Bungıaı "zindsdig-Niey
+wneueunusg usypeysuomyafosg ‘FO Bunjsjypeds aßeinz
+
+00°008°2
+00'08€°8
+00'00€
+08'296
+00'005
+00'22
+0E'Orr
+06'9hr' 1
+02'802 1
+00'E27
+00'291
+00'828
+05'186
+08'08€E'2
+00'%r
+
+020°0L'L0’90’E0
+090°01°L0’90’E0
+0S0°0F'L0'80°E0
+0F0'01'L0°90°E0
+0£0'04’L0’90°E0
+020°01°L0°80°E0
+01.0°0L’L0°90°E0
+FrOLZ’0r°L0°20°E0
+E'OLZOr’L0’Z0°E0
+0rZ’0r’L0°20°E0
+Z002°0r’L0°20°E0
+8pod
+
+ere
+
+tre
+
+spe
+
+020°09'L0°z0'E0
+0L.0°09°L0°z0°E0
+
+020°0r’E0’90°E0
+050°0r’20’90’E0
+070°01’20'90°E0
+L’0E0'01°20’90°E0
+0€£0'01°20°90°E0
+020°01’20'90°E0
+0r0'0r’20'90°E0
+0F0'0E°L0’F0°E0
+
+00'995
+00'5€E2
+00'0L 1
+00'000°E
+00°059'°2
+00'022 Y
+00'002 1
+0002
+00'5€
+
+889%
+
+»i8foud
+
+SONNNHI3Y3SINILSOM
+
+91
+
+Sunstusßug uopfanyasy Jeueld HQWS) ANSUO9ONdI
+
+ZOL-LS9P /LGEO :IOL
+uapsaıq 69010 '02 Syensuouyas
+
+9X1d Sneypusßnr pun -19puI4 -HFM
+
+unHr/0r 'ueddeny-Ney
+wog, sıq=q 'usßunuyoin, u) Bunyuedagsßungıs7
+weL'Zz x G88'0 sıq 'uaßajue Bunuyoını
+puem-49 "ED aßeinz
+PUEM-Y9 "sunenuonaJ N} JH49 Sbeinz
+v9. sgebuy "u "sus "99 wwg'ZıxZ 'JjeEISZESIOA-N9
+ZO 'spieq 'puemsuonejjejsuj SIE JHYH wug'ZIxz "ww 00F=P '04 'PUEM-Y9
+ZzUN00$9-002 "omieney "az SSPUeM
+usgayyps SypNIqLPINPUSPaG Pun -PueM
+unZZ=Pp 'SPSAT-MS "Bypniqupinpusspsg
+wspz sig S'21=P 'ZWOO001-005 'PueM-MN "alpnigqysinppuem
+Bunuypiezag
+
+uozyn)susuuj opuobes,
+
+uoßunpjspgegqpuemusuu]
+
+zu 000'822
+zw 000'191'1
+
+wez'zxger', 'abuezsbunssgjunyers PlNsuy
+Jaddojsinypuesyyuspog
+Papuyag-IM 'wo'L=q ‘yußusßuejs-yejsjapg"zuoH
+Spuajgkago Yu 'BPZE "sBlezniy'VeLz /0L0L "ISA 1Mluauu]
+wwoggzz/sert '"bU-L "IH 'ZNS ‘ISA 1mjuauu)
+wwoggzz/oLor '"BH-L "IdH "ISA 'ZNS IMZIOH-WNENyONaJ
+wWWOIZZ/GELL "BU-L "IAH 'ZNS '4SY INIuaUU]
+ssddojsinypueyyyuapog
+
+090°02°L0’70°E0
+
+yordzing yw "ED seyueS 'uauu) "Puem-Mi 'dißer, "Zanduswezyjey
+yoadzyng yw ‘ED '"uauuı 'puem 'oyeißoß 'Kißer-L "zindsdig-Njey
+
+o0'E1
+05'21
+
+IS 000'12
+IS 000',2
+IS 000'
+IS 000'€
+IS 000'6
+IS 000°2
+IS 000'2
+IS 000'2
+
+ssddojsimpueyyuapog
+
+00’6F2
+
+I 00r'0
+zu 000'2
+ew 000‘
+
+or'ezs’2z
+
+00'996’
+0s'zı5H
+
+00'92
+00'5€
+00'0, 1
+00'000'1
+00'058
+00'019
+00'098
+00'5E
+IS 000°4
+
+06,’02'10'20'E0
+081°02°,0'20°E0
+021’02'L0'20'E0
+
+Vd
+
+J8)SU3J- ‘uaıpjusuu
+(euyByLgE) uazymsuauuj-miS Bunuyamag
+UNMDEIFZ SIG YZ/PZ UOn '2E/0E9 "uazinjsusuuj Bungeyps
+WOOE/FZ SIQ YZIPZ UOA 'ZEIDEO "USzWISUBUU-IS
+
+00'000'1
+00'6r
+00'SEL
+
+00'Ez1‘L
+
+o0'9ze'81
+00°00%
+00'985
+00'5E1
+IS 000'5
+w 000',2
+IS 0007
+zu 000'69
+zu 000'69
+zw 000'5%
+zw 00072
+w 000'001
+IS 000'0r
+IS 000'01
+IS 000'0€
+zaßusy
+
+00'8r
+00'8}
+00'5r
+00°%
+00'7
+00°0€
+00'5%
+00'61
+00'527
+00'0€
+00'81
+yoyug
+
+00'092
+00'82€
+00'081
+00'922
+00'912
+00'0SE'
+00'080’
+00'006‘ 1
+00'000'
+00'00€
+00'078
+oysau J3
+
+una ur aßensg ally
+
+JOueld
+
+oyau JO
+
+UBPOHUMIY
+
+yioz'ır’ei
+aınaluadug
+
+NYNSUO)OUdI
+
+G 195
+
+00'989°2
+
+00'pz6' Lt
+grze
+00'055’El
+00'002'2
+
+0022
+00'77
+zv’8
+00'57
+00'52
+
+zu 000’EL}
+zu 000205
+IS 000'9
+zw 000'801
+zu 000'2P5
+
+EXIMY JEAN "Od 'BiBei-Z 'uyeayorsısuny
+
+Or0'01°L0'S0°E0
+
+Od4 'ißer-z "uyeayoysjsuny
+Bunpngsnex93 'MWN "Bunwwepsuuem 'aßeinz
+
+LOE0'OL’LO’SO’EO
+
+L’0E0°OL’LO’SO’EO
+
+€'0E0°0F°L0’S0’E0
+1’0E0°0L’L0’S0’EO
+
+WWOOZ=P 'SEODDIM 'Sd3 "bunwwga
+
+EYNIY 'WOGZ=P "usyetdwwepipeg-S43 1upaıyuas Bunwiepsuuey
+
+ebrjeqyseq
+
+0P0°0E°L0°20'E0
+
+0L0°01°L0°S0°E0
+
+0E0'OL’LO’SO'EO
+020°'01’L0'S0’E0
+
+wweg‘O=P 'L'SEL "aypepioA 'ypsjgzedes]
+
+010'0€°L0°Z0'E0
+
+EYINY 'uyequaunggsswojsej3 "wwg=P ‘009 ,=<ps'ausdsjdweg
+abeuig-niy Lu uyequswnygsawolsejg "wwg=p ‘005 L=<ps'auadsjdweg
+
+zw 000'2r$
+
+wg'0L+02'6=1 'OLL "+1 YPepıoA aBe1Nand 'GEZS "LOoNNrUsuoytyeISs
+
+zu 000°ELL
+zw 000'275
+
+zu 000'15
+
+wgg'‘Z=| '08L3d1'v asıpy 'ypepson "TeßgnBery 'GEZS 'uonynNsuoylyeIS
+
+00'01
+00'01
+
+I 005°0
+
+w26'Z=] 002341 ‘I asıpy'yepion OßenBen 'GEZS "uonynnsuoyjyers
+
+00'0Er 1
+00'0z#'S
+
+3 001°
+
+00°000°2
+
+vage pPS+UaUyg aypmqupıng
+
+05P°02°,0°20°E0
+
+05E°02°L0°20°E0
+DPE'0Z'LO’Z0°EO
+DEE'OZ’LO'ZO’EO
+
+0LE'02°10'20°E0
+09€°02°L0°Z0’E0
+
+08E°02°L0'20°E0
+
+009°02°L0°20°E0
+06E°0ZL0°ZO’E0
+
+017°02°L0°20°E0
+
+02P°02°L0°20°E0
+
+OPP’02’L0'20°E0
+
+ZZLSOZ-LSN+ZZLSZ-LSN '39:040S] gas
+
+DEFOZ’LO’ZO’EO
+
+IS 000'p€
+
+(ewyöxgo1) "Bueßursusgen "Lonynujsuoy-MV-L4-qS Bunsyamag
+
+020°0E’L0’20°E0
+
+0E0°0E°L0°20°E0
+
+£3€
+
+o5'1
+
+I 000°,
+
+00.081
+I 002°0
+
+sisequauungg "yolysueioy ‘punsßsajun vaßturayg
+
+00'E18
+00'5%
+yosd 000'1
+
+che
+
+00'567°7
+00'000°%
+00'000°Y
+00'005°€
+00'001’
+
+Bueßujsuagen "HAAS "LORYANSUOY-MV-L4 "MS
+
+00'022
+
+ew 005'L
+
+Bnzyuupssuswen MY oL-14 'aBeinz
+
+00'05€
+} 006°0
+
+00'525
+
+PDS 000°}
+
+(euyöxzzı) "“wagzyze "uoxiegBung Bunuyamag
+
+(ewybyso,) "BueßursjdneH "pepioA-L4'qS Buniyamag
+
+00'008
+
+Bueßursjdne} 'F4SS 'Blungy-] "uolpingsuoy-MVY + WEPIOA-LI’S
+
+00'001}
+ew 001'8
+
+} 002,0
+
+00°0SE
+
+WOGZ/PZ SIq SZ/S'LL "waxyegbung Bunjeyos
+puemuauu] 'WOGZ/FZ SIQ SZ/S'LL "LEIOEI "UENlegBug-MS
+
+189219 "Bunynysqy ‘uoyjegbuig ‘aßeinz
+wogz/ze 'uexieqBurg Bunjeyps
+
+02€°02'10°20°E0
+052°02"10'0'E0
+0r2°02°10°20°E0
+06Z"02°10°Z0°E0
+
+(ewyByzzı) "wogzyze ‘uoxgegbulg Bunuyamag
+
+WaregBuig-ms
+'2EINEO'apaq
+'WOGZIZEwogL=p
+PueMUSyNY "WOZE=P
+Bunıyamag
+(ewyBxGE)
+‘apaq "Bunjeyospuey
+WOOZ=Y WOgL=U
+"papuesdiıg
+
+zu 000'92
+ı 0001
+zw 000'EL
+
+ew 000'8
+3 007°5
+zu 000'L1
+zw 000'P0€
+
+00'0€
+00°000'1
+00.0€
+
+00'000'1
+zw 000'05
+ew 000°5
+
+00'066
+
+00'5E8'7
+
+00'002
+00'005°1
+00'529
+
+00'022
+00.0617
+
+00'000'1
+
+00'521
+00'000'1
+00'09
+00'S%
+
+OrZ0Z'LO’ZO°EO
+
+0ZZ'0Z'10°z0°E0
+
+002°02',0'20°E0
+19€
+09€
+
+*Gunjeypspuey
+
+3Papuojsquueds "Buniyamaquaßny ‘Bunıyamag
+
+0L0°0L’LO'LL’EO
+
+snag
+
+I 000'1
+
+Jeyoeq
+
+LOUONNN.HSUONyDeg
+
+6unßtuauua
+
+unze=y
+
+00°000'1
+
+00°000'1
+000'21
+
+000'1
+
+0E0°04°10"60°E0
+020°01'10°60°E0
+0L0°01’L0’60’E0
+
+020°0E°20'90’E0
+
+6rE
+
+soßpsuos 'opupmueuuf
+
+BunzopyupsagsiemuiH
+aueidbamsbungsyynuon]4
+Buniappsag-nL
+IS 0000}
+IS 000'52
+
+0E0°0€°20’90°E0
+
+IS 0009
+
+IS 000'E
+
+saddojspypueyyyuapog
+
+0L0°0E’20’90’E0
+509
+zu 000'p1
+yayuy jeßuayy
+
+piefoid
+
+aınsusßu] uapjany2ıy Jeueld HAWO ANSUO9ONdI
+
+c9L-159P /LSEO :IOL
+uapSallı 69010 '02 SYeNsLOUyoS
+
+[8XId SNeypuaßnp pun -sapuIy - HPA 9) 8899
+
+ONNNHIFYSANZLSON
+
+ua "Ion nz aßeinz
+
+IS 000'7
+
+IM
+wo'Zz=y 'apugmuuau
+Bunuypjozsg
+
+yasd
+
+cu
+
+gzev dAL 'VASIUg 'wOZE=y 'Spapuojsquueds
+
+00'058
+
+00'000°1
+00'002°8
+00'099
+00'089’EL
+
+00'0€
+00'521
+
+00'008
+
+000219
+
+00'000
+
+00'000’v
+00'000’r
+00'005°€
+1
+
+vd
+
+zw 000'892
+
+c0'00r’EL
+00'006°2
+
+00'09
+
+00'022
+
+00'080°02
+
+00'009
+
+0z'399°€21
+
+00.0HL
+00'52
+00'58
+
+00°06
+
+cooor')
+00'022
+00'529
+00'5E
+
+co'0pE
+
+00'962'7
+
+00'0r1
+
+00'051
+oyau d3
+
+JOUE]Id
+
+00'001 °2
+opau JO)
+
+uaPalyıy
+
+pIoz'Liei
+
+ana u ebenag Ally
+sınaıuaßur
+
+1NSUOIQUdI
+
+9 2195
+
+00'008
+
+yosd 000'1
+
+zw 000'09
+IS 000'1
+IS 000'2
+IS 000'E6
+u 000°581
+IS 0001
+
+00'008
+
+00'627
+00'01
+00°01
+00'5
+05'2
+00'005°Z
+
+aıs)sneg Buepus "Bunssypissiyayuaı
+
+yaruayg yezaan leydsy 'ayensneg
+unezneg wnz pusssed 'eqyayıpsıan "Öaßnyurs UnL
+unezneg wnz puassed “segganuosien Boßnyiemz Jo]
+uajleyassBbunsaunig
+Bunzuasßequageng "sJuawsjsuswyenyels ajgow wz unezneg
+w 00'%/00‘7 "Reiduoy jejeyneg
+Gunjy>pujsusgajsneg
+uSLONYNASUONNEg Iny uaLıyeugeyy eßRSUoS
+jneqaßujs Jsa) "wney-Rinyy so ebay
+uajjajsıo uerdyalıps
+JapuKziyold
+
+L’000°0L°L0’Z0'E0
+
+GE
+
+L’000°0r°L0'20°E0
+L’000°0L.°L0'20’E0 .
+1'000°0L’L.0'Z0’E0
+L’000°0,°L0°20°E0
+L’000°01’L0'20°E0
+1000°0r°L0°20°E0
+L6E
+06€
+0L0°0,’L0’ZL’EO
+020'0L°L0°0L°E0
+0L0°0L°L0'OL’EO
+
+v2E
+
+IS 000°)
+yosd 000'1
+IS 000'EE
+
+ueynequjg BANyNAISUOoNNeg
+
+soßpsuos "uoJnequg SANNNYSUoyneg
+
+00'000'5
+00‘00€
+00'058
+
+00°086°9
+
+00°0v2°1
+00'01
+00'02
+00'597
+0S'18E'L
+00'005'2
+0E'LEO° VE
+98'899°yr
+00'000°5
+00'00€
+00'059°1
+00°0586°9
+
+0L.0°0L'L0’80°E0
+OFL’0L°L0’S0°E0
+
+000'1
+000'08
+000'91
+000'E
+000'5
+000'12
+000701
+000'70}
+000'9€
+000'91
+000'01
+000'°€E
+000'001
+000°05
+000'25
+000'275
+000'295
+000'0}
+
+000'F€
+000°F€
+000'222
+000'602
+
+IS 000'02
+IS 000'05
+
+IS 000°,
+zw 000'2#5
+
+Bunugıozag
+
+Jajeyag yw Bunysmusnezinyps
+kassBunusupis
+Piundßeiyasuy 'uajueunyas
+jneusgmoN
+JyolpueIs
+warqyurz-uen, 'puni syoueg
+WO0g=Q ayueyaß x9 "yYaqyurz-uen, 'bunPapgeeynmvy
+Styogpueupeg 'MZg -EXMV
+Bunnpipgeupeg ‘sBnjsBunuyag
+weinyas Pundßeypsuy uarypıpug
+WOOS/OS SIq ‘VOL uaßunßunpıpınpyseg ustyslpulg
+(v9. Bunssjar) OZNA 'Oneigejon+ajnejulsypeg uspypIpulg
+wO0S=q 'uajsiajbuejsary
+wWgG=P 'wWZE/g, WPILPSSERIOy
+Bununsbag anısuapxe ı1y "wWOg=P uPlyassuopejaßaA
+zuyBoge 'aso] 'saıy\-S34 'sBelzinyss-uusu,
+wwgz=p 'uyeqisupjedssasser pun -ujeig] ‘-Zyny2S
+eynyy ssnyosuy "Bunyaipqy
+
+SPaI-N9 "BWunenuanag un Jg49 'aßeinz
+BungueNueg 'Ig49 Bißer-, "ay9apıajsey 'Oy9aQ-N9
+swnelusgaN pun -IdneH "949 Bißer-, "SsPapıasey-pigybue” 'sy9sQ-49
+jejnuesßsejßyeig sne uayejdinsnyy ‘Biber, "SOaPABSNnYv-49
+
+UO0P/0F "uaßunuyg-Nay
+wW.O0S/00S Sıq "Bppaypunı 'usßunuedssny + Bunuyg 'aßeinz
+
+9P09
+
+DEO’OL’EO’SO’EO
+020°0L.’E0’S0'E0
+OL0’0L.’EO’SO’EO
+0F0°01.’20’S0’E0
+0E0’01,’20°S0’E0
+020°0,’20’S0’E0
+0:0°0,.°20’S0’E0
+FOFL’OL’LO’SO’EO
+LOFL’OL’LO’SO’EO
+0EL’OL’LO’SO’EO
+0ZL’OL’LO’SO’EO
+OLL'OL’LO’SO’EO
+00,’0,’L0’S0°E0
+060°0.’L0°S0’E0
+080°0,.’L0°S0’E0
+020°0L’10°S0’E0
+090°0L’L0°S0’E0
+080°0L’10°S0’EO
+
+070°02°L0'90'E0
+0E0°02°’L0'90’E0
+020°02'10'90°E0
+0.0°02’L0’90’E0
+
+090°02°10°80°E0
+050'02°L0°80’E0
+
+19€
+
+69€
+
+00'006
+08‘0
+
+zw
+zw
+zw
+zw
+
+jaßuay
+
+soßpsuos 'saysga
+
+000
+00'8
+
+IS
+w
+IS
+IS
+IS
+u
+w
+w
+w
+IS
+IS
+IS
+w
+zw
+zw
+zu
+zu
+w
+
+og'eee'r
+
+00'008
+00'00r
+00°
+00'5€
+00'957
+00'09
+
+yayuz
+
+pIefoid
+
+Sınauoßu uEPaly>sy Jaueld HqWS ANSU09QNdI
+
+c9, 1597 /LSEO OL
+uopsaıcı 690,0 '02 ayensuouyss
+
+IXId SNeypusßnp pun -Jopuly - HM 9, 889%
+
+SNNNHIFZUF3SINILSOM
+
+usBunpiepaqyseg
+
+00'9EL
+00'06,°1
+00'512°01
+ll) 2043
+00'0F2
+0007
+00'SF1
+00'021
+00'09
+00'527
+00'58
+00'02
+zuee
+00'0€
+00'095
+00'sE
+oo'EL
+05'01
+00'6
+09°
+00,1
+00'5%
+
+00',82°57
+
+oyau d3
+
+00'006
+0g'EEr
+
+wpeqg ‘eyalbıals
+BurynsdsyoyBnupig
+
+vd
+
+00'062
+00'002°E
+00'0zE'Z
+00'09€
+00'00€
+00'525
+00'0r8°8
+00'080°2
+A r48
+00'08F
+00'005
+00'501
+00'00E' 1
+00'525
+00'828°%
+02'60r'}
+00'296°5
+00'089’F
+
+JOUeId
+
+oyau d9
+un3 ul aßenag Ally
+
+LaPaHU)ıY
+
+yLoz'Ll’ei
+aınaıWadun
+
+NNSUCIQUdI
+
+23195
+
+90°009"ZEL
+
+omw
+w
+w
+omw
+w
+om
+w
+omzw
+zw
+
+000'226
+000'E01
+000'°5
+000928
+000'902
+000'%28
+000'902
+000'088°€
+000'58r
+
+080
+08'6
+00'567
+20'0
+c0'E
+zz'0
+00°
+0€'0
+o0'EL
+
+01'822
+08'826
+00'922
+-89'219
+00'819
+gz'ı8ı
+00'728
+00'°H91°1
+00'50€°9
+yosd 000,
+IWW 000'6
+ıpsd 000'1
+w 000'001
+OMIS 000'1
+wsd 000'1
+w 000'09
+w 000'09
+WIS 000'6
+wposd 000',
+IS 000'01
+IMS 000'6
+IS 000'1
+WIS 000'6
+IS 000'1
+
+95‘LE9'0L
+
+00°000'S1
+00'089
+00'009
+00'51
+08'v2
+00'002‘ 1
+01'6r
+00'0r
+00'51
+00'000}
+00'5€
+00'082
+00°008'Z
+00'051
+00'005'9
+jaBuayy
+oysu d3
+
+yayuıg
+
+00'06r
+00'009
+00°005°1
+17: 74
+00'002 1
+00'992°2
+00'000'2
+00'5E1
+00°000°1
+00°0G€
+00'082°2
+00'008°2
+00'0SE' 1
+00'005°9
+
+Jaue]d
+
+oyseu JS
+
+una u aBeneg alıy
+
+vaPplayydıy
+
+rlozrr'ei
+aınaıuaßu
+
+Nnsuo)QUdl
+
+uswuns
+
+z6€
+
+060°0,.'20°20°E0
+080°01’20'20°E0
+020°0r’20’20°E0
+090°01’20'Z0’E0
+050'01’20'20°E0
+090°0,’20'20°E0
+0E0°0,’20'20°E0
+020°01°20'20°E0
+0.0°01°20'20°E0
+
+8po9
+
+0.0°0r°,0'20’E0
+L’000°0,°L0’20°E0
+r’000°0L°.0’20’E0
+L’000°0,’10°20°E0
+r’000°01’L0'20°E0
+r’000°0r’L0’Z0’E0
+r’000°01°L0°20°E0
+1’000°0,’L0'20°E0
+L’000°0,°L0°20°E0
+L°000°0L°L0°20°E0
+L’000°0,’L0'20°E0
+r’000°01°,0°20°E0
+r’000°0,’10'20°E0
+r’000°0,’L0'20’E0
+1’000°01°10’20°E0
+
+85.199
+
+3
+
+Bunuystszag
+
+JONSMJUPALUIS 'nequajuyy\
+aßejuesßbunpnajag aupıpıazneq BunyeyioA
+sjje)sneg ın) aßejuesbunyanajag aypıplazneg
+aberuesßunßsossaawonsneg 'L000°E0°L0 "SOd InZ abeinz
+usyeyson aßejuesßunßiosssnwong
+sßejuesßunßsosusnwong
+abeLessugejLon-sbunypandsag pun -oıng "Gunztspassemgy
+JaujeJuoasBunyaudsag pun -oıng "uniypsuessssemneg
+ssniyasuessssemneg BunyeuoA
+YONIS € "YNiyOsUBJSSSsemneg
+Jeqyanıpssen "By-L "usunyjazneg
+BunyeyoA 'uaßejuy-IM "JaUIEJLOIIRNUES
+neg we ale ıny ajjejsneg Iny JauleJLOZ-IeNUES
+aßeguesaugeoy-sBungpaudsag 'n -oıng BunyeysoA
+sbejueleug}uogy-sBbunysaldsag pun -oung
+
+Bunssepsansyanesgag snueßßuejzupeg
+w 09'0 snuoßuapesse ue Jsnuaßßugjipeg
+uunuaddau,
+Bunsseksansypnesgsg "Jepugjoßusuug ‚Bunsaysıszinysqy
+Japugjoßuauus ‚Bunsaysiszinisgqy
+Bunssepsansupneigag ‘Buniayasquanjstusg
+usjosuoy} "Bunisyasquan;sng)
+Bunssepsansupneigas) 'Jsnuaßuapesse
+Ismaßuspesse
+
+Vd
+
+»9foad
+
+SNNNHIFUIENFLSOM
+
+jaxIg sneypusßnr pun -1apuıy - HrM 91 8897
+
+E91 -,59P /LSEO IOL
+
+uapsaıcı 69010 ‘02 ayensuouyos
+
+Sınsuaßu| uEPjanyasy Jaueld HQUH YNSU09QOAdI
+
+
