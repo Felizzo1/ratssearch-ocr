@@ -1,0 +1,736 @@
+Bebauungsplan
+
+Nr. 323
+
+Dresden-Altstadt I Nr. 29
+
+Könneritzstraße/Jahnstraße/Laurinstraße
+PA
+Ya
+
+&
+
+%
+
+/
+
+2169a
+
+2171c
+
+_
+
+N
+
+rn
+
+\
+
+PLANZEICHENERKLARUNG
+
+9169c
+
+I. Planungsrechtliche Festsetzungen (8 9 BauGB)
+2173b
+
+2173f
+
+Füllschema der Nutzungsschablonen:
+
+|
+
+Grenze des räumlichen Geltungsbereichs des Bebauungsplanes
+
+L__
+
+(8 9 Abs. 7 BauGB)
+
+==
+1. Art und Maß der baulichen Nutzung
+
+WA
+
+WA
+
+|GRZ04
+
+Baugebiet
+
+Grundflächenzahl
+
+g
+
+FD
+
+Bauweise
+
+Dachform
+
+(8 9 Abs. 1 Nr. 1 BauGB)
+
+Allgemeines Wohngebiet ($ 4 BauNVO)
+
+3053/8
+zZ a
+
+|
+
+Mischgebiet (8 5 BauNVO)
+
+GRZ
+
+Grundflächenzahl
+
+VI
+
+Zahl der Vollgeschosse als Höchstmaß, z.B. 6
+
+(8 16 Abs. 2 Nr. 3, 8 20 Abs. 1 BauNVO)
+Ö
+
+V-Vi
+
+Zahl der Vollgeschosse als Mindest- und Höchstmaß, z.B. 5-7
+
+LH 5,50
+
+lichte Höhe als Mindestmaß in Metern, z.B. 5,50 m
+
+&
+S
+
+a
+2%
+
+o
+
+(@)
+
+nn
+
+=
+
+(8 16 Abs. 2 Nr. 3, $ 20 Abs. 2 BauNVO)
+
+ne
+
+—
+
+Abgrenzung unterschiedlicher Art und Maße der baulichen Nutzung
+
+2. Bauweise, überbaubare Grundstücksflächen
+
+(8 9 Abs. 1 Nr.
+
+2 BauGB)
+
+Bauweise (8 22 Abs. 2 BauNVO):
+
+567
+
+MI
+
+GRZ 0,6
+
+g
+
+FD
+
+g
+
+Überbaubare Grundstücksflächen (8 23 BauNVO):
+2168a
+
+\,
+.
+
+geschlossene Bauweise
+
+EEE
+
+Baulinie ($ 23 Abs. 2 BauNVO)
+
+DD
+
+Baugrenze (8 23 Abs. 3 BauNVO)
+
+3. Flächen für Nebenanlagen, Stellplätze und Garagen (8 9 Abs. 1 Nr. 4 und Nr. 22 BauGB)
+
+j
+
+|
+
+GRZ
+
+7
+
+0,4
+
+FD
+
+u
+
+u
+
+I
+
+ı
+2167/1
+
+3053/17
+
++
+
+RN
+
+g
+
+Umgrenzung von Flächen für Nebenanlagen, Stellplätze und Garagen
+
+Zweckbestimmung:
+
+TGa
+
+Tiefgarage
+
+QO
+
+Bereitstellungsfläche Müllbehälter
+
+/
+.
+
+|
+
+I
+
+4. Verkehrsflächen und -anlagen
+
+(8 9 Abs. 1 Nr. 11, 8 12 Abs. 3 BauGB)
+
+)
+7
+
+&
+
+S
+
+Se
+
+X
+
+&
+
+%
+
+,
+
+Eur
+S
+
+RK2
+
+x
+
+®
+
+2
+S
+
+v9
+
+)
+
+&
+
+N
+
+S
+
+OÖ
+
+Y
+
+&
+
+Öffentliche Straßenverkehrsfläche
+
+2167/2
+
+oe
+N,
+
+W
+
+Rz
+Q&
+
+=®
+
+Verkehrsfläche besonderer Zweckbestimmung
+Zweckbestimmung: Fußgängerbereich
+
+7
+
+h,
+
+Straßenbegrenzungslinie
+N
+
+)
+
+&
+
+O
+
+g
+
+S
+
+14
+
+Bereich für Ein- und Ausfahrt Tiefgarage
+
+5. Festsetzungen zur Grünordnung
+
+21514
+
+2136/2
+
+4
+
+4%
+
+2165/1
+TTTTTl
+
+\\
+
+(8 9 Abs. 1 Nr. 25 BauGB)
+
+Grünfläche ($ 9 Abs. 1Nr. 15 BauGB)
+
+5 ”
+
+Zweckbestimmung: Spielplatz
+
+NO
+?
+
+Anpflanzen von Bäumen ($ 9 Abs. 1 Nr. 25a BauGB),
+
+2135/5
+
+V
+
+213713
+
+o
+
+2165/2
+213714
+
+91622
+
+Altstadt
+®
+
+m
+
+‚Ve
+
+2148
+'D]
+
+oo
+
+R
+RN
+
+2135/6
+
+zu
+
+\(H
+N
+
+Om
+
+i ok
+
+j
+
+”
+
+S
+
+Ro)
+
+kreises, z. B. GFR 1 (im Textteil näher bestimmt)
+
+ei
+
+19
+
+b
+
+-
+
+m
+
+Planungsbüro
+
+Datum der letzten Änderung
+
+nn
+
+Geh- und Fahrrecht zugunsten eines eingeschränkten Personen-
+
+u BE m
+
+.
+
+Leitungsrecht zugunsten der Ver- und Entsorgungsunternehmen
+
+0.12.2015
+
+GRAS * Gruppe Architektur & Stadtplanung
+Unterer Kreuzweg 6, 01097 Dresden
+
+Plantechniker/in
+
+| Sachbearbeiter/in
+
+| SGL 61.5.1
+
+Abt.-Ltr. 61.5
+
+SGL 61.1.3
+
+..
+
+Übersichtsplan
+
+Abt.-Ltr. 61.1
+
+M
+
+1:20 000
+
+S— > 7 a
+
+(8 9 Abs. 1 Nr. 24 BauGB)
+
+LT Q
+
+Umgrenzung von Flächen für Vorkehrungen zum Schutz vor schädl.
+
+“> >
+ST 5
+
+III
+
+Umwelteinwirkungen im Sinne des Bundesimmissionsschutzgesetzes
+
+EL
+
+LPB IV
+
+.
+Lärmpegelbereich nach DIN 4109 (Schallschutz im Hochbau), z. B. IV
+
+I
+SR
+
+%
+
+IV
+
+2153
+
+I
+
+Il. Bauordnungsrechtliche Festsetzungen
+
+.
+
+Ya
+
+oe
+
+vs
+
+.
+
+mm
+
+|
+
+UBS
+
+(8 9 Abs. 1 Nr. 21 BauGB)
+.
+
+10.12.01
+
+Amtsleiter
+
+u
+
+2154
+
+5
+
+a
+
+.
+
+Stadtplanungsamt
+
+Geh-, Fahr- und Leitungsrecht zugunsten eines eingeschränkten
+.
+.
+a
+.
+Personenkreises (im Textteil näher bestimmt)
+
+7. Festsetzungen zum Schutz vor schädl. Umwelteinwirkungen
+
+/
+
+S
+
+.
+
+Fassung
+
+Stadtverwaltung Dresden
+
+TE
+m
+GFLR
+a Bam
+
+___IR___
+
+oo
+2150
+
+Erhalt von Bäumen (8 9 Abs. 1 Nr. 25b BauGB)
+
+ie
+
+©
+
+2149
+
+ID
+
+on
+
+|
+
+En
+
+——o
+
+()
+
+|
+
+(6)
+
+I
+
+z. B. Pflanzgebot PG 1 (im Textteil näher bestimmt)
+
+6. Mit Geh-, Fahr- und Leitungsrechten zu belastende Flächen
+
+2136/
+«
+
+Oscı
+
+"s
+
+12
+
+4
+
+zulässige Dachform:
+
+"7 \ 2155
+
+16
+
+chüUlzengasse
+
+FD
+
+Flachdach / flach geneigtes Dach
+
+Ill. Kennzeichnungen
+2135/3
+Theater
+
+[62
+2
+
+72
+
+2367
+
+Fläche, auf der mit umweltgefährdenden Stoffen umgegangen wurde
+(Altstandort „ehemalige Tankstelle Laurinstraße", AKZ 62/209111)
+
+D|
+
+/
+
+U
+
+V. Nachrichtiche Übernahmen
+
+19677
+
+ee
+Rı N
+
+A
+
+AN
+
+5
+|
+
+_s
+
+ee
+
+[I
+
+NET,
+
+KL
+
+A
+
+LANDESHAUPTSTADT
+
+\\e
+
+|
+
+DEN
+
+Einzelkulturdenkmal nach 8 10 Abs. 4 SächsDSchG
+
+In
+
+IE
+
+V. Zeichnerische Hinweise
+2135/4
+
+2135c
+
+N
+
+\
+
+22
+
+Übereinstimmung Kill Ger
+
+2135/7
+
+21354
+Ks
+2135f
+
+LEINE
+
+zum Zeitpunkt 14.10.2013 wird bestätigt.
+
+21358
+
+UN
+
+u
+
+Gr
+
+sr \
+
+Grenze vorhandener Flurstücke mit Flurstücksnummer
+
+v7
+
+Gebäudebestand
+
+Laurinstraße
+
+vorhandene Straße
+
+Amtsleiterin
+INS
+
+’
+
+IEBENBeEN
+
+Ainsiehtlich
+Ger Bezeichnung und der Grenzen
+
+Dresden,
+
+4
+
+u
+
+\
+
+J;
+
+N
+
+Amt für Geodaten und Kataster
+
+Hergestellt aus der digitalen Stadtkarte 1:500 und der Liegenschaftskarte 1:1000
+
+bearbeitet: Dezember 2013
+
+Bebauungsplan
+
+Nr. 323
+
+Dresden-Altstadt
+
+29
+
+95P
+
+| Nr.
+
+Könneritzstraße/Jahnstraße/Laurinstraße
+Rechtsplan
+
+- Entwurf zur Öffentlichen Auslegung 14,0
+
+Bemaßung
+
+in Metern
+
+Maßstab
+
+1:500
+
+Blatt
+
+1 von
+
+2
+
+\
+
+
