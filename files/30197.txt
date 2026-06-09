@@ -1,0 +1,135 @@
+Aula
+Landeshauptstadt Dresden
+
+GZ:
+
+Brand- und Katastrophenschutzamt
+Abteilung Einsatz und Fortbildung
+SG Einsatzvorbereitung
+
+ge
+
+T8P14
+
+37.27
+
+Bearbeiter:
+
+Herr Seidel
+
+Sitz:
+Tel.:
+
+Louisenstr. 14-16
+8155 841
+
+Datum:
+
+24.02.2010
+
+Information 01/2010
+Feuerwehreinsätze im Bereich von Photovoltaikanklagen
+
+Photovoltaikanklagen (PV-Anlagen) sind Solaranlagen zur Erzeugung von Elektroenergie für
+den Eigenverbrauch oder zur Einspeisung in das Stromnetz der Energieversorger. Sie werden
+auf Dächern von Gebäuden oder auf Freiflächen in unterschiedlicher Größe errichtet. Für die
+Errichtung dieser Anlagen bestehen technische Regeln, eine Überwachung der Einhaltung ist
+
+jedoch nicht vorgeschrieben. Spezielle Anforderungen zum baulichen Brandschutz bestehen
+nicht.
+
+Neben den PV-Anlagen gibt es auch Solaranlagen, die zur Erzeugung von Wärmeenergie eingesetzt werden. Diese unterliegen einer eigenen Spezifika.
+Nachfolgender Auszug aus einer Presseinformation soll die besondere Problematik für den Feuerwehreinsatz verdeutlichen:
+
+„Das Feuer brach zwar im Untergeschoss aus, doch weitere Gefahr drohte von oben: Als die
+Feuerwehr im nordrhein-westfälischen Rösrath dieses Jahr zu einem vermeintlichen Routineeinsatz ausrückte, erlitt einer der beteiligten Löschspezialisten einen schweren Stromschlag. Als
+
+Verursacher stellte sich eine große Photovoltaikanlage auf dem Dach heraus, deren in den Keller führende Gleichstrom-Leitung trotz ausgeschalteten Systems unter Spannung stand - ein
+Umstand, den die Floriansjünger nicht kannten.“
+
+Der Aufbau von PV-Anlagen lässt sich wie folgt darstellen:
+
+PV-Module
+
+Il
+
+u.
+
+bis zu 1000 V DC
+
+DC-Freischaltelement
+
+a
+
+en
+
+N
+De
+
+Wechselrichter
+AC-Sicherung
+
+- Netz
+
+Das DC-Freischaltelement zur Unterbrechung der Gleichspannungsversorgung und dessen An-
+
+ordnung im Gebäude ist nicht zwingend vorgeschrieben. Es ist deshalb möglich, dass die
+Gleichspannungsversorgung nicht abschaltbar ist.
+Photovoltaikanklagen bergen im Feuerwehreinsatz folgende Hauptgefahren:
+
+e
+e
+e
+
+Gefahr durch die Wirkung der elektrischen Energie,
+Gefahr durch herab fallende Teile.
+Die Gefahren durch die Bildung von toxischen Gasen im Brandfall sind vergleichbar mit denen bei einem Wohnungsbrand.
+
+Bei Einsätzen im Bereich von Photovoltaikanklagen müssen durch die Einsatzleitung nachfolgende Prüfungen vorgenommen werden bzw. Maßnahmen veranlasst werden:
+Ist die Anlage vom Brand betroffen?
+
+Müssen Handlungen in der Nähe der Anlage vorgenommen werden?
+Sind Anlagenteile beschädigt?
+AC-Sicherung ausschalten
+Ist ein DC-Freischaltelement vorhanden?
+DC-Freischaltelement ausschalten
+
+Jeder unnötige direkte körperliche Kontakt von Einsatzkräften mit Anlagenteilen ist auszuschlieRen.
+
+Bei einer PV-Anlage lässt sich die Gleichspannung nicht vollständig abschalten. Wenn Licht auf
+die PV-Module einwirkt (auch durch Beleuchtung in der Nacht) muss auf der Gleichspannungsseite bis zum DC-Freischaltelement, bzw. wenn kein DC-Freischaltelement vorhanden ist bis
+zum Wechselrichter, mit einer unter Spannung stehenden Anlage gerechnet werden. Bei einem
+Brand bzw. anderem Feuerwehreinsatz sind diese Anlagenteile als unter Spannung stehend zu
+
+betrachten. Bei Löscharbeiten an diesen bzw. in der Nähe der Anlagenteile sind dann die für die
+Brandbekämpfung an unter Spannung stehenden elektrischen Anlagen geltenden Sicherheitsvorkehrungen (DIN VDE 0132, Abstand) einzuhalten. Dazu wird das SG Einsatzvorbereitung in
+
+nächster Zeit eine SER bereitstellen.
+Seitens der SG Baugenehmigungsverfahren und Einsatzvorbereitung wurden nachfolgende
+Maßnahmen abgestimmt:
+e
+
+Berücksichtigung der Anforderungen für einen sicheren Feuerwehreinsatz bei der Abgabe
+
+von Stellungnahmen zu PV-Anlagen,
+Erfassung aller bekannt werdenden PV-Anlagen im Zuständigkeitsbereich,
+Bereitstellung der Informationen aus der Erfassung für die Einsatzvorbereitung,
+Einflussnahme auf den Einbau von DC-Freischaltelementen in möglichst kurzem Abstand zu
+den PV-Modulen in einem im Feuerwehreinsatz zugänglichen und sicheren Bereich,
+
+e
+
+Einflussnahme auf die Bereitstellung eines Feuerwehplanes bei größeren Anlagen bzw. Aufnahme der Anlage in bestehende Feuerwehrpläne.
+
+Verteiler:
+
+ELZ
+A-Dienst
+
+B-Dienst
+FW1-FW4
+Geschäftsstelle FF
+
+'
+
+

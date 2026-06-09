@@ -1,0 +1,55 @@
+Querschnitt
+
+A-A
+
+zwischen Gönnsdorfer Straße
+und Gnaschwitzer Straße
+im Maßstab 1: 200
+
+Legende
+Gehweg
+
+il
+
+Gebäude
+Fahrbahnfläche
+
+I]
+
+Grünfläche
+
+Grundstückszufahrt
+
+Renaturierung
+
+Baumfällen
+win
+3
+0;
+
+f}
+
+[%
+
+.
+
+Baum im Bestand
+
+.
+
+Landeshauptstadt Dresden
+Geschäftsbereich Stadtentwicklung, Bau und Verkehr
+
+Stadtplanungamt
+Abt. Verkehrsanlagenplanung
+
+Verkehrsbaumaßnahme Hutbergstraße
+vereinfachte Vorplanung - PE 0035/15
+Alternativvariante - Anlage 3
+Beidseitger Gehweg - neue Trasse
+Maßstab: 1: 1000
+Bearbeiter: Ludwig, Richter
+
+Datum: 10/2016
+
+
