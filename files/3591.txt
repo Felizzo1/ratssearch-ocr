@@ -1,0 +1,2645 @@
+/
+
+.
+
+.
+
+Anlage 1
+3465
+
+Teilplan
+
+Hilfe zur Erziehung.
+
+Eingliederungshilfe
+Angrenzende Aufgaben
+Handlungsrahmen bis 2012
+
+Teilplan „Hilfe zur ErziehungEinghiederungshilfe/Angrenzende Aufgaben“
+
+Inhalt
+
+Seite
+
+Präambel
+
+1. Funktion des Teilplanes im Rahmen der Programmatischen Jugendhilfeplanung
+1.1
+1.2
+1.3
+1.4.1
+
+Stellung im Prozess der Programmatischen Jugendhilfeplanung
+Fachliche Einordnung und Rechtsgrundlagen
+Wirkungsorientierung und die damit verbundenen Planungsziele und Grundsätze
+Aufbau des Teilplanes
+
+2. Leistungsarten, Wirkungspotentiale, Qualitätsdimensionen und Bestand
+2.1
+2.2
+2.3
+2.4
+
+.
+
+Leistungsarten, Wirkungspotentiale, Strukturqualität
+Verallgemeinerte Prozessqualität
+_ Verallgemeinerte Ergebnisqualität
+Bestand an Einrichtungen und Diensten
+
+3. Bedarfe, Bedarfsermittlung und Steuerung
+3.1
+3.2
+3.3
+3.4
+
+3.5
+3.5.1
+3.5.2.
+5.5.3
+
+Datengrundlagen und ihre Verwendung
+Prognosen der Hilfebedarfe in den einzelnen Leistungsarten
+Das Hilfeplanverfahren als Instrument der Steuerung
+Grundsätze der Vereinbarungen mit Trägern der freien Jugendhilfe
+
+_ Grundsätze der Vergabe von Leistungen
+Grundsätze der Vergabe von Leistungen der Hilfe zur Erziehung gemäß
+88 27 ff. SGB VII
+Grundsätze der Vergabe von Leistungen der Eingliederungshilfe gemäß
+8 35a SGB VII .
+|
+Grundsätze der Vergabe von Leistungen der Hilfe für junge Volljährige gemäß
+841 SGB VII
+
+4. Fachliche Entwicklungen und Steuerungsansätze
+
+4.1
+
+12
+
+Das Steuerungssystem im Überblick
+
+4.2 _ Berichtswesen
+|
+4.3
+Kommunales Qualitätskonzept
+4.4
+Kooperation und Vernetzung
+4.4.1 Intervention, Kooperation und Vernetzung
+4.4.2 Prävention, Kooperation und Vernetzung
+4.5 _ Systemisches Case-Management als Ansatz zur Steuerung von Hilfen zur Erziehung
+4.6
+Kinderschutz als Präventionsansatz in Dresden
+
+Literaturverzeichnis
+
+17
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben“
+
+3
+
+Präambel
+
+Jugendhilfe basiert auf partnerschaftlicher Zusammenarbeit zwischen öffentlicher und freier
+Jugendhilfe ($ 4 SGB VII). Der öffentliche Träger der Jugendhilfe kommt seiner Steuerungsfunktion
+nach, indem er Bedingungen schafft, unter denen wirksame, nachhaltige Hilfen möglich sind und
+Kindeswohlgefährdung abgewendet werden kann.
+Wir beginnen dabei in Dresden nicht bei Null. Der letzte Kinder- und Jugendhilfeplan wurde 2001
+beschlossen. Die vergangenen Jahre waren auch für die Abteilung Soziale Jugenddienste eine Zeit
+inhaltlich intensivster Arbeit, in der große Veränderungen in fachlicher, finanzieller und
+organisatorischer Hinsicht bei der Gewährleistung der gesetzlichen Aufgaben für Kinder, Jugendliche
+und deren Sorgeberechtigte vollzogen wurden.
+In den Jahren bis 2003 war die Abteilung Soziale Jugenddienste noch maßgeblich in das
+Bundesmodellprojekt INTEGRA involviert. Ziel dieses Projektes war es, Formen der integrativen und
+bürgerfreundlichen
+Neuorganisation
+der
+erzieherischen
+Hilfen
+zu
+erproben
+und
+den
+Dienstleistungscharakter des SGB VIII auf der Handlungsebene umzusetzen. INTEGRA wurde als
+komplexer Reformprozess verstanden, bei dem individuelle, sozialräumliche, strukturell-kooperative
+und finanzielle Planungsprozesse in den Focus genommen wurden. In diese Zeit fielen die Erarbeitung
+der Festlegungen zur Fall- und Prozesssteuerung vom 02.04.2002, die Fertigstellung eines
+Arbeitsmaterials
+
+zum
+
+Verfahrensablauf für eine Hilfe nach
+
+$ 35a
+
+SGB
+
+VIII vom
+
+01.04.2003
+
+als
+
+Anlage zum damals gültigen Hilfeplanverfahren, die Arbeiten an der Dresdner Leitlinie zur
+Vorbereitung von Hilfeplangesprächen vom 20.05.2003 sowie die Diskussion und die Verabschiedung
+der Festlegung zur Fachteamberatung in Dresden vom 13.10.2003.
+Im Jahr 2007
+durchgeführten
+werden.
+
+konnte, im Ergebnis der gemeinsam mit den Trägern der freien Jugendhilfe
+Qualitätswerkstätten, das überarbeitete Dresdner Hilfeplanverfahren verabschiedet
+
+Allen diesen Aktivitäten war gemeinsam, dass sozialpädagogisch-fachliche Sichten mit der Beachtung
+finanzieller Aspekte verknüpft und die Beteiligung der Betroffenen in das Zentrum von Steuerung
+gerückt wurde. Wichtiger Ansatz dafür waren Orientierungen auf den Aufbau tragfähiger Beziehungen
+zwischen Fachkräften des öffentlichen Trägers, den Leistungserbringern und den Klientinnen und
+Klienten, sowie der Wertschätzung der familiären Ressourcen und Leistungen der Klientinnen und
+Klienten. Die Herangehensweise wurde dezidiert systemisch und lösungsorientiert. Das gesamte
+Umfeld einer Familie wurde einbezogen und die familiären Beziehungen wurden umfassend genutzt.
+In den „Grundsätzen für die Hilfe zur Erziehung“ vom 23.10.2003 wurden dann erstmals umfassend
+Qualitäts- und Steuerungsziele beschrieben. Dabei spielten vor allem die Subjektorientierung sowie
+die Beteiligung von Adressatinnen und Adressaten, Prävention und Integration sowie die
+Weiterentwicklung flexibler, wirkungsvoller Hilfesettings im Sozialraum eine Rolle. Großer Wert
+wurde auf die Aspekte der kooperativen Zusammenarbeit von öffentlicher und freier Jugendhilfe
+sowie auf den Zusammenhang von Effektivität der Leistung und Effizienz gelegt.
+Seit 1999 beteiligt sich die Landeshauptstadt Dresden am Interkommunalen Netz (IKO-Netz)
+deutscher Großstädte mit über 400.000 Einwohnern der Kommunalen Gemeinschaftsstelle für
+Verwaltungsmanagement (KGST). In diesem Vergleichsring spiegelt sich die Umsetzung der
+Qualitäts- und Steuerungsziele im Hinblick auf Hilfen zur Erziehung und angrenzende Aufgaben
+wieder. Parameter dabei sind unter anderem die Anteile der Hilfen pro Einwohner, die
+Altersverteilung der Klienten und die Leistungsdichte von Hilfen. Dabei zeigt sich alljährlich, dass die
+Steuerung von Hilfen in Dresden im Vergleich mit den anderen deutschen Großstädten überaus
+erfolgreich abschneidet.
+
+|
+
+Im Ergebnis des INTEGRA-Prozesses und als dessen Weiterführung wurden ebenfalls im Jahr 2003
+Qualitätswerkstätten ins Leben gerufen, die seither jährlich stattfinden und Mitarbeiterinnen und
+
+Teilplan „Hilfe zur Erziehung’Einghiederungshilfe/Angrenzende Aufgaben“
+
+4
+
+Mitarbeitern vom öffentlichen Träger und den Leistungserbringern zusammenführen.
+Ziel der
+Werkstätten war und ist es, überprüfbare Qualitätskriterien zur Bestimmung und Bewertung von
+Zielen in der Hilfeplanung, zur Beteiligung von Adressatinnen und Adressaten und zur
+Ressourcennutzung zu erarbeiten. Hinsichtlich der Adressatinnen und Adressaten setzen die
+Qualitätswerkstätten die Schwerpunkte der konsequenten Subjektorientierung und Partizipation im
+Sinne einer partnerschaftlichen Beziehung. Den beteiligten Fachkräften wird Zeit und Raum gegeben,
+in einem moderierten Prozess trägerübergreifend Erfahrungen auszutauschen, Konzepte zu überprüfen
+und verbindliche Arbeitsgrundlagen zu entwickeln. In diesem Rahmen wurde ein neues
+Hilfeplanverfahren diskutiert und mit seinem Kern - der Anwendung der SMART(H)-Methode zur
+Zielbestimmung - implementiert. Es wurde am 01.01.2007 für alle Beteiligten verbindlich eingeführt.
+Zeitgleich wurde die Qualifizierung weiterer Arbeitsschwerpunkte realisiert. Seit 2003 gibt es die
+Rahmenkonzeption Inobhutnahme mit jährlicher Fortschreibung und seit 2004 die Rahmenkonzeption
+Pflegekinderwesen, die ebenfalls fortlaufend aktualisiert wird. Kooperationsvereinbarungen mit dem
+Familiengericht
+
+und
+
+der
+
+Drogenhilfe
+
+wurden
+
+gemeinsam
+
+erarbeitet
+
+und
+
+bestimmen
+
+seit
+
+dem
+
+12.04.2006 bzw. dem 30.11.2005 das einzelfallbezogene Handeln des Allgemeinen Sozialen Dienstes
+der Abteilung Soziale Jugenddienste. Seit März 2005 begleitet die Abteilung gemeinsam mit der
+Abteilung Kinder- und Jugendförderung zudem Projekte zur Einzelfallvermeidung in den sozialen
+Teilräumen. Ziel des Modellprojektes war die Stärkung präventiv wirkender Arbeitsansätze und die
+
+Überprüfung
+
+ihrer Übertragbarkeit
+
+auf: andere
+
+Angebote
+
+und
+
+Einrichtungen
+
+der Kinder-
+
+und
+
+Jugendhilfe in Dresden. Leistungsfeldübergreifende Schnittstellen wurden herausgearbeitet.
+Im Verlaufe einer aufwändigen Fortbildung beim öffentlichen Träger wurde in den Jahren 2006 und
+2007 begonnen, die Methodik des Systemischen Case-Management in der Fallarbeit zu verankern.
+Ebenfalls in 2007 wurde die Handlungsorientierung bei Verdacht auf sexuellen Missbrauch neu
+erarbeitet. Ausgangspunkte dafür waren sowohl gesetzliche Vorgaben, die mit der Novellierung des
+SGB VII durch das Kinder- und Jugendhilfeweiterentwicklungsgesetz (KICK) im Oktober 2005
+verbindlich geworden waren, als auch neue Anforderungen durch eine
+
+veränderte Praxis, die zum
+
+einen ein größeres Spektrum von
+Verantwortungsträgern und Kooperationspartnern zu
+berücksichtigen hatte und zum anderen durch
+die Entwicklung der Teamberatungskultur
+gekennzeichnet war. Diese Handlungsorientierung schuf für die Mitarbeiterinnen und Mitarbeiter des
+Jugendamtes weiterreichende Sicherheiten als bisher- durch einen verbindlichen Handlungsrahmen.
+Sie wurde am 01.11.2007 in Kraft gesetzt und den Mitarbeiterinnen und Mitarbeitern im Rahmen
+eines Fachtages vermittelt. Unter ganz ähnlichen Aspekten fand bereits Anfang Juli 2007 ein Fachtag
+zur Anwendung des „Stuttgarter Kinderschutzbogens“ statt und im November 2007 zum Thema
+„Freiheitsentziehenden Maßnahmen“ bei Jugendlichen.
+
+Gegenwärtig steht für das Sachgebiet Wirtschaftliche Hilfen der Abteilung Soziale Jugenddienste die
+Einführung des Pilotprojektes SAP auf der Tagesordnung. Es handelt sich dabei um ein
+produktbezogenes Berichtswesen, das Informationen über Leistungen voraussetzt, die systematisch
+gesammelt und aufbereitet werden müssen. Die Arbeit mit diesen Informationen soll über alle
+Steuerungsebenen hinweg in unterschiedlichen Aggregatstufen möglich sein. Im Sachgebiet
+Wirtschaftliche Hilfen wurden hinsichtlich der Erarbeitung aussagekräftiger Kennzahlen, betroffener
+Steuerungsebenen und Informationen über die Hilfearten intensive Vorarbeiten geleistet, die nun in
+ein Gesamtkonzept gebracht werden. Dieses Gesamtkonzept soll schließlich vor allem auch zur
+Entscheidungsfindung der Führungskräfte in strategischen Fragen beitragen.
+Die meisten der genannten Aktivitäten finden sich in der Leistungsbeschreibung des Allgemeinen
+Sozialen
+
+Dienstes
+
+Leistungsarten,
+Arbeitsweise,
+
+(ASD)
+
+sondern
+
+wieder.
+
+auch
+
+zum
+
+Es
+
+finden
+
+sich
+
+darin
+
+Selbstverständnis
+
+der fachlichen Ausrichtung,
+
+nicht
+
+nur
+
+Auskünfte
+
+zu
+
+den
+
+einzelnen
+
+des
+
+Allgemeinen
+
+Sozialen
+
+Dienstes,
+
+den methodischen
+
+Grundlagen
+
+und nicht zuletzt zu den
+
+zur
+
+Entwicklungsebenen der Struktur-, Prozess- und Ergebnisqualität. Die in der Leistungsbeschreibung
+getroffenen Aussagen sind Voraussetzung und Ausgangspunkt für die Bearbeitung und Erreichung der
+im vorliegenden Teilplan genannten Ziele.
+
+Teilplan „Hilfe zur Erziehung/Einglhiederungshilfe/Angrenzende Aufgaben“
+
+5
+
+Für die zielorientierte Umsetzung der genannten Arbeitsschwerpunkte ist die partnerschaftliche
+Zusammenarbeit des öffentlichen Trägers mit den Trägern der freien Jugendhilfe eine zentrale
+Voraussetzung.
+
+Zusammenfassend ergeben sich durch die Umsetzung der im vorliegenden Teilplan benannten
+Aufgaben zwei übergreifende Schwerpunkte der gemeinsamen Arbeit bis 2012:
+1. Gemeinsame Gestaltung eines Qualitätsentwicklungskonzeptes der Hilfen zur Erziehung:
+>
+
+Qualitätsstandards
+
+für
+
+die
+
+Hilfeplanverfahren,
+
+>
+>
+
+Zusammenarbeit
+
+der
+
+öffentlichen
+
+und
+
+freien
+
+Jugendhilfe
+
+im
+
+|
+
+Verhandlungsgrundsätze zu den Schwerpunkten der Optimierung der Leistungsvereinbarungen
+und der Entwicklung transparenter, abrechenbarer Qualitätsentwicklungsvereinbarungen,
+Entwicklung eines Qualitätsprüfungsverfahrens mit den Schwerpunkten der Evaluation der
+Qualität der vereinbarten und erbrachten Leistungen über den Hilfeplan und der Optimierung des
+Berichtswesens zur schnellen und konkreten Bedarfsbestimmung,
+
+2. Gemeinsame Gestaltung des Netzwerkes für Kinderschutz in Dresden mit:
+
+>
+>
+>
+
+Vernetzung bestehender Systeme verschiedenster Professionen,
+Aufdeckung von Lücken für bestimmte Zielgruppen und Schließen dieser Lücken,
+Aufbau einer effizienten Arbeitsstruktur zwischen den Professionen.
+
+Besonders durch die Arbeit am Netzwerk für Kinderschutz in Dresden und die damit verbundene
+Prüfung der Modelle des Projektes „Fall vermeidende Maßnahmen“ auf ihre Eignung für dieses
+Netzwerk wird die Zusammenarbeit der Abteilungen des Jugendamtes gefordert und gefördert.
+Die folgende Steuerungsübersicht verdeutlicht
+Jugendhilfe in Dresden zu unterscheiden sind.
+
+anschaulich,
+
+welche
+
+Steuerungsebenen
+
+in
+
+der
+
+Wichtig für die Planung der Träger der freien Jugendhilfe sind die statistischen Angaben, die in der
+Anlage 2 zu finden sind.
+Im Verantwortungsbereich jedes einzelnen Trägers liegt die Entscheidung, wie er Angebote eröffnet,
+umstrukturiert oder schließt. Zur effektiven Gestaltung von Angeboten und zur genauen
+Zielgruppenbestimmung ziehen die Leistungserbringer ihre Schlussfolgerungen aus den statistischen
+Angaben, die sie vom öffentlichen Träger erhalten. Bei weiterhin bestehenden Planungs- und / oder
+Fachberatungsbedarf hat der Leistungsanbieter die Möglichkeit, sich zielgerichtet zu seinem
+Leistungsangebot Beratung durch den öffentlichen Träger einzuholen.
+Die Regelungen des SGB VIII schließen durch die Verhandlungspflicht des örtlich zuständigen
+öffentlichen Trägers und durch die, allein durch den erzieherischen Bedarf im Einzelfall unter
+Beachtung des Wunsch- und Wahlrechts bestimmte Angebotsinanspruchnahme aus, dass von der
+Planungs- und / oder Fachberatung Belegungszusagen oder Belegungsgarantien abgeleitet werden
+können.
+Da die Auslastung der Angebote alleiniges Trägerrisiko bedeutet, ist es im Gegenzug alleinige
+Trägerentscheidung wie (Ziele, Inhalte, Methoden, Organisation ...) Angebote gestaltet werden.
+Gemeinsame
+
+Aufgabe
+
+weiterzuentwickeln, die
+Einzelfall garantieren.
+
+der
+
+öffentlichen
+
+eine
+
+bedarfsgenaue,
+
+und
+
+freien
+
+Jugendhilfe
+
+zielgruppenorientierte
+
+ist
+
+es
+
+jedoch,
+
+Angebotsauswahl
+
+Verfahren
+in
+
+jedem
+
+Teilplan „Hilfe zur Erziehung/Einghederungshilfe/Angrenzende Aufgaben“
+
+Steuerungsansätze im Überblick
+Strukturqualität
+|
+
+Prozessqualität
+>
+
+Bedarfs- und Fallzahlen
+—
+
+| ‚Kosten- Leistungsrechnung
+Verhandlungsg run
+
+sätze 8877,
+
+|
+
+Ergebnisqualität I
+
+78 a-g8SGB VII
+|
+oo.
+Vereinbarung $8 asGBVi
+|- Pedineune
+
+- \ Entwicklung vivon
+a Leistmngsangeboten
+
+Controlling und Berichtswesen,
+Datenerfassung zu Effizienz und
+| u Effektivität
+
+Yv
+
+1
+auf strategischer Ebene
+Jugendhilfeausschuss
+
+|
+
+|
+
+>»
+
+Kostenentwicklung-
+
+>
+‘>
+
+Lebenslagenentwiklung
+Schaffung von: geeigneten
+
+Bedingungen
+
+“
+
+; us
+
+Ai Wirksamksit
+W
+8 =
+
+\
+
+| Flexible und bedarfsgerechte:
+
+2
+
+j Basisinfrastruktur.
+eu Bedarfsanalyseh nach
+nz
+
+auf infrastruktureller Ebene— \
+
+=
+
+» Sozialräumen
+
+Jugendamt / Planung / Abteilung
+Sozialer Jugenddienst (SID)
+Dachverbände / LIGA / Träger
+
+= Haushaltansatz
+Entgeltentwicklung
+
+>
+
+'Systemisches Case-Management
+
+>. Entwicklung der Teilräume?
+
+>
+>
+
+. Kommunales Qualitätskonzept
+KINET, Verm. Hilfe zur
+=
+
+>.
+
+Planungsbereiche
+: Vernetzung der Angebote
+
+Erziehung I
+
+>
+
+Quantität der Angebote .
+
+>
+
+Kosten - Nutzen —Entwicklung
+
+0.0
+
+>». Berichtswesen
+|
+">
+AG $ 78 (Hilfe zur Erziehung)
+
+En
+
+A
+a
+
+vv Er
+
+3
+Entgelt- und
+|
+auf einrichtungsbezogener —|
+| Kostenvereinbarungen
+Ebene Sozialraumteams und
+. ‚Strukturstandards, Ressourcen
+| Trägerqualitäten, Angebote,
+Geschäftsstelle
+Be Bedingungen
+Träger/Einrichtungen/Angebote
+
+>. Interner Wirksamkeitsdialog
+(Interne Evaluation)
+BE
+>
+Umsetzung Vereinbarung $ 8a
+Qualitätsentwicklungsver‚einbarungen =
+
+y
+
+_ Leistungsvereinbarungen
+
+u
+
+>. Wirkungsnachweis der
+=
+
+'y
+
+4
+auf Einzelfallebene
+— ———o
+Sozialraumteam
+
+Fall führende Fachkraft
+Fachkräfte in den Angeboten
+
+.
+
+Verfahren
+zur Prüfung von
+
+Kindeswohlgefährdung
+Hilfeplanverfahren
+
+u
+
+ry
+\
+
+- Einzelfallcontrolling 2
+Hilfeplanverfahren unter.
+Nutzung der SMARTEDMethode
+|
+Betroffenenbeteiligung |
+- Handlungsorientierung bei
+
+'sexuellem Missbrauch
+
+Y
+
+* Ausstattung mit Personal =
+
+Leistungen
+
+|
+
+>
+...
+
+EErreichung der Wirkungsziele
+. (Effektivität)
+
+>»
+
+Adressatenzufriedenheit
+
+.
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben“
+
+7
+
+1. Funktion des Teilplanes im Rahmen der Programmatischen Jugendhilfeplanung
+1.1 Stellung im Prozess der Programmatischen Jugendhilfeplanung
+Der Teilplan wendet sich an die Vertreterinnen und Vertreter der Dresdner Stadtpolitik, an die
+Fachkräfte des öffentlichen Trägers und die Träger der Freien Kinder- und Jugendhilfe Dresden im
+Leistungsbereich Hilfe zur Erziehung und angrenzender Aufgaben.
+Mit dem Teilplan wurde neben der Rahmenkonzeption „Programmatische Jugendhilfeplanung und
+dem „Dresdner Wirkungszielkatalog für die Kinder- und Jugendhilfe“ ein Instrument entwickelt, um
+‚die Beiträge spezieller Leistungsfelder und Organisationen zur Verwirklichung ' gemeinsamer
+Leitvorstellungen zu konkretisieren und durch Empirie zu untermauern.
+Das Ziel des Teilplanes liegt in der Darstellung gegenwärtiger und zukünftiger fachlicher, finanzieller
+und organisatorischer Bedingungen zur Gewährleistung von Hilfe zur Erziehung, Eingliederungshilfen
+und angrenzender Aufgaben für Kinder, ‚Jugendliche und deren Eltern als gemeinsam gestalteter,
+zielbezogener Prozess bis 2012.
+1.2 Fachliche Einordnung und Rechtsgrundlagen
+Der Teilplan nimmt Bezug auf die Bereiche der ambulanten, teilstationären und stationären Hilfen zur
+
+Erziehung gemäß $ 27 ff SGB VII und angrenzender Aufgaben nach den $$ 19, 41 und 42 SGB VIII
+sowie $ 35a SGB VII.
+Im Mittelpunkt steht die Bereitstellung von Leistungen der geeigneten und notwendigen Hilfen für
+Familien mit einem Bedarf an staatlicher Hilfe und Unterstützung bei der Erziehung, Versorgung und
+Betreuung ihrer Kinder sowie für junge Volljährige, die eine eigenständige Lebensführung noch nicht
+bewältigen.
+Dabei obliegt dem Jugendamt die Gesamtverantwortung
+Hilfeentscheidung und den Hilfeverlauf.
+
+gemäß
+
+$
+
+36
+
+SGB
+
+VII
+
+für
+
+die
+
+Von besonderer Planungsrelevanz ist der $ 27 SGB VIII. Der hier begründete Rechtsanspruch der
+Personensorgeberechtigten auf Hilfe zur Erziehung stellt in seiner Ausgestaltung zwingendes Recht
+dar. Der zuständige Jugendhilfeträger hat diesen Anspruch - so er gegeben ist — zu erfüllen.
+Hinzu kommen die neuen Finanzierungsregelungen nach $$ 78a bis g SGB VI (Leistungs-, Entgeltund Qualitätsvereinbarungen), die neben $ 77 SGB VIII neue Möglichkeiten der Aushandlung von
+Leistungen und ihrer Qualität zwischen dem öffentliche Träger und den Trägern der freien Jugendhilfe
+eröffnen. Grundtendenz des Teilplans ist es, die Standards, besonders in der fachlichen Ausstattung
+und die Qualität der Arbeit in allen Bereichen zu verbessern.
+
+Insgesamt geht es in der Kinder- und Jugendhilfe/Erziehungshilfe darum, ob und wie frühzeitig
+außergewöhnliche Belastungen und die Entstehung von Krisen in Familien registriert und welche
+Kommunikationsformen und Reaktionsmuster dafür bereitgestellt werden (vgl. „Qualität ist machbar“,
+Berichte aus Praxis, Forschung und Entwicklung in der Sozialen Arbeit, 2006).
+Durch die, mit der Gesetzesnovellierung 1999,
+
+stärkere Gewichtung der Leistungsbeschreibung als
+
+Grundlage der Leistungsvereinbarung gemäß $ 78 c SGB VIII ergibt sich die Möglichkeit, die Qualität
+der Arbeit der Träger der freien Jugendhilfe in allen Bereichen zu verbessern. Die seit dem Kinderund Jugendhilfeplan 2001 bestehenden Standards sind vom Träger der freien Jugendhilfe in jedem
+Angebot einer Wirksamkeitsprüfung zu unterziehen und konzeptionell zu untersetzen. $ 78 c Absatz 2
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben“
+
+8
+
+SGB VIII stärkt die Leistungsvereinbarung auch dadurch, dass er allein auf deren Grundlage das
+Entgelt der Leistung vereinbaren lässt.
+Die Schaffung positiver Entwicklungsbedingungen für das Aufwachsen von Kindern, Jugendlichen
+und ihrer Familien in Dresden, die Entwicklung und Stärkung ihrer Fähigkeiten zur
+Problembewältigung
+und Integration und Normalisierung bleiben dabei kommunale
+und
+ressortübergreifende Gemeinschaftsaufgaben.
+
+1.3 Wirkungsorientierung und die damit verbundenen Planungsziele und Grundsätze
+Die gesellschaftlichen Modernisierungsprozesse verändern alle sozialen Verhältnisse, sie verändern
+aber auch besonders das Verhältnis der einzelnen Menschen zur Gesellschaft und zu deren
+Institutionen.
+Soziale
+Phänomene,
+wie
+Differenzierung
+der Lebenslagen,
+Pluralisierung,
+Individualisierung und Globalisierung tangieren die Sozialarbeit unmittelbar.
+Unterstützung und Hilfe für junge Menschen und Familien in Krisen und Belastungssituationen sind
+ein wichtiger Bestandteil der Lebensqualität vieler Familien.
+‚Innerhalb der Leistungen der Kinder- und Jugendhilfe nehmen Hilfen zur Erziehung und angrenzende
+Aufgaben einen besonderen Platz ein.
+Sie begleiten Adressatinnen und Adressaten in erheblichem Maße in ihren Biographien, verbunden mit
+der Absicht, diese gelingend mit zu gestalten. Im Mittelpunkt des Hilfeplangeschehens steht das
+Bemühen aller Beteiligten, ein dem erzieherischen Bedarf in Umfang und Art angemessenes
+Hilfearrangement herzustellen. Der Erfolg von Unterstützungs- und Beratungsangeboten hängt im
+Wesentlichen davon ab, ob und wie Kinder, Jugendliche und deren Eltern diese annehmen und dabei
+mitwirken.
+„ Hilfen zur Erziehung entwickeln sich und ihre Wirkungskraft aus einem sensiblen Zusammenspiel
+
+von Sozialarbeiterinnen und Sozialarbeitern in den Sozialen Diensten (mit den jeweiligen Kontexten),
+den Fachkräften bei den Trägern der Freien Jugendhilfe und v. a. den leistungsberechtigten jungen
+Menschen und ihren Eltern (teilweise auch anderen Sorgeberechtigten).“
+(„Qualität ist machbar“, a. a. O.)
+Folgende Grundsätze wurden dazu in der LHD verabschiedet:
+1.
+2.
+
+Sicherung des Kindeswohls,
+Subjektorientierung sowie Adressatinnen- und Adressatenbeteiligung in der
+Hilfeplanung,
+
+Nah
+
+3.
+4.
+
+6.
+
+Priorität von Prävention und Integration vor Intervention,
+Weiterentwicklung flexibler, bedarfsgerechter und wirkungsvoller Hilfesettings im
+Sozialraum,
+|
+|
+Kooperative Zusammenarbeit von öffentlicher und freier Jugendhilfe,
+Weiterentwicklung von Effektivität und Effizienz der Leistungen im Rahmen von
+Wirksamkeitsdialogen
+
+( Grundsätze für die Hilfe zur Erziehung, Landeshauptstadt Dresden, Jugendamt 2004).
+
+Teilplan „Fiilfe zur Erziehung‘Eingliederungshilfe/Angrenzende Aufgaben“
+
+9
+
+1.4 Aufbau des Teilplanes
+Der Teilplan beinhaltet eine Beschreibung der bestehenden Basisinfrastruktur der Leistungen
+(Bestand) mit ihren Wirkungspotenzialen und Wirkungserwartungen. Der Teilplan beschreibt ferner
+die Bedarfsermittlung, Bedarfe und Prognosen sowie Erfordernisse der Steuerung, Finanzierung und
+insbesondere die Qualitätsentwicklung. Der Teilplan umreißt den Stand von Struktur-, Prozess- und
+Ergebnisqualität als Bedingung für Effizienz (Wirtschaftlichkeit) und Effektivität (Wirksamkeit).
+Strukturqualität gilt dabei als überindividuelle, zeitlich konstante Einflussgröße,
+Ergebnisqualität gelten dagegen als einzelfallbezogene Wirkungsbedingung.
+
+Prozess-
+
+und
+
+Die erforderlichen Entwicklungen und Maßnahmen werden für den Zeitraum bis 2012 beschrieben.
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben“
+
+10
+
+2. Leistungsarten, Wirkungspotenziale, Qualitätsdimensionen und Bestand
+Leistungsarten (Hilfearten) sind Instrumente zur Erreichung von vereinbarten Zielen und Ergebnissen
+
+bei Adressatinnen und Adressaten.
+Die Eignung einer Leistungsart
+Wirkungspotenzial.
+
+im Fall
+
+des
+
+Hilfebedarfs
+
+bestimmt
+
+sich über
+
+ihr spezifisches
+
+Für das Erzielen einer Wirkung spielt die Strukturqualität (Was wird eingesetzt?) eine wesentliche
+Rolle.
+„Unter Strukturqualität sind
+die allgemeinen Rahmenbedingungen einer Institution bzw. eines
+Dienstes zu verstehen, unter denen
+eine Leistung erbracht wird.“ (M. Macsenaere,
+In:
+
+Wirkungsevaluation in der Kinder- und Jugendhilfe 2006, S. 49)
+Das
+
+bezieht
+
+sich
+
+auf
+
+räumliche,
+
+materielle,
+
+finanzielle,
+
+personelle
+
+Rahmenbedingungen,
+
+auf
+
+Ausgangsqualifikationen sowie Alters-/Geschlechtsmischung des Personals, ihre Arbeitsvergütung
+und so weiter.
+Strukturqualität kann relativ unabhängig
+von einzelnen Personen
+und
+Aufgabenausführungen beschrieben und beurteilt werden. Sie ist von gesellschaftlichen, politischen
+und administrativen Faktoren geprägt, wie rechtliche Vorgaben des SGB VII, sich ändernde
+Problemlagen von Familien und ihren Kindern, Ausbildungsstandards der Fachkräfte und die Lage der
+öffentlichen Haushalte.
+|
+Ä
+Über
+
+den
+
+Erfolg
+
+von
+
+Hilfen
+
+zur
+
+Erziehung
+
+in
+
+Dresden
+
+entscheidet
+
+auch
+
+die
+
+Güte
+
+der
+
+Basisinfrastruktur. Das bedeutet, qualifizierte Angebote, Einrichtungen, Maßnahmen und Dienste
+müssen ausreichend, flexibel, bedarfsgerecht und adressatenbezogen vorhanden sein, um zur
+
+Bewältigung von Lebensaufgaben beitragen zu können und um unvorhersehbaren Unterstützungs- und
+Hilfebedarfen entsprechen zu können.
+Strukturqualität steht in engem Zusammenhang zu Prozess- und Ergebnisqualität.
+2.1 Leistungsarten, Wirkungspotentiale, Strukturqualität
+In den Anlagen werden alle Leistungsarten der Hilfen zur Erziehung und angrenzenden Aufgaben im
+
+Überblick beschrieben.
+Die Wirkungspotentiale, die aus einer Leistung entstehen, sind in ihrer Qualität abhängig von der
+Qualität der Leistungserbringung. Durch die Strukturqualität werden dafür grundlegende
+organisatorische Bedingungen geschaffen.
+Die
+
+Landeshauptstadt
+
+Dresden
+
+setzt, wie
+
+im
+
+Kinder-
+
+und
+
+Jugendhilfeplan
+
+von
+
+2001,
+
+auf das
+
+Fachkräftegebot im Bereich der Jugendhilfe und erachtet die Qualifikation zum „staatlich anerkannten
+
+Erzieher“ als Mindestanforderung.
+Ziele, Inhalte und Methoden
+
+des konkreten
+
+Leistungsangebotes
+
+bestimmen
+
+den Personaleinsatz
+
+hinsichtlich der Qualifikation, des Personalschlüssels, der konzeptionell bedingten Zusatzkräfte und so
+
+weiter. Es liegt in der Verantwortung der Leistungserbringer, im Verhandlungsverfahren gemäß $$ 77
+und 78 a-g SGB VIII den Nachweis zu führen.
+Gleiches gilt für die sächlichen, insbesondere die räumlichen Bedingungen eines Leistungsangebotes.
+
+Der Strukturqualität sind außerdem Organisationsformen wie Art und Dauer der Leistungserbringung,
+die Finanzierungsform und die Ressourcenfindung und Ressourcennutzung zuzuordnen.
+
+Teilplan „Hilfe zur Erziehung’Eingliederungshilfe/Angrenzende Aufgaben“
+
+11
+
+Moderne Jugendhilfe zeichnet sich aus durch passgenaue integrative, wenn nötig auch kombinierte
+Hilfen, zeitnah erbracht von Organisationssystemen, die flexibel reagieren und Ressourcen aktivieren.
+Wichtig ist dabei, dass gute Verbindungen und kurze Wege zu Kindertageseinrichtungen, Schule und
+Allgemeinem Sozialen Dienst (ASD) hergestellt werden können.
+
+2.2 Verallgemeinerte Prozessqualität (Wie wird zur Zielerreichung vorgegangen?)
+Prozessqualität umfasst die Gesamtheit aller Aktivitäten zwischen Allgemeinen
+Leistungserbringern und Leistungsempfängern in den jeweiligen Hilfearten.
+Sie bezieht sich zunächst auf die Leistungserbringung
+Fachlichkeit und Zuverlässigkeit der Verfahrensgestaltung.
+
+im
+
+engeren. Sinne,
+
+Sozialen Dienst,
+
+zum
+
+Beispiel
+
+auf
+
+Sie beschreibt
+aber
+auch
+die
+Gesamtheit
+von
+tätigkeits- und
+individuumsbezogenen
+Qualitätsmerkmalen, die die Arbeitsabläufe einschließlich zugehöriger Planungs-, Verwaltungs-,
+Organisations- und Entscheidungsprozesse kennzeichnen.
+Prozessqualität bezieht fachliche Partner und die Öffentlichkeit mit ein.
+Sie beinhaltet zum Beispiel:
+- die individuelle Qualität des Umgangs mit den Klienten,
+- die Fähigkeit der Fachkräfte zur Beschreibung und Bewertung von Krisen und Belastungen und zur
+Feststellung von Hilfebedarf,
+- das Vorhandensein von Wirkungszielen (Praxiszielen) und deren Evaluation,
+- die Qualität von Konzeptumsetzungen und des Ablaufs von Leistungen, d. h.
+Art, Umfang und Qualität der Interventionen bei Kind und Familie und deren Dokumentation,
+
+- die Betroffenenbeteiligung,
+überschaubare Zeitdauer,
+die Eltern- und Netzwerkarbeit,
+
+- die berufsbezogene Fortbildung und Supervision der Fachkräfte,
+
+- die Gremien- und Öffentlichkeitsarbeit,
+- Selbstevaluation der Mitarbeiterinnen und Mitarbeiter,
+
+- Aussagen zu Umfang und Umgang mit Beschwerdemanagement.
+Die Arbeitsgruppe nach
+$ 78 (Hilfe zur Erziehung) hat zur Sicherung und Entwicklung der
+Prozessqualität der Hilfen zur Erziehung durch den öffentlichen Träger und die Träger der freien
+Jugendhilfe
+die
+Unterarbeitsgruppe „Qualitätsentwicklung“
+gebildet.
+Gemeinsam
+wurden
+Entscheidungen wie, Themen der gemeinsamen Qualitätswerkstätten, Umgang mit deren Ergebnissen,
+Auswahl der Inputs für das gemeinsame Qualitätshandbuch getroffen. Außerdem bildet die
+Arbeitsgruppe Unterarbeitsgruppen zu verschiedenen aktuellen Themen. So arbeiteten zum Beispiel in
+den
+letzten
+Monaten
+Unterarbeitsgruppen
+„Inobhutnahmen" aus laufenden Hilfen“.
+
+zu
+
+„Haltefähigkeit“,
+
+„Pflegekinderwesen“
+
+und
+
+2.3 Verallgemeinerte Ergebnisqualität (Was wird erreicht? Was ist der Nutzen für die
+Adressatinnen und Adressaten?)
+Im Gegensatz zu
+Interventionshandeln
+
+Struktur- und
+zuschreibbaren
+
+Prozessqualität
+Veränderungen,
+
+Jugendlichen und ihren Familien. Dabei
+
+beinhaltet die Ergebnisqualität die dem
+Effekte und Zielerreichungen bei Kindern,
+
+ist keinesfalls von einer verkürzten und linearen Ursache-
+
+Wirkungs-Kausalität auszugehen, vielmehr muss eine akzeptable, fachlich vertretbare Form gefunden
+werden, in der
+
+Teilplan „Hilfe zur Erziehung’Eingliederungshulfe/Angrenzende Aufgaben“
+
+>
+>
+>
+
+12.
+
+Kausalzusammenhänge als kriteriengeleitete Beschreibungen,
+Beobachtungskonzepte mit zeitlicher und räumlicher Nähe, Überschaubarkeit des
+Zusammenhangs und fachlich begründeter Wirkmächtigkeit,
+Wirkzusammenhänge als Ergebnis gezielter Beeinflussung
+
+nachgewiesen werden
+
+(vgl. Lüders, Haubrich „Wirkungsevaluation in der Kinder- und Jugendhilfe: Über hohe Erwartungen,
+fachliche Erfordernisse und konzeptionelle Antworten“ In: Wirkungsevaluation in der Kinder- und
+Jugendhilfe. Einblicke in die Evaluationspraxis, Dt. Jugendinstitut, 2006, S. 9 ff).
+Damit wird die tatsächliche einzelfallbezogene Nutzenerreichung (Effektivität) angesprochen, die den
+Einsatz öffentlicher Mittel erfordert und sich auf folgende Qualitätsmerkmale beim Klientel bezieht
+
+VVVVVV
+
+(vgl. auch: Freistaat Sachsen Rahmenvertrag nach $ 78 f SGB VII, Anlage IV, Seite 2):
+Eigenverantwortliche Lebensbewältigung,
+Erfahrung von Selbstwirksamkeit,
+schulische und berufliche Leistungen,
+Soziale Integration,
+Förderung von persönlichen Ressourcen und Kompetenzen,
+
+Adressatenzufriedenheit.
+
+Die Ergebnisqualität beschreibt, ob und wie die angestrebten Resultate tatsächlich erreicht wurden.
+Das meint einerseits sozialpädagogische Beurteilungen von Entwicklungen und Erfolgen aber auch, ob
+die subjektiven Erwartungen der Klienten erfüllt wurden.
+Damit können verallgemeinerte Aussagen getroffen werden. Ausgesagt werden kann, ob die
+Lebenslagen der Zielgruppen in Dresden durch die öffentlich finanzierten Interventionen tatsächlich in
+angemessenem Umfang verbessert wurden, oder ob noch wirksamere/andere Interventionsmaßnahmen
+zu planen und durchzuführen sind.
+
+2.4 Bestand an Einrichtungen und Diensten
+Im Bestand wird die Basisinfrastruktur der Erziehungshilfe in quantitativer und qualitativer Hinsicht
+beschrieben.
+|
+|
+Es sind jene Einrichtungen und Dienste (Angebote), mit denen entweder Kostenvereinbarungen oder
+Leistungs-, Qualitätsentwicklungs- und Entgeltvereinbarungen abgeschlossen wurden und die in
+diesem Rahmen tätig sind.
+Die einzelnen Angebote werden im Folgenden für den ambulanten, teilstationären und stationären
+Bereich sowie Angebote zur Inobhutnahme zusammengefasst. Auf die Nennung einzelner Träger und
+Angebote
+
+wird verzichtet,
+
+da sie insbesondere
+
+im ambulanten
+
+Bereich
+
+einer großen
+
+Veränderung
+
+unterliegen.
+
+|
+
+Ambulante Angebote zeichnen sich auch im Verhältnis zum stationären Bereich durch eine große
+Vielfalt und Flexibilität in den
+personeller Besetzung aus.
+
+Kapazitäten,
+
+in der Hilfedauer,
+
+der
+
+inhaltlichen
+
+Gestaltung
+
+und
+
+Die Basisinfrastruktur entwickelt sich im Verhältnis zum Bedarf der Adressatinnen und Adressaten.
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben“
+
+3.
+
+13
+
+Bedarfe, Bedarfsermittlung und Steuerung
+
+3.1 Datengrundlagen und ihre Verwendung
+Für die Träger der freien Jugendhilfe bilden Daten im Zusammenhang mit Bedarfsermittlungen die
+wichtigste Arbeitsgrundlage um Angebote um- oder neu zu gestalten. Als Service für die Träger ist
+das Jugendamt bereit, sich Themen benennen zu lassen, zu denen die Träger Datenaussagen erwarten.
+Dazu werden statistische Aussagen für die Stadt Dresden (alle Ortsamtbereiche) herangezogen:
+Statistik
+Statistik
+Statistik
+Statistik
+Statistik
+Statistik
+
+1
+2
+3
+4
+5
+6
+
+- Trägervielfalt und Entwicklung der Angebotsstruktur,
+- Bevölkerungsentwicklung,
+- Soziale Belastung und Entwicklung der Fallzahlen,
+- Gewährte Hilfen/Fallzahlen in den einzelnen Leistungsgruppen,
+- Kostenentwicklung von Hilfen zur Erziehung,
+- Kostenvergleich von Hilfen zur Erziehung zum Bereich Prävention (Kinder- und
+Jugendförderung, Kindertagesstätten).
+
+Die Daten wurden folgenden Quellen entnommen:
+-
+
+Lebenslagenbericht LHD,
+Dresdner Sozialatlas,
+
+-
+
+Monatsstatistiken des ASD mittels RECOS 14/PRO SOZ 14+,
+Statistikvergleich der Jugendämter der kreisfreien Städte in Sachsen.
+
+Bitte vergleichen Sie dazu sie Statistiken 1 bis 6 und deren Erläuterungen im Anhang 2 dieses
+Teilplanes!
+
+3.2 Prognosen und Hilfebedarfe in einzelnen Leistungsarten
+Wie bisher festgestellt, entwickelt sich der Bedarf nach Hilfen zur Erziehung, mit Ausnahme der
+Eingliederungshilfe nach $ 35 a SGB VIII, weitestgehend konstant.
+Demgegenüber existiert eine annähernd bedarfsdeckende
+Leistungsarten und entsprechenden Wirkungspotentialen.
+
+Basisinfrastruktur
+
+mit
+
+differenzierten
+
+Während es im ambulanten Bereich auf weitere sozialpädagogische Qualifizierung ankommen wird,
+werden im stationären Bereich modulare Ergänzungsbausteine und die Angebotsvernetzung zwischen
+den Trägern benötigt.
+Es wird darauf geachtet,
+
+die Gesamtstruktur
+
+des Trägers
+
+so zu flexibilisieren,
+
+dass eine zeitnahe
+
+Anpassung an die Erfordernisse des Einzelfalls ermöglicht werden kann. Dabei wird der
+personengebundenen Betreuungskontinuität ein hoher Stellenwert eingeräumt. Um eine gelingende
+Rückkehr des Kindes/Jugendlichen in die Herkunftsfamilie zu ermöglichen, ist die Arbeit mit
+Familien unerlässlich.
+
+Teilplan „Hilfe zur Erziehung’Einglhiederungshilfe/Angrenzende Aufgaben“
+
+14
+
+3.3 Das Hilfeplanverfahren als Instrument der Steuerung
+Hilfeplanung nach $ 36 SGB VIII ist ein sehr komplexes Geschehen, in dem rechtliche Vorgaben,
+individuelle Bedarfslagen der Klienten sowie fachliche und wirtschaftliche Steuerungsaufgaben auf
+Einzelfallebene auszubalancieren sind.
+Das Hilfeplanverfahren ist das zentrale Steuerungsinstrument für alle einzelfallbezogenen
+Leistungen nach SGB VII Verlauf und Erfolge erzieherischer Hilfen sind in hohem Maße abhängig
+von der fachlichen Qualität der Hilfeplanung sowie der Bedarfermittlung.
+Das Hilfeplanverfahren hat die verbindliche Aufgabe der
+>
+>
+
+Ermittlung des erzieherischen Bedarfs im Einzelfall (Anamnese)
+Entscheidungsfindung hinsichtlich geeigneter und notwendiger Hilfen bezüglich Inhalt und
+
+Umfang (Diagnostik)
+
+|
+
+>
+
+Planung, Durchführung der Hilfe (Intervention)
+
+>
+
+Überprüfung der Hilfe (Evaluation).
+
+Es besteht erzieherischer Bedarf nach $ 27 SGB VIII, der Hilfe zur Erziehung rechtfertigt, wenn:
+>
+>
+>
+
+Sozialisationsbedingungen vorliegen, die die Entwicklung des Kindes oder des Jugendlichen zu
+einer autonomen und sozial kompetenten erwachsenen Persönlichkeit behindern,
+Erziehung die grundlegenden Bedürfnisse des Kindes oder des Jugendlichen nicht in
+ausreichendem Maße berücksichtigt,
+das Kind, der Jugendliche Verhaltensauffälligkeiten oder Entwicklungsbeeinträchtigungen
+aufweist
+
+(vgl. Harnach- Beck : Psychosoziale Diagnostik in der Jugendhilfe, Juventa Verlag 1995).
+Welche Faktoren als spezifisch bedarfsbeeinflussend gewertet werden, unterliegt vor allem der Güte
+von Situationsanalysen, der Qualität von Beschreibungen von Krisen, Belastungen und deren
+Ursachen und letztlich der Feststellung und Definition des erzieherischen Bedarfs durch die Fachkräfte
+
+im Allgemeinen Sozialen Dienst.
+„Der erzieherische Bedarf bzw. seine Formulierung muss mithin einen sozialpädagogisch einlösbaren
+Entwicklungstatbestand thematisieren und darauf bezogene Perspektiven herausstellen“ (vgl. „Qualität
+ist machbar“ S.26). Nur auf dieser Grundlage können mit den Adressatinnen und Adressaten
+Wirkungsziele
+einnehmen.
+
+(Praxisziele)
+
+entwickelt
+
+werden,
+
+die
+
+einen
+
+zentralen
+
+Platz
+
+in
+
+der
+
+Hilfeplanung
+
+In ihnen wird das Anliegen der eigentlichen Hilfeleistung deutlich, die Schritte zur Veränderung und
+die Anzeiger (Indikatoren) für gelingende Problembewältigung. Die Entscheidung über die
+Geeignetheit von Hilfen ist abhängig vom Charakter einer konkreten Leistungsart/Hilfe als auch von
+ihrer Reichweite im Verhältnis zu den entwickelten Wirkungszielen (Praxiszielen).
+Da
+
+dieser
+
+Prozess
+
+sich
+
+nicht
+
+auf
+
+völlig
+
+objektive
+
+Kriterien
+
+stützen
+
+kann,
+
+wird
+
+er
+
+von
+
+Leistungsfähigkeit
+
+durch
+
+Teamberatungen begleitet und durch Dienstanweisungen geregelt.
+
+Wann
+
+und
+
+ob
+
+ein
+
+Fall
+
+als
+
+Fall
+
+definiert
+
+wird,
+
+hängt
+
+auch
+
+der
+
+der
+
+Basisinfrastruktur im Bereich Kindertagesstätten, der Familienarbeit sowie der offenen Kinder- und
+
+Jugendarbeit ab. In diesem Zusammenhang sind die Ergebnisse der Modellprojekte „Maßnahmen zur
+Vermeidung von Hilfen zur Erziehung‘ und „KINET - Netzwerk für Frühprävention,
+und Familie‘ besonders bedeutsam.
+
+Sozialisation
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben“
+
+15
+
+In zahlreichen Qualitätswerkstätten mit Fachkräften des Allgemeinen Sozialen Dienstes und
+Leistungserbringern wurde und wird an einem gemeinsamen Verständnis zur Bestimmung und
+Bewertung von Zielen in der Hilfeplanung, zur Beteiligung der Adressatinnen und Adressaten und zur
+Ressourcennutzung gearbeitet.
+Im Ergebnis sind neue Hilfeplaninstrumente entwickelt, erprobt und eingesetzt worden (zum Beispiel
+Ziele nach SMARTH, neue Hilfeplanformulare, Evaluationsmethoden).
+
+VVvVVvVWV
+
+Der Hilfeplan und insbesondere die Hilfeplaninstrumente stellen eine systematische Dokumentation
+für die Steuerung auf der Einzelfallebene dar. Sie enthalten zum Beispiel:
+Daten der Adressatinnen und Adressaten,
+
+konkrete Aussagen zur Lebenssituation,
+Aussagen zu Bedingungen, unter denen Hilfen erfolgreich/erfolglos waren,
+Aussagen zur Hilfedauer,
+Aussagen zum Verhältnis von Kosten und Nutzen.
+
+Diese Aussagen sollten zukünftig (unter Wahrung des Datenschutzes) mehr als bisher helfen:
+>
+>
+
+nachgewiesene Wirkfaktoren transparent zu machen und zu diskutieren,
+Auslöser für Hilfen aufzunehmen und für die präventive Arbeit im Sozialraum und Kooperation
+mit Partnern zu nutzen,
+
+>
+>
+
+|
+
+informelle Netzwerke der Klientinnen und Klienten kennenzulernen und auf deren Nutzbarkeit
+für Hilfen zur Erziehung zu prüfen,
+das Verhältnis von Kosten und Nutzen vor allem aus fachlicher Perspektive zu steuern.
+
+3.4 Grundsätze der Vereinbarungen mit Trägern der freien Jugendhilfe
+Vereinbarungen dienen der verbindlichen Regelung der Rahmenbedingungen für die Hilfeerbringung
+zwischen Trägern der Freien Jugendhilfe (freie gemeinnützige oder privat gewerbliche) und dem
+Jugendamt.
+Hilfen zur Erziehung werden nach $$ 77 oder 78 a-g SGB VIII vereinbart.
+Gemäß $ 78 a SGB VIII werden teil- und vollstationäre Leistungen nach den Vorgaben des $ 78 a-g
+SGB VIll dreigliedrig auf der Ebene von Leistungs-, Entgelt- und Qualitätsvereinbarungen verhandelt.
+Im
+
+Mittelpunkt
+
+Adressaten.
+
+dieser
+
+Zentrale
+
+Vereinbarungen
+Vertragsinhalte
+
+steht
+sind
+
+die
+
+hier
+
+intendierte
+
+Wirkung
+
+der
+
+der
+
+Zweck
+
+Hilfegewährung und Aussagen über anzustrebende Wirkungen
+Mitteln, also Kriterien zu Prozess- und Ergebnisqualität.
+
+Hilfe,
+
+bei
+
+der
+
+Adressatin/dem
+
+konkrete
+
+Inhalte
+
+der
+
+im Verhältnis zu den eingesetzten
+
+In der Systematik des SGB VII erscheint der Begriff der Qualität nicht bei der fachlichen
+Aufgabenbeschreibung der Hilfen zur Erziehung ($$ 27 ff), sondern in der Normierung der Vertragsund Finanzierungsgrundlagen der Leistungserbringung ($$ 78a ff). Das ist der Ort zur nachhaltigen
+Sicherung von Qualität in teilstationären und vollstationären Hilfen. Auf dieser Grundlage werden
+Entgeltvereinbarungen leistungsgerecht abgeschlossen.
+Jeder Leistungsanbieter,
+
+der ein fachlich qualifiziertes Angebot
+
+vorlegt, hat das Recht auf eine
+
+entsprechende Vereinbarung.
+
+Für Vereinbarungen gemäß $77 SGB VII gibt es keine Rechtsansprüche der Träger. Hier gilt der
+Gleichbehandlungsgrundsatz, der Leistungsanbieter unabhängig vom Bedarf zum Vertragsabschluss
+berechtigt.
+
+Teilplan „Mil zur Erziehung’Eingliederungshilis/Angrenzende Aufgaben”
+
+16
+
+Die ambulanten und alle übrigen Leistungen im Bereich der Hilfen zur Erziehung werden gemäß $ 77
+SGB VIII verhandelt. Hierfür sieht der Gesetzgeber lediglich eine Kostenvereinbarung vor.
+Der Zusammenhang zu Effizienz und Effektivität der Hilfe sowie zur Qualitätsentwicklung ergibt sich
+somit erst aus dem Leistungsangebot des Trägers der Freien Jugendhilfe und dem Hilfeplanverfahren
+selbst.
+Es ist zu überlegen, ob die Erfahrungen beim Abschluss von Leistungs-, Qualitäts- und
+Entgeltvereinbarungen nach 78 a-g SGB VIII auf den gesamten Bereich der ambulanten Hilfen
+übertragbar sind, denn
+Ä
+>
+
+die generelle Verknüpfung von Leistung, Qualität und Entgelt fördert den Blick auf das gesamte
+System der Erziehungshilfe,
+dadurch ergeben sich konkrete Möglichkeiten der vertraglichen und materiellen Verankerung
+von Qualitätsentwicklung,
+die vertragliche Sicherung wirkungsvoller Leistungen ist finanzgünstiger als nur kosten-
+
+>
+>
+
+vereinbarte ambulante Leistungen.
+3.5 Grundsätze der Vergabe von Leistungen
+3.5.1 Grundsätze der Vergabe von Leistungen der Hilfe zur Erziehung gemäß $ 27 ff.
+SGB VIII
+Die Vergabe
+ausschließlich
+
+von Leistungen erfolgt auf der Grundlage des
+nach
+dem
+Grundsatz
+der
+bedarfsgerechten
+
+individuellen Hilfeplanes und
+Geeignetheit,
+Notwendigkeit,
+
+Erforderlichkeit und Wirtschaftlichkeit durch die Fall führende Fachkraft im Allgemeinen Sozialen
+Dienst des Jugendamtes.
+
+Dabei wird
+entsprochen.
+
+nach $ 5 SGB
+
+VII dem Wunsch- und Wahlrecht der Antragsteller von Leistungen
+
+Auch in Zukunft werden hauptsächlich folgende Leistungen vergeben:
+>
+>
+>
+
+Grundleistungen in ambulanter Form (Fachleistungsstunden),
+Grundleistungen in teil- oder vollstationärer Form (Tagessätze),
+Individuelle Zusatzleistungen zum Grundleistungsangebot in Form pädagogischer,
+psychologischer oder therapeutischer Fachleistungsstunden,
+Leistungsmodule aus denen eine Gesamtleistung zeitgenau konzipiert werden kann.
+
+>
+
+Im Folgenden wird vor allem die Vergabe von teil- und vollstationären Leistungen beschrieben.
+Grundsätzlich ist das Jugendamt bestrebt, Hilfen für Dresdner Kinder und Jugendliche auch in
+Dresden anzubieten. Durch die Vielseitigkeit der Trägerlandschaft wird die gesetzliche Verpflichtung
+erfüllt, notwendige Angebote bedarfsgerecht zur Verfügung zu halten. (In Einzelfällen kann es
+pädagogisch erforderlich sein, Leistungserbringer außerhalb der Landeshauptstadt Dresden zu wählen.
+Dann sollte zuerst im Umland nach einer Lösung gesucht werden.)
+Es gelten folgende Grundsätze:
+>
+
+Es werden
+
+passfähige
+
+kombinierte
+
+Leistungsangebote
+
+für den spezifischen Einzelbedarf
+
+vergeben. Diese sind in einem Verfahren zur Konstruktion eines passgenauen Angebotes zu
+entwickeln.
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben“
+
+>
+
+17
+
+Zur Erhaltung von Familiensystemen und zur dauerhaften Sicherung von Kindeswohl
+werden flexible integrierte Hilfen gemäß $ 27 Abs. 3 SGB VIII an einen Träger vergeben. Hierbei wird die Versäulung der Leistungsparagrafen der Hilfe zur Erziehung
+aufgehoben, und es können bedarfsgerecht verschiedene Leistungsteile (ambulant, teil- und
+vollstationär) miteinander verknüpft werden. Voraussetzung für die Vergabe ist, dass der
+Träger Vereinbarungen mit dem Jugendamt für alle Leistungsteile geschlossen hat.
+
+3.5.2 Grundsätze der Vergabe von Leistungen der Eingliederungshilfe gemäß $ 35 a
+SGB VIII
+Neben den Hilfen zur Erziehung nach $ 27 ff. SGB VIII gibt es die Möglichkeit der Vergabe von
+Eingliederungshilfen nach $ 35 a SGB VII. Beide Leistungsbereiche des SGB VII unterscheiden sich
+wesentlich durch ihre Zugangsvoraussetzungen.
+Während bei Leistungen gemäß $$ 27 ff. SGB VIII die Eltern die Möglichkeit haben, für sich Hilfe
+zur Erziehung zu beantragen, handelt es sich bei der Eingliederungshilfe gemäß $ 35
+aSGB VIII um
+Hilfen, die von denEltern für das Kind / den Jugendlichen bzw. ab vollendetem 15. Lebensjahr vom
+
+Jugendlichen / jungen Volljährigen selbst beantragt werden können.
+Zielgruppe der Eingliederungshilfe sind Kinder und Jugendliche, deren seelische Gesundheit mit
+hoher Wahrscheinlichkeit länger als sechs Monate von dem für ihr Lebensalter typischen Zustand
+abweicht, deren Teilhabe am Leben in der Gesellschaft damit beeinträchtigt ist oder
+eine
+
+Beeinträchtigung zu befürchten ist.
+
+Die Gewährung der Eingliederungshilfe setzt zwingend ein ärztliches Gutachten voraus. Nach Vorlage
+des Gutachtens entscheidet die Fall führende Fachkraft des Allgemeinen Sozialen Dienstes in
+Abstimmung
+
+mit der Familie, dem Arzt, dem Psychologen und/oder weiterer/anderer einbezogener
+
+Fachkräfte, ob eine seelische Behinderung oder eine drohende seelische Behinderung vorliegt.
+Zu beachten ist, dass nicht jede nach $ 30 1 Abs. 2 Satz 1 SGB V (Kriterien WHO) diagnostizierte
+psychische Störung zwingend eine seelische Behinderung nach sich zieht. Das Jugendamt steht in
+jedem Einzelfall vor der hohen Verantwortung festzustellen, ob ein Zusammenhang zwischen der im
+ärztlichen Gutachten diagnostizierten psychischen Störung und der erkannten Integrationsproblematik
+besteht.
+Bei Feststellung
+eines Eingliederungshilfebedarfs
+wird unter Beachtung
+sozialrechtlicher
+Vorrangregelungen eine bedarfsgerechte Hilfe durch den Allgemeinen Sozialen Dienst bewilligt. Die
+Ausgestaltung der Eingliederungshilfe — Integration des Kindes / Jugendlichen / jungen
+Volljährigen ins gesellschaftliche Leben - steht im Mittelpunkt des Hilfeplanverfahrens.
+Für die
+
+Ausgestaltung
+
+der
+
+Hilfe ist
+
+zusätzlich
+
+$ 54
+
+SGB
+
+Leistungsvergabe erfolgt analog der Beschreibung unter 3.5.1.
+
+XII
+
+heranzuziehen.
+
+Die
+
+konkrete
+
+.
+
+3.5.3 Grundsätze der Vergabe von Leistungen der Hilfe für junge Volljährige gemäß
+-$41 SGB VII
+Junge Volljährige können bis zur Vollendung des 21. Lebensjahres Hilfen für sich beantragen, wenn
+diese zu ihrer Persönlichkeitsentwicklung und einer eigenverantwortlichen Lebensführung notwendig
+sind. Das Verfahren der Hilfevergabe erfolgt analog 3.5.1. . Die Ausgestaltung der Hilfe richtet sich
+nach $ 27 ff. SGB VII.
+‘ Je nach Entwicklungsstand des einzelnen jungen Menschen sind ambulante Hilfeformen im eigenen
+
+Wohnraum zu favorisieren.
+
+|
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben“
+
+18
+
+4. Fachliche Entwicklungen und Steuerungsansätze
+
+4.1 Das Steuerungssystem im Überblick
+Ausgehend von den Grundsätzen für die Hilfe zur Erziehung in der Landeshauptstadt Dresden ist ein
+Steuerungssystem für die künftige fachliche, strukturelle und finanzielle Entwicklung im Entstehen.
+Dieses System
+>
+>
+>
+
+sichert die Entwicklung der Basisinfrastruktur in der Landeshauptstadt Dresden, bezogen auf
+die Einrichtungen und Dienste in den Leistungsarten,
+regelt die Ausgaben im Bereich der Hilfe zur Erziehung und deren Entwicklung,
+zielt auf die Qualitätsentwicklung der Leistungsanbieter sowie der Allgemeinen Sozialen
+Dienste,
+
+>
+
+.
+
+befördert Bedingungen zur Erreichung / zum Nachweis von Wirkungen bei Adressatinnen und
+Adressaten.
+
+Der Überblick der Steuerungsansätze auf Seite 6 dieses Teilplans verdeutlicht den Zusammenhang der
+gewählten Steuerungsebenen mit den Qualitätsdimensionen Struktur-, Prozess- und Ergebnisqualität.
+Hilfe zur Erziehung wird auf 4 Ebenen gesteuert, auf der
+>
+
+strategischen Ebene durch den Jugendhilfeausschuss,
+
+>
+
+infrastrukturellen Ebene durch die Jugendhilfeplanung und Fachabteilung Soziale
+
+>
+>
+
+Jugenddienste (SID),
+|
+einrichtungsbezogenen Ebene durch die Grundsatzkommission und die Geschäftsstelle,
+Einzelfallebene durch den zuständigen Allgemeinen Sozialen Dienst.
+
+Die Steuerung der Hilfen zur Erziehung erfolgt durch den öffentlichen Träger der Jugendhilfe. Da er
+aber die geeigneten Hilfen nur in einem Dreiecksverhältnis mit dem Leistungserbringer und den
+Adressatinnen und Adressaten umsetzen kann, sind auch die Träger der freien Jugendhilfe als
+Leistungserbringer in die Steuerungsübersicht aufgenommen worden. Die Arbeitsprozesse werden
+nach den Maßstäben einer partnerschaftlichen Zusammenarbeit gestaltet.
+In diesem Überblick wird sichtbar, welche Schwerpunkte und Zielbereiche in den einzelnen Ebenen
+anvisiert werden und welche Instrumente erforderlich sind.
+
+Aus
+der Fülle der
+Steuerungsinstrumente
+
+bereits
+in der Fachabteilung
+Soziale
+Jugenddienste
+vorhandenen
+sind
+nur
+einige
+mit
+besonderer
+Intensität
+benannt,
+sogenannte
+
+„stellschrauben“.
+
+Es wird deutlich, dass in den nächsten Jahren der Schwerpunkt auf der Entwicklung der
+infrastrukturellen, einrichtungsbezogenen und Einzelfallebene liegen wird. Das meint die
+Verbesserung der Wirksamkeit in den Prozessen und Ergebnissen und die weitere Qualifizierung der
+entsprechenden Arbeitsfelder. Die fachlichen Entwicklungsschwerpunkte erhalten so ihren Platz und
+inneren Zusammenhang im Steuerungssystem.
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben“
+
+19
+
+4.2 Berichtswesen
+
+Das
+Berichtswesen
+ist
+für
+eine
+effiziente,
+ganzheitliche
+systematische
+und
+aktuelle
+Informationsversorgung verantwortlich. Es kann nur so gut sein wie die Güte der zugrunde liegenden
+Daten und die Art ihrer Erhebung.
+=
+|
+|
+Ausgangspunkt bilden gegenwärtig vor allem Fragestellungen zur Inanspruchnahme von Hilfen und
+zur Kostenkontrolle.
+Die derzeitigen Erhebungen mittels RECOS 14/PRO SOZ 14+
+adressatenbezogene und hilfeartbezogene Informationen mit
+Verlässlichkeit und Validität.
+
+erfolgen modular und enthalten
+Gütekriterien, wie Objektivität,
+
+Sie werden ergänzt durch Mitteilungen aus dem Hilfeplan, Berichten zur Beendigung von Hilfen
+sowie zur Auslastung der Finanzbudgets in den einzelnen Sozialen Diensten. Damit wird die
+finanzielle und strukturelle Basis der Hilfe zur Erziehung weiterhin geplant und abgesichert.
+
+Für die oben genannte Schwerpunktsetzung müssen ergänzend weitere Datenbereiche erhoben
+werden, die Entwicklungsfortschritte auf prozessualer und Ergebnisebene dokumentieren, zum
+Beispiel:
+>
+
+Auslöser für Hilfebedarfe,
+
+>
+
+Aussagen zur Prozessqualität / Umsetzung des Hilfeplanverfahrens:
+Anzahl der Hilfeplangespräche, Qualität von Wirkungszielen und Indikatoren, Fortschreibung
+der Hilfeplanung, Einhaltung des Hilfezeitraumes, Verhältnis von fallspezifischer zu
+fallunspezifischer Arbeitszeit im ASD, Lernprozesse aus Hilfeverläufen, Zielstellungen und
+Ressourcen
+
+und so weiter,
+
+>
+
+Aussagen zur Ergebnisqualität:
+(Grad der) Zielerreichung, „Wann ist eine Hilfe als erfolgreich zu bewerten?“
+Bedingungen für Wirksamkeit, Wirkungsnachweise von Hilfen, Adressatenzufriedenheit,
+> Kosten - Nutzen -Vergleich,
+> Sozialraumentwicklung, Umfeldbeobachtungen, Lebenslagen und Erziehungsbedarfe.
+
+Diese Informationen gilt es, systematisch zu erheben, in standardisierte Formen zu kleiden und im
+Rahmen eines internen Wirksamkeitsdialogen zwischen Leistungserbringer, Allgemeinen Sozialen
+Jugenddienst und Geschäftsstelle auszuwerten.
+|
+
+4.3 Kommunales Qualitätskonzept
+„Qualität ist nichts Feststehendes, sie ist vielmehr das Ergebnis von ausgehandelten Erwartungen und
+
+Interessen unterschiedlicher Beteiligter.“ (Dresdner Wirkungszielkatalog, 2006, S.10)
+Das gilt sowohl leistungsartbezogen, im Einzelfall, auf Einrichtungs- und Trägerebene als auch im
+kommunalen Maßstab.
+Die Vorstellungen einer auf Partnerschaftlichkeit, Gegenseitigkeit und Kooperation ausgerichteten
+Trägerstruktur schließen ein, das Jugendamt/den Allgemeinen Sozialen Dienst als Qualitätspartner zu
+definieren.
+
+|
+
+Wenn Einrichtungen der Erziehungshilfe zur Qualitätsentwicklung verpflichtet werden, so ist auch das
+Jugendamt/der Allgemeine Soziale Dienst verpflichtet, für den eigenen Handlungsbereic
+Qualitätskriterien zu entwickeln und sein Handeln damit zu steuern.
+
+|
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben”
+
+20
+
+Das meint:
+
+>
+>
+>
+>
+
+die Struktur-, Prozess- und Ergebnisqualität im Allgemeinen Sozialen Dienst im Jugendamt,
+die Beratungs- und Entscheidungsabläufe im Jugendamt,
+die erreichte Qualität in den Hilfen zur Erziehung als Ergebnis der Aushandlung fachlicher
+Maßstäbe und Voraussetzungen bzw. deren Berücksichtigung in der Praxis,
+„Leistungen auf dieser Grundlage rechtzeitig zur Verfügung zu stellen, bedarfsgerecht zu planen
+und so zu realisieren, dass sowohl für die Adressatinnen und Adressaten einer Leistung als auch
+für das Gemeinwesen ein nachhaltiger Nutzen, also eine Verbesserung der Lebenssituation der
+
+Adressatinnen und Adressaten und damit eine Entlastung für das Leben der Gemeinschaft
+erreicht werden konnte.“ („Qualität ist machbar“, S. 71).
+Weil die erreichbare, fachlich geforderte, politisch gewollte und finanzierbare Qualität elementar auf
+fachpolitische Diskurse und Entscheidungen angewiesen ist, wird geplant, Vereinbarungen mit
+Leistungserbringern nicht nur alleine auf der individuellen Aushandlungsebene zu belassen, sondern in
+ein
+
+kommunales,
+
+trägerübergreifend
+
+ausgehandeltes
+
+transparentes
+
+Qualitätskonzept
+
+einzubinden, das den fachpolitischen Rahmen für Qualitätsentwicklungsvereinbarungen bietet.
+Wichtige Punkte sind dabei die gemeinsame Wirkungsforschung, ein wertschätzendes Beschwerde-/
+beziehungsweise Feedbackmanagement, die gemeinsame Entwicklung von Angeboten / Hilfesettings
+
+mit Modellcharakter und Ähnliches.
+4.4 Kooperation und Vernetzung
+
+4.4.1 Intervention, Kooperation und Vernetzung
+Der Schutz des Kindeswohls
+hat Vorrang vor allen anderen Aufgabenstellungen.
+„In Konsequenz bedeutet dies zunächst, der Kinder- und Jugendhilfe die notwendigen Ressourcen für
+wirksamen Kinderschutz zur Verfügung zu stellen und den Allgemeinen Sozialen Dienst in seiner
+Aufgabenwahrnehmung zu stärken.“ ( Jugend- und Familienministerkonferenz am 31.05./01.06.2007
+in Potsdam, Anlage zum DLT-RS 275/2007)
+Kinderschutz als Querschnittsaufgabe
+Hilfesystemen bzw. Institutionen. In
+verbindliche Kooperationen:
+>
+
+braucht die Zusammenarbeit mit weiteren beteiligten
+der Landeshauptstadt Dresden gelten derzeit folgende
+
+Kooperationsvereinbarung zur Koordinierung und ‚Qualitätssicherung der Hilfen für Dresdner
+Kinder, Jugendliche und junge Erwachsene mit Drogenproblemen (Kooperationsvereinbarung
+Drogenhilfe) zwischen Gesundheitsamt und Jugendamt
+(11.04.2006),
+
+>
+
+Vereinbarung
+
+>
+
+zwischen Amtsgericht Dresden — Familiengericht- und dem Jugendamt/Sozialer Jugenddienst
+(14.03.2005),
+Konzeption Inobhutnahme (16.09.2007).
+
+zur Zusammenarbeit
+
+bei der „Mitwirkung im familiengerichtlichen Verfahren“
+
+Diese Kooperationen sollen um Vereinbarungen mit der Gesundheitshilfe (frühe Hilfen) und dem
+Eigenbetrieb Kindertagesstätten (Stärkung von Erziehungskompetenz der Eltern, Zusammenarbeit bei
+Mehrfachbedarfen und Eingliederungshilfen) erweitert werden.
+
+Akute
+
+Gefährdungssituationen
+
+führen
+
+zu
+
+hohem
+
+Handlungsdruck
+
+verschiedener
+
+Partner,
+
+wie
+
+Jugendhilfe, Kindertageseinrichtung, Schule, Gesundheitswesen, Polizei, Justiz und anderen sozialen
+Diensten.
+
+Teilplan „Hüfe zur Erziehung’Eingliederungshilfe/Anngrenzende Aufgaben“
+
+21
+
+Das Wissen um die Bedeutung und Berechtigung der unterschiedlichen Herangehensweisen auf der
+Grundlage unterschiedlicher gesetzlicher Aufträge und Kontroll-, Interventions- und Hilfestrategien ist
+Grundvoraussetzung für eine erfolgreiche Zusammenarbeit.
+Das Jugendamt ist vom Gesetzgeber beauftragt, mit jedem Leistungserbringer eine Vereinbarung
+gemäß $ 8a SGB VII zum Schutz von Kindern und Jugendlichen vor Gefahren für ihr Wohl
+abzuschließen und die Verfahren und die Kommunikation transparent zu sichern. Dieser Prozess soll
+zeitnah verwirklicht werden.
+
+4.4.2 Prävention, Kooperation und Vernetzung
+Vergleicht man die Leistungsfelder der Hilfen zur Erziehung mit denen der Offenen Kinder-, Jugendund Familienarbeit, so liegen die Entwicklungspotenzen nicht in der Abgrenzung voneinander,
+sondern im sinnvollen Bezug zueinander.
+
+„Die Zielrichtung des SGB VII entsprechend, die präventive Funktion der Kinder- und Jugendhilfe
+stärker gesetzlich auszugestalten und stützende, fördernde und entlastende Leistungen besonders für
+Familien im Vorfeld von Hilfen zur Erziehung zu entwickeln.“
+(vgl. R. Wiesner, SGB VII, Kinder- und Jugendhilfe, Verlag C. H. Beck, München 2006, S.237 ff)
+Die Förderung von neuen Kooperationsansätzen in der Landeshauptstadt Dresden zur Vermeidung
+von Hilfen zur Erziehung (im weitesten Sinne) kann als Chance zur Weiterentwicklung bestehender
+Strukturen und Methoden bei der Bewältigung komplexer werdender sozialer Problematiken von
+Adressatinnen und Adressaten verstanden werden.
+
+„Der gesellschafts- und fachpolitische Kontext der Projekte kann wie folgt beschrieben werden:
+-
+
+Im Sozialisationsbereich sind bereits im Rahmen frühkindlicher Entwicklung und Bildung
+veränderte Ausgangs- und Problemlagen zu verzeichnen, die bei nicht angemessener
+Bearbeitung das Risiko massiver negativer Langzeitfolgen in sich bergen.
+
+-
+
+Solche Lösungen können mit den etablierten Strukturen, Ressourcen und fachlichen Ansätzen
+weder der Einrichtung der sozialisatorischen und erzieherischen Regelversorgung, noch der
+Kinder- und Jugendhilfe sowie Sozialarbeit ohne Weiteres entwickelt und erprobt werden.
+
+-
+
+Die damit bezeichnete doppelte Ausgangslage (neue Bedarfslagen/etablierte Strukturen)
+verlangt nach neuen Problemverständnissen (Theorie/Diagnose), sowie neuen Ansätzen
+(Konzept/Methode), Strukturen (Organisation, Ressource, Kooperation) und Kompetenzen zu
+deren Bearbeitung (Professionalisierungsdefizite, auch im internationalen EU- Vergleich), die
+ein über den gegebenen Geschäftsbetrieb und die routinierte Praxis hinausweisendes Profil
+sowie besondere selbstreflexive Qualitäten aufweisen müssen.“
+
+(„Maßnahmen der Jugendhilfe, die zur Vermeidung von Einzelfallhilfen führen: Projekte zur
+Einzelfallvermeidung“ in Verbund mit dem Programm „Optimierung von Erziehungs- und
+Bildungsprozessen, Familienbildung und Beratung in der Kindertagesstätte“ Zwischenbericht, apfe e.
+V., 2006, S. 5).
+Ansätze von „Projekten zur Einzelfallvermeidung“, „KINET“ oder „OPTT“ sind darauf gerichtet:
+>
+
+Krisen beziehungsweise
+
+>
+
+Folge sozial belastender beziehungsweise belasteter Lebenslagen zu vermeiden,
+Erziehungs- und Bildungsprozesse, Familienbildung und Beratung in der Kindertagesstätte zu
+
+deren Eskalation im Prozess
+
+des Aufwachsens junger Menschen
+
+.>
+
+persönlichen Belastungen von Adressatinnen und Adressaten und Familien vorzubeugen,
+
+>
+
+soziale Kosten zu reduzieren,
+
+optimieren,
+
+in
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben“
+
+22
+
+> . weitere Impulse für einen qualitätsorientierten Wirksamkeitsdialog von Institutionen und
+Leistungserbringern zu setzen (vgl. a. a. O., S. 8).
+
+In Dresden sind derzeit sehr unterschiedliche Einzelprojekte tätig, die sich oben genannten Anspruch
+verpflichtet haben, die eine Vielzahl differenzierter Wirkungen verfolgen und wissenschaftlich
+begleitet werden.
+|
+In der Zwischenzeit liegt der Abschlussbericht „Projekte zur Einzelfallvermeidung“ vor. Eine
+abschließende Auswertung des Modellprojektes muss außerhalb dieses Teilplanes erfolgen, da es zum
+Zeitpunkt der Endredaktion für diesen Teilplan noch nicht möglich war.
+Es zeichnet sich aber bereits ab:
+
+>
+
+>
+
+>
+
+Kooperationen und Vernetzungen zwischen Institutionen (Jugendamt mit seinen Abteilungen
+und Diensten, mit Eigenbetrieb Kindertagesstätten und anderen Ämtern) sollten inhaltlich auf
+ihre Effektivität und Effizienz geprüft werden,
+Erfahrungen und Ergebnisse der internen und externen Evaluation sind in den laufenden
+fachlichen Diskurs und die Wirksamkeitsdialoge der Fachabteilungen des Jugendamtes mit den
+Leistungserbringern einzubinden,
+Die Erschließung und Nutzbarmachung sozialräumlicher Ressourcen zur Verbesserung der
+Lebenslagen und Lebensräume von Adressatinnen und Adressaten bleibt eine ständige
+Gestaltungsaufgabe. Dazu sollten Sozialraumkonzepte leistungsfeldübergreifend entwickelt und
+fortgeschrieben werden (zum Beispiel mit der Abteilung Kinder- und Jugendförderung, dem
+
+Eigenbetrieb Kindertagestätten, dem Schulverwaltungsamt),
+>
+
+Eltern
+
+sind
+
+konsequenter
+
+in
+
+ihrer
+
+Erziehungskompetenz
+
+zu
+
+unterstützen.
+
+Dabei
+
+ist die
+
+alltagsnahe Hilfe und Stabilisierung von Lebenslagen genauso wichtig wie ihre Integration in
+
+Unterstützungssysteme der sozialen Arbeit und der Aufbau eigener Netzwerke.
+Der öffentliche Träger und die Träger der freien Jugendhilfe sollen gemeinsam Lösungswege zum
+Gestalten von Präventivangeboten entwickeln, die für belastete Familien präventiv, und insbesondere
+im Zusammenhang mit Rückführungen von Kindern und Jugendlichen aus stationären Hilfen
+durchgeführt werden können.
+Im Zusammenwirken
+mit den Familiengerichten soll die
+Gesetzesänderung zur Befugniserweiterung der Familienrichter als Grundlage zur Gestaltung oben
+genannter Angebote verstanden werden.
+In diesem Zusammenhang
+gewinnen die Erfahrungen und Effekte des Modellprojektes
+„Einzelfallvermeidende Maßnahmen“ an Gewicht. So sollten zum Beispiel die Synergieeffekte aus der
+Vernetzung mit Familienbildung genutzt werden. Eine engere Zusammenarbeit der Fachabteilungen
+innerhalb des Jugendamtes wäre eine weitere Ressource, die sinnvoll einzusetzen ist.
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben“
+
+23
+
+4.5 Systemisches Case-Management als Ansatz zur Steuerung von Hilfen zur Erziehung
+Case-Management geht davon aus, dass die Adressatinnen und Adressaten selbst am ehesten wissen,
+„was gut für sie ist“ und vermittelt im Spannungsfeld von Lebensweltorientierung und
+Ökonomisierung. Hilfen sollen so lange wie nötig, aber so kurz wie möglich dauern, weil mit der
+Verfestigung von Strukturen über einen längeren Zeitraum Abhängigkeit entstehen kann. Der
+professionelle Aufwand wird dabei so gering wie möglich gehalten bei größtmöglichem Nutzen für
+alle Beteiligten. Damit diese Gedanken, die maßgeblich mit der Nutzung der klienteneigenen
+"Ressourcen lebensweltlicher Netzwerke zu tun haben, in die Arbeit möglichst aller Mitarbeiter schnell
+Eingang
+finden,
+entstanden
+in der Abteilung
+Arbeitsgruppen
+mit den
+Schwerpunkten
+Falleingangsphase, Netzwerkkarte,
+Kindeswohlgefährdung
+und Verwandschaftsrat vor dem
+Hintergrund der Anwendung der Case-Management-Methoden. In einem Fachtag im Juli 2007 wurde
+als erstes Ergebnis dieser Arbeit die Netzwerkkartentechnik mit allen Mitarbeiterinnen und
+Mitarbeitern des Allgemeinen Sozialen Dienstes besprochen und deren Anwendung verbindlich
+festgelegt.
+Der Rechtsanspruch der Eltern auf Hilfe zur Erziehung wird in der Landeshauptstadt Dresden auch
+weiterhin sozialpädagogisch und finanziell im Mittelpunkt der Arbeit stehen.
+Es muss darum gehen, wirtschaftliche und zielwirksame Prozesse noch sinnvoller miteinander zu
+verbinden.
+Das Systemische Case-Management versucht mit seinem Ansatz noch konsequenter als bisher, über
+die Lebenswelt die Selbstwirksamkeit der Adressatinnen und Adressaten zu erfassen und zu nutzen.
+Als
+
+wesentliche
+
+Aufgabe
+
+des
+
+Systemischen
+
+Case-Managements
+
+gilt
+
+die
+
+ressourcenorientierte
+
+Gestaltung komplexer Hilfeverläufe.
+Das bedeutet, zukünftig konsequent die informellen, privaten Hilfemöglichkeiten in den
+Lebenswelten der Klienten zu analysieren und in den Kontext professioneller Hilfe zur Erziehung
+zu stellen.
+
+Ä
+
+Pvwnm
+
+Folgende Bereiche stehen im Mittelpunkt der Falleinschätzung:
+klienteneigene persönliche Ressourcen,
+lebensweltliche, informelle Netzwerke der Klienten und ihre privaten sozialen Bindungen,
+öffentliche, formelle, (etwa sozialräumliche) Netzwerke,
+Vermittlung, Verbindung und Koordination von informellen (nicht professionellen)
+formellen (professionellen, öffentlichen) Hilfen.
+
+In diesem Zusammenhang
+erhalten die jeweils
+sozialen Kontexte
+der
+Beziehungszusammenhänge, eine noch wesentlichere Bedeutung für die Fallarbeit.
+Das
+
+Verstehen
+
+von
+
+Verhaltensweisen,
+
+Symptomen,
+
+Problemen
+
+und
+
+Ressourcen
+
+mit
+
+Klienten,
+
+ihre
+|
+
+der Klienten
+
+(ihr
+
+Hilfebedarf) bekommt erst innerhalb dieser Kontexte Sinn.
+Dafür sind analytische Methoden zu erlernen und einzusetzen, wie zum Beispiel verschiedene
+Netzwerkkarten zur Erfassung sozialer Bezüge, Reframing für Ressourcenaktivierung, Nutzung des
+Verwandtschaftsrates und so weiter.
+Zur Definierung, Vereinbarung und Erreichung von Wirkungszielen ist die Kenntnis der genannten
+
+Kontexte ebenfalls wichtig. Ziele und Handlungen zur Zielerreichung müssen zu den jeweiligen
+Kontexten passen (vgl. Kleve, Haye, Hampe - Grosser, Müller „Systemisches Case-Management,
+2003).
+
+Teilplan „Hilfe zur ErziehungfEingliederungshilfe/Angrenzende Aufgaben“
+
+24
+
+Insgesamt sollen folgende Effekte erzielt werden:
+>
+
+>
+
+>
+
+Weiterentwicklung des Fallverstehens und der Hilfeplanarbeit, einschließlich der internen
+Evaluationsmöglichkeiten durch die Fachkräfte. Dabei entwickelt der Allgemeine Soziale Dienst
+ein systemisches Fallmanagement.
+Verstärkung der Wirksamkeit und Nachhaltigkeit der Hilfe zur Erziehung, das heißt Klienten
+sollen Selbstwirksamkeit bewusst erleben und Abhängigkeiten vom Hilfesystem vermeiden
+(„zentrales Hilfeparadoxon“).
+|
+Der interne Wirksamkeitsdialog zwischen Allgemeinen Sozialen Dienst und
+
+Leistungserbringern wird intensiviert.
+>
+
+Koordination
+
+>
+
+4.6
+
+|
+
+Das Ziel optimaler Lösungen für die Probleme der Klienten soll verknüpft werden mit der
+Bestrebung nach Kostensenkung durch sparsamen Einsatz von Personal und Zeit sowie durch
+unterschiedlicher
+
+fallbezogener
+
+Hilfen.
+
+Der
+
+Ansatz
+
+versucht,
+
+Lebensweltorientierung und Ökonomisierung nicht als gegenläufige Strömungen zu sehen,
+sondern sie zu integrieren und zu vereinen.
+|
+Die konsequente Arbeit mit Systemischem Case-Management wird Auswirkungen haben auf die
+Fortschreibung von Standards und die Qualitätsentwicklung.
+Kinderschutz als Präventionsansatz in Dresden
+
+Bundesweit gehen die Bemühungen der Jugendämter dahin, dem gesunden Aufwachsen von Kindern
+und dem effektiven Schutz des Kindeswohls noch stärkere Bedeutung beizumessen. Dies bedeutet, die
+notwendigen Ressourcen für wirksamen Kinderschutz zuverlässig zur Verfügung zu stellen und den
+Allgemeinen Sozialen Dienst in seiner sensiblen Aufgabenwahrnehmung zu stärken.
+Schrapper kennzeichnet Risikofaktoren für Kinder so:
+>
+>
+>
+
+belastende Lebenslagen
+ihrer Eltern, die nicht unterstützend ausgeglichen
+(=kompensiert) werden;
+|
+individuelle Beeinträchtigungen ihrer Eltern, die nicht kompensiert werden;
+eigene Beeinträchtigungen, deren Kompensation die Eltern überfordert und die nicht
+
+werden
+
+kompensiert werden;
+
+>
+>
+
+„versprochene“ Kompensation, die nicht hält, was sie verspricht (=zuverlässig funktioniert);
+ein gesellschaftliches Klima, das die Pflicht zur Kompensation nicht „ernst nimmt“.
+
+(vgl. Fachtag des Dt. Vereins für öffentliche und private Fürsorge e.V. vom 13.-15.06.07 in Berlin
+zum Thema: “Schutz von Kindern vor Misshandlung und Vernachlässigung“)
+
+Der Schutz von Kindern vor Gefahren für ihr Wohl ist in erster Linie Bestandteil der
+elterlichen Erziehungsverantwortung
+und
+als solche
+im
+Grundgesetz
+verankert.
+Vordergründige Aufgabe der staatlichen Gemeinschaft ist es, die Eltern effektiv und
+wirkungsvoll bei dieser Aufgabe zu unterstützen.
+Ist das Wohl von Kindern oder Jugendlichen gefährdet und sind die Eltern nicht bereit oder in
+der Lage, die Gefährdung abzuwenden beziehungsweise an der Abwendung mitzuwirken, so
+sind die erforderlichen Maßnahmen zum Schutz von staatlicher Seite zu treffen.
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/A ngrenzende Aufgaben“
+
+25
+
+In diesem Zusammenhang ist das Jugendamt entsprechend SGB VIII verpflichtet
+>
+
+Hilfen zur Erziehung zu gewähren, wenn die Voraussetzungen des $ 27 vorliegen und
+
+die Eltern einverstanden sind,
+>
+>
+
+ein Kind oder einen Jugendlichen in Obhut zu nehmen, wenn eine dringende Gefahr
+dies erfordert,
+das Familiengericht anzurufen, wenn eine Kindeswohlgefährdung durch Hilfen nicht
+abgewendet werden kann.
+
+Im Besonderen ist im $ 8a SGB VIII geregelt, dass bei Bekanntwerden gewichtiger
+Anhaltspunkte einer Gefährdung für Kinder oder Jugendliche das Gefährdungsrisiko im
+Zusammenwirken mehrerer Fachkräfte unter Einbeziehung der Sorgeberechtigten und des
+betroffenen Kindes oder Jugendlichen abzuschätzen ist.
+Die Abschätzung beim freien Träger erfolgt durch Heranziehung einer erfahrenen Fachkraft.
+Für den öffentlichen und für den freien Träger besteht immer die Möglichkeit, externe
+
+Fachkräfte wie zum Beispiel Ärzte in die Risikobewertung einzubeziehen.
+Kinderschutz erfordert schnelles Reagieren auf Gefährdungssituationen und die Einbeziehung
+des gesamten Hilfesystems in den Schutzauftrag. Das Jugendamt hat die Aufgabe,
+Informationen zu gewinnen, eine Risikoabschätzung vorzunehmen und weitere notwendige
+Schritte zur Sicherung des Kindeswohls einzuleiten.
+Besonderheiten für den freien Träger ergeben sich aus dem Inhalt des $ 8a Abs. 2 SGB VII,
+- der besagt, dass in Vereinbarungen sicherzustellen ist, dass bestimmte Pflichten zu erfüllen
+sind.
+
+Die Öffentlichkeit ist durch Berichterstattungen der. Medien über Fälle von schwerwiegender
+Kindeswohlgefährdung zunehmend stärker sensibilisiert für die Thematik Kinderschutz. Es
+gibt eine verstärkte öffentliche Wahrnehmung von Problemfällen. Das hat zur Folge, dass
+einerseits das Handeln des Jugendamtes allgemein kritisch betrachtet wird, andererseits
+Bürger stärker auf eigene Wahrnehmungen möglicher Kindeswohlgefährdung hinweisen und
+die Meldungen zum Verdacht auf Kindeswohlgefährdungen auch in Dresden deutlich
+angestiegen sind. Es ist eine scheinbare Zunahme von Problemfällen zu verzeichnen.
+Die Indikatoren für eine Kindeswohlgefährdung sind vielschichtig und müssen mit besonderer
+Sorgfalt im Spannungsfeld zwischen Unterstützung und Hilfeleistung für betroffene Familien
+und notwendigem Eingriff in familiäre Bezugssysteme mit gegebenenfalls sorgerechtlichen
+Konsequenzen anhand der jeweils individuellen Situation geprüft werden.
+Dabei können vordergründig Anhaltspunkte beim Kind, Anhaltspunkte im
+Bezugssystem und/oder Anhaltspunkte für eine mangelnde Fähigkeit oder
+Bereitschaft zur Mitwirkung vorliegen.
+.
+
+sozialen
+fehlende
+|
+
+In Dresden hat sich ein Verfahren im Jugendamt zum Umgang mit Meldungen zu
+Kindeswohlgefährdungen etabliert. Es erfolgt eine Dokumentation der Verfahrensschritte im
+Einzelfall.
+
+Die Einbeziehung freier Träger ist über das Instrument der Vereinbarung geregelt, die
+inhaltlich
+auf eine
+eigenverantwortliche
+Risikoabschätzung,
+ein
+Hinwirken
+auf
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben”
+
+26
+
+Inanspruchnahme von Hilfen, die Information an den öffentlichen Träger, wenn Eltern nicht
+bereit oder in der Lage sind, Hilfen in Anspruch zu nehmen bzw. Information, wenn die
+angenommene Hilfe nicht ausreicht ausgerichtet ist.
+Die zentrale Informationsstelle für eingehende Meldungen zu Kindeswohlgefährdungen ist
+der Allgemeine Soziale Dienst. In den einzelnen Stadtteilsozialdiensten werden diese
+Meldungen seit 01.01.2007 einheitlich statistisch erfasst. Für das Jahr 2007 erfolgten
+statistische Auswertungen zu folgenden Punkten:
+
+M
+
+>
+
+Meldungen zum Verdacht auf Kindeswohlgefährdung Dresden gesamt mit
+Aufschlüsselung nach Statteilsozialdiensten I-V,
+|
+Wer meldete den Verdacht auf Kindeswohlgefährdung mit Gesamtübersicht für
+
+VW
+
+MV
+
+Dresden und der Darstellung der einzelnen Stadtteilsozialdienste,
+
+Struktur gewährter Hilfen zur Erziehung infolge Abprüfung der Meldung
+Kindeswohlgefährdung,
+Meldungen zum Verdacht auf Kindeswohlgefährdung— Übersicht,
+Meldungen zum Verdacht auf Kindeswohl gefährdung nach Altersgruppen und
+
+V
+
+MV
+
+Altersstufen,
+
+Meldungen zum Verdacht auf Kindeswohlgefährdung in den Sozialräumen,
+Aufschlüsselung nach Alter,
+Einleitung sorgerechtlicher Maßnahmen infolge Meldungen zum Verdacht auf
+Kindeswohlgefährdung.
+
+Insgesamt erfolgten im Jahr 2007 die meisten Meldungen zu Kindeswohlgefährdungen in den
+Bereichen der Stadtteilsozialdienste Neustadt/Pieschen/Klotzsche gefolgt von Prohlis/Leuben,
+Altstadt/Plauen und dem gegenüber mit weniger Meldungen die Stadtteile Cotta und
+Blasewitz/Loschwitz.
+Im Gesamtergebnis der Stadt Dresden waren die Melderinnen und Melder von
+Kindeswohlgefährdungen mit unterschiedlichen Anteilen: sonstige Personen, anonyme
+Melderinnen und Melder, Leistungserbringer in laufenden Hilfen, Eltern, Polizei, sonstige
+‚Institutionen, Schulen, Kindertageseinrichtungen, soziale Dienste, Ärzte, Kliniken, junge
+Menschen selbst, Personensorgeberechtigte, Gericht und Gesundheitsamt.
+
+Die Verteilungen der Melderinnen und Melder sind in den einzelnen Stadtteilsozialdiensten
+unterschiedlich.
+In der Strukturübersicht zu den gewährten Hilfen zur Erziehung nach Meldungen zu
+Kindeswohlgefährdungen wird deutlich, dass ein Bedarf an ambulanter Hilfe gemäß $ 31
+SGB VII in hohem Maß festgestellt wurde, gefolgt von stationärer Unterbringung gemäß $
+34 SGB VII. Andere Hilfeformen haben sich in jeweils geringeren Anteilen an eine Prüfung
+von Kindeswohlgefährdung angeschlossen.
+Die
+Aufschlüsselung
+der
+eingegangenen . Meldungen
+zum
+Verdacht
+auf
+Kindeswohlgefährdungen nach Altersgruppen zeigt, dass es in jedem Alter zu
+Gefährdungswahrnehmungen gekommen ist. Knapp die Hälfte aller Meldungen beziehen sich .
+auf die Altersgruppen 4-6 Jahre, 7-9 Jahre und 10-13 Jahre. Knapp ein Viertel der Meldungen
+bezieht sich auf die Altersgruppe der 1-3 Jährigen. Der Anteil der unter 1 Jährigen und der
+
+14-17 Jährigen ist in etwa vergleichbar.
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben“
+
+27
+
+Hinsichtlich der erfolgten Meldungen und der bei den stattgefundenen Überprüfungen
+tatsächlich festgestellten Hilfebedarfe im Rahmen von Hilfen zur Erziehung ist eine hohe
+Diskrepanz festzustellen. Das heißt, dass sich bei einer Vielzahl von Meldungen der Verdacht
+
+einer akuten Kindeswohlgefährdung nicht bestätigt hat.
+Um Kinderschutz zu sichern und Gefahrenpotentiale für Kinder frühzeitig zu erkennen und zu
+beheben, ist jede Meldung fachlich fundiert und mit großer Sorgfalt. zu prüfen. Dazu ist die
+Orientierung und Arbeit mit dem Stuttgarter Kinderschutzbogen in Dresden verbindlich
+festgelegt.
+
+Ä
+
+Die
+insgesamt
+871
+im
+Jahr
+2007
+eingegangenen
+Verdachtsmeldungen
+zu
+Kindeswohlgefährdungen hatten 190 Hilfen zur Erziehung, 101 Inobhutnahmen und 81
+. sorgerechtliche Maßnahmen zur Folge. In 372 Fällen wurde aktiv Unterstützung in Form von
+Hilfe gewährt, Krisenintervention vorgenommen oder erfolgte eine Anregung zum Eingriff in
+elterliche Rechte bei Gericht.
+Für die Sicherung von Kinderschutz besteht eine Verantwortungsgemeinschaft. Diese
+beinhaltet eine enge Kooperation zwischen den betroffenen Familien, dem öffentlichen und
+freien Träger sowie allen weiteren Institutionen wie Schule, Kindertagesstätten und andere
+Behörden.
+|
+Ziel eines wirksamen Kinderschutzes ist es, Problemsituationen so frühzeitig wie möglich zu
+
+erkennen und dementsprechend so früh wie möglich unter größtmöglicher Aktivierung der
+familiären Ressourcen korrigierend zu regulieren.
+Kinder
+
+und Familien
+
+in
+
+schwierigen
+
+Lebenssituationen
+
+haben
+
+Anspruch
+
+auf
+
+rechtzeitige
+
+und
+
+verlässliche Hilfe, je früher desto wirkungsvoller!
+Im Landesmodellprojekt „Netzwerke
+
+für Kinderschutz
+
+Landeshauptstadt
+
+von
+
+Dresden
+
+einer
+
+5
+
+in Sachsen
+
+Modellstandorten,
+
+- Pro Kind
+
+ausgewählt
+
+Sachsen“
+
+vom
+
+ist die
+
+Sächsischen
+
+Staatsministerium für Soziales und dem Landesjugendamt.
+(Vgl. Entwurf des Kooperationsvertrages vom 27.07.07)
+Ziel
+des
+Modellprojektes
+ist,
+durch funktionierende
+Kooperationsstrukturen
+Unterstützungsangebote
+für
+(werdende)
+interdisziplinären Kontext zu entwickeln.
+|
+
+InformationsEltern
+in
+
+und
+einem
+
+Der Baustein 1
+
+(Grundversion) umfasst die Entwicklung eines eigenen Präventionskonzeptes für die
+Landeshauptstadt Dresden. Dabei steht die enge Zusammenarbeit von Gesundheits-,
+Kinder- und Jugendhilfe und weiterer Kooperationspartner für (werdende) Eltern in belasteten
+Situationen im Mittelpunkt. Ziel ist, frühe und passfähige Hilfsangebote - außerhalb von
+Leistungen des Allgemeinen Sozialen Dienstes - dauerhaft vernetzt und als innovative
+Regelarbeit - anzubieten und gegebenenfalls neu zu entwickeln.
+Der Baustein 2
+
+beinhaltet die Durchführung des Projektes „Pro Kind“ in der Landeshauptstadt Dresden. In
+
+ihm wird das dem Forschungsprojekt zugrunde liegende spezielle Hilfeangebot intensiver
+aufsuchender Familienbegleitung durch ein Tandem von Hebammen
+implementiert, erprobt und evaluiert.
+
+und Sozialpädagoginnen
+
+Teilplan „Hilfe zur Erziehung/Eingliederungshilfe/Angrenzende Aufgaben“
+
+28
+
+Es werden 5 Ziele verfolgt, 3 primär gesundheits- und entwicklungspsychologische, 1 primär
+sozialökonomisches und ein strukturelles / kommunalpolitisches:
+VVVVWV
+
+gesundes Leben schon in der Schwangerschaft,
+
+|
+
+körperliche, emotionale, sprachliche und kognitive Frühförderung des Kindes,
+Förderung der elterlichen Kompetenz und ihrer Lebensplanung,
+Kosteneinsparungen für Kommunen, Staat und Krankenkassen und
+die Schaffung von Voraussetzungen für eine Übertragbarkeit des Konzeptes auf
+andere Kommunen.
+
+Nach der Modelllaufzeit (12/2011) wird zu beraten sein, welche Erfahrungen und Ergebnisse
+in die fachliche Arbeit und in die Regelfinanzierung einfließen müssen.
+
+Literaturverzeichnis
+
+. Anhang
+|
+Anhang 1 - Leistungsarten, Wirkungspotenziale, Strukturqualität
+Anhang 2 - Statistik
+|
+
+Literaturverzeichnis
+
+Teilplan „Hilfe zur ErziehungfEingliederungshilfe/Angrenzende Aufgaben“
+
+|
+
+29
+
+Arbeitsstelle für Praxisberatung, Forschung und Entwicklung e.V. (apfe) (2006): Qualität ist
+machbar! Abschlussbericht zum sächsischen Landesmodellprojekt „Qualitätsentwicklung und
+-steuerung in den erzieherischen Hilfen“, Dresden
+Christa, H., Robert, G., Drössler, T. (2006): Maßnahmen der Jugendhilfe, die zur Vermeidung
+von Einzelfallhilfen führen: „Projekte zur Einzelfallvermeidung“ in Verbund mit dem
+Programm „Optimierung von Erziehungs- und Bildungsprozessen, Familienbildung und
+
+Beratung in der Kindertagesstätte“ Zwischenbericht, Dresden
+"Dominik, H. Ernste (2007): „Zu viel Korporatismus — zu wenig Wettbewerb“ in: Blickpunkt
+Jugendhilfe, Berlin
+Freistaat Sachsen (2001): Arbeitsgrundlagen des Sächsischen Landesjugendamtes zur
+Jugendhilfeplanung, Chemnitz
+Freistaat Sachsen (2006): Landesmodellprojekt „Qualitätsentwicklung und -steuerung in den
+erzieherischen Hilfen, Chemnitz
+
+Freistaat Sachsen (1999): Rahmenvertrag nach. $ 78 SGB VIII, Chemnitz
+Harnach-Beck (1995): Psychosoziale Diagnostik in der Jugendhilfe, München
+Jugend- und Familienministerkonferenz (2007): Anlage zum DLT-RS 275/2007, Potsdam
+Macsenaere, M. (2006): „Wirkungen der Kinder- und Jugendhilfe sind messbar! Methoden,
+
+Ergebnisse und Empfehlungen der Jugendhilfe-Effekte-Studie (JES) und weiterer darauf
+beruhender wirkungsorientierter Evaluationen“ in: Projekte eXe (Hg.): Wirkungsevaluation in
+der Kinder- und Jugendhilfe, München
+Merchel, J.(Hg.) (2000): Qualitätsentwicklung i in Einrichtungen und Diensten der
+Erziehungshilfe, Frankfurt a. M.
+
+|
+
+Kleve, Haye, Hampe-Grosser, Müller (2003): Systemisches Case-Management
+Landeshauptstadt Dresden (Hg.) (2006): Dresdener Wirkungszielkatalog für die Kinder- und
+Jugendhilfe
+Landeshauptstadt Dresden (Hg.) (2004): Grundsätze für die Hilfe zur Erziehung
+Landeshauptstadt Dresden (Hg.) (2004): Rahmenkonzeption Programmatische
+Jugendhilfeplanung
+
+Landeshauptstadt Dresden (Hg.) (2006): Sozialatlas
+Schrapper, Chr. (2006): „Schutz von Kindern vor Misshandlung und Vernachlässigung — vom
+Frühwarnsystem bis zur Krisenintervention“ In: Deutscher Verein für öffentliche und private
+
+Fürsorge e.V.: „Schutz von Kindern vor Misshandlung und Vernachlässigung — Wirksame
+Frühwarnsysteme und Interventionskonzepte“ (Fachtag Berlin)
+
+Terlplan „ille zur Erziehung’Eingliederungshilfe/Angrenzende Aufgaben“
+
+30
+
+Verein für Kommunalwissenschaften e.V. (Hg.) (2003): Erste Erfahrungen bei der
+Umsetzung der Regelung nach $$ 78 a bis g SGB VII und die wirkungsorientierte Gestaltung
+von Qualitätsentwicklungs-, Leistungs- und Entgeltvereinbarungen, Berlin
+|
+Verein für Kommunalwissenschaften e.V. (Hg.) (2001): Qualitätsmanagement in der
+
+Jugendhilfe, Berlin
+
+|
+
+|
+
+Verein für Kommunalwissenschaften e.V. (Hg.) (2004): Zusammenhänge und Wirkungen:
+Umsetzungsstand und Perspektiven der Regelungen nach $$ 78 a bis g SGB VIII, Berlin
+Wiesner, R. (Hg.) (2006): SGB VII Kinder- und Jugendhilfe, Kommentar, München
+
+
