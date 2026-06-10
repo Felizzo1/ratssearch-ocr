@@ -1,0 +1,255 @@
+|
+Anlage zur Vorlage Sanierungsmaßnahme 39. Grundschule
+Finanzposition
+
+Bezeichnung
+
+Anschrift
+
+nach 2010
+übertragene
+Haushalts-
+
+Veränderung
+
+nach 2010
+übertragene
+Haushalts-
+
+ausgabereste
+
+ausgabereste
+
+bzw.
+Planansatz
+2010
+
+bzw.
+Planansatz
+2010 NEU
+
+Begründung
+
+Minderausgaben
+2110.940.1700.02.
+
+|106. Grundschule,
+Baumaßnahme
+
+Großenhainer
+Straße 187, 01129
+Dresden
+
+104.792,76
+
+-50.000,00
+
+2250.940.1080.02
+
+|25.Mittelschule,
+Baumaßnahme
+
+Pohlandstraße 40,
+01309 Dresden
+
+302.276,78
+
+-100.000,00
+
+2310.940.1040.02
+
+|Eriwein-Gymnasium,
+Baumaßnahme
+
+Eibenstocker Straße
+30, 01277 Dresden
+
+181.815,33
+
+-181.815,00
+
+2750.940.1010.01
+
+|Sprachheilschule,
+Baumaßnahme
+
+Fischhausstraße
+12b, 01099 Dresden
+
+178.858,81
+
+-78.200,00
+
+2750.940.1010.02
+
+|Sprachheilschule,
+Baumaßnahme
+
+Fischhausstraße
+12b, 01099 Dresden
+
+151.183,13
+
+-19.050,00
+
+Summe
+
+-429.065,00
+
+54.792,76|Die Schlussrechnungen einzelner Gewerke nach
+Abschluss der Baumaßnahme fallen niedriger
+aus als prognostiziert. Die Finanzmittel können
+daher freigestellt werden.
+202.276,78|Die Schlussrechnungen einzelner Gewerke nach
+Abschluss der Baumaßnahme fallen niedriger
+aus als prognostiziert. Die Finanzmittel können
+daher freigestellt werden.
+0,33|Die Finanzmittel wurden mit Beschluss der
+Vorlage zur Haushaltsstabilisierung gesperrt und
+nunmehr zur Deckung der außerplanmäßigen
+Kosten zur Instandsetzung der 39. Grundschule
+wieder freigegeben.
+100.658,81iDie Schlussrechnungen einzelner Gewerke nach
+Abschluss der Baumaßnahme fallen niedriger
+aus als prognostiziert. Die Finanzmittel können
+daher freigestellt werden.
+132.133,13|Die Schlussrechnungen einzelner Gewerke nach
+Abschluss der Baumaßnahme fallen niedriger
+aus als prognostiziert. Die Finanzmittel können
+daher freigestellt werden.
+
+Anlage zur Vorlage Sanierungsmaßnahme 39. Grundschule
+Finanzposition
+
+Mehreinnahme
+9010.361.0000
+
+Bezeichnung
+
+Anschrift
+
+Investive
+Schlüsselzuweisung
+
+nach 2010
+übertragene
+Haushaltsausgabereste
+bzw.
+Planansatz
+2010
+
+Veränderung
+
+nach 2010
+übertragene
+Haushaltsausgabereste
+bzw.
+Planansatz
+2010 NEU
+
+Begründung
+
+370.935,00
+
+Summe
+
+370.935,00
+
+außerplanmäßige Ausgaben
+2110.940.1110.
+
+39. Grundschule,
+Baumaßnahmen
+
+Schleiermacherstraße 8, 01187
+Dresden
+
+370.935,00
+
+2110.940.1110.01
+
+|39. Grundschule,
+Baumaßnahmen
+
+Schleiermacherstraße 8, 01187
+Dresden
+
+78.200,00
+
+2110.940.1110.02
+
+|39. Grundschule,
+Baumaßnahmen
+
+Schleiermacherstraße 8, 01187
+Dresden
+
+350.865,00
+
+Summe
+Deckung durch Minderausgaben
+Deckung durch Mehreinnahmen
+
+Finanzposition
+
+800.000,00
+429.065,00
+370.935,00
+0,00
+
+370.935,00|Die Finanzmittel werden außerplanmäßig zur
+statischen Ertüchtigung und Wiederherstellung
+der Nutzungsfähigkeit des derzeit gesperrten
+Schulgebäudes benötigt.
+78.200,00|Die Finanzmittel werden außerplanmäßig zur
+statischen Ertüchtigung und Wiederherstellung
+der Nutzungsfähigkeit des derzeit gesperrten
+Schulgebäudes benötigt.
+350.865,00|Die Finanzmittel werden außerplanmäßig zur
+statischen Ertüchtigung und Wiederherstellung
+der Nutzungsfähigkeit des derzeit gesperrten
+Schulgebäudes benötigt.
+
+L__
+
+|
+
+Anlage zur Vorlage Sanierungsmaßnahme
+39. Grundschule
+Finanzposition |
+
+Bezeichnung
+
+Anschrift
+
+M
+nach 2010
+‚übertragene
+\Haushaltsausgabereste
+bzw.
+Planansatz
+2010
+
+Veränderung
+
+nach 2010
+übertragene
+Haushalts-
+
+Begründung
+
+ausgabereste
+bzw.
+
+Planansatz
+2010 NEU
+
+|
+KRXK.RXK.KKRX
+XXXX.XXX.XXXX.01 bzw. XXXX.xXX.xXXX.02
+
+bei diesem Typ handelt es sich um Planansätze 2010
+|bei diesem Typ handelt es sich um Haushaltsausgabereste,
+die aus Vorjahren auf 2010 übertragen wurden.
+
+
