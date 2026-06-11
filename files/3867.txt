@@ -1,0 +1,129 @@
+Anlage finanzielle Auswirkungen
+
+2009
+Finanzposition|Bezeichnung
+
+Plan alt
+
+Veränderung
+
+_|Plan neu
+
+SVA
+SVA
+
+2110.140.0011. |Mieten komm. Horte
+2740.140.0011. |Mieten komm. Horte
+
+1.517.200
+37.800
+1.555.000
+
+518.000
+0
+
+2.035.200
+37.800
+2.073.000
+
+EB KITA
+
+4640.715.1000. |Zuw. u. Zusch..kalk. Miete
+
+1.555.000
+
+518.000
+
+2.073.000
+
+SVA
+SVA
+
+2110.140.0001. |Betriebsko. EB Kita
+2740.140.0001. |Betriebsko. EB Kita
+
+1.740.450
+83.900
+1.824.350
+
+-181.400
+0
+
+1.559.050
+83.900
+1.642.950
+
+EB KITA
+
+4640.715.0000. |Zuw. u. Zusch. BK-Zusch.
+
+| 93.995.000
+
+-181.400|
+
+93.813.600
+
+Finanzposition|Bezeichnung
+
+Plan alt
+
+2010
+Veränderung
+
+|Plan neu
+
+SVA
+SVA
+
+2110.140.0011. |Mieten komm. Horte
+2740.140.0011. |Mieten komm. Horte
+
+1.517.200
+37.800
+1.555.000
+
+513.000
+0
+
+2.030.200
+37.800
+2.068.000
+
+EB KITA
+
+4640.715.1000. |Zuw. u. Zusch. kalt.Miete
+
+1.555.000
+
+513.000
+
+2.068.000
+
+SVA
+SVA
+
+2110.140.0001. |Betriebsko. EB Kita
+2740.140.0001. |Betriebsko. EB Kita
+
+1.738.050
+88.100
+1.826.150
+
+-188.600
+0
+
+1.549.450
+88.100
+1.637.550
+
+EB KITA
+
+4640.715.0000. |Zuw. u.Zusch. BK-Zusch.
+
+96.995.000
+
+-188.600|
+
+96.806.400
+
+

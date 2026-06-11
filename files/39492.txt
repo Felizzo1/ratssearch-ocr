@@ -1,0 +1,604 @@
+Staats@)perette
+
+$
+
+Dresden
+
+tjg. theater unge generation
+
+Kunstkraftwerk
+
+Mitte
+
+Teil B.2
+„Leistungsbeschreibung Betrieb und Bauunterhaltung“
+
+Arbeitsentwurf zu den technischen Ausschreibungsunterlagen
+
+Stand: 01.03.2010
+
+Staats®)perette
+en
+
+$
+Inhaltsverzeichnis
+
+u
+
+1
+
+Übergeordnetes ......uunsunssunsenenuneonnsnunnenanunnenanunnnunnanannnnnunnnannunnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnn 5
+
+1.1
+
+Begriffsdefinitionen..:..s:.+:::.:.0.:4:4:400:#s500558000000080000000000000000200R0enennnnnnn
+una ennannnnennnennnnnann 7
+
+1.2
+
+Nutzerprofile/Betriebszeiten...............unussusesessnnnsssennnnesnnnnnnnnnnnnnnnnnnnnnnennnnnnnennnnnennnnnn 7
+
+2
+
+Nutzerprofile/Betriebszeiten Staatsoperette Dresden.......aussenennorsnannnnnnennnnnnnnenenn 9
+
+2.1
+
+Personalstruktur Staatsoperette Dresden ......uuueeesessessessesensnnsnnnnnnnsnnnnnnnnnennnnennennnnnnn 9
+
+2.2
+
+Spielbetrieb Hauptbühne (S-01 bis -O4)....eeeeseneeseseennnenesnnnenennnnnnnnnnnnnnnnnnannnnnnnnnnnnnnn 11
+
+2.2.1
+
+Besucherzahlen und Auslastung se.rsuessueccc00c0esenssnaneneeönasnenssunsunannennansnenennennneennnnene 11
+
+2.3
+
+Sonder)Veranstaltungen.....uneeesssssssssesesesnnennnnnnnnnnnnnnnnnnnnnnnnnnnnenennnnnennnnnnnnnnennnnnn 12
+
+2.4
+
+Probenbetrieb Haupt-, Probenbühnen I und II (S-02 bis -06) ........z2uucusscennenneennennne 12
+
+3
+
+Nutzerprofile/Betriebszeiten Theater Junge Generation......ususneneneenenennennnnnennnn 13
+
+3.1
+
+Personalstruktur Theater Junge Generation ...uuuneseesesesssnenennenennnnennnnenennnnnnnnnnnenennnn 13
+
+3.2
+
+Spielbetrieb Haupt-, Studio- und Puppenbühne (T-01 bis [-O4])....uuunununeenennnnnnnnnnn 16
+
+3.2.1
+
+Besucherzahlen und Auslastung ..........u2u20s2u0susussnennnnnsnennnnnnennnsnnnnnnnnnnnnnnnnnnnnennnnnn 16
+
+3.3
+
+(Sönder)Veranstaltungen
+
+93.4
+
+Probenbetrieb (T-02. bis -06).....u.uusueeesesseseesesnnsnnnesnnnnnnnsnnnnnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnn 17
+
+4
+
+Nutzerprofile/Betriebszeiten sonstiger Flächen/Räume ....unsusussnessonsnnannennnnuunene 18
+
+4.1
+
+Besucherzentrum
+
+4.2
+
+Verwaltung (S-07, T-07, G-OB)......uuuusuesnsessnenesusnnnnesnnnenonnnnnnnnnnannnnnnnnnnnnnnnnennannennnnnnn 18
+
+4.3
+
+Theaterpädagogik (G-09) ..........2u2202u22000000nunnnnnennenennnnnsnnnnnnnnnnnnnnnnnnnnnnnnnnnnannennnnnnnen 18
+
+4.4
+
+Werkstätten und Lager (G-10. bis -15).......uuu0ucuseeesensesennnnennnennnnnnnnnnnnnnnnnnnnnnnennnnnnnn 19
+
+4.5
+
+(Mitarbeiter)Kantine, Gemeinschaftsverpflegung (FM-17 K) aeeeeeeeeceeneannennnnnnnnnnnnnnn 19
+
+5
+
+Service Level Agreement SLA ....unnnsennsssannnnnnnnnnnnnnnnounnnnnnnonnunnannanennunnunnnnnnnunnennunnn 20
+
+5.1
+
+Qualitätsstandards.........enesenenensnnnensnssnsnsnsesnnnnnnnnnnnnnnenenenennnnnnnnnnnnnnenenenenenenenennnennnen 22
+
+5.1.1
+
+Erfassung und Bewertung der Einhaltung der Qualitätsstandards .....uuanaeaeanananana... 24
+
+5.2
+
+Verfügbarkeitsstandards............220000200ueeenesnnnnnnnennnnnnenennnnnnnnnnnnnennnnenannnnnnnnnnnnnnnnnnn 25
+
+5.2.1
+
+Kontrolle, Erfassung und Bewertung der Verfügbarkeiten....unsasaeseseseseneennennenenenenn 26
+
+53
+
+Nutzerzüfriedenheit.......:.s:.0.0u0s0n000s4s00000000000000000BGünnännennnennnnnnenennnanannnennarennenennnneen 27
+
+=...
+
+wur
+
+16
+
+(G-O0) ......uruenessesessesessnsessnnnennnnnnnnnnnnnnnnnnnsnnsnnnnnnnsnnsensnnennnnnnnnnnnnne 18
+
+StaatsW)perette
+
+$
+
+Dresden
+
+tjg. theater junge generatior
+
+5.3.1
+
+Kontrolle, Erfassung und Bewertung der Nutzerzufriedenheit.....unessesessessesennennenn 27
+
+6
+
+Allgemeine Anforderungen an das Gebäudemanagement.....unusessoennnonnnnonnnenenn 29
+
+6.1
+
+Allgemeine Personalanforderungen.....uunssesesesesesesnssnenannnnnnnnnnnnnnnnnnenenennnnnennnennnnnenn 30
+
+6.2
+
+Dokumentation und Berichtswesen.........uusssesessssesessesennsnennnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnn 31
+
+7
+
+Technische Leistungen.....unususassssssnennonennnnnnnnnsnnnnnonsnnnnnnnnnnnunnensunnnnunnunnennnnnnnannene 32
+
+7.1
+
+Allgemeines (Objektbetrieb/Betriebsführung)
+
+72
+
+Instandhaltung der Bauwerke, gebäudetechnischer und im-/mobile Ausstattung...32
+
+7.2.1
+
+Service-Level-Management Bauunterhaltung ...uuesesesesesescsesnenensnenenenenennnenennnnnnnnnnnnn 38
+
+7.3
+
+Instandhaltung der Außenanlagen.......uunsesesessessssnenensesnnsnnnnnnnnnnnnnnnnnennnnnnnnnnennnnnnnn 39
+
+7.3.41
+
+Service-Level-Management Instandhaltung Außenanlagen ....uuunaessesaseesesennnnnnnnnnnn 40
+
+7.4
+
+Versorgung.zenersensesnnsnnnnsnnnnennnnnnnnnnnnnnnsnnnennnnennunnnnnnnnnannnnnnnnnnnnnennnnnnnnnnnnnnnnnnnnennennnnnn 40
+
+7.4.1
+
+Service-Level-Management Versorgung...usssesssesssenesesenenenennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 42
+
+7.5
+
+Energie- und Wassermanagement ......uusesessssnesssnesoennenennenennnennnnenannnnsensennennnnnnnnnnnne 42
+
+7.5.1
+
+Service-Level-Management Energiemanagement ...euueseessseesennanennnnnnennanennnnnnnnnnnnnn 43
+
+8
+
+Infrastrukturelle Leistungen:.......ususnene0ss0s0cnu0nu0nn0s8H0000H00v00H0aneH06HnB0naewan
+EHE iEennanne 44
+
+8.1
+
+Allgemeines/Übergeordnetes...uunneesseesennsennsennennaennennnennennnennennnnnnennnnnnennnnnnnnenannnn 44
+
+8.2
+
+Reinigungsdienste ...::.:.:-.2.ummseannnnnnnnnennnennennnnonenenunnnnanenenne 44
+
+8.2.1
+
+Unterhaltsreinigung .....seesesenesnenenenenennnnnnnnnennnnnnnnnnnennnnnnnnennnnenennnnnnnnnnnenennsnnnennnnnnnnn 45
+
+8.2.2
+
+Glas- und Fassadenreinigung.....unesesesesesseenennnnnssnnnnnnenennnnnnennnnnnnnnnnnnnnnnnnnennnnnnnnnn 47
+
+8.23;
+
+Sonderreinigung...ansmesenenensenennn
+
+8.2.4
+
+Schädlingsbekämpfung .......uneessesesesennenennnnnnenenesennnnnnnnnnnnnnnnnnnannnnnnannnnannnnnnnnennnnnnnn 48
+
+8.2.5
+
+Service-Level-Management Reinigung ....uuesesesesesesesssssesnsnnnnnnnnnnnennnennnenenenenenennnnne 48
+
+8.3
+
+Dienste in Außenanlagen, Grünpflege .....ueeeesessesnseenssesnennnnnnnnnnnnnnnnnannnnnnnnnnnnnnnnnnnnnne 48
+
+8.3.1
+
+Service-Level-Management Dienste in Außenanlagen ...uasnsassenennnennnnnnnnnnnnnnnnnnnnnnn 49
+
+8.4
+
+(Liegenschafts-)Schutz- und Sicherheitsdienste .....u.ununeneeeeeesenenenenennnennnennnnnnnnnnnnenn 49
+
+8.4.1
+
+Objektschüli.. u.
+
+8.4.2
+
+Notrufzentrale....uenesesesenesnnenensnnnsnsnnnnnennnnnnnennnnnnnnnnenesennnnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnne 50
+
+8.4.3
+
+SchlieBverwaltung unse.
+ennennnennennenene 50
+
+47
+
+49
+
+Staats(@)perette
+Dresden
+
+[0j
+tjg. theater junge generation
+
+8.4.4
+
+Service-Level-Management Schutz- und Sicherheitsdienste .crcncnsaneenaennnnnnnnnn.
+50
+
+8.5
+
+ENTSOFGUNG aueucensuassusarensunennsenses
+nen sunsnnune
+nennen unnun
+ünnennennn
+EEnVEE EEE nnnen
+LEEREREERELnen
+EEG 51
+
+8.5.1
+
+Service-Level-Management Entsorgung .caueaseansennennaunnennaunsennnnnnnnnnnnnnnnnnnennnnnnnnnnnnnn 52
+
+8.6
+
+Sonstige infrastrukturelle Dienste/Supportleistungen...esssesennsnnnnnnnnnnnnnnnnnn
+nnanannnnnnn 52
+
+8.6.1
+
+Service-Level-Management „Vorderhauspersonal"....eneasessessssnennnnnnnnnnnnnnnnn
+ennnennn 54
+
+8.7
+
+Catering...neneeeseesensenneunsennsenssensennsennsnnnsnnnennnennnnnnnnnennnnnnnnnsnnnnnnsnnennnnnnnnnennnnnnnn
+
+8.7.1
+
+Eventcatering „Foyers“ der Spielstätten (S-xxx/T 110.020
+
+8.7.2
+
+Mitarbeiterkantine/Gemeinschaftsverpflegung (FM-XXX) aneenesnssnssessnsnnnensensennnnnnnnnne 56
+
+8.7.3
+
+SB-Automatenservice (FM-XxX) aaseseesensunsnnunnunannnnnnnnnnnnnnnnnnnennnennnennnnnnennnnennnnnnnnnn 57
+
+8.7.4
+
+nexternes" lestauränt..uerssssssnsnsescarsrssusssesensnäiseesncnessänenennennnnnnaenenenenennnsunnnen
+eneren 57
+
+8.7.5
+
+Service-Level-Management Oatering....uuuanasanasnsnsensennnennnnnnnnnnnnnenennnnnnnnnnnnnnnnnnnnn 57
+
+8.8
+
+„SONStGEr SUPPO“ curscsessssnenenesinscensnenesusinennsnenenenehennnnenennenenennnnnanennunnennnenenenenene 57
+nn
+
+nnnnn 55
+
+EEE EEE
+EEE ERURGER 55
+
+Kaufmännische Leistungen .....usssessssnsnnnonnnannnnnenonnnnnnnnnnnanenunnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 58
+9.1
+
+Service-Level-Management kaufmännisches Gebäudemanagement «usa.
+
+10
+
+Leistungsänderungen/Änderungsmanagement EN ROLL TEL EEITEETENOTNFEL NE TER TEEN 59
+
+11
+
+Endschaftsregelung .....usesesnenenananonsnnnnnnnnennnnnnnnnnnonannnnnnennnnnnanenanennnnnsnsnnnsnenennnnnnnnen 60
+
+12
+
+Anläagenverzeichnis......un
+nennen
+senenssen
+RER
+scunnnen
+NER TEE 61
+
+58
+
+Staats(W)perette
+
+[0j
+
+Dresd en
+
+tjg.
+j theater junge generation
+
+Kunstkraftwerk
+
+Mitte
+
+B.3
+„Leistungsbeschreibung Bühnen-, Licht-, Ton- und Videotechnik“
+Bau-, Qualitäts- und Ausstattungsbeschreibung
+
+Arbeitsentwurf zu den technischen Ausschreibungsunterlagen
+
+Stand: 28.07.2010
+
+Inhaltsverzeichnis
+1ALLGEMEINES/ÜBERGEORDNETES....neessnnsssssnunnnsssonnnnanenenunnnnnsonennannnnnunnnennn
+
+nnnnnen 8
+
+2PLANUNGS- UND BAULEISTUNGEN
+
+2.1 ÜBERGEORDNETE
+
+...annsenssensssunsounannnnnnnnnnnnnnnnnnnnnenneenanennnennsenennnnnnn 11
+
+PLANUNGS- UND BAUAUFGABEN....
+
+2.1.1 VERKEHRS- UND FLUCHTWEGE .naaneennnneennnnuunnnannnnnennnannnnunnnnnnnnnnnnnnnnnnnnnnnnnn
+12
+
+2.3.1.6BÜHNENSICHERHEITSEINRICHTUNGEN
+2.3.1.7 BÜHNENHOLZBELÄGE
+2.3.1.3V’ORHÄNGE
+
+2.2.2.6ZUSCHAUERRAUM/FOYER
+2.2.2.7 VERSATZKÄSTEN...eneeneeseneennsnnnnnnnnnunnnnnennnnnnnnennnnnnnnnnnnnnnnnnnnnnnnennenennnnnnnnnnnnnn
+
+2.2.3. 4ANSCHLUSSSTELLEN FÜR KOMMANDO- UND SIGNALANLAGE ann. 62
+2.2.4MITHÖR- UND MITSEHANLAGE. ..uannenennsunnnunsnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnennennnnnnnnnnnnnn 65
+2.2.4.1MITHÖREN
+
+2.2.6.1BESCHALLUNG...
+2.2.6. 2TONTECHNIK
+
+2.2.6.3VIDEOTECHNIK....ennnnnnnnn.
+2.2.6.4MEDIEN-NETZWERK
+2.2.6.5ANSCHLUSSKÄSTEN
+
+2.2.80RCHESTER - PROBESAAL ...
+2.2.8. 1ANSCHLUSSKÄSTEN
+
+(EVTL. RÄUMLICH AUFGETEILT)....
+
+.
+
+2.2.8.2BESCHALLUNG..nneaneensennennsennsenneenssensennsennsnnnennnennennnnnnennnnennnnnnnnnennnnnnnnnnnnnnnnne
+
+nnn 95
+
+2.2.12 CHORPROBERAUM...
+
+2.2.13BALLETTSAAL...naneaeneasunununsnnnnnnnnunnnnnnennnnnnnnnnnnnnnennnnnnnnnnnnnnennnnensensnensnneesennannnnene
+2.2.14TONWERKSTATT..eeeensenennenennnannennnnnnnannnnnennnnennennnnennenennenennnnnnnenennnnnnennnnenennnnnnne 97
+2.3 THEATER JUNGE GENERATION DRESDEN „TG“ aussnsnasnsnonnaneonnnennannnnnnananennnnnn 97
+2.3.1BÜHNENTECHNIK. .nereeeeseanennnnnnnnnnnsnnnnnnnnnnennnnnnnnnnnnnnnnnnnennnenennennnnnnnnnennnnennenennennenn
+2.3.1.1TECHNISCHE VORBEMERKUNGEN ZUR BÜHNENTECHNIK ...
+2.3.1.2STAHLKONSTRUKTIONEN — THEATER .neeneenensenennnnnnannnnannnnennenennenannenennennnnnnnenn
+2.3.1.3DIE OBERMASCHINERIE...ueaseasenuneunenannnnnennnnannennenennennnnennnnennnnenennennnnennnennnnnnnn
+2.3.1.4DIE UNTERMASCHINERIE .neasensesennunnnannnnnnnnnnannennnnnnnnnnnnnnnnnennanennnnennnnenennennennne
+2.3.1.5STEUERUNG BÜHNENMASCHINERIE .neanensenennunnnnnnennnnnnnnnnnnnnnnnnnnnnnnnnennennnnnnne
+2.3.1.5 BÜHNENSICHERHEITSEINRICHTUNGEN ...uuneasuenennnennnenennenennnnennenennenennennne
+2.3.1.7 BÜHNENBODENHOLZBELÄGE
+
+............ .
+
+2.3.1.12PROBEBÜHNE- ZUR PUPPENBÜHNE.
+
+u
+
+2.3.1.13PROBEBÜHNE- ZUR STUDIOBÜHNE ...uueasasuannanenanannanananannnnenenanennnnnnnnenennnnenn
+2.3.2BÜHNENBELEUCHTUNG ...eneasenensensnannnnnnnnnnnnennnnennnnnnnennenennenennenennennnnenennenennennnnn
+
+2.3.3KOMMANDO- UND SIGNALANLAGE...anasnensussunanannnnannnnnnnannnnannenennnnennnenenennnnnnn
+
+2.3.AMITHÖR- UND MITSEHANLAGE. .neaneesenssunnnnnssnnennennnonnennnnnnennonnennnennennennnennannnenn 138
+2.3.5SCHWERHÖRIGENANLAGE ....unnenssunsenssenssnsensenusensennnsnsenenennnnnnnnnennennnnnennnnnnnn 138
+2:3.5AVETECHNIK u.
+
+2.3. 9PUPPENTHEATER....uaenesneeneeneeenennnnn
+2.3.10PROBEBÜHNE1 (HB)
+2.3.11PROBEBÜHNE 2 (PB)
+2.3.12PROBEBÜHNE 3 (SB)
+
+2.4 THEATERPÄDAGOGIK.....unssunssunsunnnnnnnunenunnnnsnenesunnnnennnennennnnnnnnnnnnnnennsnsnnsenesnnsennnnn
+2.4.1PROBEBRAUM SOD ..
+
+2.6.2.2BEDIEN- UND WANDTABLEAUS......uesssnsssessessssonnsnonsonnnnnnnnennnnnnsnnnnnnnnnnnnnnenn 143
+2.6.3AUFGABEN DER MEDIENSTEUERUNG ....uuesesessssesnsnsnsnnnnnnnnnnnennnnnnennnnnnnnnnnnnnnn 144
+2.6.3.1BÜHNENBELEUCHTUNG ...eeaeenssesssnnsunneunnennannnennnennnnnnannennnnnennannnnnnennnnnnnnnnnnn 144
+2.6.3.2KOMMANDO- UND SIGNALANLAGE...ueuneesssssssnsnssesennnnennnnnnennnnnnnnnnnannnnnnanennnann 144
+2.6.3.3AV-TONTECHNIK ......uuneneesensesessnsessnsnnnnnnnnnnnnennnnnsnnsnnnnnnnnnnnnsennnnnnnennnnnnnnnnnnnnnnn 144
+2.6.3.4RAUMLICHT ......nneeesesserseeseeennne
+
+144
+
+2.7 RUF- UND EVAKUIERUNGSANLAGE ....unusnensnnnenenonnannnnonannnnnnnnennnnnnennnennnnnnunnanennn 145
+2.7.1Ruf- und Alarmierungslautsprecher ....eeesssesnsssssssesnnsnasennnnnenannennnnnnnnnnnnnnnannnnnnnnnnnn 145
+
+2.7.2100 V-Endverstärker.....unensssesesseesesesnensnnnesnnnnnnnanannnnnnnnennnnennnnnnnnnnnnnnnnnnnnennnnnnenenn
+2.7.3Tischsprechstelle Feuerwehr......uucssessesssesssssnnnenannannnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+2.7.4Wandsprechstelle Feuerwehr...
+
+2.7.5Tischsprechstelle BMA ......uuunnnssnsssnnesesesesenenenenenensnenennnennnenennnnnnnnnnnnnnanenenenenenennnen
+2.8 INFORMATIONSSYSTEM ....usnsnsnensnsnsnonsnnnsnnnnnnensnnnnnennnnnennnnnnnssenennnnnnnnanananenennnnnnnnn
+2.8.1Content Management Software
+2.8.2Workstation
+
+2.8.3Stand-Display .....ueeessessesesnesnennnsnunnennnnennennnnnnnonnnnnnennonsnnnnnansnnnnsnnnnnnnnnennennnnnnsnnnnnnn 149
+2.8.4TFT-Bildschirme ........enesesssesneenssnsnnosnnnenennnnnnenennnneneonsnennnnennnnnnnonnenensnnnnessensnnennnnn 150
+
+2.9.1LeitungsnetZ.....uueneessessensersensnnsnnnnnnennnnnnnnnnnnnennnnenonnnnnnnnsnnnnnnnnnnnnnnnnnnnnnennnennennnnnnenne
+
+2.9.2Verlegesysteme
+2.9.3Kabel und Leitungen............uuunsussnnessenensensnsnnsnsnnsonnnnnnnnnsnnnnnnnnnnnnnnnnnnnnnnnnnennnnnenennnne
+
+2.10ENERGIEEINSPEISUNG ....uunsusnsnssnsnsnnnannnnnnnnunnnennnnonennnnonnnsnnonnnennnnnnnnnnnenennennnnnnannn
+2.10.1Böreich SOD ..unenennenenrnnnan
+2.10.1.1EINSPEISUNG „BÜHNENTECHNIK“ ..ananennennennennunnnnnnnnnnennnnnnnnnennnnnnnnnnnnnnnnnn
+2.10.1.2EINSPEISUNG „BÜHNENBELEUCHTUNG“ .nearensensnnsnnennunnennennnnnnnnnnennnnnnnnennnn
+2.10.1.3INSPEISUNG „AV-/TON- UND MEDIENTECHNIK“..
+2.10.1.4EINSPEISUNG TONSTUDIO ......uenesnssnsssnssssenenenenenenennnnnnnnnonennnnnnnnnnnnnnennnnnnnnn
+2.10.1.5EINSPEISUNG ORCHESTERPROBESAAL
+
+..ueeeeensnsnsnensnsnsnennnenenennnnnnnennnnnnnnnen
+
+2.10.1.6PROBEBÜHNEN...uneusneensssesnsssnnnsssennnssnnnnaennnsnnnnsennnennnnaennennunennanennunnenuneennnnn
+
+2.10.3Bereich „Sonstige“
+
+2.10.3.1WERKSTÄTTEN
+2.10.3.2MALSAAL..nnunnensensesensessnsnnsnssnennsnnnnnennnnennnnnnnennnnnnnnnennnnennnnennnnennenennenenennnennnnnn
+
+3.1.1Abnahme Bühnen-, Licht-, Ton- und Videotechnik.....uuacanseeneeeenennennennennennennnnennnn 156
+
+3.1.2Inbetriebnahme und Übergabe
+3.1.3Betreiberverantwortung ...znesesesennsnsnnssnnnnnnenenenenenenenennnnnnnnnnnnnnnnnnnnensnensnenanenanenennnnn
+
+3.2 GEWÄHRLEISTUNGS- UND MÄNGELANSPRÜCHE ...nauuannannnunnasannennennennnnnnnnnnn
+3.3 DOKUMENTATION
+
+UND BERICHTSWESEN
+
+(PUB) ..aenseennnnennnnnnnnnnnnnannannnnnannnn
+
+3.3.1Bestandsdokumentation/Revisionsunterlagen «ceeaeasensenennunennnnenennnnnnnnnnenmnnnnnnnnennnnn
+3.3.2Dokumentation Abnahmen,
+
+Übergaben,
+
+Mängelbeseitigung ..
+
+4BETRIEB UND UNTERHALTUNG ..nuenensnrusnnnnnnnnnonosennnnnnsssnnnunnnnannnnnanannnnnnnnnnnnnnnnnnnnn
+
+4.1.1SICHERHEIT BEI PRODUKTIONEN
+
+UND VERANSTALTUNGEN/ BETREIBER-
+
+VERANTWORTUNG ...neanenensnnensensunensensonsnsnnsnnennnsnnnnenannenannennnnnnnnnnnnnnnnnnnnnnnnennnnennn 162
+
+4.2 GEWÄHRLEISTUNG UND MÄNGELANSPRÜCHE (BUU) .neneenenseeseenenennenennnennn 163
+4.3. SERVICE LEVEL-ÄGREEMENT SLA...=.e.0u
+
+nern
+
+163
+
+4.3.1MESSGRÖSSEN (ZEITEN) .unasessesenennennannnnnnannnnnnnnnnnnnnnnnennnennnnennnnnnnenannennnnennenen
+4.3.2Qüalitäten:(Mangel,.Schaden) =...
+
+4.3.3Verfügbarkeit (Störung, Ausfall)
+4.3.4Nutzerzufriedenheit (Bedürfnisse, Beschwerden) .......u..2u22u00000suessnnsensnnnsnnnannennnnnn 167
+4.3.5Service-Level-Management......uuussesssssessessessonssssnnnnonsannnnensnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn 168
+
+4.4 DOKUMENTATION
+
+UND BERICHTSWESEN
+
+(BUU) ..ueesesensssesnseenennenennnnnnnnnnnnnnne 169
+
+4.4.1,Live Support System“ ..eeeeeeesnessssssnnnssnnsnennnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnennnnnnnnnnnnnnnnnn
+
+4.4.2Bestandsdokumentation ......uunesessenesnennennnnnnnnnnnnnnonennnnnensnennnnnnnnnnnsnnsnnennnnnnnsnnsnnannnne
+4.4.3Service-Level-Bericht .......esee
+4.4.4Anlagenverfügbarkeitsstatistik
+4.4.5Verbrauchsdatenstatistik ..........2n0u00002ennennnnnnennseennnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnnnnnnnnnnenen
+4:4.6RBiNIgUNGSPIAN....nnerrenneeernennnazrn
+4.4.7Management Summary ....uneessssessesuennsessnnnesannnnnnnonnennnnnnnnnnnnnnnnennnnnnnennnnnennnnnnnnnnnnnn 171
+
+4.5 BETREIBEN
+4.5.1Anlagen und Einrichtungen bedienen
+
+4.5.2lnstandhalten.........uunensesseseesessesessesnnsnnnnnnnnnnannnnnnnennenannnnnnnnnnonnennnnnnnnnnnnnennnnennennennnn
+
+4.5.2.1PRÜFEN (EINSCHL. SACHVERSTÄNDIGENPRÜFUNG)...aanaanannnnnnnnn 173
+
+4.5.2.2INSPIZIEREN UND WARTEN ..eneaessenensnnnnnnanennnnnnennnnnnnnenennnnnnnnnnnnennnnnnnenenenannnn 173
+4.5.2.3INSTANDSETZEN..
+
+4.9.1Unterhaltungsreinigung .........2.222020202020200nnnnnanenennnnnnennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnennnnnnnnnn 177
+
+4.9.2Grundreinigung.................
+
+.
+
+4.9.2.1GRUNDREINIGUNG
+
+FUBBÖDEN...zueanaenennenennnnnnnnnnnnenennnanannnnnnnn
+
+4.9.2.2GRUNDREINIGUNG
+
+TECHNISCHE ANLAGEN
+
+.178
+
+UND EINRICHTUNGEN ....... 179
+
+4.10SCHÜTZEN UND SICHERN ....uusseeunnsassesnnnassennnnaenunnnenunnnneennnnennnnnnnnnnnennnnnnnnnnnnn 179
+4.11VERWALTEN ...nnenenenssnsnsnnansesnnsnsnsnnensnnnnennnnanennnnnnenennnnennnanennnennnnnnenenenennnenenannnnenn
+4.11.1Nebenkostenabrechnung
+
+5ANLAGEN
+
+
