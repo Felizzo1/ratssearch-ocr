@@ -1,0 +1,572 @@
+Akustik
+ın
+
+en
+
+ie
+
+*
+
+Bureau
+
+u
+
+ge
+
+sel
+
+*
+|I
+
+Dresden
+
+sch
+a f
+
+t
+
+m
+
+bb
+
+H
+
+Messstelle nach $ 26 BImSchG
+
+Beste
+
+Toaraayı Trrasetan Gmat
+
+iunys-Pra-Stralle 15
+
+9126
+
+Dresden
+
+Messe Dresden GmbH
+
+z.Hd. Herrn Ulrich Finger
+Messering 6
+01067 Dresden
+
+in: Zeinnen
+
+Ihre Machncht vom
+
+Linser Zeicher
+
+Jresden
+
+Fi/Uhl
+
+12.05.2009
+
+ABD 21058/09-gr
+
+25. Juni 2009
+
+den
+
+Gutachten
+zur
+
+Raumakustik
+
+Nr.: ABD 21058 / 09
+
+für die
+
+Halle 1
+
+der
+
+MESSE
+
+Tel:
+Fax.
+Funk:
+e-mar
+
+03517471 15-68
+0351 / 471 15-99
+0172 / 868 3178, 0172 / 900 4209
+info@abd-online.com
+
+Internet:
+
+www.abd-online.com
+
+DRESDEN
+
+Bankverbindung:
+Dresdner Bank Dresden
+Konto-Nr
+012 059 3800
+BLZ
+850 800 00
+
+Amtsgericht Dresden: HRB 25595
+Steuer-Nr. 209105/06258
+Geschäftsführer:
+Dr. Hans-Jörg Ederer, Dr. Axel Roy
+
+Akustik Bureau Dresden
+Ingenieurgeselischaft mbH
+Julius-Otto-Straße 13
+D-01219 Dresden
+
+0
+
+Messe Dresden GmbH
+
+Gutachten zur Raumakustik / Halle 1
+
+Akustik * Bureau * Dresden
+
+Seite
+
+Inhaltsverzeichnis
+Ausgangszustand und Aufgabenstellung
+Beurteilungsgrundlagen
+
+...............-.-.----rereen- 3
+
+nennen 4
+...............:2.2ceereseeeeeeeeeeeen
+
+nenn 5
+nennen
+eeesne
+nenn
+neeeee
+Messung .........222222eseeeeeee
+3.2
+
+ernennen
+e 5
+nennen
+eennene
+Messtechnik .......:..:222e2seeeeeeneree
+nn 6
+rennen
+nenne
+Umfang der Messungen .........-.:-e:reeeeeeeneeee
+
+3.3
+
+n nn
+neneer
+Messergebnisse..........:2-2eeeeeeereeneneneneneen
+
+3.1
+
+7
+
+Ermittlung der erforderlichen Schallabsorberflächen .................-- 9
+Raumakustische Maßnahmen .................2.emeneneeeeeennnne:
+
+11
+
+ne
+rennen
+........:2222220eeeeeseeeeeeeneneeeenere
+
+11
+
+5.1
+
+Allgemeines
+
+5.2
+
+Wände
+
+eeeee
+nererne
+eneeneeneeeee
+een eneee
+......222co2eeenennen
+
+12
+
+5.3
+
+Decke........222c2eseseeneeeeeeneereneeeneeesenenereesereenen
+
+17
+
+5.4
+
+Trennwände
+
+........::cceeseeeeeeeeneneeesnneeseeenereenerenenn
+
+19
+
+I Je Ba
+
+€ 117 ı | EEE
+1:7:
+
+20
+
+nenn 21
+essennneen
+Kostenschätzung.................:222eeeeeeeseeeee
+neenen
+nern
+ernennen
+Zusammenfassung ..........222222eeeeseeeeeee
+
+23
+
+Verzeichnis der Produzenten.................2222eeceeeseeeeeeeeennn 24
+
+Ad
+
+D.
+
+Gnl_
+
+Dr.-Ing. Axel Roy
+
+Dipl.-Ing.
+
+han Groth
+
+- Projektleiter
+
+-
+
+Gutachten ABD 21058/09
+
+- Bearbeiter
+
+-
+
+Seite 2 von 25
+
+Akustik * Bureau * Dresden
+
+Gutachten zur Raumakustik / Halle 1
+
+Messe Dresden GmbH
+
+Ausgangszustand und Aufgabenstellung
+
+1
+
+Aufgrund des geplanten Umbaus des Kulturpalastes in Dresden sollen Unterhaltungsveranstaltungen
+künftig in die Halle 1 der MESSE DRESDEN verlegt werden. Daher wird eine akustische Anpassung
+der Halle an eine Mehrzwecknutzung erforderlich. Das AKUSTIK BUREAU DRESDEN wurde mit der
+Entwurfsplanung geeigneter Maßnahmen und der Erstellung eines entsprechenden Gutachtens
+beauftragt. Zur Bewertung der aktuellen Situation waren raumakustische Analysemessungen im
+derzeitigen Zustand nötig, auf deren Basis die notwendigen Maßnahmen
+
+hinsichtlich Art, An-
+
+bringungsort und Menge bestmöglich dimensioniert werden können. Die Messungen wurden am
+20.05.2009 in der leeren, unbesetzten Halle durchgeführt. Inhalt dieses Gutachtens sind die Dokumentation und Bewertung der Messergebnisse sowie Empfehlungen für daraus abgeleitete Maßnahmen zur raumakustischen Optimierung. Die Maßnahmen werden dem Prinzip nach beschrieben,
+einschließlich der zugehörigen Konstruktionen und eventueller Alternativlösungen. Namentlich
+benannte Materialien erfüllen gemäß Herstellerangaben die entsprechenden DIN-Normen und sind als
+Richtqualitäten zu verstehen. Sie können durch andere, gleichwertige ersetzt werden.
+
+Grundlage der Ausarbeitungen bilden folgende Pläne und Informationen:
+
+-
+
+Grundrisse, M 1:200, 14.02.2000
+Schnitte, M 1:200, 01.03.2000
+
+-
+
+Nutzungsvarianten der Messehalle 1 (Messe Dresden GmbH)
+
+Gutachten ABD 21058/09
+
+Seite 3 von 25
+
+6
+
+Messe Dresden GmbH
+
+Gutachten zur Raumakustik / Halle 1
+
+Akustik * Bureau * Dresden
+
+Kostenschätzung
+
+Die Kostenschätzung ist als grobe Orientierung zu verstehen, da zum aktuellen Zeitpunkt weder Art
+oder Umfang der realisierbaren Empfehlungen noch der genaue Aufwand hinsichtlich Nebenarbeiten
+für die einzelnen Maßnahmen feststeht. Die angegebenen Preise sind zum Teil Vorinformationen
+befragter Produzenten oder Listenpreise. Sie beinhalten eine grobe Abschätzung der Montagekosten
+aus vergleichbaren Objekten. Nicht enthalten sind eventuelle Zusatzkosten für Sonderleistungen, wie
+Gerüststellung.
+
+Material
+
+Bauteil
+
+Umfang
+
+Preis/
+
+| Information | Gesamtpreis
+
+m?
+
+Vorder- und | Mineralfaser-AbsorRückwand
+
+ca. 80€
+
+|
+
+Preisliste
+
+56.000 €
+
+ca. 60€ | Verarbeiter
+
+42.000 €
+
+berplatten
+Alternativ:
+
+ca. 700 m?
+
+Gipskarton-Lochplatten
+
+u
+
+Seitenwände | Mineralfaser-Absor-
+
+ca. 80€ | Preisliste
+
+224.000 €
+
+ca. 60€ | Verarbeiter
+
+168.000 €
+
+berplatten
+Alternativ:
+
+ca. 2800 m?
+
+Gipskarton-Lochplatten
+
+Decke /
+
+Mineralfaser-Absor-
+
+Rauchschür- | berplatten
+zen
+
+ca. 80€
+
+|
+
+n
+
+Preisliste
+
+76.000 €
+
+ca. 70€ | Hersteller
+
+66.500 €
+
+ca. 80€ | Preisliste
+
+400.000 €
+
+ca. 70€ | Hersteller
+
+350.000 €
+
+|ca. 600€ | Hersteller
+
+282.000 €
+
+ca. 950 m?
+
+Alternativ:
+Lochblech-Kassetten
+
+Decke / Trä- | Mineralfaser-Absorgerwerk
+
+berplatten
+
+ca. 5000 m?
+
+Alternativ:
+
+Lochblech-Kassetten
+Trennwände
+
+| Dorma „MOVEO“
+
+(Schalldämm-Maß
+
+ca. 470m?
+
+R, 250 dB)
+Gutachten ABD 21058/09
+
+Seite 21 von 25
+
+Gutachten zur Raumakustik / Halle 1
+
+Akustik * Bureau * Dresden
+
+Material
+
+Bauteil
+
+Umfang
+
+Messe Dresden GmbH
+
+Preis / | Information | Gesamtpreis
+m’
+
+Erneuerung des Behangmaterials schallabs. Vlies- ober-
+
+>
+
+x
+
+-
+
+Hersteller
+
+ca. 50.000 €
+
+Mobilwand
+
+fläche (inkl. Demonta-
+
+|ge)
+ist. Die
+Alle angegebenen Preise sind Nettopreise, zu denen die gültige Umsatzsteuer zu addieren
+Zusätzliche
+aufgeführten Kosten beziehen sich ausschließlich auf die akustischen Maßnahmen.
+
+Aufwendungen für z.B. Demontagen, statische Ertüchtigung, Feuchteschutz etc. sind darin ebenfalls
+nicht enthalten.
+
+Gutachten ABD 21058/09
+
+Seite 22 von 25
+
+7
+
+Messe Dresden GmbH
+
+Gutachten zur Raumakustik / Halle 1
+
+Akustik * Bureau * Dresden
+
+Zusammenfassung
+
+Bei der Umsetzung aller oben beschriebenen Maßnahmen ist mit günstigen raumakustischen Verhältnissen bezüglich einer Mehrzwecknutzung der Messehalle 1 zu rechnen. Aufgrund der gleichverteilten und symmetrisch angeordneten Absorber können auch für Nutzungsvarianten mit abgetrennten Hallenteilen die empfohlenen Toleranzbereiche der Nachhallzeit unabhängig von der
+Besetzungszahl eingehalten werden. Für die gesamte Halle kann ein Nachhallzeitverlauf ähnlich dem
+
+een
+
+—
+
+en
+
+1
+
+9
+
+Terznachhallzeiten
+Messehalle 1 (gesamte Halle)
+
+1
+
+h
+
+—
+
+9"
+
+Rn
+
+aa
+
+4
+
+9
+
+D
+
+NN
+0
+a
+
+—ı
+
+Nachhallzeit in s
+
+2
+
+>
+
+a
+
+J
+
+on
+oa
+
+I
+
+en
+
+[e)}
+
+ne nn
+
+in Abb. 24 dargestellten prognostiziert werden.
+
+0,5
+
+—s— ohne Maßnahmen —e— mit Maßnahmen
+
+50
+
+80
+
+125
+
+200
+
+315
+
+500
+
+-»- Toleranzbereich
+
+800 1250 2000 3150 5000 8000.
+
+Frequenz In Hz
+
+Abb. 24: Prognose der Nachhallzeit für die gesamte Halle bei Umsetzung aller empfohlenen Maßnahmen
+
+Die Maßnahmen wirken sich dabei nicht nur positiv auf die Akustik bei Unterhaltungsveranstaltungen
+oder Kongressen aus, sondern in hohem Maße auch auf den regulären Messebetrieb, da aufgrund der
+geringeren Halligkeit die mittlere Gesamtlautstärke in der Halle sinkt und die Sprachverständlichkeit
+verbessert wird. Darüber hinaus kann eine gewisse „raumakustische Behaglichkeit“ erreicht werden,
+die den Aufenthalt in der Halle wesentlich angenehmer gestaltet. Für klassische Konzerte ohne
+elektrische Verstärkung ist die Halle allerdings auch nach der Ertüchtigung ungeeignet. Die Gesamtkosten für alle empfohlenen raumakustischen Maßnahmen belaufen sich auf ca. 1,1 Mio. Euro
+(netto). Es wird noch einmal ausdrücklich darauf hingewiesen, dass die Details der baulichen
+Ausführungsplanung hinsichtlich Statik, Brandschutz und Bauphysik vor der Ausführungsplanung
+gesondert zu untersuchen sind.
+Gutachten ABD 21058/09
+
+Seite 23 von 25
+
+

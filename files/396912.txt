@@ -1,0 +1,109 @@
+Standort:
+
+Florian-Geyer-Straße, gegenüber Haus Nr. 4
+
+Stück:
+
+1
+
+Banktyp:
+
+Typ LH Dresden
+
+’
+
+.
+
+114,5
+
+?
+
+1153/8
+
+RS
+
+Fortschreibung Bankkonzept für das gesamte Stadtgebiet Dresden
+Planung Bankstandorte Ortsamt Altstadt
+
+<S
+
+Standort:
+
+Florian-Geyer-Straße, vor Haus Nr. 12
+
+Stück:
+
+1
+
+Banktyp:
+
+Typ LH Dresden
+
+Fortschreibung Bankkonzept für das gesamte Stadtgebiet Dresden
+
+Planung Bankstandorte Ortsamt Altstadt
+
+7
+
+Standort:
+
+Florian-Geyer-Straße, gegenüber Haus Nr. 28
+
+Stück:
+
+1
+
+Banktyp:
+
+Typ LH Dresden
+
+8
+
+Standort:
+
+= Florian-Geyer-Straße, vor Haus Nr. 40
+
+Stück:
+
+1
+
+Banktyp:
+
+Typ LH Dresden
+
+9
+
+Standort:
+
+= Florian-Geyer-Straße, gegenüber Haus Nr. 46
+
+Stück:
+
+1
+
+Banktyp:
+
+Typ LH Dresden
+
+N
+
+zZ
+
+N
+
+&
+
+1155
+
+\S
+
+De:
+
+N
+
+o' 13.74
+
+Fortschreibung Bankkonzept für das gesamte Stadtgebiet Dresden
+Planung Bankstandorte Ortsamt Altstadt
+
+
