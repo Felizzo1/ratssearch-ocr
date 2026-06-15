@@ -1,0 +1,131 @@
+Hausmitteilung
+
+X |
+
+Dresden,
+
+Landeshauptstadt Dresden
+UL] vertraulich
+
+Der Oberbürgermeister
+
+SPD-Fraktion
+
+GZ:
+
+(OB) 17.3
+
+im Stadtrat der Landeshauptstadt Dresden
+Frau Stadträtin
+Kristin Sturm
+
+Datum:
+
+19. NOV. 2019
+
+Open Data für Dresden
+
+AF0104/19
+
+Sehr geehrte Frau Sturm,
+zu Ihrer Anfrage erlaube ich mir zunächst den Hinweis, dass meiner Ansicht nach kein Anspruch auf
+Beantwortung besteht.
+Nach der Rechtsprechung des Sächsischen Oberverwaltungsgerichts besteht für einzelne Stadtratsmitglieder ein Antwortanspruch nach $ 28 Abs. 6 SächsGemO nur dann, wenn lediglich eine einzelne
+Angelegenheit, d. h. ein einzelner/konkreter Lebenssachverhalt betroffen ist. Ein Antwortanspruch
+besteht jedoch nicht, wenn die Anfrage darauf abzielt, sich einen allgemeinen Überblick zu verschaffen. Ein konkreter Lebenssachverhalt ist dann gegeben, wenn er nach Ort, Zeit und dem Kreis der
+eventuell betroffenen Personen bestimmbar ist; dabei muss zwischen diesen Elementen eine inhaltli-
+
+che Verbindung vorhanden sein; vgl. SächsOVG, Urt. v. 7. Juli 2015, 4 A 12/14, Rn. 28. Das Sächsische
+Oberverwaltungsgericht verweist Fragesteller, die sich einen allgemeinen Überblick verschaffen wollen, auf das Fragerecht nach $ 28 Abs. 5 SächsGemO. Fragen zu sämtlichen Angelegenheiten der Gemeinde können danach erst gestellt werden, wenn die Unterstützung eines Fünftels der Mitglieder
+des Stadtrates vorliegt.
+Soweit ich jedoch ein eigenes Interesse an der Beantwortung der von Ihnen aufgeworfenen Fragen
+habe, werde ich diese - ohne Anerkennung einer Rechtspflicht und ohne Bindungswillen für künftige
+vergleichbare Konstellationen — dennoch beantworten:
+„„über 800 Datensätze der Landeshauptstadt Dresden können ab sofort frei genutzt werden”, liest
+man auf der Homepage von dresden.de. Der damit einhergehende Nutzen dient nicht nur interessierten Bürgerinnen und Bürgern wie Unternehmen und Startups. Die Onlineabrufung von Daten
+der städtischen Verwaltung dürfte auch im Zuge der Eröffnung des neuen Verwaltungszentrums
+
+samt mobilen und flexibleren Arbeitsplätzen zunehmend an Bedeutung gewinnen.
+
+-2-
+
+1.
+
+Welche Daten befinden sich bereits im Open Data-Portal der Landeshauptstadt Dresden? Welche sollen künftig noch eingestellt werden?“
+Aktuell sind 907 Datensätze in den 14 Rubriken
+-
+
+Bevölkerung
+Bildung und Wissenschaft
+Transport und Verkehr
+
+-
+
+Kultur, Freizeit, Sport und Tourismus
+
+-
+
+Geografie, Geologie, Geobasisdaten
+
+-
+
+Gesetze und Justiz
+Gesundheit
+
+-
+
+Umwelt und Klima
+Wirtschaft und Arbeit
+
+-
+
+Öffentliche Verwaltung, Haushalt, Steuern
+
+-
+
+Soziales
+Politik und Wahlen
+Infrastruktur, Bauen und Wohnen
+
+-
+
+DCAT-AP
+
+von 28 Datenlieferanten unter der Adresse https://daten.dresden.de online verfügbar.
+
+Welche zukünftigen Datenquellen noch eingestellt werden, muss in einem Folgeprojekt analysiert
+und beschlossen werden. Das Folgeprojekt ist bisher noch nicht initiiert.
+2.
+
+„Wie wird gewährleistet, dass sensible Daten nicht online für jedermann zugänglich gemacht
+werden?”
+
+Die Landeshauptstadt Dresden stellt auf ihrem Open-Data-Portal neutrale und anonymisierte Daten
+und Datenquellen, unter Beachtung des aktuell gültigen Datenschutzes zur Verfügung. Die Datenhoheit liegt bei den Datenlieferanten (Geschäftsbereichen und Fachämtern). Diese unterliegen den allgemein gültigen rechtlichen Regelungen und Gesetzen und den speziell in den Fachämtern und der
+Landeshauptstadt Dresden (LHD) gültigen Dienstanweisungen.
+3.
+
+„Werden davon getrennt Mitarbeiterinformationssysteme ausgebaut, die einen stärkeren Zu-
+
+griff auf Daten der Stadtverwaltung auch fernab der fest installierten Arbeitsplätze und online
+ermöglichen? Falls ja, wie wird gewährleistet, dass nur jeweils Mitarbeitende der entsprechenden Fachbereiche Zugriff erhalten?”
+
+Im Rahmen eines weiteren Projektes E-Zusammenarbeit wird das Mitarbeiterinformationssystem
+(MIS) betrachtet. Die Anbindung und der Zugriff der Mitarbeiter/-innen der LHD auf Daten der Stadtverwaltung sowie ein Wissensmanagement (beides unter Berücksichtigung von Rollen- und Rechtekonzepten) werden ebenso in diesem Projekt im Fokus sein.
+Bei IT-Projekten wird aus einer vorangestellten Schutzbedarfsanalyse ein Sicherheitskonzept erstellt.
+Die Einbeziehung des Datenschutzbeauftragten ist dabei Standard. Zugriffe (z. B. bei mobiler Arbeit)
+
+werden über besonders gesicherte Zugänge und ein klar definiertes Rollen- und Rechtekonzept mit
+sehr hohen Anforderungen abgesichert. Die bereits sehr hohe Priorisierung dieser Schutz- und Sicherheits-Themen wird in der LHD in Zukunft noch weiter steigen, da das bereits gestartete Projekt Informationssicherheits-Managementsystem (ISMS) darauf abzielt, zukunftsfähige Informationssicherheit
+zu gewährleisten.
+
+4.
+
+„Werden zur Nutzbarkeit von mobilen Arbeitsplätzen digitale Arbeitsmöglichkeiten (z. B. über
+Google Docs) ausgebaut? Welche internen Kontrollsysteme gibt es bzw. sind geplant um auch
+hier den Schutz sensibler Daten zu gewährleisten?“
+
+Im Rahmen des Projektes Arbeitsplatz der Zukunft werden die Möglichkeiten der digitalen Arbeit anaIysiert und in den Kontext mit anderen Projekten gesetzt, um Schnittmengen und Synergien zu erkennen und zu nutzen. Fachliche Festlegungen werden erst im Projektverlauf getroffen. Externe Hostingdienste und Workspaces werden dabei jedoch nicht in Erwägung gezogen. Grundsätzlich wird auch in
+diesem IT-Projekt die in Antwort 3 beschriebene Vorgehensweise bei den Schutz- und Sicherheitsthemen angewendet.
+
+

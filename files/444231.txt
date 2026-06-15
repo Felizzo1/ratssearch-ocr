@@ -1,0 +1,1076 @@
+Hausmitteilung
+
+X |
+
+Dresden,
+
+Landeshauptstadt Dresden
+
+U vertraulich
+
+Der Oberbürgermeister
+
+SPD-Fraktion
+im Stadtrat der Landeshauptstadt Dresden
+Frau Stadträtin
+
+GZ:
+
+(OB) 17
+
+Datum:
+
+19,N8V. 2019
+
+Kristin Sturm
+
+Umsetzung der elektronischen Verwaltungsleistungen
+AFO100/19
+
+Sehr geehrte Frau Sturm,
+
+zu Ihrer Anfrage erlaube ich mir zunächst den Hinweis, dass meiner Ansicht nach kein Anspruch auf
+Beantwortung besteht.
+Nach der Rechtsprechung des Sächsischen Oberverwaltungsgerichts besteht für einzelne Stadtratsmitglieder ein Antwortanspruch nach $ 28 Abs. 6 SächsGemO nur dann, wenn lediglich eine einzelne
+Angelegenheit, d. h. ein einzelner/konkreter Lebenssachverhalt betroffen ist. Ein Antwortanspruch
+besteht jedoch nicht, wenn die Anfrage darauf abzielt, sich einen allgemeinen Überblick zu verschaffen. Ein konkreter Lebenssachverhalt ist dann gegeben, wenn er nach Ort, Zeit und dem Kreis der
+eventuell betroffenen Personen bestimmbar ist; dabei muss zwischen diesen Elementen eine inhaltliche Verbindung vorhanden sein; vgl. SächsOVG, Urt. v. 7. Juli 2015, 4 A 12/14, Rn. 28. Das Sächsische
+
+Oberverwaltungsgericht verweist Fragesteller, die sich einen allgemeinen Überblick verschaffen wollen, auf das Fragerecht nach $ 28 Abs. 5 SächsGemO. Fragen zu sämtlichen Angelegenheiten der Gemeinde können danach erst gestellt werden, wenn die Unterstützung eines Fünftels der Mitglieder
+
+des Stadtrates vorliegt.
+Soweit ich jedoch ein eigenes Interesse an der Beantwortung der von Ihnen aufgeworfenen Fragen
+habe, werde ich diese - ohne Anerkennung einer Rechtspflicht und ohne Bindungswillen für künftige
+vergleichbare Konstellationen - dennoch beantworten:
+„Das Onlinezugangsgesetz verpflichtet bis Ende 2022 alle Verwaltungsleistungen auch elektronisch
+über Verwaltungsportale anzubieten — eine Aufgabe die auch wesentlich die Kommunen in die
+Pflicht nimmt. Aber nicht nur deshalb, ist es wichtig, dass die Stadt Dresden bereits jetzt selbst attraktive kommunale Serviceportale auf- bzw. ausarbeitet, schafft dies doch vielfältige Mehrwerte
+für Bürgerinnen und Bürger, für Unternehmen und für die Verwaltungsmitarbeitenden selbst.
+
+1.
+
+Wie steht es um die Umsetzung der sich aus den Vorgaben des Onlinezugangsgesetzes ergebenden Verpflichtungen hinsichtlich einer digitalen Verwaltung der Stadt Dresden? Welche Projekte werden warum priorisiert? Gibt es einen konkreten Zeit-/Arbeitsplan für die Umsetzung?
+
+(Falls ja, bitte ich Sie diesen zu übermitteln.)“
+Die Digitalisierung der Verwaltung wurde im Organisationsentwicklungskonzept der Landeshaupt-
+
+stadt Dresden (LHD) festgeschrieben. Dazu sind im Handlungsfeld „Bürgernahe und Digitale Verwaltung” eine Reihe strategischer Projekte eingeordnet worden. Im Rahmen dieser hoch priorisierten
+Projekte werden die elektronische Aktenführung und Vorgangsbearbeitung (Projekt E-Akte), die Umsetzung des Onlinezugangsgesetzes (Projekt E-Zugang) und die elektronische Zusammenarbeit (Projekt E-Zusammenarbeit) stadtweit eingeführt.
+In einigen Organisationsbereichen wurden bereits punktuell diese elektronischen Arbeitsweisen realisiert, sodass auf Erfahrungen aufgebaut werden kann. Die IT-Architektur ist teilweise bereits vorhan-
+
+den, muss jedoch zukunftsfähig ausgebaut werden.
+Die folgenden Meilensteine sollen im Projekt E-Zugang erreicht werden:
+Meilensteine
+Plantermin
+MS1-
+
+2.
+
+Initialisierung und Planung
+
+30.09.2019
+
+MS 2 - Ist-Analyse
+
+31.10.2019
+
+MS 3 - Konzeption
+
+31.12.2019
+
+MS 4 - Aufbau IT-Systemarchitektur
+
+31.12.2020
+
+MS 5 - Ertüchtigung Nutzerkonten
+
+31.12.2020
+
+MS 6 - IT-Sicherheit
+
+30.06.2021
+
+MS 7 - Realisierung
+
+30.11.2022
+
+MS 8 - Projektabschluss
+
+31.12.2022
+
+„Wie viele und welche Verwaltungsleistungen (insb. Formulare, Anträge etc.) der Stadt Dresden
+
+sind bereits online nutzbar? Wie gut werden diese von der Bevölkerung angenommen?“
+Im Jahr 2009 wurde mit der Umsetzung der EU-Dienstleistungsrichtlinie die Grundlage für die elektronische Antragstellung geschaffen. Seit 2015 steht dem Bürger ein Nutzerkonto, der sogenannte
+Bürgeraccount zur Verfügung, über den er Online-Anträge an die LHD einreichen kann. Das Angebot
+wird ständig erweitert.
+Eine aktuelle Auflistung der angebotenen Leistungen entnehmen Sie bitte unserem Internetauftritt
+unter https://www.dresden.de/de/rathaus/dienstleistungen/buergeraccount.php#?search-
+
+key=B%C3%BCrgeraccount.
+
+In 2018 wurden über den Bürgeraccount 3.412 Anträge elektronisch eingereicht. Ende September
+2019 sind bereits 6.900 Anträge eingegangen.
+
+Parallel zum Bürgeraccount werden weitere Onlineassistenten und ausfüllbare PDF-Formulare, die
+ebenfalls direkt elektronisch an die Stadtverwaltung Dresden weitergeleitet werden können, angeboten. In 2018 wurden diese Angebote 337.255 Mal aufgerufen und davon 40.593 direkt elektronisch
+eingereicht. Die Differenz entsteht, wenn das Formular elektronisch ausgefüllt wird, dann jedoch ausgedruckt, unterschrieben und auf dem Postweg eingereicht wird. In 2019 sind bereits mit Stand September 41.479 Anträge elektronisch eingegangen. Eine steigende Tendenz zeichnet sich ab.
+
+3.
+
+„Wo gibt es noch Nachbesserungsbedarfe? Wie wird diesen nachgekommen?“
+
+Derzeit existieren 139 elektronische Antragsassistenten in der LHD. Davon sind 124 aktiv, die in der
+Anlage aufgeführt sind.
+In einer Erhebung wurde festgestellt, dass in der LHD 2.000 Antragsformulare existieren. Eine echte
+IT-gestützte Verwaltung kann erst mit der vollständigen Umsetzung aller Formulare in elektronischem
+Antragsassistenten gelingen. Für diese Realisierung wurde das Projekt E-Zugang im Rahmen des Organisationsentwicklungskonzeptes aufgesetzt.
+
+Anlage
+
+Anlage
+
+ID
+
+Name
+3050 10_200_reklamation_verdienstabrechnungen
+3600 10_201_gez_gebuehrenerfassung
+7051
+
+10_202_verteilung_psp_und_kst
+
+4550
+5350
+5351
+5251
+
+10_204_allgemeiner_zugang_signierte_dokumente
+15_006_kontaktformular_de
+15_006_kontaktformular_en
+15_010_anmeldung-wifoe
+5500 15_012_dresden-de
+
+Art
+assistent
+assistent
+
+Mandant
+dresden
+dresden
+
+Freischaltung_aktiv
+
+Bürgeraccount
+1
+1
+
+0
+0
+
+assistent
+
+dresden
+
+1
+
+0
+
+assistent
+assistent
+assistent
+assistent
+assistent
+
+dresden
+dresden
+dresden
+dresden
+dresden
+
+1
+1
+1
+1
+1
+
+0
+D
+0
+0
+0
+
+5850
+
+15_015_umfrage_asyl_unterkunft
+
+assistent
+
+dresden
+
+1
+
+0
+
+6800
+7351
+6200
+6250
+6300
+6501
+9750
+
+15_016_anmeldung_gruenderwoche
+15_020_anmeldung_vergabekonferenz
+15_021_newsletter_dresden_de_zwei
+15_022_zukunftskonferenz
+15_023_anmeldung-gruenderforum
+15_025_newsletter_feedback
+15_026_open_data_camp
+
+assistent
+assistent
+assistent
+assistent
+assistent
+assistent
+assistent
+
+dresden
+dresden
+dresden
+dresden
+dresden
+dresden
+dresden
+
+1
+1
+1
+1
+1
+1
+1
+
+0
+0
+0
+0
+0
+0
+0
+
+6550
+
+15_026_open_data_crunch
+
+6600 15_027_radkonferenz
+
+assistent
+
+dresden
+
+1
+
+0
+
+assistent
+
+dresden
+
+1
+
+0
+
+6651
+
+15_028_zukunftsstadt
+
+assistent
+
+dresden
+
+1
+
+0
+
+7550
+6701
+6850
+6851
+7000
+7100
+7150
+10250
+7250
+7251
+7350
+
+15_028_zukunftsstadt-workshops
+15_029_gesundheitskonferenz
+15_031_karrierestart_behinderung
+15_032_karrierestart_unterstuetzer
+15_034_ordnerschulung
+15_035_umfrage_infotage_2017
+15_036_anmeldung_info_unternehmen
+15_037_fachtagung_sucht
+15_038_newsletter_khe
+15_039_amtsblatt_feedback
+15_040_livestream
+
+assistent
+assistent
+assistent
+assistent
+assistent
+assistent
+assistent
+assistent
+assistent
+assistent
+assistent
+
+dresden
+dresden
+dresden
+dresden
+dresden
+dresden
+dresden
+dresden
+dresden
+dresden
+dresden
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+7500
+
+15_043_akkreditierung_kulturpalast
+
+7650 15_044_offenes_rathaus
+7700 15_045_anmeldung_zukunftsspinnerei
+
+assistent
+
+dresden
+
+1
+
+0
+
+assistent
+assistent
+
+dresden
+dresden
+
+1
+1
+
+0
+0
+
+10300
+
+15_046_Buergerbeteiligung_Robotron_Kantine
+
+assistent
+
+dresden
+
+1
+
+0
+
+7800
+7801
+7851
+7950
+
+15_047_dresdendialog
+15_048_newsletter_europa
+15_049_buergerforum
+15_050_hauptverkehrsstrassen
+
+assistent
+assistent
+assistent
+assistent
+
+dresden
+dresden
+dresden
+dresden
+
+1
+1
+1
+1
+
+0
+0
+0
+0
+
+8000
+
+15_051_gruenderforum_2017
+
+assistent
+
+dresden
+
+1
+
+0
+
+10350
+8100
+8400
+8750
+8800
+8850
+8950
+9100
+
+15_051_gruenderwoche_deutschland_2019
+15_052_fuehrungen_karriere_start
+15_052_marathonaustausch
+15_054_match_up
+15_054_vergabe_kulturhauptstadt
+15_055_umfrage_striezelmarktbaum
+15_056_lehrstellenboerse
+15_057_ferdinandplatz
+
+assistent
+assistent
+assistent
+assistent
+assistent
+assistent
+assistent
+assistent
+
+dresden
+dresden
+dresden
+dresden
+dresden
+dresden
+dresden
+dresden
+
+1
+1
+1
+1
+1
+1
+1
+1
+
+0
+0
+0
+0
+0
+6)
+0
+0
+
+9200
+
+15_058_belegschaftsversammlung
+
+assistent
+
+dresden
+
+1
+
+0
+
+9250
+9450
+9800
+10450
+3200
+5800
+5900
+
+15_059_kulturhauptstadtbewerbung
+15_060_windnode
+15_061_Antrag_Grenzgebiet_barrierefrei
+15_063_lehrstellenboerse_prohlis
+17_016_mitarbeiterumfrage
+17_035_anmeldung_hausmesse
+17_036_anmeldung_tivko
+
+assistent
+assistent
+assistent
+assistent
+assistent
+assistent
+assistent
+
+dresden
+dresden
+dresden
+dresden
+dresden
+dresden
+dresden
+
+1
+1
+1
+1
+1
+1
+1
+
+6)
+0
+0
+0
+0
+0
+0
+
+6900
+
+17_037_anmeldung_texterkennung
+
+7200 17_038_anmeldung_it_treffpunkt
+7300 17_039_antrag_notes
+
+assistent
+
+dresden
+
+1
+
+0
+
+assistent
+assistent
+
+dresden
+dresden
+
+1
+1
+
+0
+0
+
+8450
+
+17_040_sammelantrag_it
+
+assistent
+
+dresden
+
+8350
+
+17_041_beteiligung_stadtrat_fraktionen
+
+assistent
+
+dresden
+
+1
+1
+
+0
+0
+
+assistent
+assistent
+
+dresden
+dresden
+
+1
+1
+
+0
+0
+
+9050 17_043_feedback_aggeosim
+4303 22_030_anmeldung_automatensteuer
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+10000
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+22_031_aenderung_automatensteuer_npa
+
+9150 22_049_anmeldung_bhbst_2019
+9300 22_049_anmeldung_bhbst_2019_npa
+
+assistent
+
+dresden
+
+4500 30_004_ePetition
+
+assistent
+
+dresden
+
+10400 32_519_Fundbuero_Verlustmeldung
+assistent
+2800 33_001_terminvereinbarung_fuer_auslaenderangelegenhe assistent
+
+dresden
+dresden
+
+OOoOO0000
+
+8902 22_030_anmeldung_automatensteuer_npa
+4304 22_031_aenderung_automatensteuer
+
+rer
+
+Anlage
+
+dresden
+
+assistent
+
+dresden
+
+3900 36_052_anzeige_eines_zirkusgastspiels
+
+assistent
+
+dresden
+
+3901 36_053_registrierung_als_lebensmittelunternehmer
+assistent
+3902 36_054_anzeige_kosmetikhersteller
+assistent
+3903 36_055_zucht_handel_und_halten_von_papageien_und_si assistent
+
+dresden
+dresden
+dresden
+
+oOoO0000
+
+assistent
+
+PrRHrRPeRBR
+
+7451 33_300_wahlhelfer
+9900 33_301_wahlhelfer_test
+
+[KH
+
+iten
+
+3905
+
+36_057_anzeige_von_tierhaltung_gem_vvvo
+
+assistent
+
+dresden
+
+3906
+3907
+7900
+3100
+
+36_058_antrag_zucht_handel_halten_von_tieren
+36_059_anmeldung_von_tierausstellungen
+37_023_einsatzbericht
+40_001_antrag_erstattung_schuelerbefoerderungskosten
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+3251 40_001_antrag_erstattung_schuelerbefoerderungskosten_ assistent
+2013
+3908 53_020_niederlassungsanzeige
+assistent
+3911 53_032_anzeige_einer_wasserversorgungsanlage
+assistent
+
+dresden
+
+3912
+
+dresden
+
+0
+OO
+
+dresden
+>»
+
+53_033_nutzung_einer_wasseranlage_mit_nichttrinkwasse assistent
+
+dresden
+
+oO
+
+dresden
+
+00000
+
+assistent
+
+Preuoj$e#
+
+3904 36_056_anmeldung_einer_tieraerztlichen_hausapotheke
+
+r
+
+ttichen
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+eu-dir
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+dresden
+
+assistent
+
+buergeraccount
+
+-ooo0o00000»r»000
+
+oOOOo0000o0
+
+dresden
+
+assistent
+
+assistent
+
+buergeraccount
+
+assistent
+
+buergeraccount
+
+5032 A32 Anzeige einer Ordnungswidrigkeit
+
+assistent
+
+buergeraccount
+
+5033
+
+assistent
+
+buergeraccount
+
+5035 A32 Anzeige eines voruebergehenden GastBetrieb
+
+assistent
+
+buergeraccount
+
+5036 A66 Antrag auf Ausnahmegenehmigung fuer Umzug
+
+assistent
+
+buergeraccount
+
+PPrPrPrRr+
+
+dresden
+
+assistent
+
+assistent
+
+buergeraccount
+
+»
+
+dresden
+
+assistent
+
+RAR HR m
+RBB
+PPRPeRPRkPBR
+
+assistent
+
+HPFrPerrer
+
+53_034_infektionsschutzbelehrung_de
+53_034_infektionsschutzbelehrung_en
+53_035_meldeformular_defibrillatoren
+53_036_krisendienst
+S5_022_Formular_Raumanfrage_Fortbildungsstaette
+55_023_antrag_ekita
+58_024_Fachveranstaltung_inklusive_KITA
+61_002_meldeformular_behindertengerechte_einrichtung
+en
+62_052_Hausnummervergabe
+67_013_beantragung_blauer_tonnen
+67_101_dreck_weg_telefon
+67_101_dreck_weg_telefon_abschlussbericht
+67_103_bestellformular_reitplaketten
+67_200_Haushaltgrossgeraete_Abholung
+67_200_Sperrmuell_Abholung
+80_034_online_anmeldung
+86_021_baumfaellantrag
+86_023_bildupload_hw
+86_026_lagerfeueranmeldung
+86_033_dresdner_umweltgespraeche
+A32 Antrag auf Erlaubnis 34f
+Gewerbeordnung_Finanzmakler
+A32 Antrag auf Sondernutzung BRN
+A32 Antrag fuer Feuerwerk privat
+
+>»
+
+3850
+3851
+4206
+9350
+10050
+6450
+10150
+4150
+
+Prbbrpr
+
+rqualitaet
+
+assistent
+
+buergeraccount
+
+3500
+2454
+4700
+2915
+4301
+5551
+5550
+9400
+3750
+3950
+5450
+10500
+5029
+5030
+5031
+
+A32 Anzeige einer Veranstaltung
+
+Anlieferung
+
+5038 A66 Sondernutzung Veranstaltungswerbung
+5039 A67 Antrag auf An- Um- und Abmeldung zur
+Abfallentsorgung - Anmeldung
+
+Anlage
+
+5040 A67 Antrag auf Reitplakette
+5041 A67 Antrag auf Sondernutzung von Gruenanlagen
+6653
+
+assistent
+assistent
+
+buergeraccount
+buergeraccount
+
+1
+1
+
+1
+1
+
+GBS Dresdner Integrationspreis 2016
+
+assistent
+
+dresden
+
+1
+
+0
+
+22 L33_GewerbeAnzeigen
+8900 web_22_030_anmeldung_automatensteuer
+
+assistent
+assistent
+
+eu-dir
+buergeraccount
+
+1
+1
+
+1
+1
+
+9551
+
+web_66_021_antrag_auf_trassenzustimmung
+
+assistent
+
+dresden
+
+1
+
+0
+
+10204 web_66_021_antrag_auf_trassenzustimmung_neu
+
+assistent
+
+buergeraccount
+
+1
+
+1
+
+9000 web_99_001_testform_npa
+
+assistent
+
+buergeraccount
+
+1
+
+1
+
+9950 web_99_001_testform_npa_ausweisapp
+
+assistent
+
+buergeraccount
+
+1
+
+1
+
+124
+
+17
+
+
