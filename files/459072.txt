@@ -1,0 +1,424 @@
+VEGETATION
+&
+
+Bestandsbaum
+
+@
+
+Bestandsallee aus Säulenpappeln (KR=0,6m}
+
+en
+
+Wurzelschutzbahn einbauen
+
+AUSSTATTUNG
+Bi
+
+(zur
+
+menunnguuccoogeme
+
+— Ballfangzaun, Erhalt
+
+re
+
+Fußballtor
+
+ü
+
+1g), Erhalt
+
+BEFESTIGTE FLÄCHEN
+SP 550 an
+
+FFFZ
+FE GE
+
+AeneN
+
+LEITUNGEN
+
+gerstellen
+
+BESTAND
+
+=
+X
+
+#Tye-—
+
+befahrbar, grau
+( 55cm)
+
+Böschung, Bestand
+
+anları
+.
+M
+.
+Bereich für Aufschüttung Aushub, Böschung
+max 1:2
+
+% 115.05
+
+R
+
+6) MBED
+
+itung
+
+Bestand,
+
+Verlauf
+
+Regenwasser Bestand, Stilllegung, vermuteter Verlauf
+
+A
+
+Höhen, Bestand (GOK)
+
+— Regenwassersammelschacht, Bestand
+
+[_}
+
+Sedimentati
+
+Drai
+
+Bestand
+&
+
+———30
+
+E
+
+itung
+
+(Platzbeleuchtung) Bestand
+
+_ Sprinklerleitung Bestand
+
+RIGOLE/ LEITUNGEN
+NEUBAU FÜR FÜLLKÖRPERRIGOLENENTWÄSSERUNG
+
+==
+
+Füllkörperrigole (L:35,2; B:2,4; H: 1,98)
+
+DNS
+
+R
+
+neu
+
+Sedimentatlonsschacht, siehe Detail 002
+[)
+
+(Oyvornutster
+
+RAUSIKKO C3 Systemschachi
+
+Plangebiet sind alle schraffierten Flächen.
+
+Übergabeschacht an
+
+-
+
+ALLE MASZE UND HÖHENANGABEN SIND VOR ORT ZU PRÜFEN. DIFFERENZEN ZWISCHEN PLANUNG UND ÖRTLICHKEIT SIND
+
+ICH MIT DER
+
+ZUSTÄI
+
+BAULEITUNG
+
+DIE
+
+MASSANGABEN SIND VERBINDLICH, PLÄNE SIND ZUR MASSENTNAHME NICHT GEEIGNET!
+BEI UNSTIMMIGKEITEN ZWISCHEN PLAN UND LV IST RÜCKSPRACHE MIT DER ÖRTL. BAULEITUNG ZU HALTEN!
+DIE DARSTELLUNG DER LEITUNGEN IST INFORMATIV. VOR BEGINN DER ARBEITEN SIND DIE LEITUNGSAUSKÜNFTE DER BETEILIGTEN MEDIEN EINZUHOLEN UND DER ÖRTLICHEN BAULEITUNG
+VORZULEGEN]
+
+Rasensponplatz
+
+&
+
+Ausführung aller Bauteile gemäß den Allgemeinen Regeln der Baukunst/DIN
+sowie nach statischer Bemessung
+
+Tonnesporglatz
+
+=
+
+&)
+
+und gemäß Energieeinsparverordnung.
+
+Alle Maße sind am Bau zu prüfen! Dieser Plan ist zur Maßentnahme nicht
+eeignet!
+geeig
+
+L, te
+
+Freigabe:
+g
+
+2
+
+Bestands-
+
+oO
+
+Sedimentationsschacht
+
+“
+
+E
+
+|
+I)
+RR
+
+(2?)
+
+y
+
+tatloisk}
+schacht
+
+LIEf
+
+0% 4
+
+N,
+%,
+
+©
+
+Fi
+
+S
+"7
+
+S
+
+N
+{13 an
+
+Ye
+
+o>
+
+>
+nt
+
+5
+(7
+
+verete
+
+—)
+
+4f8
+In
+Te
+Nm
+HITS 78
+
+>
+
+Q
+
+Dun
+
+Rleingörten
+
+u.
+
+&
+
+3
+
+-
+
+€
+
+=
+
+nd
+
+E
+
+Slealaelalo
+[2]j2a]3[3]8]8
+
+3
+
+2
+
+Verteiler / Anzahl
+
+>
+
+.
+
+.
+
+TEILOBJEKT
+
+LEISTUNGSPHASE
+
+Außenanlagen
+
+Ausführungsplanung
+
+PLANBEZEICHNUNG
+
+Schach m
+
+FRE
+
+n
+
+E
+
+»
+
+4
+
+Ian
+
+IM
+
+ee
+
+e]
+
+Rigole für Sportplatz
+
+eok
+
+en
+7
+Ger
+Bean
+
+TIP
+
+58 | Anerun
+
+<
+
+5
+
+PROJEKT /OBJERT
+
+S
+
+an
+
+eitungswe
+
+(77
+
+|
+
+3
+
+Bärensteiner Straße 33, 01217 Dresden
+N
+
+ch,
+
+ger
+
+T
+
+oE
+
+LAGE
+
+Be
+
+un
+
+=
+
+£
+
+er
+ÄNTFEZ
+
+Lageplan Füllkörperrigole zur Angebotsabgabe
+
+En a
+
+7
+
+Pe
+
+PROJEKTNR.
+
+4
+
+pe
+
+819
+
+2
+
+r
+
+PLANUNGSNR.
+
+PLANFORMAT DIN
+
+819 5L Rigole 001
+
+A2
+
+DATUM
+
+GEZEICHNET | MASZSTAB
+
+25.07.2018
+
+Ben
+
+BAUHERR / AUFTRAGGEBER
+
+CAD - DATEI
+GEPRÜFT
+
+1:500
+AUFTRAGNEHMER
+
+AN
+
+Sportstätten- und
+
+Z
+
+Bäderbetrieb der
+M
+
+LH Dresden
+
+Freiberger Straße 31
+01067 Dresden
+
+BAUHERR
+
+UNTERSCHRIFTEN
+
+STADTPRO
+
+JEKTGMBH
+I
+STADTPROJEKT ROGGE.PFAU
+
+DRESDEN . RADEBEUL . BERLIN
+01069 DRESDEN.EISENSTUCKSTRASSE Ad
+TEL: 0351/4710001 FAX: 0351/4710051
+
+

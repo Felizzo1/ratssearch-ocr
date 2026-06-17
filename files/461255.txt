@@ -1,0 +1,359 @@
+Landeshauptstadt Dresden
+
+Stadtbezirksamt Loschwitz
+
+Bil
+
+| Dresden.
+
+Vorlage Nr.:
+
+V-Lo00018/20
+
+Datum:
+
+26, pp, WR
+
+Vorlage
+für den
+
+Beratung und Beschlussfassung
+| Stadtbezirksbeirat Loschwitz
+
+öffentlich
+
+| beschließend
+
+|
+
+Gegenstand:
+
+Förderung von Projekten durch den Stadtbezirksbeirat Loschwitz hier: Projekt Nr.
+8/20:'Erstellung Website Elbhangtreff.de'
+
+Beschlussvorschlag:
+
+1.
+
+Der Stadtbezirksbeirat Loschwitz beschließt die Zuwendung zum Projekt entsprechend
+Anlage 1 aus den kommunalen Haushaltsmitteln des Stadtbezirksbeirates Loschwitz für
+das Jahr 2020 in Höhe von insgesamt 1.300,00 Euro.
+
+2.
+
+Eine Förderzusage für die Folgejahre ist damit nicht verbunden.
+
+bereits gefasste Beschlüsse:
+
+aufzuhebende Beschlüsse:
+
+Finanzielle Auswirkungen/Deckungsnachweis:
+
+2/3
+Investiv:
+Teilfinanzhaushalt/-rechnung:
+Projekt/PSP-Element:
+Kostenart:
+Investitionszeitraum/-jahr:
+Einmalige Einzahlungen/Jahr:
+Einmalige Auszahlungen/Jahr:
+Laufende Einzahlungen/jährlich:
+Laufende Auszahlungen/jährlich:
+Folgekosten gem. 8 12 SächsKomHVO (einschließlich Abschreibungen):
+Konsumtiv:
+Teilergebnishaushalt/-rechnung:
+Produkt:
+Kostenart:
+Einmaliger Ertrag/Jahr:
+Einmaliger Aufwand/Jahr:
+Laufender Ertrag/jährlich:
+
+10.100.11.1.1.10.15
+43180000
+
+Laufender Aufwand/jährlich:
+Außerordentlicher Ertrag/Jahr:
+Außerordentlicher Aufwand/Jahr:
+Deckungsnachweis:
+PSP-Element:
+Kostenart:
+
+10.100.11.1.1.10.15
+43130000
+
+Werte der Anlagenbuchhaltung:
+Buchwert:
+Verkehrswert:
+Bemerkungen:
+
+Begründung:
+Siehe Anlage 1
+Grundlage für die Gewährung von Zuwendungen ist die Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Stadtbezirksförderrichtlinie) vom 13. Dezember 2018 und die Rahmenrichtlinie einschließlich darin aufgeführter gesetzlicher Regelungen und die allgemeinen Bewilligungsbedingungen (Nebenbestimmungen) für Zuwendungen.zur Projektförderung (AllBewBed - P StDD) vom 21. Juni 2000, geändert
+am 1. August 2001, der Landeshauptstadt Dresden in den jeweils gültigen Fassungen.
+Zuwendungen im Sinne dieser Stadtbezirksförderrichtlinie sind freiwillige, zweckgebundene
+Leistungen, die die Landeshauptstadt Dresden zur Erfüllung bestimmter Aufgaben an Zuwendungsempfängerinnen und Zuwendungsempfänger außerhalb der Stadtverwaltung erbringt.
+
+3/3
+
+Dabei handelt es sich um Zuwendungen für stadtteilbezogene Vorhaben,
+die in dem Verantwortungsbereich der Stadtbezirksbeiräte liegen.
+Die Zuwendungen erfolgen ausschließlich als Projektförderungen. Als
+Teilfinanzierung werden
+sie im Wege einer anteiligen Fehlbedarfsfinanzierung bewilligt und auf
+einen Höchstbetrag der
+förderfähigen Kosten begrenzt. Die Zuwendungen werden nach pflicht
+gemäßem Ermessen gewährt.
+Ein Rechtsanspruch auf die Gewährung einer Zuwendung besteht nicht.
+Mit dem im Rahmen des Förderverfahrens erarbeiteten Projektdatenblatt
+und der dort aufgeführten Begründung des Fördervorschlages wird durch das Stadtbezirksamt
+Loschwitz die Auswertung und Bewertung dokumentiert. Dieses kann ggf. zur Entscheidungsb
+egründung im Zuwendungsbescheid herangezogen werden. Von den Fördervorschlägen
+abweichende Entscheidungen des Stadtbezirksbeirates Loschwitz sind mit den dort herangezogenen
+Kriterien zur Ermessensausübung zu begründen und zu dokumentieren.
+Der Projektantrag wurde termingemäß eingereicht und vom Stadtbezirksamt
+Loschwitz hinsichtlich der 0. g. Vorschriften und Kriterien geprüft.
+
+Anlagenverzeichnis:
+Anlage 1 (Projektdatenblatt)
+Anlage 2 (Prüfschema)
+
+Christian Barth
+Stadtbezirksamtsleiter
+
+Projektdatenblatt
+Förderungen nach Stadtbezirksförderrichtlinie
+Antragsteller
+
+vom StBA auszufüllen:
+
+Elbhangtreff e.V.
+
+Gesamtkosten
+
+Frau Bergmann
+
+Plantagenweg
+
+3
+
+01326 Dresden
+
+HH-Jahr:
+Ifd. Nr:
+
+un
+
+2020
+Lo 008/2020
+
+|
+
+1.500,00
+0,00
+
+Projekteinnahmen
+(aus Entgelten, Gebühren, Verkaufserlösen)
+
+Eigenmittel
+
+200,00
+
+Drittmittel
+
+0,00
+
+Projektbezeichnung
+
+Erstellung Website Elbhangtreff.de
+Durchführungszeitraum
+
+beantragte Förderung Stadtbezirk
+
+1.300,00
+
+sonst. Förderung LHD
+
+0,00
+
+weiter (Bund, Land ...)
+
+0,00
+
+Fördervorschlag StBA
+
+1.300,00
+
+2020
+
+Projektbeschreibung (durch den Antragsteller):
+
+Erstellung Website elbhangtreff.de
+Beratung, Konzeption
+Poviderwechsel (Übernahme Domain, Einrichtung Mailboxen)
+
+Einrichtung Redaktionssystem
+Einrichung und Anpassung Websitentemplates (CSS, Grafiken)
+Inhaltsübernahme von alter Website nach Absprache
+Verbesserung Barrierefreiheit
+Einrichtung Veranstaltungskalender
+Die Gesamtkosten des Projektes bestehen aus 100 EUR Internetkosten und 1400 EUR Honorar.
+
+Begründung Fördervorschlag (durch das Stadtbezirksamt):
+
+Das Vorhaben entspricht bezgl. Antragsteller und Förderungsgegenstand der Förderrichtlinie. Es ist eine
+Maßnahme der stadtteilbezogenen Öffentlichkeitsarbeit. Der Verein insgesamt und auch die Website
+erzielen eine regionale Wirkung in den Stadtteil.
+
+3 00°00€°T
+
+3 00°000°502
+
+j\
+
+«oA
+
+&
+
+(Y)
+
+(8 Ya Jgun ayyofo.durapyg auıyeusny))
+
+€7 'sqy ypeu sJaduejdwg sap ssniyossny
+SEY9OMZSZUNPUBMNZ sap auuIs
+uawyeuul3 pun jalwuadıg
+
+BunJopıgypa[old yaıyauyassne
+
+ddundnyay Anz uayags [aNIW-HH
+
+auageäsny uadlyejsdunpuamnz Jap % ZT 'xew Sjeyasnedua}soysäunyemiag
+
+«usyeysuo (S 'sQy yDeu U9ISOy adıyppapıgy Jyoıu]
+
+9 Pld eu usıyepon]
+
+3 1| veldsunsaizueulJ pun -ua}soy]
+
+S33euueag
+
+edunepyazynyasusjeq pun Bungiasyasagtyafod yW Fenuy JagjpuisjjoN,
+
+ON
+
+P3
+
+uau
+Wenueag
+
+A
+n
+
+1ydlu
+
+"YgS I03png sa1egänyuan
+
+0T07’TO'0E WE ZUMYDSOT SOJeNNäASN1ZSgIPEIS sap JoWSIEUSNEH pueıs
+
+ZunJ2Izueuyulajıy Bunsayaısnz
+% OT 'puiw Zungstajuadlg sIamyden
+
+A
+
+N
+N
+
+a
+
+|leJueuadıg
+
+(3)
+
+enaypısad dunJsizueuywesag (9)
+
+eUSISOYWESSH 18P % OT "PuJU
+
+E9ssaJalu] SOyIsHPpeIs sOysIqaysa *y
+edıssnıyas Benuy 'g
+EINJ3 SIUlNyPLIBPAQ4-gIS Jap uaayııy "z
+
+«aıyPeaq UBIsoyypeS ıny uageduon (|
+Aa4Deaq uaysoyjeuossad In} uagedloN (2
+eIaHamz Jagne sIBBe1myalold sap Jyemag (pl
+
+[3
+
+edeunuy 1adlpuelsjjon 'T|
+
+EIORIN-HH Jap Bunpuıg aayıy yasınle) 'S
+
+’E "SqV peu UujZoqusugeugeyg USS]NOZION INFUSTTONN
+
+3
+3enueag Jypıu
+5
+
+2
+
+.0207°z0°E0 wunz]
+
+EZunJyny-HH vaypıyeypsjulm pun uawesieds Jap zyeispunug (
+q
+&leguynyyDanp Jyalu Bunpuamnz 3uyo uageyloy (e}
+gassauaju] saydshpejs (e
+
+N
+
+7 'Pid Ypeu usgunzyossneion|]
+
+eBUNISIZUeUNNUA]
+
+n
+
+=
+
+«adurjdwg Jadısseinz)
+
+«uadunpuamyny sie Jaygy aydıu Zunpuamnzjwesag|
+«UIBPIQ4 NZ Y9amzsäunpusmnz uap ‘Yaußlaad Iyaloıd
+
+€ "PId Ypeu JOZurjdwes) ampuomnz|
+
+ZunIop1gJ Jap puesuozog|
+
+puejsuadag Jedlyenapıg)|
+
+all)
+
+&[-e ıejun
+
+@dungnapag ayaın.ıg]
+
+7 "Did YPeu
+
+elapeIS wnz änzag
+
+[3
+
+2
+
+SUWPLISPIGISNNZDAIPEIS JOP Ypeu UsFUnzjossSnEJION Jop Sunjnig
+
+HEIITEVEIGIP]
+
+IN-'PH
+
+.
+
+02/800 01
+
+pP Isyang
+
+>[>1>
+
+Sp’yanrdueygja aysqam Zunjjagsıg
+
+«uaUUOBaq Jysıu YOU uageyuon
+
+>1>|>1>
+
+
