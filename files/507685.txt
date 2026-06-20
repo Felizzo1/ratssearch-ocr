@@ -1,0 +1,161 @@
+Hausmitteilung
+
+x]
+
+Dresden,
+Landeshauptstadt Dresden
+
+U] vertraulich
+Fraktion DIE LINKE.
+im Stadtrat der Landeshauptstadt Dresden
+Herrn Stadtrat
+Tilo Wirtz
+
+Geschäftsbereich Finanzen,
+Personal und Recht
+GZ:
+GB1(ZVB, EB IT)
+
+Datum:
+
+21,0KT. 2029
+
+Anfrage zur Vergabenummer 2015-1042-00065 Handelspartnerrahmenvertrag für den Erwerb
+von Microsoft-Lizenzen nach den Vertragskonditionen des Microsoft Select Plus —
+Rahmenvertrages für die Landeshauptstadt Dresden
+mAFO0066/20
+
+Sehr geehrter Herr Wirtz,
+Ihre oben genannte Anfrage aus der Stadtratssitzung vom 24. September 2020 beantwortete ich
+wie folgt:
+Fragen:
+
+„Welche Kosten sind der Landeshauptstadt Dresden im Rahmen dieser Vergabe / dieses Vertrages bisher entstanden und welche Leistungen hat die Landeshauptstadt Dresden aus dieser
+Vergabe / diesem Vertrag im Gegenzug erhalten (Produkte, Anzahl Lizenzen, Support, Wartung etc.)?”
+Die Laufzeit des Handelspartnerrahmenvertrages aus der Vergabe 2015-1042-00065 ist
+
+ausgelaufen und wurde mit der Vergabe 2020-1042-00017 erneuert. Der Vertrag hatte eine
+Laufzeit von vier Jahren und ein Auftragsvolumen von 1.334.466 Euro. Da der Abruf der
+
+Beschaffungen aus dem Vertrag zum Teil dezentral in den Fachämtern erfolgt ist, kann die
+genaue Abrufanzahl in der Kürze der Zeit nicht ermittelt werden. Es wird aber davon
+ausgegangen, dass dies in etwa dem Ausschreibungsvolumen entsprach. Der Rahmenvertrag
+wurde abgeschlossen um u. a. Verwaltungsaufwände im Bereich Einkauf und Lizenzmanagement
+zu minimieren und zeitnah ohne Einzelvergaben Beschaffungen durchführen zu können. Das
+ausgeschriebene Kostenvolumen ergab sich näherungsweise aus den Beschaffungen der
+vorhergehenden Vergabe. In diesem Fall wurde die Vergabe von der Sächsischen Anstalt für
+
+kommunale Datenverarbeitung (SAKD) durchgeführt.
+
+Als Produkte sind im Einzelnen zu nennen:
+- Windows Server, Windows CAL,
+- Windows Enterprise,
+- Office,
+- Visio, Project,
+
+- SQL Server.
+Die Anzahl der zu beschaffenden Lizenzen und Supportleistungen richtet sich nach dem jeweilig
+aktuellen Bedarf. Beschafft werden die Lizenzen in den Konditionsbedingungen Öffentlicher
+Dienst und Bildung (Kindertageseinrichtungen, Bibliotheken, Museum, Schulverwaltungsamt).
+„4. Nachfrage:
+in welchen städtischen Einrichtungen kamen die Lizenzen zum Einsatz und wozu wurden sie
+(im Wesentlichen) genutzt?“
+Der Einsatz der Lizenzen ist stadtweit. Die Produkte Windows Server, Windows CAL, Windows
+Enterprise, Office werden in allen städtischen Einrichtungen an jedem IT-Arbeitsplatz genutzt.
+Visio, Project werden durch ausgewählte Poweruser genutzt, welche diese für die Erfüllung der
+Arbeitsaufgabe benötigen (etwa je 300 Nutzer). SQL Server wird als Datenbank für Fachverfahren genutzt.
+„2. Nachfrage:
+Werden Leistungen / Produkte aus dieser Vergabe heute noch genutzt bzw. können Softwarepakete aus dieser Vergabe über Updates weiter genutzt werden?”
+Alle aufgeführten Produkte werden aktuell genutzt und dienen der Aufrechterhaltung der Verwaltungsarbeit. Updates werden vom Rechenzentrum regelmäßig bereitgestellt. Unter Support
+stehende Produkte können und werden in Ihrer Version aktualisiert.
+Nachfrage Herr Stadtrat Wirtz im Stadtrat am 24. September 2020:
+„Die Nichtbeantwortung der Frage provoziert die Frage, wieso geben wir viel Geld für SAP aus,
+wenn Sie in der Finanzverwaltung nicht rausbekommen, was Sie einem Vertragspartner - nämlich dem, der die Vergabe bekommen
+
+hat - bezahlt haben. Sie bekommen
+
+über SAP sofort her-
+
+aus, was Sie bezahlt haben und können sagen, was dieser Vertrag für Kosten verursacht hat.“
+
+Folgende Beschaffungen von Microsoftprodukten wurden über den Rahmenvertrag erledigt:
+Preis | davon Wartung
+
+Anzahl | Produkt (Aufteilung Lizenzen Wartung)
+|SW Office Professional Plus nur Lizenzen
+
+431.492,64 €
+
+1.100 Stk.
+
+268.080,28 €
+
+950 Stk.
+
+36.388,86 €
+
+91 Stk. | SW Project nur Lizenzen
+
+30.854,49 €
+
+105 Stk. | SW Visio nur Lizenzen
+
+|SW Office Standard nur Lizenzen
+
+141.214,87€|
+
+etwa 77.915 €|
+
+4.900 Stk. | SW Win Server CAl Lizenzen und Wartung
+
+467.191,29 €|
+
+etwa 209.586 €|
+
+4.600 Stk.
+
+SW Windows Enterprise Lizenzen und Wartung
+
+Preis | davon Wartung
+25.819,46 €
+
+12.601,03 €
+
+12.601,03 €
+
+111.903,32 €|
+
+etwa 33.101 €
+
+Anzahl | Produkt (Aufteilung Lizenzen Wartung)
+168 CPU-|SW Windows Server nur Lizenzen
+Kerne
+6 Stk. | SW Visual Studio MSDN
+
+|
+
+nur Wartung
+
+30 CPU-|SW SQL Server Lizenzen und Wartung
+Kerne
+
+1.525.546,24 €
+Die Art der Abfrage im SAP ist keine Standardabfrage. Es handelt sich um eine Kombinationsabfrage, die im SAP zunächst programmiert werde musste. So wurden im Nachgang mehrere Einzelabfragen in jedem Buchungskreis (100 für die LHD und 300 für den EB IT) durchgeführt. Ausgelesen werden konnten nur sämtliche Daten eines Kreditors in einem Zeitfenster. Anschließend
+wurde nach dem jeweiligen Produkt gefiltert und händisch alle nicht relevanten Buchungsdaten
+des Kreditors für die Tabellenaufbereitung gelöscht.
+Mit freundlichen Grüßen
+/
+
+#,
+
+Z.
+
+Kenntnisnah
+
+Dr. Peter Lames
+Beigeordneter für Finanzen, Personal und Recht
+
+Dirk Hilbert
+Oberbürgermeister
+
+
