@@ -1,0 +1,30 @@
+EPSG:25833
+
+vx
+
+1:60
+
+]
+
+|
+
+EB Sachdatenanzeige
+
+WU Karte
+EIKEREL
+
+Messwerzeuggv
+
+EPSG:25833
+
+1:119
+
+3m
+
+Ost: 416820.53 | Nord: 5656295.61
+
+$
+
+B v
+
+
