@@ -1,0 +1,554 @@
+ATO.M
+
+Architekturbüro Jens Müller
+
+Ortsamt Schönborn - Raumakustik Sitzungssaal (2021-03)
+
+LV-Kostenaufstellu ng
+Gewerkeschätzung (GWS)
+
+= Kennzeichen für Bedarfs- bzw. Eventualpos.:
+
+- Gesamt, Netto:
+- zzgl. MwSt:
+
+- Gesamt,
+
+Nr.
+
+Brutto:
+
+MengefEinheit
+
+Bezeichnung
+
+10Z
+
+Gesamt (GP)
+
+EP
+
+12.515,00
+14.892,85
+
+Variante 01 Abhangdecke vollflächig mit Blende
+Gesamt (inkl. MwSt. 19,0%), Brutto:
+
+01
+
+- [Schutzmaßnahmen Fußboden - Hartfaserplatten / Folien
+Rollgerüste
+Rollgerüste vorhalten
+
+1
+2
+3
+
+70 m2
+2 st
+4 SV...
+
+8,00
+450,00
+50,00
+
+560,00
+900,00
+200,00
+250,00
+
+1 psch
+
+250,00
+
+Unterkonstruktion Blende
+
+6 m2
+
+35,00
+
+210,00
+
+6
+
+Beplankung Blende
+
+6 m2
+
+40,00
+
+240,00
+
+7
+
+22 m
+
+15,00
+
+330,00
+
+11m
+
+35,00
+
+385,00
+
+9
+
+Abschlussprofil Blende
+Einbauteile Sonnenschutz / Verdunklung
+Akustik-Abhangdecke incl. UK und Dämmauflage
+
+70 m2
+
+70,00
+
+4.900,00
+
+10
+
+Randabschlüsse- anschlüsse Abhangdecke
+
+35 m
+
+15,00
+
+525,00
+
+11
+
+Einbauteile Abhangdecke
+
+10 St
+
+50,00
+
+500,00
+
+Zulage ungelochter Randstreifen
+
+35 m
+
+5,00
+
+175,00
+
+13
+
+Beschichtung Abhangdecke
+
+70 m2
+
+8,00
+
+560,00
+
+14
+15
+
+Überholungsbeschichtung Wände
+Anpassung Beleuchtung LED Panel
+
+130 m2
+8S$t
+
+6,00
+250,00
+
+780,00
+2.000,00
+
+Demontagen
+
+4
+5
+
+8
+
+12
+
+Einbauteile / Anbauteile
+
+®
+
+13.275,00
+
+Variante 02 Abhangdecke vollflächig mit Wandabstand
+
+02
+1
+
+Gesamt (inkl. MwSt. 19,0%), Brutto:
+Schutzmaßnahmen Fußboden - Hartfaserplatten / Folien
+
+2
+
+15.797,25
+560,00
+
+70 m2
+
+8,00
+
+Rollgerüste
+
+2 st
+
+450,00
+
+900,00
+
+3
+4
+5
+6
+
+Rollgerüste vorhalten
+Demontagen Einbauteile / Anbauteile
+Direktbeplankung Decke im Randstreifen ca. 35 cm breit
+Akustik-Abhangdecke incl. UK und Dämmauflage
+
+4 St...
+1 psch
+35 m
+70 m2
+
+50,00
+250,00
+20,00
+70,00
+
+200,00
+250,00
+700,00
+4.900,00
+
+7
+
+Freies Deckenende Winkelformschale bis Rohdecke H
+Einbauteile Abhangdecke
+
+35 m
+
+50,00
+
+1.750,00
+
+8
+
+10 St
+
+50,00
+
+500,00
+
+9
+10
+11
+12
+
+Zulage ungelochter Randstreifen
+Beschichtung Abhangdecke
+Überholungsbeschichtung Wände
+Anpassung Beleuchtung LED Panel
+
+35 m
+70 m2
+130 m2
+8S$t
+
+5,00
+8,00
+6,00
+250,00
+
+175,00
+560,00
+780,00
+2.000,00
+
+03
+
+Variante 03 Abhangdecke zwischen Unterzügen
+
+ca. 30 ...
+
+11.400,00
+13.566,00
+560,00
+
+1
+
+Gesamt (inkl. MwSt. 19,0%), Brutto:
+Schutzmaßnahmen Fußboden - Hartfaserplatten / Folien
+
+70 m2
+
+8,00
+
+2
+
+Rollgerüste
+
+2 St
+
+450,00
+
+900,00
+
+3
+4
+
+Rollgerüste vorhalten
+Akustik-Abhangdecke incl. UK und Dämmauflage
+
+4 St...
+70 m2
+
+50,00
+70,00
+
+200,00
+4.900,00
+
+5
+
+50 m
+
+15,00
+
+750,00
+
+6
+
+Randabschlüsse- anschlüsse Abhangdecke
+Einbauteile Abhangdecke
+
+10 St
+
+50,00
+
+500,00
+
+7
+
+Zulage ungelochter Randstreifen
+
+50 m
+
+5,00
+
+250,00
+
+8
+9
+10
+
+Beschichtung Abhangdecke
+Überholungsbeschichtung Wände
+Anpassung Beleuchtung LED Panel
+
+70 m2
+130 m2
+8S$t
+
+8,00
+6,00
+250,00
+
+560,00
+780,00
+2.000,00
+
+04
+
+Direktbekleidung Decke mit Akustikpaneelen
+Gesamt (inkl. MwSt. 19,0%), Brutto:
+Schutzmaßnahmen Fußboden - Hartfaserplatten / Folien
+
+70 m2
+
+8,00
+
+8.720,00
+10.376,80
+560,00
+
+2
+
+Rollgerüste
+
+2 st
+
+450,00
+
+900,00
+
+3
+
+Rollgerüste vorhalten
+
+4 St...
+
+50,00
+
+200,00
+
+4
+
+Akustikpaneele !!große Preisspannen!!
+
+32 m2
+
+150,00
+
+4.800,00
+
+5
+
+Randabschlüsse- anschlüsse Akustikpaneele
+
+50 m
+
+10,00
+
+500,00
+
+1
+
+Alle Einzelbeträge Netto in EUR
+
+B
+
+18.02.2021 - Seite 2
+
+ATO.M
+
+Architekturbüro Jens Müller
+
+Ortsamt Schönborn - Raumakustik Sitzungssaal (2021-03)
+
+LV-Kostenaufstellung
+Nr.
+
+MengelEinheit
+
+Bezeichnung
+
+102
+
+10 St
+32 m2
+130 m2
+
+6
+7
+8
+
+Einbauteile Abhangdecke
+Zulage Beschichtung Akustikpaneele
+Überholungsbeschichtung Wände
+
+05
+
+Direktbekleidung Wände mit Akustikpaneelen
+Gesamt (inkl. MwSt. 19,0%), Brutto:
+1
+
+Schutzmaßnahmen
+
+Fußboden - Hartfaserplatten / Folien
+
+Gesamt (GP)
+
+EP
+50,00
+15,00
+6,00
+
+500,00
+480,00
+780,00
+8.760,00
+10.424,40
+560,00
+
+70 m2
+
+8,00
+450,00
+
+900,00
+
+2
+
+Rollgerüste
+
+2 St
+
+3
+
+Akustikpaneele !! große Preisspannen !!
+
+32 m2
+
+150,00
+
+4.800,00
+
+4
+
+Randabschlüsse- anschlüsse Akustikpaneele
+
+50m
+
+10,00
+
+500,00
+
+5
+6
+7
+
+Einbauteile Abhangdecke
+Zulage Beschichtung Akustikpaneele
+Überholungsbeschichtung Wände
+
+10 St
+32 m2
+100 m2
+
+50,00
+15,00
+6,00
+
+500,00
+480,00
+600,00
+
+8
+
+Überholungsbeschichtung
+
+70 m2
+
+6,00
+
+420,00
+
+Gesamtsumme:
+
+Decke
+
+-
+
+Ortsamt Schönborn - Raumakustik Sitzungssaal
+Gesamt, Netto:
+zzgl. MwSt:
+Gesamt, Brutto:
+
+Alle Einzelbeträge Netto in EUR
+
+18.02.2021 - Seite 3
+
+
