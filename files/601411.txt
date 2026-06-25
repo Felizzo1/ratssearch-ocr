@@ -1,0 +1,231 @@
+Schachtdeckel = Bezugspunkt
+
+= 111,57 m DHHN2016
+= - 0.53 m
+
+EEE
+
+—
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+an
+— A
+
+qn
+>
+
+(5
+
+5
+I
+
+I
+
+n4
+
+I
+
+BE
+
+I
+
+%
+BEauBBnEn
+
+oO
+
+I
+
+I
+
+I
+
+E
+
+I
+
+I
+
+I
+
+I
+
+I
+
+PR
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I Set
+
+[
+
+n
+
+Fertig-Höhe neue Wegedecke
+
+sch
+
+= 112.10 m DHHN2016
+= 0.00m
+BE
+HE
+BE
+
+Lageplan | Bearbeitungsbereich 2 | M 1:250
+
+Gelände ebnen, vorläufig
+
+112.10
+
++0,00
+
+-0.53
+
+111.57
+
+Schnitt 2a | Bearbeitungsbereich 2 | M 1:50
+
+Bärnsdorfer Str. 2, 01097
+
+Dresden
+
+Monarchs
+
+e.V. American
+
+Footballclub,
+
+Postfach
+
+108567,
+
+01068
+
+Dresden
+
+& Mizera
+
+t: +49 351 4796731
+
+AUSFÜHRUNGSPLANUNG
+
+Unterschrift Bauherr
+
+Höhe Bezugspunkt
+
+PLANVERFASSER
+Thümmler
+
+GmbH
+
+ARCHITEKTEN,
+f: +49 351 4796733
+
+ÄNDERUNGSVERMERK
+
+Westtribüne
+
+BAUHERR
+Dresden
+
+STR. 2_WT
+
+Könneritzstraße
+
+7, 01067
+
+Dresden
+
+e: kontakt@thuemmler-mizera.de
+
+Unterschrift Planverfasser
+
+FT|EM
+
+|
+
+1:250/50
+
+AFU|
+
+|
+
+08
+
+|00
+
+ÜBERGABE | 03.03.2022
+
+H/B = 297 / 420 (0.12m2)
+
+Druckdatum: 03.03.2022
+
+DD BÄRNSDORFER
+
+BAUVORHABEN
+Westtribüne,
+
+00
+
+03.03.2022
+
+em
+
+Index
+
+Datum
+
+| Name
+
+Plan erstellt
+| Änderung/Ergänzung/Stand
+
+Allplan
+
+2017
+
+
