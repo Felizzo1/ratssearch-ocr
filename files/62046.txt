@@ -1,0 +1,508 @@
+Anlage
+
+Regiebetrieb ZTD
+Mehrbedarf Winterdiensttechnik
+
+SG
+
+Anschaffung
+
+Ersatz für .....
+
+Bezeichnung
+
+Bezeichnung
+
+Baujahr
+
+Produkt|Anschaffung
+Kosten in €
+
+IH-Kosten zu
+
+Ausfalltage*
+
+[Instandhaltung
+
+Ansch.kosten
+
+(Arbeitstage)
+
+Kosten 2010 in€
+
+| 2010
+
+in%
+
+V
+
+vAouzıy
+
+|Begründung
+
+2010
+
+Bereich Straßenwinterdienst
+Schneepflüge
+
+SM Süd
+SM Süd
+
+|LKW- Schneepfug
+|LKW- Schneepfug
+
+LKW Schneepflug, Schmidt MLL30
+LKW Schneepflug, Strako LPM
+
+|1996
+2004
+
+111612
+111612
+
+13.000)
+13.000)
+
+5.403,29]
+322,09)
+
+41,56]
+2,48)
+
+Ermündungsbrüche im Schaarbereich, technisch verschlissen
+Ermündungsbrüche im Schaarbereich, technisch verschlissen
+
+SM Süd
+
+|LKW- Schneepfug
+
+LKW Schneepflug, Schmidt MLL30
+
+|1995
+
+111612
+
+13.000]
+
+3.426,45]
+
+26,36)
+
+Ermündungsbrüche im Schaarbereich, technisch verschlissen
+
+SM Nord
+
+|LKW- Schneepfug
+
+LKW Schneepflug, Schmidt MLL30
+
+[1996
+
+111612]
+
+13.000]
+
+1474,66
+
+11,34
+
+Ermündungsbrüche im Schaarbereich, technisch verschlissen
+
+SM Süd
+
+|LLKW- Schneepflug 2,00m
+
+|Multicar- Schneepflug Schmidt Fool
+
+|1993
+
+111612
+
+8.000]
+
+841,57]
+
+10,52]
+
+Ermündungsbrüche im Schaarbereich, technisch verschlissen
+
+SM Nord
+
+|LLKW- Schneepflug 2,00m
+
+|Multicar- Schneepflug Schmidt Fool
+
+|1994
+
+111612
+
+8.000]
+
+1.542,88]
+
+19,29]
+
+Ermündungsbrüche im Schaarbereich, technisch verschlissen
+
+SM Nord
+
+|LLKW- Schneepflug 2,20m
+
+|Multicar- Schneepflug Schmidt Fool
+
+|1999
+
+111612
+
+8.000]
+
+0
+
+0,00]
+
+76.000]
+
+11.536)
+
+15,18)
+
+Ermündungsbrüche im Schaarbereich, technisch verschlissen,
+
+größere Breite erforderlich
+
+Ladetechnik
+SM Süd
+|Streugutsilo
+
+Streugutsilo Schmidt HD SST 12
+
+1994
+
+111612
+
+25.000]
+
+839,20)
+
+3,36)
+
+SM Nord
+
+|Streugutladegerät
+
+Mehrzwecklader Bauch
+
+1997
+
+111612
+
+35.000]
+
+1.730,64}
+
+4,94
+
+technisch verschlissen, starke Durchrostungen durch Streusalz
+
+SM Süd
+
+|Streugutladegerät
+
+Mehrzwecklader Bauch
+
+1993
+
+111612)
+
+35.000]
+
+2.337,39]
+
+6,68
+
+technisch verschlissen, starke Durchrostungen durch Streusalz
+
+180.000]
+
+4.028,62]
+
+2,24]
+
+technisch verschlissen, starke Durchrostungen durch Streusalz
+
+technisch verschlissen, starke Durchrostungen durch Streusalz
+
+technisch verschlissen, Durchrostungen
+
+111612]
+111608)
+
+SM Nord
+
+SM Süd
+
+[Radlader
+
+[Radlader
+
+Radlader Schaeff
+
+Radlader
+
+1995
+
+111609)
+
+1990
+
+111612]
+111608)
+111609}
+
+180.000)
+
+2.085,67]
+
+1,16]
+
+455.000
+
+11.022)
+
+2,42]
+
+85.000
+616.000
+
+18.801,67]
+41.359)
+
+22,12]
+6,71
+
+111612]
+111608)
+
+SM Süd
+|Multicar
+Zwischensumme
+
+Multicar Fumo M30
+
+2001
+
+111609]|
+111612]
+111608]
+
+SM Süd
+
+[Unimog
+
+111609)
+
+Absicherung der Neumarkttour/ spez. Lauge
+
+Absicherung von speziellen Leistungen für Winterdienst,
+
+360.000
+976.000
+
+Straßenbau, Hochwasserschutz und Lagermanagement
+41.359
+
+4,24]
+
+SG
+
+Anschaffung
+Bezeichnung
+
+Ersatz für .....
+Bezeichnung
+
+Baujahr
+
+ProduktjAnschaffung
+Kosten in€
+
+IH-Kosten zu
+[Instandhaltung
+Ansch.kosten
+|Kosten 2010 in€ | 2010 in%
+
+Ausfalitage*
+(Arbeitstage)
+2010
+
+|Begründung
+
+Bereich Winterdienst It Anliegersatzung
+27.53
+27.53
+27.53
+27.54
+27.54
+27.52
+27.52
+27.52
+27.53.1
+27.53.2
+27.55
+27.56
+27.56.1
+27.54
+27.56
+
+Container-Multicar M26
+Multicar M25
+Multicar M25
+Multicar M26
+Muiticar M26
+Transporter (DK, Kipper)
+Transporter (DK, Kipper)
+Transporter (DK, Kipper)
+|Multicar M26
+|Multicar M26
+Container-Multicar M26
+Multicar M26
+|Multicar M26
+LLKW-Kipper
+LLKW-Pritsche (DK)
+
+DD-23579
+DD-2922
+DD-2921
+DD-22781
+DD-23585
+DD-2913
+DD-2915
+DD-2975
+DD-23583
+DD-23581
+DD-23335
+DD-23582
+DD-23584
+DD-2902
+DD-22552
+
+u
+
+1997
+1992
+1992
+1993
+1993
+1992
+1992
+1992
+1997
+1997
+1995
+1997
+1997
+1991
+1991
+
+"verursacht u.a. auch durch Probleme der Ersatzteilbeschaffung wegen des Fahrzeugalters
+
+** technisch verschlissen, z.T.starke Durchrostungen, keine E5- Norm
+
+116703
+116703
+116703
+116703
+116703
+116703
+116703
+116703
+116703
+116703
+116703
+116703
+116703
+116703
+116703
+
+120.000
+90.000
+90.000
+90.000]
+90.000
+45.000
+45.000
+45.000
+90.000
+90.000
+120.000
+90.000
+90.000
+45.000
+45.000
+:14185,000
+
+8.022,80
+7.484,78
+6.343,83
+7.767,94
+7.371,10
+4.193,96
+4.025,62
+5.979,66
+2.303,26
+4.511,82
+1.987,38
+4.026,49
+2.350,02
+744,44
+682,17
+
+6,69
+8,32
+7,05
+8,63
+8,19
+3.2]
+8,95
+13,29
+2,56
+5,01
+1,66
+4,47
+2,61
+1,65
+1,52)
+
+60
+49
+98
+11
+52
+26
+31
+20
+27
+52
+23
+14
+14
+2
+13
+
+Winterdienst im Stadtzentrum **
+Winterdienst im Stadtzentrum **
+Winterdienst im Stadtzentrum **
+Winterdienst innere/äußere Neustadt **
+Winterdienst innere/äußere Neustadt **
+Handstreustrecken im WD **
+Handstreustrecken im WD **
+Handstreustrecken im WD **
+Winterdienst Dresden-West **
+Winterdienst Dresden-West **
+Winterdienst Dresden-Ost **
+Winterdienst Dresden-Ost (Nord) **
+Winterdienst Dresden-Nord **
+Ersatzfahrzeug f. Handstreustrecken **
+Ersatzfahrzeug f. Handstreustrecken **
+
+
