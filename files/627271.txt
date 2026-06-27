@@ -1,0 +1,69 @@
+1105 Rasen
+
+®9
+
+1420 Strauchpfanzung
+1631 Formhocke - Fläche
+3111 Pflaster- u. Plattenbelag
+3150 wassergebundener Belag
+
+1630 Formhecka - Länge
+7240 Kante, belestigt
+
+7248 Kante, unbefostigt
+[>]
+
+8111 Bank
+
+®
+
+8540 Abfallbehälter
+
+©
+
+7205 Pollor
+
+Laubbaum aus kataster
+Stand 14.9.2012
+©)
+
+Laubbaum
+
+Landeshauptstadt Dresden
+Amt für Stadtgrün und Abfallwirtschaft
+Klosterteichplatz
+Odjekint.:
+
+osom1
+
+Gemarkung:
+
+Leubnäz-Neuostra
+
+Maßstab
+
+1.250
+
+Aumass:
+
+Bao
+
+Gezeichnet
+
+Bader
+
+Datum
+
+15.8.2012
+
+Fosteg.PNE
+
+Braun
+
+Bla:
+
+1
+
+[Grundstocksgrenzs; Michalcka
+
+

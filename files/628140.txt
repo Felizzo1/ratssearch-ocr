@@ -1,0 +1,69 @@
+Anlage 1
+Geplante Linie 5
+Johannstadt - Plauen
+Legende
+zunm
+
+Johannstadt - Plauen (Linie 5)
+Planung Neubaustrecke
+
+m
+
+Bestandsstrecke
+
+GT——
+
+Ausbau Güntzstraße
+
+Strecke Löbtau-Strehlen
+( Stadtbahn 2020 )
+———
+
+umgesetzte Maßnahmen
+
+.u..m
+
+geplante Maßnahmen
+
+u
+
+Eisenbahn mit Station
+Straßenbahn
+geplante Straßenbahnhaltestelle
+
+®
+
+vorhandene Straßenbahnhaltestelle, Anpassung/ Ausbau
+neue Verknüpfung S-Bahn mit
+Straßenbahn - Planung
+
+El
+
+Diesden;
+
+Herausgeber:
+Hersteller
+
+) 1Gegeu
+
+Landeshauptstadt Dresden
+Stadiplanungsamt
+‚Abteilung Verkehrsentwicklungsplanung
+Bezugssystem: Lage: ETRSS9_UTM33
+Datenquellen: Geodaten der Landeshauptstadt Dresden;
+Bestandsdaten des Liegenschaftskalasters
+Staatsbeirieb GeoSN
+‚Ausgabe vom: 07. Januar 2021
+Der Inhak dieser Karte ist nich rechtverbindich
+Verarbeitung unter Verwendung elektronischer Systeme und Verbretung nur mit schrlicher
+Genehmigung des Herausgebers. Die analoge Vervielfäligung und Weitergabe für eigene,
+"nicht gewerbliche Zwecke it gestaltet
+°
+25
+#0
+E"}
+1350en 1300
+nn
+Meter
+
+
