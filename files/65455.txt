@@ -1,0 +1,355 @@
+Vorhabenbezogener Bebauungsplan
+Fraunhofer Institutszentrum
+
+Nr. 665
+
+Dresden-Gruna
+
+PLANZEICHENERKLÄRUNG
+I. Planungsrechtliche Festsetzungen (8 9 BauGB)
+|
+
+Grenze des räumlichen Geltungsbereichs des vorhabenbezogenen
+
+Lo.
+
+Bebauungsplans
+
+u
+|
+L__
+
+Grenze des Vorhaben- und Erschließungsplans (8 12 Abs. 4 BauGB)
+
+($ 9 Abs. 7 BauGB)
+
+1. Art der baulichen Nutzung
+
+(& 9 Abs. 1 Nr. 1, & 12 Abs. 3 BauGB)
+
+Sonstiges Sondergebiet ($ 11 BauNVO)
+Zweckbestimmung: Forschung und Entwicklung
+
+2. Maß der baulichen Nutzung
+
+(& 9 Abs. 1 Nr. 1 BauGB)
+
+zulässige Zahl der Vollgeschosse, z.B. 3
+112,50 m
+
+Bezugshöhe in Metern ü. NHN (Höhenlage FB Sockelgeschoss)
+
+GRZ 0,5
+
+Grundflächenzahl, z.B. 0,5 (8 16 Abs. 2 Nr. 1,8 19 BauNVO)
+
+HGH 124,00
+
+zulässige höchste Gebäudehöhe in Metern ü. NHN, z.B. 124,00 m
+($ 16 Abs. 2 Nr. 4, & 18 BauNVO)
+
+LH 4,50
+
+lichte Höhe als Mindestmaß in Metern, z.B. 4,50 m
+
+3. Bauweise,
+
+überbaubare Grundstücksflächen
+
+(&
+Abs.
+9
+
+1 Nr. 2 BauGB)
+
+Überbaubare Grundstücksflächen (8 23 BauNVO):
+EEE
+
+Baulinie ($ 23 Abs. 2 BauNVO)
+
+m.
+
+Baugrenze ($ 23 Abs. 3 BauNVO)
+
+4. Flächen für Nebenanlagen, Stellplätze und Garagen
+
+|
+L
+
+GRZ 0,5
+
+|
+__
+
+J
+
+($ 9 Abs. 1Nr. 4 BauGB)
+
+Umgrenzung von Flächen für Nebenanlagen, Stellplätze und Garagen
+Zweckbestimmung:
+
+M
+
+Medientanks
+
+GSt1
+
+Gemeinschaft:
+
+plätze - Parkdeck
+
+GSt2
+
+Gemeinschaft
+
+plätze - ebenerdig
+
+5. Verkehrsflächen und -anlagen
+
+112,50 m
+
+(8 9 Abs. 1 Nr. 11, 8 12 Abs. 3 BauGB)
+
+Ein- bzw. Ausfahrt
+
+6. Festsetzungen zur Grünordnung
+Private Grünfläche
+Zweckbestimmung:
+
+(& 9 Abs. 1 Nrn. 15, 20, 25, 89 Abs. 1a BauGB)
+(8& 9 Abs. 1 Nr. 15 BauGB)
+
+G1
+
+Grüngürtel zur Wohnbebauung
+
+G2
+
+Campusplatz
+
+Umgrenzung von Flächen zum Anpflanzen von Bäumen und Sträuchern
+($ 9 Abs. 1 Nr. 25a BauGB), z.B. Pflanzgebot 1
+(im Textteil näher bestimmt)
+
+000000
+
+o
+PO000000|
+[eo]
+
+Anpflanzen von Bäumen (8 9 Abs. 1 Nr. 25a BauGB
+
+Erhalt von Bäumen ($ 9 Abs. 1 Nr. 25b BauGB)
+
+7. Mit Geh-,
+
+Fahr- und Leitungsrechten zu belastende Flächen (9 Abs. 1 Nr. 21 BauGB
+
+a
+
+u en u
+GELR
+mm
+
+Geh-, Fahr- und Leitungsrecht zugunsten eines eingeschränkten
+Personenkreises (im Textteil näher bestimmt)
+
+8. Festsetzungen zum Schutz vor schädl. Umwelteinwirkungen
+
+(9 Abs. 1 Nr. 24 BauGB
+
+..d
+
+Umgrenzung von Flächen für Vorkehrungen zum Schutz vor schädlichen Umwelteinwirkungen i.S.d. Bundesimmissionsschutzgesetzes
+
+LPB Ill
+
+Lärmpegelbereich nach DIN 4109 (Schallschutz im Hochbau), z.B. Ill
+
+II. Kennzeichnungen
+xXxRRRr
+AU
+%
+
+III.
+
+Umgrenzung des Altstandortes AKZ 62/209216
+(Tanks einer ehemaligen Betriebstankstelle)
+
+Bauordnungsrechtliche Festsetzungen
+FD
+
+zulässige Dachform:
+
+Flachdach
+
+IV. Zeichnerische Hinweise
+Füllschema der Nutzungsschablone:
+
+© 115.330
+
+ED
+
+[so [erzo5 |
+[ro [112,50m |
+
+|__Baugebiet
+[|
+zulässige Dachfom |
+
+—u.
+
+Gemarkungsgrenze
+
+ä
+Bezugshöhe
+
+|
+|
+
+N
+
+115.17
+6)
+
+Zeichenerklärung der Plangrundlage:
+
+Dt
+
+106 \
+|
+
+115.44D
+
+A
+
+Grenze vorhandener Flurstücke mit Flurstücksnummer
+Hauptgebäude im Bestand
+Nebengebäude im Bestand
+vorhandene Böschung
+vorhandene Straße
+Baumbestand
+
+Stadtverwaltung Dresden
+Stadtplanungsamt
+Amtsleiter
+Planungsbüro
+
+Vorhabenträger
+Fraunhofer-Gesallschaft
+zur Förderung der angewandten Forschung e.V.
+Hansastraße 27
+80686 München
+
+iker/
+%
+
+Y% 114.83
+“
+A Wo,/
+
+September 2010
+
+GRAS
+Gruppe Archltektur & Stadtplanung
+Konkordienstraße 43
+01127 Dresden
+
+YO
+N
+
+Fassung
+
+in
+
+iter/in | SGL 61.3.2
+
+Datum der letzten Änderung
+
+Abt.-Ltr. 61.3
+
+31.03.2011
+
+SGL 61.1.3
+
+Abt.-Lir. 61.1
+
+v2
+
+Übersichtsplan
+
+’
+
+M 1:20 000
+
+I
+VAN
+
+Re
+ET
+
+Sa
+
+VAN.
+
+61 An den Gärten
+&2 Papetdorfer Sir.
+63 Grabenwinkel
+
+SY
+
+%
+
+Br
+
+LANDESHAUPTSTADT
+116.52
+116.51
+(6)
+116.45
+
+®
+
+Übereinstimmung mit der amtlichen Flurkarte
+hinsichtlich der Bezeichnung und der Grenzen
+der Flurstücke innerhalb der markierten
+Fläche wird bestätigt.
+
+Dresden,
+
+03.03.2010
+
+‚Amtsleiter
+Städt. Vermessungsamt
+
+Hergestellt aus der digitalen Stadtkarte 1:500 und der vergrößerten
+digitalen Flurstückskarte 1:1000
+bearbeitet:
+
+R
+
+DAL.
+
+DRESDEN
+
+Vorhabenbezogener
+Bebauungsplan Nr. 665
+Dresden-Gruna
+Fraunhofer Institutszentrum
+
+Rechtsplan
+- Entwurf zur öffentlichen Auslegung Maßstab
+
+1:500
+
+Blatt
+
+1 von
+
+5
+
+03/2010
+
+Anlage 2
+
+

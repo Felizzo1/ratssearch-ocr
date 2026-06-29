@@ -1,0 +1,146 @@
+Standorte der stationären Geschwindigkeits- und Rotlichtmessanlagen
+in der Stadt Dresden
+(Stand: November 2022)
+Nr.|Standort der Messanlage
+1 |Marienberger Straße 5 (33. Grundschule)
+
+Überwachung
+Geschwindigkeit
+
+2
+
+|Güntzstraße 29
+
+Geschwindigkeit
+
+3
+
+|Dohnaer Straße/Fritz-Meinhardt-Straße (stadteinwärts)
+
+Geschwindigkeit
+
+4
+
+\Dohnaer Straße/Fritz-Meinhardt-Straße (stadtauswärts)
+
+|Geschwindigkeit
+
+5 |Großenhainer
+
+Straße/Pestalozziplatz
+
+Geschwindigkeit
+
+6
+
+|Königsbrücker Landstraße/Am Zollhaus
+
+Geschwindigkeit
+
+7
+
+|Bautzner Straße in Höhe Elbschlösser
+
+Geschwindigkeit
+
+8
+
+|Gottfried-Keller-Straße 40 (Schule Am Leutewitzer Park)
+
+|Geschwindigkeit
+
+9
+
+|Würzburger Straße 61
+
+Geschwindigkeit
+
+10 |Waldschlößchenbrücke (Richtung Altstadt)
+
+Geschwindigkeit
+
+11 |Waldschlößchenbrücke (Richtung Neustadt)
+
+Geschwindigkeit
+
+12
+
+|Maxim-Gorki-Straße (Höhe Gehörlosenschule)
+
+Geschwindigkeit
+
+13
+
+|Maxim-Gorki-Straße (gegenüber Gehörlosenschule)
+
+Geschwindigkeit
+
+14 |Radeburger
+
+Straße/Meinholdstraße
+
+Geschwindigkeit
+
+15
+
+|\Dippoldiswalder Platz
+
+Geschwindigkeit
+
+16
+
+|Pillnitzer Landstraße/Preßgasse
+
+Geschwindigkeit
+
+17
+
+|Pirnaer Straße 64 (OT Eschdorf)
+
+Geschwindigkeit
+
+18
+
+|Bergstraße 58
+
+Geschwindigkeit
+
+19 |Bautzner Straße/Löwenstraße
+
+Geschwindigkeit/Rotlicht
+
+20 |Bautzner Landstraße/Am Weißen Adler
+
+Geschwindigkeit/Rotlicht
+
+21
+
+|Meißner Landstraße/Am Urnenfeld
+
+Geschwindigkeit/Rotlicht
+
+22
+
+|Schlüterstraße/Hepkestraße
+
+Geschwindigkeit/Rotlicht
+
+23
+
+|Lommatzscher Straße/Trachauer Straße
+
+Geschwindigkeit/Rotlicht
+
+24
+
+|Stauffenbergallee/Marienallee
+
+Rotlicht
+
+25
+
+|St. Petersburger Straße/Lingnerallee
+
+Rotlicht
+
+
