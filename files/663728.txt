@@ -1,0 +1,481 @@
+Hausmitteilung
+
+| X |
+
+Dresden.
+IDIEGGS
+
+DE
+
+U vertraulich
+
+Landeshauptstadt Dresden
+Der Oberbürgermeister
+
+Fraktion Alternative für Deutschland
+
+GZ:
+
+(OB) GB 3 02 14
+
+im Stadtrat der Landeshauptstadt Dresden
+Mitglied des Stadtrates
+
+Heiko Müller
+
+Datum:
+
+02. FeB. 2023
+
+Zulassungszahlen Kfz
+AF2841/23
+
+Sehr geehrter Herr Müller,
+zu Ihrer Anfrage erlaube ich mir zunächst den Hinweis, dass meiner Ansicht nach kein Anspruch
+auf Beantwortung besteht, weil diese keine einzelne Angelegenheit im Sinne von 8 28 Abs. 6
+SächsGemO betrifft.
+Die Anfrage ist auf einen allgemeinen Gesamtüberblick über statistisch zusammengefasste Sachverhalte gerichtet. Derartige Konstellationen erfüllen nicht die vom Sächsischen Oberverwaltungsgericht entwickelte Definition einer einzelnen Angelegenheit als „konkreter Lebenssachverhalt"; SächsOVG, Urteil vom 7. Juli 2015, 4 A 12/14, Rn. 28: „Ein konkreter Lebenssachverhalt ist
+dann gegeben, wenn er nach Ort, Zeit und dem Kreis der eventuell betroffenen Personen bestimmbar ist; dabei muss zwischen diesen Elementen eine inhaltliche Verbindung vorhanden
+sein." Zudem muss der Sachverhalt "überschaubar" sein; SächsOVG, Urteil vom 6. Juli 2021, 4 A
+691/20, Rn. 33, 34. Auch nach dem allgemeinen Sprachgebrauch ist ein Bezug der Anfrage zu ei-
+
+nem ganz bestimmten Ereignis, Vorfall oder Geschehen erforderlich; vgl. VG Chemnitz, Urteil
+vom 6. November 2013, 1 K 549/13. Daran fehlt es bei dieser auf allgemeine Ausforschung gerichteten Anfrage.
+Soweit ich ein eigenes Interesse an der Beantwortung der Anfrage habe, beantworte ich diese —
+
+jedoch ohne Anerkennung einer Rechtspflicht und ohne Bindungswillen für künftige vergleichbare Konstellationen - wie folgt:
+1.
+
+„Wie viele PKW bzw. Nutzfahrzeuge waren seit 2015 jeweils zum Jahreswechsel in Dres-
+
+den zugelassen? Bitte unterscheiden Sie nach Antriebs- und Halterart. Bitte nach Jahren
+aufschlüsseln.“
+
+Die Daten entnehmen Sie bitte der Anlage. Grunsätzlich können seitens des Fachverfahrens ausschließlich zum aktuellen Stichtag Daten abgefragt werden. Die in der Tabelle aufgeführten Daten stammen aus anderen Anfragen, die jedoch nicht immer jeweils zum Jahreswechsel gestellt
+wurden; von einer entsprechenden Ungenauigkeit ist auszugehen.
+
+Ebenfalls gibt es im Fachverfahren bzw. im Fahrzeugregister keine Kategorie „Nutzfahrzeuge“.
+
+Im Rahmen der Beantwortung wurden seitens der Stadtverwaltung als Nutzfahrzeuge Busse,
+Lkws, Sonderfahrzeuge und Zugmaschinen subsumiert. Es sind weder Kräder noch Anhänger ent-
+
+halten.
+2.
+
+„Wie viele davon waren jeweils auf die Landeshauptstadt Dresden, deren Eigenbetriebe,
+die Stadtreinigung und die Stadtentwässerung zugelassen? Bitte nach Jahren aufschlüsseln.”
+
+Auf die Landeshauptstadt Dresden sind insgesamt aktuell (Stichtag: 17. Januar 2023) 1.384 Fahrzeuge zugelassen.
+Von diesen Fahrzeugen sind auf die Eigenbetriebe
+e Stadtreinigung Dresden GmbH
+
+160
+
+e
+
+190
+
+e
+
+Stadtentwässerung Dresden GmbH
+Eigenbetrieb Sportstätten Dresden
+Städtische Klinikum Dresden
+
+e
+
+Eigenbetrieb Städtisches Friedhofs- und Bestattungswesen
+
+20
+
+e
+
+e
+
+und Heinrich Schütz Konservatorium
+Fahrzeug zugelassen.
+
+77
+44
+1
+
+Auf den Eigenbetrieb IT-Dienstleistungen Dresden und den Eigenbetrieb Kindertageseinrichtungen Dresden sind keine Fahrzeuge zugelassen.
+Eine Aufschlüsselung auf die vorherigen Jahre ist, wie unter Ziffer 1 dargelegt, nicht möglich.
+Mit freundlichen Grü
+
+Anlage zu AF 2841/23
+Jahr
+12/2015
+12/2016
+11/2017
+11/2018
+12/2019
+101/2021
+101/2022
+101/2023
+
+|
+|
+|
+|
+|
+|
+|
+|
+
+Jahr
+12/2015
+12/2016
+11/2017
+11/2018
+12/2019
+101/2021
+01/2022
+101/2023
+
+|
+|
+|
+|
+|
+|
+|
+
+Diesel
+
+Benzin
+
+41.611
+43.704
+44.703
+45.215
+45.973
+47.427
+48.127
+47.425
+
+145.785
+145.663
+145.869
+145.904
+145.704
+145.591
+143.747
+140.454
+
+1.993
+1.960
+1.869
+1.805
+1.715
+1.603
+1.575
+1.564
+
+Diesel
+
+Benzin
+
+andere
+
+17.889
+18.338
+18.674
+17.919
+17.445
+16.187
+15.014
+14.233
+
+|
+
+9.910
+10.144
+10.515
+11.144
+12.395
+11.869
+11.077
+10.776
+
+andere | Verbrenner
+Verbrenner | gesamt
+
+privater PKW
+| interner | Plugin
+Hybrid
+Hybrid
+
+Elektro
+
+|Wasserstoff
+
+15
+17
+44
+100
+149
+389
+835
+1.246
+
+37
+57
+80
+121
+211
+484
+900
+1.440
+
+-
+
+gewerbliche Pkw
+| Verbrenner | interner
+Plug in
+
+Elektro
+
+|Wasserstoff
+
+189.389
+191.327
+192.441
+192.924
+193.392
+194.621
+193.449
+189.443
+
+953
+1.121
+1.367
+1.716
+2.296
+3.263
+4.575
+5.948
+
+Verbrenner|
+
+gesamt
+
+Hybrid
+
+Hybrid
+
+274
+229
+214
+220
+216
+199
+176
+164
+
+28.073
+28.711
+29.403
+29.283
+30.056
+28.255
+26.267
+25.173
+
+188
+230
+512
+490
+929
+1.407
+2.131
+2.845
+
+47
+93
+153
+171
+260
+925
+1.617
+2.106
+
+EKennzeichen
+
+1.416
+2.202
+
+190.394
+192.522
+193.932
+194.862
+196.048
+' 198.759
+199.762
+198.082
+
+E-
+
+Alle g. Pkw
+
+1
+2
+3
+5
+
+Alle p. Pkw
+
+Kennzeichen
+
+117
+149
+183
+294
+415
+714
+1.178
+1.954
+
+10
+11
+13
+
+2260]
+3136]
+
+28.425
+29.183
+30.251
+30.238
+31.660
+31.311
+31.204
+31.691
+
+Nutzfahrzeuge (Bus, Lkw, Sonderfahrzeuge, Zugmaschinen)
+Jahr
+12/2015
+12/2016
+11/2017
+11/2018
+12/2019
+101/2021
+101/2022
+
+Diesel
+1
+1
+|
+|
+|
+1
+|
+
+Benzin
+
+andere
+
+| Verbrenner | interner
+
+Plug in
+
+Verbrenner]
+
+gesamt
+
+Hybrid
+
+Hybrid
+
+-
+
+17.791
+18.520
+19.012
+19.420
+20.151
+20.607
+21.289
+
+1.045
+1.100
+1.164
+1.267
+1.378
+1.424
+1.500
+
+163
+166
+160
+153
+148
+146
+146
+
+18.999
+19.786
+20.336
+20.840
+21.677
+22.177
+22.935
+
+15
+15
+15
+16
+15
+16
+29
+
+101/2023 | 21.607
+
+1.543
+
+153
+
+23.303
+
+36
+
+Elektro
+
+Wasserstoff
+
+E-
+
+Alle Nfz
+
+Kennzeichen
+
+2
+
+40
+42
+44
+52
+82
+115
+141
+
+92]
+
+19.054
+19.843
+20.395
+20.908
+21.774
+22.308
+23.107
+
+1
+
+211
+
+135]
+
+23.551
+
+-
+
+
