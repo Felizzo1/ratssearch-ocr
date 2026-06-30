@@ -1,0 +1,418 @@
+Wir finden den weg. Ge:
+
+insam.
+
+Otlaw
+Kinder- und Jugendhilfe
+
+Anlage zum Antrag der Outlaw gGmbH - Vorhabenbeschreibung
+
+Projekt „Friese - das Online-Newsportal für die Dresdner Friedrichstadt“
+Konzeptidee
+Die Dresdener
+Friedrichstadt
+ist ein stark zergliederter Stadtteil, der von
+großen
+Veränderungen in der Bevölkerungsstruktur betroffen ist. Durch die weiterhin starke Bebauung
+der noch existierenden Brachflächen und den damit einhergehenden Zuzug von Menschen
+
+wächst die Friedrichstadt wie kaum ein anderer Stadtteil Dresdens.
+Die Friedrichstadt wird durchschnitten von mehreren großen Verkehrsachsen, welche die
+einzelnen Teile des Stadtteiles voneinander trennen. Ähnlich der Zergliederung der
+Verkehrsräume
+stellt sich die Zergliederung
+der Kommunikation
+im Stadtteil
+dar.
+Informationen von und für Bewohner:innen laufen über sehr verschiedene digitale Kanäle:
+e
+
+Nebenan.de,
+
+e
+
+Facebook,
+
+e
+
+\WhatsApp,
+
+«e
+
+Telegramm,
+
+e
+
+Signal,
+
+e
+
+Dresden.de
+und ähnliches.
+
+Allein bei Facebook existieren mehrere
+ihren Stadtteil informieren können.
+
+Plattformen,
+
+auf denen
+
+sich
+
+Bewohner:innen
+
+über
+
+Die verschiedenen Informationsplattformen führen dazu, dass Informationen nicht, oder nur
+teilweise und gefiltert bei den Bewohner:innen ankommen und die Informationssuchenden
+
+lange auf den einzelnen Portalen suchen müssen oder Informationen verloren gehen.
+Anzumerken ist auch, dass die einzelnen Informationsgeber nicht oder kaum auf Informationen
+Anderer hinweisen. Dadurch entsteht eine Art „Flickenteppich“, durch den, wertvolle und
+wichtige Informationen rund um den Stadtteil und Themen für die Bewohner:innen verloren
+gehen.
+Hinzu kommen datenschutzrechtliche Aspekte, die Alternativen notwendig machen.
+Die Bündelung der einzelnen Informationswege auf einer digitalen Plattform kann zu einer
+merklichen
+Verbesserung
+der
+Kommunikation
+zwischen
+den
+Bewohner:innen
+der
+Friedrichstadt führen und macht durch einen niedrigschwelligen Zugang zu Informationen die
+Partizipation aller Bewohner:innen erst möglich.
+In
+anderen
+Dresdner
+Stadtteilen
+existieren
+bereits
+Beispiele
+für funktionierende
+stadtteilorientierte digitale Formate (Johannstadt, Neustadt, Pieschen). Diese Portale sind eine
+
+gelungene Mischung aus Informationen über den Stadtteil, Historischem und Aktuellem aus
+dem Stadtteil und Werbung für lokale Gewerbetreibende.
+Warum
+
+braucht die Friedrichstadt ein solches Portal?
+
+Die Friedrichstadt ist ein lebendiger Stadtteil, der aktuell verändert und vielfältige
+Möglichkeiten für Beteiligung an aktuellen Entwicklungen und Freizeitmöglichkeiten bietet. Die
+Friedrichstadt
+
+ist aber auch
+
+ein Stadtteil,
+
+in dem
+
+verschiedenste
+
+Kulturen
+
+miteinander
+
+und somit verschiedenste Lebensentwürfe und Interessen aufeinanderprallen.
+
+leben
+
+Wir finden den Wag. Gemeinsam.
+
+Oxtlaw
+
+Kinder- und Jugendhilfe
+
+Der Nutzen digitaler Informationsflüsse hat sich während der Corona-Lockdowns gezeigt, eine
+Vielzahl von
+Informationen
+wurde
+ausschließlich
+auf digitalen Wegen
+verteilt und
+ausgetauscht. Bisherige Kommunikationswege wurden somit, notgedrungen, größtenteils
+ersetzt.
+
+Jedoch wurden und werden dazu verschiedene Kanäle genutzt, was die Übersichtlichkeit und
+den Zugang zu den Informationen erheblich erschwert. Dies führt zu verwirrenden
+Informationsflüssen und zeigt auf, dass es kein zentrales Medium gibt, um für die Bürger:innen
+
+des Stadtteils interessante
+
+und
+
+relevante
+
+Informationen zu verteilen und die Bildung von
+
+stadtteilbezogenen Netzwerken zu begünstigen.
+Versuche, eine Stadtteilzeitung (im herkömmlichen Sinne als Printmedium) ins Leben zu rufen,
+sind in den letzten Jahren immer wieder gescheitert, was hauptsächlich an den Kosten, dem
+
+Aufwand
+
+und
+
+der
+
+nicht
+
+vorhandenen
+
+personellen
+
+Konstanz
+
+gelegen
+
+Homepage
+
+als
+
+hat.
+
+Ein
+
+Online-
+
+Newsportal bietet hier Vorteile.
+Zielgruppe
+Zielgruppen des Online-Portals sind:
+e
+
+Bürger:innen
+
+e
+
+Interessengruppen
+
+e
+
+lokale Vereine, Initiativen und Einrichtungen,
+
+e
+
+Veranstalter,
+
+e
+
+Verwaltung,
+
+e
+
+lokale Politik
+
+Umsetzungstand
+
+des aktuell laufenden Projektes:
+
+Ziele der ersten Projektphase waren:
+e
+
+Aufbau
+und
+Betreiben
+Austauschforum
+
+einer
+
+zentralen
+
+e
+
+Stärkung der Selbstorganisation und des Empowerments der Stadtteilbewohner:innen
+
+e
+e
+
+Möglichkeit, auf lokale Besonderheiten hinzuweisen
+Stärkung von Nachbarschaften und Nachbarschaftshilfen
+eine höhere Identifikation mit dem Wohnumfeld
+
+e
+
+und
+
+Informations-
+
+damit
+
+und
+
+einhergehend
+
+und dem Stadtteil
+
+Möglichkeit der Werbung für lokale Unternehmen
+
+Diese Ziele wurden mit dem ersten Vorstellen des Projektes auf dem Stadtteilfest am
+10.09.2022 teilweise erreicht. Es konnte die Website als Vorabversion von Bürger:innen
+besucht werden. Zur besseren Sichtbarmachung des Projektes hatte die „Friese“ einen
+eigenen Stadt, an dem durch die „Projekteltern‘ der Friese den Bürger:innen Rede und Antwort
+
+standen und auf großes Interesse bei den Friedrichstädter:innen trafen.
+Am 26.09.2022 wurde zu einer ersten öffentlichen Radaktionskonferenz eingeladen, an der
+leider wenige Menschen teilnahmen. Wir bekamen aber Rückmeldungen, dass es bei einigen
+Interessierten ein Zeitproblem war und Anderen krankheitsbedingt absagen mussten.
+Ergebnisse dieses ersten Treffens waren:
+Vorstellung des Projektes
+
+-
+
+Kurze Einführung in die technischen Voraussetzungen
+
+-
+
+Bild und Textverarbeitung
+
+Wir finden den Weg.
+
+Ostlaw
+Kinder- und Jugendhilfe
+-
+
+Kommunikationswege innerhalb der Gruppe
+
+Ein weiterer Termin ist für November 2022 geplant.
+Konnte die zeitliche Planung umgesetzt werden?
+
+Wir haben festgestellt, dass der erste Zeitplan recht optimistisch angesetzt war. Einzelne
+Schritte, wie das Finden einer Person, welche die Hauptverantwortung übernimmt und ein
+Partner für die digitale Umsetzung der Idee sind wir gegangen, doch der Weg von der Idee bis
+zur Umsetzung ist manchmal länger als gedacht.
+Schwierigkeiten gab es in der Domain- und Terminfindung (bedingt durch Urlaubszeit und
+Krankheitsausfälle). Andere Arbeitsaufgaben, wie digitale Probleme in den Programmen und
+deren Anwendung, Zuständigkeiten für Rechtssicherheit und Datenschutz, bis hin zu ersten,
+zweiten und nunmehr dritten Umsetzungsidee, verzögerten den Start ebenfalls um einige Zeit.
+Diese Fragen konnten aber mittlerweile geklärt werden. Rechtliche Rahmenbedingungen, wie
+Datenschutzerklärung und Impressum, welche sicher sein müssen, konnten rechtsicher
+gemacht und auch die vertraglichen Absprachen zwischen allen Beteiligten geklärt werden.
+friese-journal.de
+
+steht die Domain
+
+Uns
+
+zu Verfügung,
+
+das
+
+Layout
+
+steht
+
+und
+
+wesentlichen
+
+inhaltliche Punkte sind festgelegt, können jederzeit ergänzt und erweitert werden.
+Geplante Umsetzung
+
+im Folgeprojekt
+
+Was braucht es nun noch:
+
+e
+e
+
+personelle Ausstattung für eine weiterhin anspruchsvolle professionelle, technische
+und inhaltliche Betreuung
+Mitarbeit von Menschen (Honorarkräfte), die zu verschiedenen Themenfeldern (z.B.
+Sport, Soziales, Wirtschaft, Kultur, Geschichte usw.) Beiträge schreiben
+
+e
+
+Größere Unterstützung durch ehrenamtliches Engagement
+
+e
+e
+
+Werbepartner für das neue Portal
+technische Ausstattung (Updates der Programme) für das Projekt
+
+Januar - Juli 2023
+«
+
+Verfestigung der Strukturen und Abläufe,
+
+e
+
+Schaffung weiterer technischen und personellen Grundlagen
+
+e
+
+Einführung des Projektes über eine gezielte Öffentlichkeitsarbeit im Stadtteil
+
+e
+
+Unterstützer:innen-Suche für die Mitarbeit von Menschen, die zu verschiedenen
+Themenfeldern (z.B. Sport, Soziales, Wirtschaft, Kultur, Geschichte usw.) Beiträge
+
+e
+
+schreiben
+Finden einer festen Anschrift, für analoge Post, Sprechzeiten,
+
+Infoveranstaltungen,
+
+Redaktionssitzungen
+e
+
+Sponsorensuche
+
+Juli - Dezember 2023
+e
+e
+
+Abschluss und Auswertung der Start- und Erprobungsphase und Überleitung in die
+Verfestigungsphase zu einen informellen und spannenden Informationskanal
+weitere Unterstützer:innensuche für die Mitarbeit von Menschen, die zu verschiedenen
+Themenfeldern,
+
+Beiträge schreiben wollen und können
+
+Wir Finden den Wag. Gemeinsam.
+
+Otlaw
+
+Kinder- und Jugendhilfe
+
+«
+e
+«
+e
+
+Veröffentlichung von Beiträgen aus den verschiedenen Themenfeldern
+Weiterbewerbung, um Nutzer:innenzahlen zu verstetigen, zu erhöhen
+regelmäßige Veröffentlichung von Beiträgen aus den verschiedenen Themenfeldern
+regelmäßige Ansprache Unternehmen im Stadtteil für den Aufbau von Einnahmen ab
+2023 über Anzeigenschaltung
+
+Nachhaltigkeit
+
+Das für 2022
+
+beantragte Projekte umfasst die Aufbau-/Anschubphase für das Online-Portal.
+Um dieses weiter zu verstetigen, ist ein Folgeprojekt im Jahr 2023 wichtig. Ziel ist es dann, die
+Einnahmen über Anzeigen so aufzubauen, das darüber die laufenden Kosten nach 2023
+abgesichert werden können.
+Weiterhin
+ist angedacht,
+das
+Online-Portal
+mehrsprachig
+ausgestalten,
+um
+alle
+Bewohner:innen des Stadtteils zu erreichen. Dazu suchen wir gezielt Nicht-DeutschMuttersprachler:innen, die wichtige Informationen in ihren Muttersprachen verbreiten können.
+Bei der Suche nach geeigneten Räumen zur Mitnutzung wird auch die Möglichkeit
+Nutzbarkeit der Räume für Menschen mit körperlichen Einschränkungen geprüft.
+
+der
+
+Die Trägerschaft des Projektes soll schrittweise an einen Bürgerverein übergeben werden, der
+das Online-Portal auf Basis bürgerschaftlichen Engagements weiterführt.
+
+
