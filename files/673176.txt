@@ -1,0 +1,60 @@
+Hausmitteilung
+
+Ü vertraulich
+
+Fraktion Alternative für Deutschland
+im Stadtrat der Landeshauptstadt Dresden
+Mitglied des Stadtrates
+Matthias Rentzsch
+
+Dresden.
+Dresden,
+
+Landeshauptstadt Dresden
+Der Oberbürgermeister
+
+GZ:
+
+(OB) GB 30214
+
+Datum:
+
+21. MRZ. 2023
+
+Sperrung des Zugriffs auf Internetpräsenzen
+AF2951/23
+
+Sehr geehrter Herr Rentzsch,
+Ihre oben genannte Anfrage beantworte ich wie folgt:
+„Wenn man auf einem Rechner der Landeshauptstadt Dresden die Internetpräsenz der Botschaft der Russischen Föderation in Berlin sowie der ihr angegliederten russischen Konsulate
+in Deutschland unter www.russische-botschaft.ru öffnen möchte, erscheint folgender
+Sperrhinweis: „Website verweigert!“. Auch bereits in der Suchmaschine erscheint der Hinweis
+
+„Diese Website wurde von einem Administrator abgelehnt.“ Dieselbe Sachlage stellt sich auch
+dar, wenn man zum Beispiel die Internetpräsenz unserer Partnerstadt St. Petersburg
+(www.CaHkT-fletepöypr.py bzw. www.saint-petersburg.ru) aufrufen möchte oder die des russischen Konzerns Gazprom (www.gazprom.ru).
+Dazu habe ich folgende Fragen an Sie:
+1. Veranlasst die Verwaltung der Landeshauptstadt Dresden bzw. deren Eigenbetrieb IT die
+Sperrung der benannten Internetpräsenzen sowie weiterer russischer Internetseiten?
+2. Wer fungiert als Administrator, welcher den Zugriff auf bzw. diese Websites an sich ablehnt
+bzw. sperrt?”
+Der Eigenbetrieb IT-Dienstleistungen betreut alle zentralen technischen Systeme für die Kommunikation mit externen technischen Systemen, einschließlich der Sicherheitsüberwachung und Ergreifung von Schutzmaßnahmen für die technischen Systeme der Landeshauptstadt Dresden.
+
+Dazu gehört auch der Internetzugang.
+Sofern „Internetadressen“ (URL- und IP-Adressen) identifiziert werden, von welchen ein
+
+Schadcode ausgeht, werden diese gesperrt. Die sich daraus ergebenden Sperrlisten werden je
+
+nach Bedrohungslage dynamisch angepasst und laufend aktiv fortgeschrieben. Die Bedrohungslage im Internet ist in den letzten Jahren stark angestiegen. Aktuell sind über 2 Millionen Adressen als schadcodeverbeitend identifiziert und gesperrt.
+Mit Ausbruch des Ukraine-Krieges stieg die Anzahl der Schadcodeanfragen und -angriffe auf die
+IT-Systeme der Landeshauptstadt Dresden aus den Adressräumen der Kriegsparteien sprunghaft
+an, sodass als Sicherheitsmaßnahme der gesamte Adressraum der Kriegsparteien für Zugriffe bis
+auf Weiteres gesperrt wurde. Notwendige dienstliche Zugriffe werden auf Anfrage freigeschalten, sodass sich daraus keine Beeinträchtigung der Dienstgeschäfte ergibt.
+
+Mit freun
+
+Dirk Hilbert
+
+jeren Grüßen
+
+
