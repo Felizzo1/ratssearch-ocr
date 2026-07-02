@@ -1,0 +1,315 @@
+Hausmitteilung
+
+El
+
+Dresden:
+
+Landeshauptstadt Dresden
+
+Ul vertraulich
+
+Der Oberbürgermeister
+
+Fraktion DIE LINKE.
+
+GZ:
+
+(OB)
+
+Datum:
+
+08. MAI 2023
+
+im Stadtrat der Landeshauptstadt Dresden
+Mitglied des Stadtrates
+Andre Schollbach
+
+Stationäre Geschwindigkeitsmessgeräte in der Landeshauptstadt Dresden
+AF3075/23
+
+Sehr geehrter Herr Schollbach,
+Ihre oben genannte Anfrage beantworte ich wie folgt:
+1.
+
+„An welchen Orten werden aktuell durch die Landeshauptstadt Dresden stationäre Ge-
+
+schwindigkeitsmessgeräte betrieben?“
+Die Standorte sind der beigefügten Tabelle zu entnehmen.
+2.
+
+„Aus welchen Gründen werden die stationären Geschwindigkeitsmessgeräte jeweils an
+den unter Ziffer 1 genannten Orten durch die Landeshauptstadt Dresden betrieben (bitte
+die Gründe jeweils für die einzelnen Orte angeben)?“
+
+Die Gründe sind in der Tabelle aufgeführt.
+3.
+
+„Welche stationären Geschwindigkeitsmessgeräte werden jeweils an den unter Ziffer 1 genannten Orten konkret durch die Landeshauptstadt Dresden betrieben (bitte jeweils Hersteller und Geräte-Bezeichnung angeben)?“
+
+Alle aufgeführten Messanlagen werden von der Landeshauptstadt Dresden betrieben. Hersteller
+und Gerätebezeichnung sind in der Tabelle aufgeführt.
+
+ichen Grüßen
+
+Dirk Hilbert
+Anlage
+
+Anlage zu AF3075/23
+Standorte der stationären Geschwindigkeitsmessanlagen in der Stadt Dresden
+(Stand: April 2023)
+Nr.
+1
+
+|Standort der Messanlage
+|Marienberger Straße 5 (33. Grundschule)
+
+Grund
+Schulweg
+
+Hersteller
+VDS Verkehrstechnik GmbH
+
+Modell
+MS SPEED
+
+2
+
+|Güntzstraße 29
+
+Seniorenheim
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+3
+
+|Dohnaer Straße/Fritz-Meinhardt-Straße (stadteinwärts)
+
+|Unfallschwerpunkt
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+4
+
+|Dohnaer Straße/Fritz-Meinhardt-Straße (stadtauswärts)
+
+|Unfallschwerpunkt
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+5
+
+|Großenhainer Straße/Pestalozziplatz
+
+Schulweg
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+6
+
+|Königsbrücker Landstraße/Am Zollhaus
+
+Schulweg
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+7
+
+|Bautzner Straße in Höhe Elbschlösser
+
+Unfallschwerpunkt
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+8
+
+|Gottfried-Keller-Straße 40 (Schule Am Leutewitzer Park)
+
+|Schulweg
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+9
+
+|Würzburger Straße 61
+
+Schulweg
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+10
+
+|Waldschlößchenbrücke (Richtung Altstadt)
+
+Naturschutz (Gerichtsurteil)
+
+Jenoptik Robot GmbH
+
+TraffiStar S330
+
+11
+
+|Waldschlößchenbrücke (Richtung Neustadt)
+
+Naturschutz (Gerichtsurteil)
+
+Jenoptik Robot GmbH
+
+TraffiStar S330
+
+12
+
+|Maxim-Gorki-Straße (Höhe Gehörlosenschule)
+
+Schulweg
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+13
+
+|Maxim-Gorki-Straße (gegenüber Gehörlosenschule)
+
+Schulweg
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+14
+
+|Radeburger Straße/Meinholdstraße
+
+Unfallschwerpunkt
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+15
+
+|Dippoldiswalder Platz (außer Betrieb)
+
+Unfallschwerpunkt
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+16
+
+|Bautzner Straße/Löwenstraße
+
+Schulweg
+
+GATSO GmbH
+
+GTC-GS11
+
+17
+
+|Bautzner Landstraße/Am Weißen Adler
+
+Unfallschwerpunkt, Schulweg
+
+GATSO GmbH
+
+GTC-6S11
+
+18
+
+|Meißner Landstraße/Am Urnenfeld
+
+Schulweg
+
+GATSO GmbH
+
+GTC-GS11
+
+19
+
+|Pillnitzer Landstraße/Preßgasse
+
+Schulweg
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+20
+
+|Pirnaer Straße 64 (OT Eschdorf)
+
+Schulweg
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+21
+
+[Bergstraße 58
+
+Feinstaubmessstation
+
+VDS Verkehrstechnik GmbH
+
+MS SPEED
+
+22
+
+|Schlüterstraße/Hepkestraße
+
+Schulweg
+
+GATSO GmbH
+
+GTC-GS11
+
+23
+
+|Lommatzscher Straße/Trachauer Straße
+
+Schulweg
+
+GATSO GmbH
+
+GTC-GS11
+
+24
+
+|\St. Petersburger Straße 9
+
+Schulweg
+
+GATSO GmbH
+
+GTC-GS11
+
+25
+
+|Staufenbergallee/Marienallee
+
+Schulweg
+
+GATSO GmbH
+
+GTC-GS11
+
+
