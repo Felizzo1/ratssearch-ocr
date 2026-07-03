@@ -1,0 +1,141 @@
+Hausmitteilung
+
+| Al
+
+Dresden;
+
+Landeshauptstadt Dresden
+
+[1 vertraulich
+
+Der Oberbürgermeister
+
+Fraktion Alternative für Deutschland
+im Stadtrat der Landeshauptstadt Dresden
+Mitglied des Stadtrates
+
+GZ:
+
+(OB) GB 5.53
+
+Datum:
+
+2J. JUN! 2023
+
+Heiko Müller
+
+Corona-Resümee
+AF3171/23
+
+Sehr geehrter Herr Müller,
+‘
+
+Ihre oben genannte Anfrage beantworte ich wie folgt:
+1.
+
+„Wie viele Corona-Schnelltests wurden durch die städtischen Einrichtungen (Schulen, Kitas,
+Verwaltung o.ä.) im Verlauf der letzten drei Jahre ausgereicht?“
+
+Eigenbetrieb Kindertageseinrichtungen und Amt für Kindertagesbetreuung:
+Der Eigenbetrieb Kindertageseinrichtungen Dresden hat im Zeitraum vom 30. November 2020
+bis 31. Dezember 2022 insgesamt 224.065 Coronatests bestellt.
+Darüber hinaus erhielt der Eigenbetrieb Kindertageseinrichtungen Dresden von Februar 2021 bis
+November 2021 regelmäßig vom Land Sachsen Coronatests. In Summe waren das insgesamt
+391.460 Tests. Diese wurden mit dem Amt für Kindertagesbetreuung geteilt. Dem Amt wurden
+hiervon insgesamt 115.095 Coronatests zur Verfügung gestellt.
+Somit wurden im o. g. Zeitraum durch den Eigenbetrieb Kindertageseinrichtung in Summe
+
+500.430 Tests an die Beschäftigten ausgereicht.
+Eigenbetrieb Städtisches Klinikum Dresden:
+Von Januar 2021 bis Februar 2023 wurden circa 450.000 Coronatests ausgereicht.
+Stadtverwaltung Dresden:
+Das Haupt- und Personalamt hat die zentrale Beschaffung von Coronatests für die Beschäftigten
+der Stadtverwaltung vorgenommen.
+
+Im Zeitraum von 2021 bis 2023 wurden insgesamt 523.014
+
+Coronatests an die Ämter und städtischen Einrichtungen ausgereicht.
+
+2.
+
+„Welche Kosten waren damit für die Landeshauptstadt verbunden?“
+
+Der Eigenbetrieb Kindertageseinrichtungen hat für die im Zeitraum vom 30. November 2020 bis
+31. Dezember 2022 bestellten Coronatests insgesamt ca. 700.000 Euro gezahlt. Kosten für Tests,
+die vom Freistaat Sachsen zur Verfügung gestellt wurde, sind nicht angefallen.
+Seitens des Eigenbetriebs Städtisches Klinikum Dresden wurden im Zeitraum von Januar 2021
+bis Februar 2023 Coronatests für circa 1.120.000 EUR eingekauft.
+Für die durch das Haupt- und Personalamt beschafften Tests zur Verwendung durch Beschäftigte
+der Stadtverwaltung Dresden fielen Kosten in Höhe von 1.119.468,97 Euro an. Am 14. Dezember 2021 wurden vom Bund 10.000 Corona-Schnelltests kostenfrei zur Verfügung gestellt.
+3.
+
+„Wie viele Corona-Schnelltests wurden vom Freistaat bzw. dessen Behörden zur Verfügung
+
+gestellt bzw. bezahlt?“
+Hierzu wird auf die obigen Ausführungen verwiesen.
+4.
+
+„Wie gingen die Ergebnisse in die Coronastatistik der Landeshauptstadt ein?
+
+Ab welchem Zeitpunkt wurden (positive) Corona-Schnelltests den (positiven) PCR-Tests
+gleichgestellt in die Statistik aufgenommen?”
+Positive Schnelltestmeldungen sind nicht in die Erstellung bzw. Berechnung von Corona-Statistiken, beispielsweise in Form des Lageberichtes oder des Corona-Dashboards, eingeflossen. Auch
+dienen sie nicht der Berechnung der Inzidenzwerte. Für diese statistischen Auswertungen sind
+nur Fälle ausschlaggebend, die der Referenzdefinition des Robert Koch-Instituts entsprechen.
+In Veröffentlichungen des Robert Koch-Instituts, die nicht nach Falldefinitionskategorien differenzieren (z.B. wöchentliche „Aktuelle Statistik meldepflichtiger Infektionskrankheiten“ im Epi-
+
+demiologischen Bulletin), werden nur Fälle der folgenden Kategorien gezählt:
+1.
+
+Klinisch-labordiagnostisch bestätigte Erkrankung
+Klinisches Bild von COVID-19 und labordiagnostischer Nachweis mittels Nukleinsäurenachweis
+oder Erregerisolierung
+2.
+Labordiagnostisch nachgewiesene Infektion bei nicht erfülltem klinischen Bild
+Labordiagnostischer Nachweis mittels Nukleinsäurenachweis oder Erregerisolierung
+
+3.
+Labordiagnostisch nachgewiesene Infektion bei unbekanntem klinischen Bild
+Labordiagnostischer Nachweis mittels Nukleinsäurenachweis oder Erregerisolierung
+„Inwiefern hat das Gesundheitsamt für positive PCR-Tests einen Grenzwert (cT-Wert) vor-
+
+5,
+
+gegeben?”
+i
+
+!
+
+Eine Vorgabe des Grenzwertes für positive PCR-Tests erfolgte nicht individuell durch das Amt für
+Gesundheit und Prävention. Seitens der Bundesebene wurde vornehmlich in den letzten Wellen
+der Corona-Pandemie vorgegeben, dass ein Ct-Wert > 30 beispielsweise zur Beendigung der Absonderung heranzuziehen ist. Dies galt, sofern es sich nicht um die initiale Testung, sondern eine
+
+Testung zur Entisolierung am Schluss der Absonderung handelte. Dies hat den Hintergrund, dass
+
+der Ct-Wert insbesondere zu Beginn und am Schluss einer Infektion einen Wert von über 30 erreichen kann. Ergänzend ist darauf hinzuweisen, dass der Ct-Wert abhängig von der eingesetzten
+labortechnischen Analyse durch die Labore unterschiedlich ausgegeben wird. Daher hat das RKI
+Hinweise zur Diagnostik veröffentlicht und z. B. eine quantitative Bezugsprobe benannt.
+6.
+
+„Wie hoch wurde dieser cT-Wert zu einzelnen Zeitpunkten festgelegt?“
+
+Sofern ein Ct-Wert ausschlaggebend für die Entisolierung, sprich die Beendigung der Absonderung, war, belief sich dieser immer auf > 30.
+7.
+
+„Wie oft wurde diese Festlegung aus welchen Gründen geändert?“
+
+Es handelte sich, wie oben erwähnt, um eine Bundesvorgabe. Die Höhe des Wertes wurde nicht
+verändert. Er wurde insbesondere im späteren Verlauf der Infektionswellen zur Anwendung gebracht. Diese bundeseinheitlichen Vorgaben wurden sodann in die entsprechenden Allgemeinverfügungen über die Absonderung aufgenommen.
+8.
+
+„Wir viele Test-Zentren gibt es in Dresden zum Stichtag 31. Mai 2023 noch?“
+
+Mit Auslaufen der gesetzlichen Grundlagen für die Bürgertestungen sowie dem Aufheben der
+Testverpflichtungen im März 2023 wurden die nach Coronavirus-Testverordnung ergangenen
+Beauftragungen für Teststellen beendet. Damit erfolgt auch keine statistische Aufbereitung
+mehr. Inwieweit auf privater Basis noch Coronatestungen im Stadtgebiet angeboten werden,
+kann nicht eingeschätzt werden.
+
+Dirk Hilbert
+
+

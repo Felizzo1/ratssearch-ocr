@@ -1,0 +1,119 @@
+Hausmitteilung
+
+X |
+
+en
+Landeshauptstadt Dresden
+
+U vertraulich
+
+Der Oberbürgermeister
+
+Fraktion Alternative für Deutschland
+
+GZ:
+
+(OB) 6 GB 62.4
+
+Datum:
+
+19. JUNI 2023
+
+im Stadtrat der Landeshauptstadt Dresden
+Mitglied des Stadtrates
+Heiko Müller
+
+Unterschiedliche Luftbilder der Landeshauptstadt Dresden und des Freistaates Sachsen
+
+AF3173/23
+
+Sehr geehrter Herr Müller,
+
+Ihre oben genannte Anfrage beantworte ich wie folgt:
+„[Mlir ist im Themenstadtplan aufgefallen, dass bei den "Grundkarten" (links im Menü) in den letzten Jahren das Stadtgrün immer mehr "ausgeblichen" ist, während die Luftbildaufnahmen des Frei-
+
+staates regelmäßig ein sattes Grün (https://stadtplan.dresden.de/?permalink=1PFifkzv) aufzeigen.
+Offenbar gibt es hier unterschiedliche Zielstellungen bei der Landeshauptstadt Dresden und dem
+Freistaat Sachsen. Während der Freistaat Sachsen die Vegetation im Fokus hat, scheint die Landeshauptstadt Dresden auf etwas Anderes abzuzielen.
+Dazu habe ich bitte folgende Fragen:
+1.
+
+Mit welcher Zielstellung bzw. welchen Zielstellungen lässt die Landeshauptstadt
+der (u. a. für den Themenstadtplan) erstellen?“
+
+jährlich Luftbil-
+
+Das Amt für Geodaten und Kataster lässt im Rahmen seiner Aufgabenerfüllung „Bereitstellung von detaillierten, aktuellen und hochgenauen stadttopographischen Basisdaten“ jährlich wechselseitig eine
+
+Hälfte des Stadtgebietes von Dresden befliegen. Diese Vermessungsbildflüge werden mit spezifischen,
+auf die Vermessungsaufgaben abgestimmten Befliegungsparametern durchgeführt. Damit werden die
+Anforderungen an die aus den Luftbildern gemessenen Objekte (z.B. Gebäude oder Straßenabläufe)
+hinsichtlich Aktualität, Objekterkennbarkeit, Genauigkeit und Kosteneffizienz erfüllt.
+Das Ergebnis der Bildflüge sind digitale großmaßstäbige
+cm. Im Jahr 2022 waren dies z.B. 1049 Einzelbilder.
+
+Luftbilder mit einer Bodenauflösung von 10
+
+Die Befliegung wird im zeitigen Frühjahr vor Laubaustrieb durchgeführt, damit möglichst viele der topographischen Elemente sichtbar sind.
+
+Diese Luftbilder (Ausgangsprodukt) dienen als Arbeitsmaterial zur stereoskopischen Lage- und Höhenauswertung topographischer Objekte. Ergänzend zur klassischen Vermessung werden mit diesem Verfahren der Luftbildauswertung seit vielen Jahren Geobasisdatenbestände, wie der Gebäudebestand
+des Amtlichen Liegenschaftskatasterinformationssystems, die Stadttopographie (Digitale Stadtkarte)
+und partiell auch die Gebäude des 3D-Stadtmodells effizient aktualisiert und korrigiert. Diese Datenbestände erfordern eine Genauigkeit des Luftbildmaterials von kleiner gleich 10 cm in Lage und Höhe
+(Standardabweichung).
+Darüber hinaus werden aus diesen Einzelluftbildern weitere Folgeprodukte, wie Digitale Orthobilder
+mit 20 cm
+
+Bodenauflösung,
+
+bildbasierte Oberflächenmodelle
+
+mit 10 cm Bodenauflösung
+
+und soge-
+
+nannte True Orthobilder ebenfalls mit 10 cm Bodenauflösung berechnet. Diese Folgeprodukte werden
+komplett oder auch teilweise über den Informationsdienst "GeoDaten Dresden" (Cardo), den Themenstadtplan und das Open Data Portal einem breiten Anwenderkreis innerhalb und außerhalb der Stadtverwaltung kostenfrei zur Verfügung gestellt und dienen der Erstellung und/oder Laufendhaltung von
+Fachdatenbeständen, Planungsgrundlagen und der bildhaften Hinterlegung verschiedener Fachthematiken.
+Des Weiteren dienen die Luftbilder als Hintergrundbilder im Themenstadtplan, zur Bestandsdoku-
+
+mentation, als Planungsgrundlage sowie zur Dokumentation von Zeitreihen.
+2.
+
+„Aus welchem Grund wird nicht auf die Luftbildaufnahmen des Freistaates zurückgegriffen?“
+
+Die Bildflüge des Freistaates Sachsen dienen als landesweite Bildflüge hauptsächlich vegetations- und
+forstkundlichen Zwecken. Sie werden als Sommerbefliegungen in einem 3-Jahres-Turnus mit einer Bodenauflösung von 20 cm und einer Genauigkeit von kleiner gleich 20 cm in Lage und 40 cm in Höhe
+(Standardabweichung) durchgeführt. Die Nutzung dieses Bildmaterials entspricht nicht unseren Anforderungen an Aktualität, Genauigkeit und Erkennbarkeit von Kleinstobjekten wie z. B. Straßenabläufen
+zur Fortführung o. g. Geobasisdatenbestände.
+Die Möglichkeit der Nutzung der Luftbildaufnahmen des Freistaates Sachsen prüfen wir regelmäßig auf
+Einsparpotentiale. Sollte der Freistaat Sachsen Frühjahrsbildflüge mit einer Bodenauflösung von 10 cm
+bereitstellen, wären dies für uns geeignete Arbeitsgrundlagen.
+
+3.
+
+„Welche Kosten fallen jährlich für die Erstellung der stadteigenen Luftbildaufnahmen an?”
+
+Aktuell werden ca. 23.000 Euro brutto für die Befliegung im Jahr ausgegeben. Es wird jährlich eine
+Hälfte des Stadtgebietes sowie das Stadtzentrum beflogen. Diese Gebietsgröße ist so bemessen, dass
+mit dem zur Verfügung stehenden Personal und technischer Ausstattung die Auswertung der Luftbilder
+für in Punkt 1 genannte Zwecke innerhalb eines Jahres bis zur Befliegung der anderen Stadthälfte im
+Folgejahr ausgewertet werden können.
+
+4.
+
+„Welche Kosten fallen für die Übernahme (und Einbindung) der Luftbilder des Freistaates jährlich an?“
+
+Für die Übernahme/Einbindung der Luftbilder des Freistaates fallen keine Kosten an.
+Die Luftbildprodukte des Freistaates stehen kostenfrei unter der Lizenz "Datenlizenz Deutschland Namensnennung - Version 2.0" über das Portal "Offene Geodaten" des Freistaates Sachsen zur Verfügung. Damit entfallen zusätzliche Lizenzkosten bei der gleichzeitigen Bereitstellung von Luftbildprodukten der Landeshauptstadt Dresden und des Freistaates Sachsen im Themenstadtplan Dresden.
+
+Im Vergleich zur Bereitstellung von ca. 400 Themen für den Themenstadtplan ist der technische Aufwand für die Bereitstellung der Luftbildprodukte des Freistaates Sachsen für den Themenstadtplan
+über standardisierte Darstellungsdienste (hier konkret über einen WebMapService - WMS) vernachlässigbar gering.
+
+Mit fr.
+
+lichen Grüßen
+er
+
+Dirk Hilbert
+
+

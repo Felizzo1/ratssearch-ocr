@@ -1,0 +1,367 @@
+Hausmitteilung
+
+Dresden,
+
+All
+
+Landeshauptstadt Dresden
+
+[1 vertraulich
+
+Der Oberbürgermeister
+
+Fraktion Alternative für Deutschland
+im Stadtrat der Landeshauptstadt Dresden
+
+GZ:
+
+(OB) GB 3 02 14
+
+. Mitglied des Stadtrates
+Bernd Lommel
+
+Datum;
+
+09. JUNI 2023
+
+Smart City Strategie
+AF3147/23
+Sehr geehrter Herr Lommel,
+Ihrer Anfrage beantworte ich wie folgt:
+„Im Rahmen der Smart City Strategie der Landeshauptstadt Dresden gibt es eine Vielzahl von
+Projekten. Diese binden Kapazitäten, können aber der Stadt auch verschiedene Nutzen bringen.
+1. Welche Projekte sind bereits im Rahmen der Smart City Strategie seit 2020 umgesetzt worden?“
+in der ersten Projektphase, der Strategiephase (1. Januar 2022 — 30. Juni 2023) stand hauptsächlich die Erstellung der Smart-City-Strategie im Fokus, die federführend durch die Technische Universität Dresden verfasst wurde.
+
+vpwnpr
+
+Neben der Strategieerstellung gab es folgende Begleitmaßnahmen:
+Cleema App
+Umweltmonitoring
+Smart Participation
+MOBlmonitor/MOßBlsimulator
+Sektorenkupplung
+
+(Konzept und pilothafte Umsetzung intelligent vernetzer Wärme-/Kühlkreisläufe und Hausanschlussstationen zur Sektorkopplung am Beispiel eines Pilotquartiers)
+1. Cleema App
+Die Maßnahmenleitung der Cleema App ist im Amt für Stadtstrategie, Internationales und Bürgerschaft verortet.
+
+-2-
+
+Ziel der Cleema App ist es, Bürgerbeteiligung zu fördern und nachhaltige Verhaltensweisen der
+Bürger anzuregen bzw. zu ändern. Anstoß zum Nach-/Umdenken sollten über Anreize, wie Gutscheine für örtliche Händler (Incentivierung), aber auch durch Aufgaben und Herausforderungen
+
+innerhalb der App ausgelöst werden (Nudging). Daneben kommen digitale Plattformangebote
+und Gamification-Ansätze zum Einsatz.
+Die App zahlt auf die Nachhaltigkeits- und Klimaziele der LHD - unter anderem auf das Klimaschutzkonzept und die Sustainable Development Goals (SDGs) - ein. Ferner soll sie Digitalisierung lokal und begreifbar gestalten und Daten (Nutzerfeedback) zur Wirksamkeitsmessung generieren.
+
+Bislang wurde die App eigenständig finanziert. Ca. 80 - 90 Prozent der App-Architektur ist opensource-basiert bis auf das Front-End, welches z. B. von anderen interessierten Kommunen geändert werden kann.
+
+Die Entwicklungsleistung wurde im Oktober 2022 beauftragt. Eine erste Beta-Version ging Ende
+2022 online. Es hat sich gezeigt, dass die Datenbereitstellung (insbesondere Mobilitätsdaten)
+auch bei umweltbewussten Menschen kritisch hinterfragt wird, daher wird auf die Erhebung dieser Daten verzichtet.
+Am 1. März 2022 ging die App online.
+Es zeigte sich, dass nicht die Hypothesen der Verwaltung Ausgangspunkt sein sollten, um digitale
+Lösungen zu entwickeln, sondern auf die „Schmerzpunkte“ der potenziellen Nutzenden geachtet
+werden sollte. Hierbei sollte auf eine iterative Entwicklung mit kontinuierlichen Nutztertests Augenmerk gelegt werden.
+Insgesamt soll ein Ökosystem entwickelt werden, das nicht nur für Bürgerinnen und Bürger, sondern auch für Unternehmen und Vereine interessant und hilfreich ist.
+Die Maßnahme soll in der ab dem 1. Juli 2023 beginnenden zweiten Projektphase (Umsetzungsphase) fortgeführt werden.
+
+2. Umweltmonitoring
+Die Maßnahmenleitung der Maßnahme Umweltmonitoring ist im Umweltamt verortet.
+Ziel der Maßnahme ist die sensorgestützte Erfassung quartiersrelevanter Umweltqualitäten am
+Beispiel der Verdichtung des Wasserstands- und Regenmessnetzes im Süden.von Dresden. Dafür
+wurden nun seit Maßnahmenbgeginn:
+e
+e
+
+10 Niederschlagssensoren zur robusten Niederschlagsmengenermittlung,
+3 Niederschlagssensoren zur Ermittlung des Tropfengrößenspektrums, der Intensität und
+Menge,
+
+e
+e
+
+2 Alarmpegeln an Hochwasserrückhaltebecken sowie
+1 Pegelmessstation an einem ausgewählten Fließgewässer
+
+angeschafft und teilweise errichtet. .
+
+In der Umsetzungsphase soll diese Maßnahme fortgeführt bzw. vertieft werden. Hierfür sind
+drei Arbeitspakete geplant:
+
+1.
+2.
+3.
+
+Sensorerfassung quartiersrelevanter Umweltqualitäten
+Vernetzung stadtweiter Sach-, Fach- und Sensordaten im 3D-Stadtmodell
+Instrumente zur differenzierten Warnung vor Starkregen
+
+3. Smart Participation
+
+Die Maßnahmenleitung der Maßnahme Smart Participation obliegt dem Amt für Stadtstrategie,
+Internationales und Bürgerschaft gemeinsam mit der Technischen Universität Dresden.
+Ziel der Maßnahme ist es, durch niederschwellige, breite Bürgerbeteiligung (mit digitalen Formaten) die Wünsche der Bürgerinnen und Bürger an die Stadtverwaltung zu kommunizieren und
+sich auf Quartiersebene sowie gesamtstädtisch durch innovative und experimentelle Beteiligungsformate einzubringen. Es soll eine schnelle Erhebung von Meinungsbildern zu aktuellen
+
+raumbezogenen Themen geben, dies digital und physisch (Reallabore/Bürgerlabor). Ferner sollten neue Kommunikationsmodelle etabliert werden, durch welche die Ergebnisse von Bürgerbeteiligungen besser in Planungsprozesse der Stadt etabliert werden können.
+Beispielsweise folgende Beteiligungsprozesse wurden hierbei im Rahmen des Modellprojektes
+Smart City in der Strategiephase bereits durchgeführt:
+e
+
+LU_Code Verfahren: Verfahren, mit dessen Hilfe Bürgerinnen und Bürger ihre Stadt(-teile) mit
+
+interaktiven 3D Co-Design Werkzeugen bedarfsgerecht weiterentwickeln und entwerfen
+können > Einsatz im Projekt „Wohninnenhöfe Prohlis gestalten“
+e „Zukunftsbahn”: Befragung der Bürgerinnen und Bürger in den Dresdner Straßenbahnen zu
+“ Wünschen und Vorstellungen an eine Smart City (Integration dessen in die Smart-City-Strate-
+
+gie)
+Auch diese Maßnahme soll in der Umsetzungsphase fortgeführt bzw. vertieft werden.
+4. MOBlmonitor/MOBisimulator
+Die Maßnahmenleitung der Maßnahme MOBlImonitor/MOBisimulator obliegt dem Amt Stadtplanung und Mobilität.
+Ziel der Maßnahme war es, den MOBlImonitor bzw. den MOBisimulator als wichtige Bausteine
+
+einer ganzheitlichen Sicht auf die Verkehrs- und Mobilitätsplanung zu nutzen.
+Der MOBisimulator simuliert dabei verkehrliche Effekte verschiedener Entwicklungsszenarien.
+Durch verschiedene Betrachtungsebenen („Verkehrssystem“ sowie „persönliche Mobilität“) soll
+
+schließlich eine webbasierte Nutzeroberfläche (auf Dresden.de) erstellt werden, mit welcher die
+Dateneingabe, Vergleiche, Wirkungsanzeige, Speicherung individueller Links, Statistik und Datenverarbeitung ermöglicht werden soll.
+Der Simulator ist abhängig zum DMP2035+-Szenarien-Prozess.
+Der MOBimonitor soll die Beobachtung und Analyse einer langfristigen Entwicklung des Mobilitätsverhaltens und des Verkehrssystems sicherstellen. Mit seiner Hilfe sollen die Verkehrsziele
+und -strategien der LHD entwickelt bzw. angepasst werden, Mobilitätstrends und Einflussgrößen
+
+erkannt und die Entwicklung bewertet werden.
+Im Verlaufe der Strategiephase zeigte sich allerdings, dass die Umsetzung dieses Projektes in angedachter Form nicht im Rahmen der MPSC-Förderrichtlinien möglich ist. Gründe hierfür sind:
+
+Open-Source-Ansatz vs. Nutzung vorhandener Lösungen sowie Standardanwendungen
+Gesamtstädtische Strategie zum Umgang mit Daten und den genutzten Tools notwendig
+Abhängigkeit zu laufenden Projekten DMP2035+ sowie Verkehrsmanagementsystem 2021+
+Abhängigkeiten zu anderen Ämtern
+Insofern wurde im März des Jahres 2023 gegenüber dem Fördermittelgeber kommuniziert, dass
+
+diese Maßnahme nicht weiter im Rahmen des Modellprojektes fortgeführt wird. Unabhängig davon betreibt Amt für Stadtplanung und Mobilität die Maßnahme aber weiterhin (außerhalb des
+
+MPSC).
+5. Sektorenkopplung
+Die Maßnahmenleitung der Maßnahme Sektorenkopplung obliegt dem Amt 80.
+Die Maßnahme umfasst die pilothafte Umsetzung intelligent vernetzter Wärme-/Kühlkreisläufe
+und Hausanschlussstationen zur Sektorkopplung (Wärme-Strom-Mobilität). Konkret geht es um
+
+die gemeinsame Versorgung eines Plattenbaus und eines nahegelegenen Supermarkts (Netto)
+mit regenerativer Energie über ein Fernwärmenetz im Modellquartier Ost/Dresden Leuben.
+Dazu werden zwei Wärmepumpen installiert und die Netztemperatur in einem ausgekoppelten
+Bereich des Fernwärmenetzes reduziert, was gleichzeitig die Wärmeverluste minimiert. Darüber
+hinaus wird auf den Dächern Solarstrom erzeugt, welcher u. a. für Mieterstrom und Fahrzeug-
+
+Ladestationen verwendet werden kann. Für die intelligente Steuerung der Energieversorgung
+sollen über 5G vernetze Hausübergabestationen eingerichtet werden.
+Ziele der Maßnahmen, die im Modellquartier Ost (konkret: auf der Jessener Straße, Leuben),
+verortet ist, sind:
+e
+
+Neuinstallation von Energiesystemkomponenten
+
+e
+e
+
+Vernetzung aller Komponenten
+Entwicklung und pilothafte Erprobung eines intelligenten, vernetzten Energiemanagementsystems
+e Einrichtung von interaktiven Displays und Gamification-Elementen für das breite Verständnis
+- der Systemvorgänge durch den Bürger
+Erhebliche Reduzierung des Gesamtenergiebedarfes im Quartier durch Erfassung von Enere
+gieangeboten und -bedarfen
+e
+Minimaler Eingriff in die Wohnungen der Anwohner
+Die Maßnahme wurde innerhalb der Strategiephase neu beantragt: ein entsprechender Antrag
+
+im Januar des Jahres 2023 wurde im März des Jahres 2023 durch den Fördermittelgeber genehmigt. Eine Weiterführung in der Umsetzungsphase ist geplant.
+
+2. „Welchen Finanzierungsaufwand hat die Landeshauptstadt hieraus gehabt? Dabei bitte die
+für die jeweiligen Projekte aufschlüsseln.”
+Fördermittel und die tatsächlichen Eigenmittel
+Die bisherigen Abrufe stellen sich wie folgt dar:
+
+Maßnahme
+
+EB IT/LHD
+TUD
+Smart Participation
+Cleema
+
+Konsumtiv
+Investiv
+Förderanteil
+Eigenanteil
+Förderanteil
+Eigenanteil
+(65 %) in Euro
+(35 %)in Euro | (65%)inEuro | (35 %) in Euor
+101.620,19
+54.718,56
+182.364,00
+98.196,00
+23.601,08
+12.708,27
+16.708,11
+8.996,68
+8.353,80
+4.498,20
+94.985,80
+51.146,20
+
+Umweltmonitoring
+
+41.047,70
+
+22.102,61
+
+122.931,91
+
+66.194,10
+
+Sektorenkopplung
+
+8.695,14
+
+4.681,99
+
+-
+
+-
+
+MOBlmonitor/MO-
+
+6.195,11
+
+3.335,82
+
+-
+
+-
+
+371.877,02
+
+200.241,45
+
+Bisimulator
+
+Gesamt
+
+234.625,82
+
+126.336,98
+
+3. „Smart City ist ein umfangreicher Themenkomplex. Kann man - aus welchen Gründen auch
+immer — das Projekt vorzeitig verlassen?“
+Die Kreditanstalt für Wiederaufbau (KfW) arbeitet für ihre Zuschussgewährungen mit Merkblättern, die bei der Zuschusszusage mit ausgereicht werden. In diesen findet sich der folgende Passus: „Bei Nichterfüllung der der Zuschussgewährung zugrundeliegenden Anforderungen, behält
+sich die KfW die (gegebenenfalls anteilige) Rückforderung bereits ausgezahlter Zuschussbeträge
+sowie die Erhebung eines Verzinsungsanspruches für die Dauer der ungerechtfertigten Inanspruchnahme der Zuschussmittel, gerechnet vom Tag, der der Auszahlung folgt, vor. Es gilt ein
+Zinssatz von fünf Prozentpunkten über dem Basiszinssatz gemäß $ 247 Bürgerliches Gesetzbuch."
+Ein vorzeitiger Ausstieg aus dem Förderprojekt würde dementsprechend voraussichtlich eine
+Rückzahlung der bis dahin bezogenen Fördermittel (oder eines Teils) mit sich bringen.
+Das Ausmaß der dadurch erzielten Außenwirkung wäre zudem katastrophal. Die LHD hat sich in
+der dritten Staffel aus einem Bewerberpool von mehreren hundert Kommunen durchgesetzt.
+Dadurch, dass die LHD sich in diesem Bewerbungsprozess durchgesetzt hat, konnten andere
+Kommunen keinen Zuschuss erhalten, insofern würde ein Rückzug aus dem Programm einen erheblichen Imageverlust mit sich ziehen.
+4. „Welche Stellungnahmen gibt es zu diesem Projekt seitens der Datenschutzbeauftragten
+des Freistaates Sachsen und der Landeshauptstadt Dresden?“
+Im Anhang finden Sie eine vorläufige Stellungnahme des Datenschutzbeauftragten der Landes-
+
+hauptstadt Dresden. Konkrete Stellungnahmen sollen im Verlauf des Gesamtprojektes zu den
+einzelnen Teilmaßnahmen erfolgen. Teilweise wurden in den Maßnahmen
+
+bereits erste Abstim-
+
+mungen geführt.
+Die Durchführung der Einzelmaßnahmen ist von der Genehmigung des Fördermittelgebers abhängig. Derzeit orientieren sich die Planungen der Maßnahmen am Fördermittelprogramm.
+Sollte es bei einzelnen Maßnahmen nicht zu einer Zustimmung des Fördermittelgebers kommen,
+wäre eine Neukonzipierung denkbar. Die Stellungnahme des Datenschutzbeauftragten ist aber
+abhängig von der finalen Ausgestaltung der Projekte.
+Insofern findet eine abschließende Stellungnahme erst nach erfolgreicher Einzelmaßnahmenbeantragung beim Fördermittelgeber statt.
+
+Aufgrund dessen wurde auch eine Stellungnahme der Sächsischen Datenschutzbeauftragten bis-
+
+lang nicht abgefragt. Angesichts der Stellungnahme des Dresdner Datenschutzbeauftragten
+scheint es nicht erforderlich, auf die Sächsische Beauftragte zurückzugreifen.
+5. „Welche Smart City Projekte sollen in den nächsten 12 Monaten umgesetzt werden?“
+Die folgenden Maßnahmen
+
+sollen in der Umsetzungsphase durchgeführt werden:
+
+e
+e
+
+cleema
+Umweltmonitoring
+
+e
+
+Verkehrsmanagementsystem
+
+e
+
+strategisches Erhaltungsmanagement
+
+e
+
+Energieautarkes Wohnen
+
+e
+
+Smartes Energiemodell
+
+e
+
+Open Data
+
+e
+
+Smart Participation
+
+e
+
+Digitaler Sportpark
+
+Die Maßnahmen sind alle so konzipiert, dass sie sich über die Projektlaufzeit erstrecken. Daher
+ist nicht eingeplant, dass die Maßnahmen innerhalb der nächsten 12 Monate beendet sein werden. Mit der Umsetzung der Maßnahmen wird ab der Zustimmung des Fördermittelgebers begonnen. Diese erfolgt erst nach Prüfung der durch den Stadtrat beschlossenen Strategie.
+
+Mit freundlichen Grüßen
+Las
+Dirk Hilbert
+Anlage
+Stellungnahme Datenschutzbeauftragter
+
+Anlage 1: Stellungnahme des Datenschutzbeauftragten
+
+Der Dätenschutzbeauftragte wurde bisher nicht in die Vorlage eingebunden.
+U.a. deshalb liegt von ihm derzeit keine Stellungnahme zum Gesamtprojekt vor.
+'Im Übrigen wird eine Datenschutzbetrachtung je Teilprojekt bevorzugt, zu
+zı denen der
+
+Datenschutzbeauftragte beteiligt wird (und wurde).
+Es wird hierbei darauf geachtet und im Regelfall auch davon ausgegangen, dass bei allen
+Einzel-Projekten
+durch die Einhaltung der gesetzlichen und internen Datenschutzregeln die
+Persönlichkeitsrechte der Bürgerinnen und Bürgern und sonstiger Betroffener gewahrt
+bleiben.
+Grundsätzlich kommt es im Projekt auf Folgendes an:
+
+1. Personenbezogene Daten sollen gar nicht oder nur im notwendigen zulässigen Maß (vgl.
+Art. 6 Abs. 1 DSGVO) verarbeitet werden (Grundsatz der Datenminimierung, Art. 5 Abs. 1 lit.
+
+c DSGVO).
+Beispielsweise heißt das für das Open-Data-Portal, dass im Rahmen dieses Einzelprojektes
+gerade personenbezogene Daten nicht "offen" sind und nicht für die Öffentlichkeit zur
+Verfügung gestellt werden dürfen.
+|
+2. Beachtung des Transparenzgebotes: Es soll geeignet öffentlich kommuniziert werden, wie
+die 0.9. Datenschutzregeln eingehalten und damit die Persönilichkeitsrechte gewahrt
+werden.
+
+Andreas Gagelmann
+Datenschutzbeauftragter
+
+

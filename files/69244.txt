@@ -1,0 +1,1767 @@
+Anlage 1
+
+Ermittlung des Erhaltungsbedarfs
+für Fahrbahnen und Nebenflächen
+
+der Landeshaupstadt Dresden
+
+Efrhaltungs
+| _
+—_) ystematische
+
+HI
+
+—_PPıanung
+
+auf der Grundlageder Erfassung des Straßenzustandes
+
+Bearbeitung:
+
+SEP Maerschalk
+Ingenieurbüro für Systematische Erhaltungsplanung
+August 2010
+Im Auftrag der Lande shaupstadt Dresden
+Straßen und Tiefbauamt
+
+1.
+
+Aufgabenstellung
+
+In den Jahren 1994 und 1995 wurde der bauliche Zustand der Fahrbahnen und Nebenflächen für
+die Hauptverkehrs- und Nebenstraßen der Landeshauptstadt (LH) Dresden erstmals erfasst. Das
+
+Straßennetz der Eingemeindungen wurde im Jahre 1999 nacherhoben. Eine weitere Folgeerfassung wurde 2002 durchgeführt. Das gegenwärtige Gesamtnetz der Straßen und öffentlichen Wege in der Baulast der LH Dresden umfasst etwa 1.685 km. Da die Zustandsdaten auch zur Ermittlung des Anlagevermögens erforderlich sind, wurde Ende des Jahres 2008 eine Zustandserfassung für das gesamte Stadtgebiet vorgesehen. Die Erhebung der Zustandsdaten von Fahrbahnen
+und Nebenflächen erfolgte, einschließlich der Richtungsfahrbahnen, für ca. 1.800 km Länge.
+Die Zustandserfassung wurde vorbereitet, organisatorisch begleitet und kontrolliert. Die erfassten
+Zustandsdaten wurden aufbereitet, bewertet und in die Straßendatenbank der LH Dresden über-
+
+nommen. Auf Basis der Zustandsdaten wurde der Substanzwert für die Vermögensbewertung und
+der Erhaltungsbedarf für die Verkehrsflächen in der Baulast der LH Dresden berechnet.
+2.
+
+Grundlagen der Untersuchung
+
+Den nachfolgend dargestellten Analysen liegt ein in mehreren Großstädten und verschiedenen
+Bundesländern erprobtes zustands- und bestandsbezogenes Prognoseverfahren zu Grunde. Als
+Basis für die Untersuchung stellte der Auftraggeber Leit-, Querschnitts- und Befestigungsdaten
+zur Verfügung. Die Bewertung der erhobenen Zustandsdaten erfolgte im Hinblick auf die Ziele
+der Straßenerhaltung. Diese Ziele leiten sich aus den gültigen Straßengesetzen ab, nach welchen
+der Baulastträger verpflichtet ist, seine Straßen so zu erhalten, daß ihr Zustand nicht Ursache für
+
+Personen- und Sachschäden sein kann. Darüberhinaus gelten die Bestimmungen des Haushaltsgrundsätzegesetzes und der Bundeshaushaltsordnung, wonach das in Verkehrsflächen investierte Anlagevermögen gesamtwirtschaftlich optimal zu erhalten ist. Entsprechend besteht das
+Leitziel der Straßenerhaltung in der Wiederherstellung eines optimalen Straßenzustandes, der
+dem Verkehrsteilnehmer ein Höchstmaß an Sicherheit bei gleichzeitig minimalen gesamtwirtschaftlichen Kosten und höchstmöglicher Umwelt- bzw. Umfeldverträglichkeit gewährleistet.
+Die zur Berechnung des Finanzbedarfs angesetzten Maßnahmekosten für Instandsetzungen/Erneuerungen stützen sich auf eine bundesweite Basiskalkulation. Die Werte wurden mit den Preisindizes des Statistischen Bundesamtes auf den Stand 1. Quartal 2009 hochgerechnet und mit dem
+Straßen- und Tiefbauamt abgestimmt. Für die bauliche Unterhaltung (Flickarbeiten u.ä.) kann für
+Fahrbahnen ein Wert von 0,12 € pro m? und Jahr angesetzt werden. Der Abschlussbericht 2010
+enthält die Erläuterungen zu Daten- und Modellgrundlagen sowie zum Ablauf der Untersuchung.
+3.
+
+Ergebnisse der Datenerfassung und Aufbereitung
+
+Die Auswertungsergebnisse der Bestandsdaten für Fahrbahnen und Nebenflächen sind in Anlage
+I dargestellt. In Bild I ist die Zustandsverteilung für alle befestigten Fahrbahnen der LH Dresden
+gezeigt. Fast 44 % der Flächen befinden sich in einem guten oder sehr guten Zustand (Klasse L
+bzw. S), ein etwas geringerer Anteil im mittelmäßigen Zustandsbereich (Klasse M). Ein reichli-
+
+ches Achtel der Flächen hat einen schlechten Zustand (Klasse K), der kurzfristig Erhaltungsmaßnahmen erfordert. Vordringlich sollten die etwa 2 % der Flächen erhalten werden, die bereits einen
+
+sehr schlechten
+
+Zustand
+
+(Klasse
+
+V)
+
+aufweisen.
+
+Ein
+
+Anteil
+
+von
+
+3,4
+
+%
+
+hat einen
+
+derart
+
+schlechten Zustand (Klasse U = "überfällig"), dass nach vorliegenden Empfehlungen diese FahrSEP Maerschalk 2010
+
+bahnflächen schon instandgesetzt oder erneuert sein müssten. Gegenüber der letzten Zustandserfassung haben sich die Anteile im schlechten und sehr schlechten Bereich deutlich zu Gunsten
+der guten und sehr guten Anteile verringert. Der Anteil der Klasse M hat sich allerdings erhöht.
+
+Blasewitz, Leuben, Loschwii
+
+%derFläche
+
+ehem. Eingemeidungen
+&derFliche
+
+Prohlis)Plauen
+
+tee
+
+/
+
+oO
+
+”
+0
+
+50
+
+%der Mäche
+
+40
+
+30
+
+Zustandsklassen:
+EB U = sehr schlecht (überfällig)
+EB V = sehr schlecht (vordringlich)
+ED K = schlecht (kurzfristig)
+D M = mittel (mittelfristig)
+BL
+ut (langfristig)
+W S = sehr gut (sehr langfristig)
+
+20
+10
+v
+
+u
+
+v
+
+X
+
+M
+
+L
+
+s
+
+Zustandsklasse
+
+Bild 1: Verteilung der Zustandsklassen in % der Fläche für alle gebunden befestigten Fahrbahnen
+
+Für die Nebenflächen
+standsverteilungen.
+
+ergeben
+
+sich aufgrund
+
+Über den Schwellenwerten
+
+örtlicher
+
+Besonderheiten
+
+für Unebenheiten
+
+sehr differenzierte
+
+Zu-
+
+und/oder Oberflächenschäden
+
+(Klasse U = "überfällig") liegen i.d.R weniger als 1 % der Flächen. Vordringlich sind an 2,1 %
+der Gehwege
+
+und an ca. 0,8 % der Radwege bzw. Parkflächen Erhaltungsmaßnahmen
+
+erforder-
+
+lich. Auch hier hat sich der Zustand gegeüber der letzten Erfassung verbessert. Einzelheiten zur
+Zustandsverteilung für Nebenflächen, Hauptverkehrs- und Nebenstraßen enthält Anlage
+SEP Maerschalk 2010
+
+1.
+
+4.
+
+Ergebnisse der Bedarfsprognose
+
+Der Finanzbedarf für die Erhaltung der Fahrbahnen und Nebenflächen sollte für den Zeitraum
+von 2011 bis 2015 prognostiziert und für den 10-Jahres-Zeitraum von 2016 bis 2025 in seiner
+längerfristigen Tendenz abgeschätzt werden. In Tabelle 1 ist das Gesamtergebnis der Prognose
+des Nachhol- und des Finanzbedarfs zusammengefasst. Eine Aufgliederung der Bedarfswerte
+nach Ortsämtern sowie für gebundene und ungebundene Befestigungen befindet sich im Abschlussbericht 2009. Im einzelnen sind in Tabelle! nachfolgend genannten Werte dargestellt.
+> Der absolute Nachholbedarf für Instandsetzung und Erneuerung der „überfälligen“ Strecken
+(Zustandsklasse U) von ca. 16,4 Mio. €. Dieser Betrag wird auf die ersten 5 Prognosejahre
+verteilt (ca. 3,3 Mio. €/Jahr) und fällt jeweils zusätzlich zum normalen Erhaltungsbedarf an.
+
+» Der Erhaltungsbedarf für die Zeit von 2011 bis 2015 in Mio. € pro Jahr, d.h. der jährliche Finanzbedarf für die einzelnen Verkehrsflächen, die nach ihrem derzeitigen Zustand voraussichtlich in diesen fünf Jahren instandgesetzt oder erneuert werden müssen. Die ursprünglich
+für die Einzeljahre berechneten Bedarfswerte wurden dazu aufsummiert und anschließend
+durch „5“ dividiert, um zufallsbedingte jährliche Schwankungen auszugleichen.
+D Der längerfristig für den Zeitraum von 2016 bis 2025 zu erwartende Erhaltungsbedarf in Mio.
+€ pro Jahr, wiederum gemittelt über die Halbdekaden dieser 10 Jahre.
+NachholMio. € pro Jahr (5-Jahres-Mittel)
+2016-2020
+2011-2015
+bedarf
+Erhaltungsbedarf für
+gebundene Befestigungen | absolut | Nachholbed. | Erhaltung
+Summe
+Fahrbahnen (HV)
+Fahrbahnen (sonst. Str.)
+
+4,587
+9,318
+
+| 2021-2025
+
+0,917
+1,864
+
+6,548
+11,293
+
+7,466
+13,156
+
+6,750
+12,363
+
+6.770
+12.190
+
+Fahrbahnen insgesamt
+
+13,905
+
+2,781
+
+17,841
+
+20,622
+
+19,183
+
+18,960
+
+Gehwege
+Radwege
+
+2,435
+0,007
+
+0,487
+0,001
+
+5,566
+0,157
+
+6,053
+0,158
+
+5,614
+0,249
+
+6.128
+0.401
+
+Parkflächen
+
+0.035
+
+0,007
+
+0,504
+
+0,511
+
+0,888
+
+0,785
+
+3,277
+
+24,068
+
+27,345
+
+25,864
+
+26,274
+
+16,383
+
+Summe
+Tabelle 1:
+
+Absoluter Finanzbedarf für die Erhaltung aller Verkehrsflächen (Brutto)
+
+Für den Prognosezeitraum von 2011 bis 2015 liegt der Durchschnittswert für alle Verkehrsflächen bei ca. 24,1 Mio. € pro Jahr. Wird in diesen Jahren neben dem anstehenden Erhaltungsbedarf auch der eigentlich überfällige Nachholbedarf von knapp 3,3 Mio. € pro Jahr abgedeckt, ergibt sich ein Finanzbedarf von insgesamt 27,35 Mio. € pro Jahr. Die Bedarfswerte für die weiteren Halbdekaden liegen bei ca. 26 Mio. € pro Jahr mit leicht steigender Tendenz.
+Abbildung 2 zeigt einen Vergleich der aktuellen mit den früheren Prognosen. Um die Vergleichbarkeit der Ergebnisse zu gewährleisten, wurden die Bedarfswerte der früheren Prognose (2003)
+mehrwersteuerbereinigt auf den Preisstand vom 1.Quartal 2009 gebracht. Der Nachholbedarf für
+die aktuelle Prognose ist auf die erste Halbdekade verteilt. Gegenüber den zurückliegenden Prog-
+
+nosen ist absolut ein erhöhter Nachholbedarf zu verzeichenen. Der eigentliche Erhaltungsbedarf
+ist jedoch geringer als in früheren Prognosn. Die Entwicklung des Erhaltungsbedarfs macht deutlich, dass in der Vergangenheit großer Wert auf die Beseitigung besonders schlechter Streckenabschnitte gelegt wurde und ein bedeutender Anteil an guten bzw. neuwertigen Strecken hinzugekommen ist.
+SEP Maerschalk 2010
+
+4:
+„gMio. Euro
+
+Vergleich der Prognoseergebnisse
+
+Eee
+
+=
+
+25
+
+-
+
+—_
+
+20
+
+-
+
+=
+
+15
+
+2003 mit der Prognose 2009
+
+T
+
+Prognose 2003
+
+|
+
+Prognose
+
+|
+
+2009
+
+—
+
+10
+
+-
+
+5
+
+0
+
+2003
+2009
+Bedarf 2011 - 2015
+
+2003
+2009
+Bedarf 2016 - 2020
+
+kein Wert
+2009
+Bedarf 2021 - 2025
+
+pro Jahr im Mittel
+
+pro Jahr im Mittel
+
+pro Jahr im Mittel
+
+wm Hauptverkehrsstraßen
+
+u Nebenstraßen
+
+a Gehwege
+
+wRadwege
+
+[e} Parkflächen
+
+m Nachholbedarf
+
+Bild 2:
+
+Vergleich des Erhaltungsbedarfs der verschiedenen Prognosen
+
+5.
+
+Interpretation der Prognoseergebnisse
+
+Die
+
+Höhe
+
+des prognostizierten
+
+Erhaltungsbedarfs
+
+hängt
+
+maßgeblich
+
+Anlagenteilen und dem zu Grunde gelegten Erhaltungsstandard ab.
+
+sichtigten
+von den berü
+intsprechend der Aufgaben-
+
+stellung wurden zur die bauliche Unterhaltung, Instandsetzungen und Erneuerungen
+tet. Neben
+
+den Fahrbahnen
+
+betrach-
+
+wurden auch die Randeinfassungen (Borde, Rinnen) sowie die Geh-
+
+wege, Radwege und Parkflächen mit einbezogen. Alle sonstigen Anlagenteile von Straßen, wie
+z.B. Tagewassereinläufe oder Sickerschächte, Erdkörper, Beschilderungen, Markierungen,
+Leiteinrichtungen, Brücken- und Ingenieurbauwerke, Lichtsignalanlagen, Lärmschurzeinrichtungen und andere Ausstattungsteile, blieben unberücksichtigt. Darüber hinaus fehlen auch
+die zusätzlichen Kosten für qualitätsverbessernde Veränderungen wie z.B. die Umprofilierung
+von Straßen mit der Neuanlage von Radwegen,
+
+lärmmindernde Maßnahmen o.ä. Für die Progno-
+
+serechnung
+
+Maßnahmen
+
+wurden
+
+neben
+
+anspruchsvolleren
+
+(z.B.
+
+Erneuerungen,
+
+vor allem
+
+bei
+
+Pflasterdecken) relativ hohe Anteile einfacher und billiger Maßnahmen (z.B. Dünnschichtbeläge, Oberflächenbehandlungen) berücksichtigt.
+Trotz der relativ hohen Werte für den Finanzbedarf ist der für diese Prognose angenommene, an
+der derzeitigen Praxis ausgerichtete Erhaltungsstandard insgesamt, aber insbesondere für das Nebenstraßennetz keineswegs überzogen. Der hier ausgewiesene Bedarf bezeichnet bei der Zielvorgabe, neuen Nachholbedarf an allen Verkehrsflächen zu vermeiden und die Fahrbahnen der
+Hauptverkehrsstraßen allmählich substanziell zu verbessern, die Untergrenze der erforderlichen
+Erhaltungsmittel. Eine nachhaltige Zustandsverbesserung ist hiermit nur in Teilen zu erwarten.
+SEP Maerschalk 2010
+
+- Anlage 1 Seite 1 ANLAGE
+
+1-1: Flächen in m? und %-Anteile der Befestigungstypen
+für Hauptverkehrsstraßen
+
+IN.
+
+4,4
+
+11,6
+
+t, Pie
+1,0
+
+3,0
+
+Blasewitz, Leuben, Loschwitz
+
+h
+
+71
+
+6,5
+
+Altstadt
+
+735
+tta
+
+. 15:
+
+6,4
+9.
+84,4
+
+Prohlis,
+
+Plauen
+
+4,9
+
+Eingem:
+
+88,0
+
+4,1
+
+.
+
+111
+
+LH Dresden
+
+7,
+84,8
+
+Befestigungstyp:
+E
+Asphaltbeton
+BE alte Befestigungen
+
+EI
+
+Pflaster
+
+EI
+
+sonstige Befestigungen
+
+86,1
+[Fläche in m?
+Mitte
+Nord
+Ost
+Süd
+West
+Eingemeindung
+
+Asphaltbeton_]Makadam, alteDS
+451.464
+23.372
+674.561
+35.672
+548.738
+44.863
+582.783
+46.902
+332.414
+35.681
+596.745
+78.474
+
+Dresden gesamt
+
+3.186.704
+
+_]
+
+Pflaster
+17.473
+94.266
+41.241
+32.128
+
+264.964]
+
+SEP Maerschalk 2010
+
+sonstige
+
+I
+
+0
+7.912
+DD
+D
+3.698
+ü
+
+Summe
+492.309
+812.411
+634.842
+661.813
+393.739
+704.044
+
+11.610]
+
+3.699.158
+
+- Anlage | Seite 2 ANLAGE
+
+1-2: Flächen in m? und %-Anteile der Befestigungstypen
+für gebunden befestigte Nebenstraßen
+
+lot:
+
+t, Pies
+
+20,0
+
+12
+45,
+
+33,8
+
+Blasewitz, Leuben, Loschwitz
+
+7,5
+Altstadt
+
+tta
+
+37,6
+
+6,4
+
+2d2
+46,1
+
+17,0
+
+9,9
+
+Prohlis-Blauen
+
+43,4
+Eingemei
+
+#6
+
+8,9
+
+15,3
+
+LH Dresd
+14,2
+70,8
+
+47,1
+
+Befestigungstyp:
+El Asphaltbeton
+BE alte Befestigungen
+EI
+Pflaster
+U] sonstige Befestigungen
+
+37,0
+[Fläche in m?
+
+Mitte
+Nord
+ost
+Süd
+West
+Eingemeindung
+Dresden gesamt]
+
+Asphaltbeton
+
+Makadam, alteDS
+
+Pflaster
+
+sonstige
+
+Summe
+
+364.121
+627.477
+635.247
+575.303
+332.971
+573.262
+_3.108.380
+
+111.645
+472.083
+908.461
+609.948
+216.760
+124.002
+2.142.898
+
+173.678
+279.307
+126.488
+
+8.60%
+16.165
+20.715
+13.168
+13.226
+40.864
+112.833
+
+658.140
+1.395.031
+1.690.911
+1.326.015
+724.010
+810.294
+_ ]| 6.604.401
+
+_]
+
+SEP Maerschalk 2010
+
+940.290
+
+- Anlage | Seite 3 ANLAGE
+
+1-3: Flächen in m? und %-Anteile der Befestigungstypen
+für gebunden befestigte Nebenflächen (Rad-, Gehwege, Parken)
+Klotzsche, Neustadt, Piesch:
+
+12,
+
+8,
+
+12,3
+n
+
+15,
+Blasewitz, Leuben, Loschwitz
+
+‚
+
+32,2
+
+Altstadt
+
+14,9
+
+32,5
+
+3,5
+z
+
+17,5
+
+R
+
+u
+
+22,7
+
+12,7
+1
+23,9
+
+Co
+
+A
+
+14
+
+ga
+
+1%
+
+20,3
+
+6,1
+2
+
+Prohlis, Plauen
+
+15,4
+10,1
+
+30,
+
+©
+
+14,7
+
+6,0
+
+29,1
+Eingemeinduj
+
+32,6
+
+26,0
+
+11,5 8:6
+=
+
+40
+
+LH Dresden
+alle Nebenflächen
+
+7,3
+48,6
+
+’
+
+15,0
+$
+
+15,9
+
+Befestigungstyp:
+
+17,8
+
+EB
+
+Asphaltbeton
+
+BE
+EI
+E&
+
+alte Befestigungen
+Natursteinpflaster
+Betonpflaster
+
+[Ü]
+
+Gehwegplatten/Beton
+
+El
+
+Natursteinplatten
+
+13,6
+27,3
+
+Asphalt-
+
+alte
+
+Naturstein-
+
+Beton-
+
+|Gehwegplatten|
+
+Naturstein-
+
+Fläche in m?
+
+beton
+
+Befestigung |
+
+_pflaster
+
+93.819
+
+102.769
+
+platten
+
+140.224
+
+106.330
+
+Beton
+
+Mitte
+
+191.074
+
+pflaster
+
+305.016
+
+939.231
+
+Nord
+
+99.600
+
+215.937
+152.886
+63.912
+67.795
+
+178.492
+
+187.958
+302.563
+100.440
+19.059
+
+202.738
+
+362.478
+
+227.246
+339.578
+187.912
+127.057
+
+138.045
+
+166.897
+160.472
+200.181
+17.340
+
+145.390
+
+1.126.743
+
+Dresden ges. | 740.353
+
+_|__882.331
+
+671.074
+
+]1.350.600
+
+785.704
+
+515.190
+
+]4.945.252
+
+ost
+Süd
+West
+Eingemeinde]
+
+121.441
+62.538_|
+63.335
+29.948
+
+SEP Maerschalk 2010
+
+Summe
+
+33.171
+952.651
+22.991 | 1.041.027
+624,901
+8.621
+261.199
+0]
+
+|]
+
+- Anlage | Seite 4 -
+
+ANLAGE
+
+1-4: Flächen in m? und %-Anteile der Zustandsklassen für Hauptverkehrsstraßen
+
+In
+
+‘
+
+Blasewitz, Leuben, LoschWitz
+
+% der Fläche
+
+40
+
+_
+
+Ä\
+
++
+
++
+
+Zustandsklassen:
+
+30
+
+EU = sehr schlecht (überfällig)
+8 V = sehr schlecht (vordringlich)
+
+EK
+
+=
+
+schlecht (kurzfristig)
+
+EM = mittel (mittelfristig)
+
+EL = gut (langfristig)
+ES
+
+Zustandsklasse
+Mitte
+Nord
+
+= sehr gut (sehr langfristig)
+
+[ü
+1.041
+
+7
+ü
+
+K
+19.501
+
+M
+70.572
+
+L
+94.649
+
+S
+306.546
+
+13.177
+
+4.232
+
+Summe
+492.309
+
+1.715
+4.222
+11.400
+11.826
+
+71.206
+
+67.179
+42.712
+77.77
+98.846
+
+267.255
+
+188.224
+
+268.318
+
+öingemeindung]|
+
+13.987
+28.817
+7.574
+24.858
+
+179.097
+202.393
+81.653
+119.892
+
+634.842
+661.813
+393.739
+704.044
+
+Dresden gesamt]
+
+_89.454
+
+33.394
+
+377.215
+
+]1.181.073__]
+
+860.125
+
+_ ] 1.157.898
+
+_]]_3.699.158
+
+188.043
+203.275
+127.075
+324.853
+
+Maerschalk 2010
+
+184.821
+180.394
+88.266
+123.771
+
+812.411
+
+- Anlage | Seite 5 -
+
+ANLAGE
+
+1-5: Längen in m und %-Anteile der Zustandsklassen für Hauptverkehrsstraßen
+
+Klotzsche, Neustadt, Pi
+
+Aue
+
+Blasewitz, Leuben, Lose!
+
+\
+
+a derLänge
+
+Eingem singen
+
+2 Yo der Längejr
+
+u
+
+som
+
+%der Länge
+
+LH
+
+DRESDEN
+
+v
+
+K
+
+L
+
+ai 5.
+
+s
+
+Hauptverkehrsstraßen
+
+40
+
+Zustandsklassen:
+|
+
+EU = sehr schlecht (überfällig)
+
+V = sehr schlecht (vordringlich)
+
+BE K = schlecht (kurzfristig)
+EM
+= mittel (mittelfristig)
+
+u
+
+v
+
+M
+
+Zustandsklasse
+
+Zustandsklassc
+Mitte
+Nord
+ost
+Süd
+West
+Eingemeindung
+
+U
+
+V
+
+160
+1.523
+1.913
+2.847
+1.183
+3.196
+
+ü
+793
+310
+528
+1.680
+2.156
+
+Dresden gesamt]
+
+_10.822_]
+
+5.467
+
+1
+
+K
+3.067
+7.751
+12.394
+6.314
+11.421
+18.046
+|
+
+EL
+
+= gut (langfristig)
+
+ES
+
+= sehr gut (sehr langfristig)
+
+S
+
+M
+10.730
+37.974
+35.139
+27.167
+18.927
+55.134
+
+_58.993_]_185.071_]|
+SEP Maerschalk 2010
+
+L
+13.280
+23.738
+29.618
+23.345
+12.006
+19.913
+
+s
+40.807
+40.735
+32.652
+26.225
+11.914
+17.693
+
+_121.900_]|
+
+__170.026
+
+Summe
+68.044
+
+57.131
+116.138
+||
+
+552.279
+
+- Anlage | Seite 6 ANLAGE
+
+1-6: Flächen in m? und %-Anteile der Zustandsklassen für Nebenstraßen
+
+__%der Fläche
+
+LH DRESDEN
+
+Nebenstraßen
+
+40
+
+Zustandsklassen:
+
+30
+
+EB U = sehr schlecht (überfällig)
+BE V = sehr schlecht (vordringlich)
+EBK = schlecht (kurzfristig)
+EM
+= mittel (mittelfristig)
+EL
+= gut (langfristig)
+WS = sehr gut (sehr langfristig)
+
+20
+
+1
+
+v
+
+K
+M
+Zustandsklasse
+
+Zustandsklasse
+Mitte
+
+U
+2.190
+
+7
+3.418
+
+Nord
+
+I;
+
+s
+
+K
+39.263
+
+M
+290.191
+
+I
+154.150
+
+s
+168.928
+
+Summe
+658.140
+
+178.254
+
+592.433
+
+1.395.031
+
+Ost
+Süd
+West
+Eingemeindung |
+
+57.927
+
+80.572
+65.505
+12.792
+__40.045
+
+43.020
+
+35.831
+32.930
+28.166
+24.222
+
+383.025
+207.774
+67.946_|
+119.872
+
+281.253
+
+242.145
+
+Dresden gesamt]
+
+_259.031
+
+167.587_]|
+
+996.133 _] 2.686.399 _] 1.455.956
+
+_] 1.039.296
+
+672.378
+471.799
+345.806
+313.792
+
+iaerschalk 2010
+
+287.121
+344.022
+194.426
+194.984
+
+231.985
+203.986
+74.873
+117.379
+
+1.690.911
+1.326.015
+724.010
+810.294
+
+|
+
+_6.604.401
+
+- Anlage | Seite 7 -
+
+ANLAGE
+
+1-7: Längen in m und %-Anteile der Zustandsklassen für Nebenstraßen
+
+Klotzsche,
+
+Neustadt,
+
+eu n
+
+Li
+
+h'
+Blasewitz, Leuben, Loschwitz
+%o der Länge
+
+% der Länge
+
+LH DRESDEN Nebenstraßen
+
+T
+
+40
+
+Zustandsklassen:
+
+30
+
+EU = sehr schlecht (überfällig)
+
+EV = sehr schlecht (vordringlich)
+EK
+= schlecht (kurzfristig)
+EM
+= mittel (mittelfristig)
+EL
+= gut (langfristig)
+-| 1 S = sehr gut (sehr langfristig)
+U
+
+v
+
+K
+Zustandsklasse
+
+v
+
+ı
+
+Zustandsklasse
+Mitte
+
+U
+240
+
+340
+
+K
+4.881
+
+Nord
+
+13.658
+
+5.792
+
+28.299
+
+ost
+Süd
+West
+Eingemeindung |
+Dresden gesamt]
+
+6.939
+16.070
+6.282
+12.934
+4.834
+2.882
+10.368
+28.420
+__74.203_ |__34.555_]|
+
+59.197 |
+32.188
+13.660
+51.307
+189.532 |
+
+s
+
+M
+32.861
+
+L
+19.956
+
+90.166
+
+43.841
+
+100.095
+74.113
+55.789
+80.774
+_433.798_]
+
+:P Maerschalk 2010
+
+48.815
+54.160
+32.354
+44,925
+244.051
+
+s
+27.275
+3
+
+39.431
+33.689
+12.968
+24.392
+177.350
+
+Summe
+85.553
+5
+
+221.351
+
+270.547
+213.366
+122.487
+240.186
+
+- Anlage I Seite 8 ANLAGE
+
+1-8: Flächen in m? und %-Anteile der Zustandsklassen
+für gebunden befestigte Nebenflächen (Rad-, Gehwege,
+so „oder Fläche
+
+Parken)
+
+Klotzsche, Neustadt, Pieschen
+Blasewitz, Leuben, Loschwitz
+‚der
+
+Fläche
+
+/o der Fläche
+
+ig)
+
+2
+
+schlecht (kurzfristig)
+
+ringlich)
+
+= mittel (mittelfristi
+
+10 4
+
+04
+
+= gut (langfristig)
+B S = sehr gut (sehr langfristig)
+
+071503
+U
+
+v
+
+K
+
+M
+
+L
+
+Ss
+
+RADWEGE. RADBAHNEN UND KOMBINIERTE RAD-/GEHWEGELT
+[Zustandsklasse
+
+[Mitte
+[Nord
+
+u
+
+[E
+
+°
+
+134
+
+0
+620
+
+V
+
+|
+
+10%,
+
+1
+
+0
+1550
+
+ji
+41349
+
+B
+TA
+
+16.226
+
+19871
+25.686
+16,518
+
+6.353
+
+144.197
+a
+10.734
+
+40.591
+
+|
+
+IKSTEREI
+37017
+
+7
+
+an
+
+=
+
+I
+
+SD
+
+ule)
+36.698
+
+118897
+
+ass
+
+=
+
+7
+SEP Maerschalk 2010
+
+751.006
+
+960.100
+
+il
+
+14859
+
+|
+
+me:
+
+[EIKE
+
+i
+
+|
+
+55088
+
+|
+
+A608|
+
+BEE
+
+|
+
+Ss
+
+zu
+
+6660|
+18.128 |
+
+|
+
+ERDE
+EIGENSTÄNDIGE UND ABMARKIERTE P;
+207
+
+°
+
+T
+
+3207
+EIRIE
+GEHWEGE UND GEHBAHNEN (2. Säule)
+254]
+868
+|
+177215
+
+5.160
+
+DIRSUZEI
+|
+
+0
+ü
+
+Tr
+719
+|
+
+M
+
+10405
+
+1944
+
+T
+
+1.166
+
+K
+
+u
+|
+
+60.908
+
+855.09
+55.168
+4.094
+
+|
+
+209.130
+
+T1STm
+
+[arm
+18.890 |
+
+1165 177
+ce
+
+Er
+BEE
+[ERRZEHEI
+
+- Anlage | Seite 9 -
+
+ANLAGE
+
+1-9: Flächen in m? und %-Anteile der Zustandsklassen
+für ungebundene Nebenflächen (Rad-, Gehwege, Parken)
+so „oder Fläche
+
+_Klotzsche, Neustadf, Pieschen
+
+inglich)
+
+EL
+>= gut (langfristig)
+B S = sehr gut (sehr langfristig)
+
+Summe
+
+30.269.
+
+_141602
+708.617
+763.275
+ZUNDABMARRIERTE PARKFLÄCHEN(3. Säule)
+
+[Dresden gesamt
+
+2302
+SEP Maerschalk 2010
+
+7077
+
+

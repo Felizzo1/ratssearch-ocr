@@ -1,0 +1,261 @@
+Hausmitteilung
+
+Dresden.
+PITESCER:
+
+Landeshauptstadt Dresden
+
+[l vertraulich
+
+Der Oberbürgermeister
+
+Fraktion Alternative für Deutschland
+
+GZ:
+
+(OB) GB7.1
+
+im Stadtrat der Landeshauptstadt Dresden
+Mitglied des Stadtrates
+Heiko Müller
+
+Datum:
+
+16. JUN 2023
+
+Anlagen für erneuerbare Energien in der Landeshauptstadt Dresden
+AF3136/23
+
+Sehr geehrter Herr Müller,
+Ihre oben genannte Anfrage beantworte ich wie folgt:
+1.
+
+„Wie viele Anlagen für erneuerbare Energien gab es jeweils zum Jahresende 2021 und 2022
+in Dresden? Bitte unterscheiden Sie nach Photovoltaik, Solarthermie, Wasserkraft, Ge-
+
+2.
+
+othermie, Deponiegas, Klärgas und Biomasse.
+Wie viele der Anlagen wurden durch die Stadt oder ihre Tochterunternehmen/Eigenbetriebe oder über Beteiligungsgesellschaften betrieben? Bitte unterscheiden Sie nach Photovoltaik, Solarthermie, Wasserkraft, Geothermie, Deponiegas, Klärgas und Biomasse.
+
+3.
+
+Welche Erzeugungskapazität war damit verbunden? Bitte unterscheiden Sie nach Photovoltaik, Solarthermie, Wasserkraft, Geothermie, Deponiegas, Klärgas und Biomasse.
+
+4.
+
+Wieviel Energie (Strom, Wärme/Kälte, Gas) wurde damit erzeugt? Bitte unterscheiden Sie
+nach Photovoltaik, Solarthermie, Wasserkraft, Geothermie, Deponiegas, Klärgas und Biomasse.“
+
+Die angefragten Daten können über das Marktstammdatenregister der Bundesnetzagentur öffentlich eingesehen werden (https://www.marktstammdatenregister.de/MasStR). Eine durch uns
+zum Stichtag 30. Mai 2023 durchgeführte Abfrage wies 5.000 Anlagen für erneuerbare Energie
+auf dem Gebiet der Landeshauptstadt Dresden (LHD) aus (Tabelle siehe Anlage). Auf die LHD und
+ihre Beteiligungsgesellschaften entfielen davon 78 Anlagen. Eine Unterteilung in die verschiede-
+
+“ nen Erzeugungsarten kann anhand der beigefügten Tabelle bzw. komfortabler über das Marktstammdatenregister vorgenommen werden.
+In der folgenden Grafik der SachsenEnergie AG ist die Entwicklung der Anlagenzahl zwischen
+2021 und 2022 dargestellt. Bitte beachten Sie, dass die zugrundeliegende Statistik der SachsenEnergie AG teilweise Anlagen die durch das Marktstammdatenregister einzeln ausgewiesen zu
+
+einer Anlage zusammenfasst.
+
+LH Dresden - Entwicklung Anlagen Erneuerbaren Energien
+LH'Dresden 2022
+
+4.000
+
+[st]
+
+"3.426 EE-Anlagen
+
+Fan
+
+Solar 3.399 Anlagen
+=» Biomasse 22 Anlagen
+= \Nasser 3 Anlagen
+
+2.500
+
+=
+
+2.000
+
+Gas 2 Anlagen
+
+3.000
+
+1.500
+1.000
+500
+
+()
+
+BEER
+
+eu
+
+2021
+mw Solar
+
+2022
+m Biomasse
+
+Wasser
+
+mGas
+
+In der nachfolgenden Grafik der SachsenEnergie AG ist die Entwicklung der Erzeugungskapazitäten dargestellt.
+
+LH Dresden - Entwicklung Erzeugungskapazitäten Erneuerbaren Energien
+LH Dresden 2022
+"
+
+EE-Anlagen 68,7 MW
+= Solar 52,6 MWp
+
+60
+[MW]
+"50
+
+=
+=
+
+Biomasse 15,1 MW
+\Nasser 0,4 MW
+
+40
+
+=
+
+Gas 0,6 MW
+
+a6
+
+“
+
+20
+10
+[e}
+2021
+mw Solar
+
+2022
+m Biomasse
+
+WWasser
+
+mGas
+
+„5. Wieviel Energie wurde selbst genutzt, wie viel ins öffentliche Netz eingespeist? Bitte unterscheiden Sie nach Photovoltaik, Solarthermie, Wasserkraft, Geothermie, Deponiegas, Klärgas
+und Biomasse.
+In der nachfolgenden Grafik der SachsenEnergie AG ist die Entwicklung der Einspeisungen darge-
+
+stellt.
+
+LH Dresden - Entwicklung Einspeisungen Erneuerbaren Energien
+LH Dresden 2022
+
+90
+
+Iswnl
+"
+
+EE-Anlagen 98,5 MWh
+= Solar 35,6 MWh
+= Biomasse 59 ,1MWh
+=
+
+0
+60
+
+Wasser 0,5 MWh
+
+= Gas3,3 MWh
+
+50
+40
+30
+20
+10
+[6)
+
+E34
+
+|
+
+2021
+m Solar
+
+6.
+
+2022
+m Biomasse
+
+Wasser
+
+mGas
+
+Wie hoch war der Bezug an Erdgas, Kohle und Heizöl durch DREWAG/SachsenEnergie (in
+
+Gigawattstunden) in den Jahren 2021 und 2022?
+Medium
+Erdgas
+Kohle
+Heizöl
+
+Verbrauch
+
+SUMME
+
+2021
+4.785 GWh
+0 GVyh
+8 GWh
+
+Verbrauch
+
+4.793 GWh
+
+2022
+4.035 GWh
+0 GWwh
+111 GWh
+4.146 GWh
+
+Quelle: SachsenEnergie AG
+
+7. Wie hoch lag dementsprechend der Anteil der erneuerbaren Energien an der Energieversorgung der Landeshauptstadt (Haushalte, Gewerbe und Industrie? Bitte unterscheiden Sie
+nach Strom und Wärme/Kälte.“
+In der nachfolgenden Grafik der SachsenEnergie AG ist der Anteil der Stromerzeugung aus Anla-
+
+gen Erneuerbarer Energien auf dem Stadtgebiet Dresden am Strom-Letztverbrauchabsatz dargestellt. Daten zu Wärme und Kälte liegen uns nicht vor.
+
+LH Dresden - Entwicklung Anteil Erneuerbaren Energien
+LH Dresden 2022
+
+5,00
+
+h
+AnteilEE am
+
+1%
+00
+
+Letztverbrauchsabsatz: 3,79%
+
+£
+
+3,00
+2,00
+1,00
+0,00
+2021
+
+Mit freundlichen Grüßen
+
+DirkHlibert
+
+Anlage: Auszug Marktstammdatenregister
+
+2022
+
+

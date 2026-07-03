@@ -1,0 +1,258 @@
+Hausmitteilung
+
+n.
+Aj|' Dresde
+NILC?A eu"
+|)
+
+U
+
+Landeshauptstadt Dresden
+
+U vertraulich
+
+Der Oberbürgermeister
+
+Fraktion Alternative für Deutschland
+
+GZ:
+
+86.30-
+
+im Stadtrat der Landeshauptstadt Dresden
+
+1000/1/6844#120
+
+Mitglied des Stadtrates
+
+185566/23
+
+Heiko Müller
+14, JUNI 2023
+
+Datum:
+
+Regenschreiber in der Landeshauptstadt Dresden
+
+AF3166/23
+
+Sehr geehrter Herr Müller,
+Ihre oben genannte Anfrage beantworte ich wie folgt:
+1. „Wie viele Regenschreiber betreiben die Landeshauptstadt und ihre Beteiligungen/Tochter-
+
+unternehmen im Stadtgebiet?“
+Es werden derzeit 17 Regenschreiber in und um Dresden von der Stadtentwässerung Dresden
+GmbH (SEDD) betrieben. Zusätzlich gibt es 3 Regenschreiber des Deutschen Wetterdienstes
+(DWD) im Stadtgebiet.
+
+2. „Wo im Stadtgebiet befinden sich diese Regenschreiber und seit wann sind sie jeweils im
+
+Betrieb?“
+Stationsübersicht Regenschreiber SEDD
+
+Stationsname
+
+Zeitraum der Verfügbarkeit
+
+X-Koordinate (UTM33)
+
+Y-Koordinate (UTM33)
+
+UePW Aachener Str. Trachau
+
+01.01.2000 - aktuell
+
+409766
+
+5661239
+
+Botanischer Garten (Stübelallee)
+
+01.01.2000 - aktuell
+
+413025
+
+5655398
+
+TB Cossebaude, Meissner Straße
+
+01.01.2008 - aktuell
+
+403550
+
+5660672
+
+Coschuetz, Kohlenstraße
+
+01.01.2008 - aktuell
+
+409708
+
+5652529
+
+DEST Doernichtweg, Klotzsche
+
+01.01.2000 - aktuell
+
+413664
+
+5663263
+
+Reitbahnstraße Hbf, Luftkissendueker
+
+01.01.2000 - aktuell
+
+411050
+
+5655318
+
+PW Heidenau, Hafenstraße
+
+01.01.2008 - aktuell
+
+421324
+
+5647474
+
+01.01.2000 - aktuell
+
+419430
+
+5652911
+
+KA Kaditz, Scharfenberger Straße
+
+01.01.2000 - aktuell
+
+407675
+
+5658493
+
+Lockwitztalstraße, Lockwitz
+
+01.01.2000 - aktuell
+
+416816
+
+5649606
+
+HB Nausslitz, Bonner Straße
+
+01.01.2000 - aktuell
+
+407784
+
+5653872
+
+HB Nickern, Fritz-Meinhartdt-Straße
+
+01.01.2000 - aktuell
+
+414779
+
+5650108
+
+HB Obergorbitz, Altnossener Straße
+
+01.01.2000 - aktuell
+
+404849
+
+5655292
+
+414688
+
+5653193
+
+WW
+
+WW
+
+Hosterwitz, Wasserwerkstraße
+
+HKW Reick, Liebstädter Str.
+
+01.01.2001 - aktuell
+
+KA Schönfeld, Zur Bockmühle
+
+01.01.2000 - aktuell
+
+421539
+
+5654403
+
+WW Tolkewitz, Wehlener Straße
+
+01.01.2000 - aktuell
+
+417470
+
+5654357
+
+Weißig, Weißiger Weg
+
+01.03.2022 - aktuell
+
+420813
+
+5656704
+
+Stationsübersicht DWD-Regenschreiber in Dresden
+Stationsname
+
+Zeitraum der Verfügbarkeit
+
+X-Koordinate (UTM33)
+
+Y-Koordinate (UTM33)
+
+Dresden-Klotzsche
+
+2000 - aktuell
+
+412832
+
+5664797
+
+Dresden-Hosterwitz
+
+2005 - aktuell
+
+419134
+
+5652915
+
+Dresden-Strehlen
+
+2007 - aktuell
+
+414089
+
+5653297
+
+3. „Wofür werden die Daten im Einzelnen genutzt?“
+
+Die Daten werden von der SEDD für die Kanalnetzsteuerung genutzt. Das Umweltamt der
+Landeshauptstadt Dresden (LHD) stellt sie den anderen Ämtern sowie der Öffentlichkeit online
+bereit (siehe Pkt. 5) und nutzt sie intern u. a. zur Beurteilung von Warnlagen, zur Auswertung
+von Überflutungsereignissen sowie zur Korrektur der Echtzeit-Radardaten des DWD zur Anzeige
+im 3D-Starkregenportal (www.dresden.de/wawur-3d).
+4. „Welche Kosten sind mit der Betreibung der Regenschreiber und der Erfassung und Bereit-
+
+stellung jährlich verbunden?“
+Die Regenschreiberdaten werden der LHD kostenfrei von der SEDD und dem DWD zur Verfügung
+gestellt.
+5. „Wo kann man Einblick in diese Daten bekommen?“
+Die aktuellen und historischen Niederschlagsdaten können im Themenstadtplan Dresden
+(https://stadtplan.dresden.de) unter dem Thema Umwelt — Wasser - Niederschlag - aktuelle
+Messwerte abgerufen werden. Die Daten der DWD-Station Dresden-Klotzsche werden zusätzlich
+
+im Open-Data-Portal (https://opendata.dresden.de) bereitgestellt. Die Daten aller DWDStationen sind über den ftp-Server des DWD
+Mit freundlichen Grüßen
+
+Dirk Hilbert
+
+(https://opendata.dwd.de) abrufbar.
+
+
