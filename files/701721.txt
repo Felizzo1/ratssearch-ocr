@@ -1,0 +1,90 @@
+Hausmitteilung
+
+Dresden.
+
+El
+
+D1seqev'
+
+Landeshauptstadt Dresden
+
+DU] vertraulich
+
+Der Oberbürgermeister
+
+Fraktion Alternative für Deutschland
+
+GZ:
+
+(OB) 6 66.56
+
+im Stadtrat der Landeshauptstadt Dresden
+Mitglied des Stadtrates
+Heiko Müller
+
+14, AUb. 2023
+
+Datum:
+
+Verkehrszählungen, Radverkehr
+AF3341/23
+
+Sehr geehrter Herr Müller,
+
+Ihre oben genannte Anfrage beantworte ich wie folgt:
+„Laut Antwort der Stadtverwaltung auf AF3221/23 wird an elf Stellen (ausschließlich) der Radverkehr, mittels 58 Pegelzählstellen (im Boden) und 93 Infrarotmessstellen (Traffic Eye Univer-
+
+sal) der Verkehr (allgemein) gezählt.
+1.
+
+An welchen Pegel- bzw. Infrarotzählstellen (Traffic Eye Universal) wird neben dem motorisierten (Individual-)Verkehr auch der Radverkehr gezählt?“
+
+An den unten aufgeführten Standorten werden parallel zu den Daten des Radverkehrs Verkehrsstärken des motorisierten Verkehrs folgendermaßen erhoben:
+isi
+
+Verkehr
+
+Standort Zählstelle Radverkehr
+
+Erfassungimotörisierter’Ve
+mittels:
+
+Albertbrücke
+
+Traffic Eye Universal
+
+Lenn&straße, Höhe Hauptallee
+
+Pegelzählstelle
+
+St. Petersburger Straße Höhe Fußgängerlichtsignalanlage Kreuzstraße
+Waldschlößchenbrücke
+Winterbergstraße Höhe Liebstädter Straße
+
+Traffic Eye Universal
+Pegelzählstelle
+Pegelzählstelle
+
+2.
+
+„Bitte geben sie die entsprechenden Zähldaten (pro Stunde) für den motorisierten (Individual)Verkehr und den Radverkehr an, idealerweise als Tabelle/Datensatz im Open-Data-
+
+Portal.“
+Die Ergebnisse der Verkehrserhebungen werden im OpenData-Portal veröffentlicht
+(https://opendata.dresden.de). Visualisierungen dieser Daten werden im Themenstadtplan
+
+(https://stadtplan.dresden.de) sowie dem Verkehrsportal (https://verkehrsportal.dresden.de)
+zur Verfügung gestellt.
+
+Die Daten der Dauerzählstellen des motorisierten (Individual-)Verkehrs werden, wenn technisch
+verfügbar, jährlich aufgearbeitet und in den oben genannten Portalen als ermittelte „Verkehrsmenge in Kfz/Tag“ pro Streckenabschnitt dargestellt. Alle vorliegenden Verkehrszählwerte zum
+ausgewählten Streckenabschnitt können als tabellarischer Überblick eingesehen werden. Eine
+automatisierte Bereitstellung der Daten im Stundenformat ist derzeit technisch nicht möglich.
+Die Daten der Fahrraddauerzählstellen werden, wenn technisch verfügbar, für die letzte vergangene Stunde und für die letzten sieben vergangenen Tage in den oben genannten Portalen als
+
+„Radfahrer pro Stunde“ beziehungsweise „Radfahrer pro Tag“ pro Zählstelle dargestellt.
+Mit freundlichen Grüßen
+
+Dirk Ha:
+
+

@@ -1,0 +1,224 @@
+Hausmitteilung
+
+Dresden.
+
+X
+
+Disegen‘
+
+O vertraulich
+
+Landeshauptstadt Dresden
+Der Oberbürgermeister
+
+Fraktion Alternative für Deutschland
+
+GZ:
+
+(OB) 6 65.53
+
+Datum:
+
+14
+
+im Stadtrat der Landeshauptstadt Dresden
+Mitglied des Stadtrates
+Falk Breuer
+
+AU6.
+
+2023
+
+Temperatursteuerung in Dresdner Schulen
+AF3355/23
+
+Sehr geehrter Herr Breuer,
+Ihre oben genannte Anfrage beantworte ich wie folgt:
+„Im Mitarbeiterinformationssystem (MIS) der Landeshauptstadt Dresden wurde am
+21.07.2023 unter dem Titel „Smarte Temperatursteuerung - LoRaWAN macht Schule“ ein Beitrag veröffentlicht zur Installation von L0RaWAN-Technik (Long Range Wide Area Network),
+um die Heizungsanlage so zentral und intelligent zu steuern. Diese Erkenntnisse wurden auch
+auf andere Schulen übertragen, um Energie zu sparen.
+Dazu bitte ich um folgende Auskunft:
+1.
+
+Wie hoch waren die Anschaffungs- und Installationskosten der LORaWAN-Technik? Welche
+Fördergelder sind für das Projekt geflossen (bitte aufschlüsseln nach Fördergeldgeber und
+Fördergeldempfänger sowie die Höhe der Fördergelder)?“
+
+Für die Ausstattung der Schulen (Pilotobjekt sowie 13 weitere Schulen) wurden insgesamt 29 LoRaWAN-Sensoren angeschafft. Die Anschaffungskosten beliefen sich auf 6.196,33 Euro brutto.
+Installiert wurden die Sensoren durch Mitarbeitende des Amtes für Hochbau und Immobilienverwaltung. Es wurden keine Fördergelder in Anspruch genommen.
+2.
+
+„In welchen 13 Dresdner Schulen wurde die Heizungsanlage nach diesem Vorbild optimiert? Wie hat sich der Verbrauch der Wärmeenergie der betreffenden Schulen in den vergangenen drei Jahren entwickelt (wenn möglich, bitte je Schulstandort und Jahr aufschlüsseln)?“
+
+Gebäude
+
+Adresse
+
+2019
+
+2020
+
+2021
+
+2022
+
+[Mwh/a] | [Mwh/a] | [Mwn/a] | [mwh/a]
+0107-001
+1622-001
+0095-001
+0016-001
+0109-001
+0116-001
+
+625
+568
+437
+401
+369
+362
+
+557
+408
+450
+372
+278
+373
+
+646
+503
+545
+454
+332
+448
+
+548
+427
+504
+394
+286
+408
+
+0107-002 Schulgebäude MS 107, Abendschule | Hepkestraße 26
+
+337
+
+300
+
+348
+
+295
+
+0093-001 Schulgebäude 93. GS, inkl. Hort
+
+323
+
+299
+
+300
+
+298
+
+323
+299
+257
+364
+375
+
+328
+308
+386
+299
+364
+
+389
+304
+397
+312
+454
+
+359
+264
+332
+289
+370
+
+5.040
+
+4.722
+
+5.432
+
+4.774
+
+0120-001
+0018-001
+0113-001
+1347-001
+1348-001
+
+3.
+
+Schulgebäude 108. GS
+Schulgeb. FöS zur Lernförderung
+Schulgeb. 95. GS,inkl. Fr.ev.Sch.
+Schulgebäude der 16. 65
+Schulgeb. 30. OS, Unt. Kreuzweg 4
+Schulgebäude 116. Mittelschule
+
+Hepkestraße 28
+Gottfried-Keller-Str. 40
+Donathstraße 10
+Josephinenstraße 6
+| Unterer Kreuzweg 4
+Feuerbachstaße 5:
+Dobritzer Weg 1
+
+Schulgebäude 120. GS, inkl. Hort
+Trattendorfer Str. 1
+Schulgeb. AS M.-Curie-Gym.
+Terrassenufer 15
+113. GS/Spez-schule f. Musik/AS BSZ | Georg-Nehrlich-Str. 1
+Schule BSZ f. Agr. u. Ernährung
+Canalettostraße 8
+Schulgebäude FöS Lernförderung
+Dinglingerstraße 4
+
+„Welche finanziellen Einsparungen konnten durch die neue Technik erzielt werden?“
+
+Im Pilotobjekt konnte seit 2019 nachhaltig ein Drittel an Wärmeenergie eingespart werden, was
+absolut etwa 100 MWh
+
+pro Jahr entspricht. Bei einem aktuellen Fernwärmepreis von 161 Euro
+
+pro MWh brutto entspricht dies einer jährlichen Einsparung von etwa 16.100 Euro.
+Die Ergebnisse der weiteren 13 Schulen werden Mitte August 2023 den beteiligten Ämtern innerhalb der Stadtverwaltung vorgestellt. Nach der Sommerpause werden die detaillierten Ergebnisse auch im Mitarbeiterinformationssystem (MIS) veröffentlicht.
+Eine erste Berechnung ergab eine über die 13 Schulen gemittelte Einsparung von etwa 19 Prozent in der Heizperiode 2022/2023 gegenüber dem Mittelwert 2017 bis 2022. Dies entspricht einer absoluten Einsparung von etwa 720 MWh pro Jahr. Bei einem aktuellen Fernwärmepreis von
+161 Euro pro MWh brutto entspricht dies einer jährlichen Einsparung von etwa 116.000 Euro.
+4.
+
+„Ist geplant, die LORaWAN-Technik auch an anderen Dresdner Schulen zu installieren?
+Wenn ja, wann? Mit welchen Einsparpotentialen rechnet die Landeshauptstadt Dresden?“
+
+Ja. In Abstimmung mit dem Amt für Schulen sollen alle weiteren Typ-Dresden-Schulen auf die
+neue Regelungssystematik umgestellt werden. Weitere Schultypbauten sollen hinsichtlich einer
+möglichen Übertragung der Regelsystematik untersucht werden.
+Der gesamte Fernwärmeverbrauch der Dresdner Schulen beträgt jährlich ungefähr 54.000 MWh.
+Sollte sich bei der Untersuchung der weiteren Schultypbauten herausstellen, dass ähnliche GröRenordnungen eingespart werden können wie bei den Typ-Dresden-Schulen, gehen wir von einem Einsparpotential von jährlich bis zu 10.000 MWh
+
+5.
+
+aus.
+
+„Wäre der Einsatz dieser Technik auch bei anderen Einrichtungen, bspw. Kindergärten,
+sinnvoll? Welche finanziellen Einsparungen könnten sich realisieren lassen, wenn städtische Kindertageseinrichtungen damit ausgerüstet bzw. nach dessen Erfahrungswerten optimiert würden?“
+
+Bisher wurde sich auf die gängigen Typenbauten konzentriert, da hier die Ergebnisse aufgrund
+ähnlicher Kubatur und Nutzungsart einfacher übertragen werden können.
+Erst nach detaillierterer Analyse weiterer Schultypbauten lässt sich eine Aussage treffen, inwiefern die neue Regelungssystematik auch auf andere Bauten übertragen werden kann.
+
+Mit freundlichen Grüßen
+
+Dirk kunt
+
+
