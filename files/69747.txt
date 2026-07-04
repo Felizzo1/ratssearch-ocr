@@ -1,0 +1,670 @@
+Vorhabenbezogener Bebauungsplan
+Fraunhofer Institutszentrum
+
+Nr. 665
+
+Dresden-Gruna
+Geo
+
+ST
+
+az
+
+—& re
+8 >
+
+5
+
+N
+
+PLANZEICHENERKLÄRUNG
+I. Planungsrechtliche Festsetzungen (8 9 BauGB)
+"| —-
+
+Grenze des räumlichen Geltungsbereichs des vorhabenbezogenen
+
+tt
+
+Bebauungsplans
+
+Mr
+
+mu
+
+EEE
+
+EEE
+
+BE
+
+1
+
+mu
+
+EEE
+
+BEE
+
+BEE
+
+„
+
+Il
+
+Il
+
+L
+
+($ 9 Abs. 7 BauGB)
+
+Grenze des Vorhaben- und Erschließungsplans (8 12 Abs. 4 BauGB)
+
+1. Art der baulichen Nutzung
+
+(8 9 Abs. 1 Nr. 1, 8 12 Abs. 3 BauGB)
+
+Sonstiges Sondergebiet (8 11 BauNVO)
+Zweckbestimmung: Forschung und Entwicklung
+
+2. Maß der baulichen Nutzung
+
+1
+
+(8 9 Abs. 1 Nr.
+
+1 BauGB)
+
+zulässige Zahl der Vollgeschosse, z.B. 3
+
+112,50 m
+
+Bezugshöhe in Metern ü. NHN (Höhenlage FB Sockelgeschoss)
+
+GRZ 0,5
+
+Grundflächenzahl, z.B. 0,5 (8 16 Abs. 2 Nr. 1, 8 19 BauNVO)
+
+HGH
+
+zulässige höchste Gebäudehöhe in Metern ü. NHN, z.B. 124,00 m
+(8 16 Abs. 2 Nr. 4, 8 18 BauNVO)
+
+124,00
+
+LH 4,50
+
+lichte Höhe als Mindestmaß in Metern, z.B. 4,50 m
+
+3. Bauweise, überbaubare Grundstücksflächen
+
+(8 9 Abs. 1 Nr.
+
+2 BauGB)
+
+Überbaubare Grundstücksflächen (8 23 BauNVO):
+[ERROR
+
+Baulinie
+
+(8
+
+23
+
+Abs.
+
+2
+
+BauNVO)
+
+mm
+
+Baugrenze (8 23 Abs. 3 BauNVO)
+
+4. Flächen für Nebenanlagen, Stellplätze und Garagen
+
+ne
+
+Umgrenzung von Flächen für Nebenanlagen, Stellplätze und Garagen
+
+I
+
+nn
+
+um In
+M
+
+GRZ
+
+0,5
+
+/
+
+Kl
+
+I
+
+Zweckbestimmung:
+Medientanks
+
+GSt 1
+
+Gemeinschaftsstellplätze - Parkdeck
+
+GSt2
+
+Gemeinschaftsstellplätze - ebenerdig
+
+5. Verkehrsflächen und -anlagen
+
+112,50 m
+
+N u
+
+4
+
+Private Grünfläche
+Zweckbestimmung:
+
+oO
+
+89 Abs. 1a BauGB)
+
+(8 9 Abs. 1 Nr. 15 BauGB)
+
+G1
+
+Grüngürtel zur Wohnbebauung
+
+G2
+
+Campusplatz
+
+060000000
+
+Umgrenzung von Flächen zum Anpflanzen von Bäumen und Sträuchern
+
+23
+PPsı
+s
+00000000
+
+(8 9 Abs. 1 Nr. 25a BauGB), z.B. Pflanzgebot 1
+(im Textteil näher bestimmt)
+
+17
+
+(
+
+&
+
+.
+e
+
+(8 9 Abs. 1 Nrn. 15, 20, 25,
+
+2
+
+N
+
+%
+
+($ 9 Abs. 1 Nr. 11, 8 12 Abs. 3 BauGB)
+
+Ein- bzw. Ausfahrt
+
+6. Festsetzungen zur Grünordnung
+
+N
+
+(8 9 Abs. 1 Nr. 4 BauGB)
+
+(0)
+
+Anpflanzen von Bäumen (8 9 Abs. 1 Nr. 25a BauGB
+
+(e)
+
+Erhalt von Bäumen (8 9 Abs. 1 Nr. 25b BauGB)
+
+,
+
+OÖ 114.61
+
+5
+
+n
+/
+
+\
+
+/ %
+
+I)
+
+j
+
+Y/
+
+<
+
+2" e
+
+II
+
+'
+
+7. Mit Geh-, Fahr- und Leitungsrechten zu belastende Flächen
+
+,9
+
+i
+
+4333
+
+LI
+—
+
+0
+
+Geh-, Fahr- und Leitungsrecht zugunsten eines eingeschränkten
+Personenkreises (im Textteil näher bestimmt)
+
+8. Festsetzungen zum Schutz vor schädl. Umwelteinwirkungen
+
+4
+
+4
+UI
+
+(9 Abs. 1 Nr. 24 BauGB)
+
+Umgrenzung von Flächen für Vorkehrungen zum Schutz vor schäd-
+
+vVVVVVUWV
+
+>
+
+(9 Abs. 1 Nr. 21 BauGB)
+
+lichen Umwelteinwirkungen i.S.d. Bundesimmissionsschutzgesetzes
+
+TEN
+
+LPB Il
+
+Lärmpegelbereich nach DIN 4109 (Schallschutz im Hochbau), z.B. Ill
+
+Il. Kennzeichnungen
+x
+
+XXXX
+AU
+x%
+x xxx
+
+Umgrenzung des Altstandortes AKZ 62/209216
+(Tanks einer ehemaligen Betriebstankstelle)
+
+Ill. Bauordnungsrechtliche Festsetzungen
+FD
+
+zulässige Dachform:
+
+Flachdach
+
+IV. Zeichnerische Hinweise
+Füllschema der Nutzungsschablone:
+SO
+
+| GRZ05
+
+FD | 112,50 m
+
+Baugebiet
+
+Grundflächenzahl
+
+zulässige Dachform
+
+Bezugshöhe
+
+Zeichenerklärung der Plangrundlage:
+
+=.
+„Im ef
+
+106 \
+
+Gemarkungsgrenze
+Grenze vorhandener Flurstücke mit Flurstücksnummer
+
+777
+
+Hauptgebäude im Bestand
+
+| TITITT |
+
+Nebengebäude im Bestand
+
+Stadtverwaltung Dresden
+
+ZT —
+
+7]
+
+Stadtplanungsamt
+
+vorhandene Böschung
+
+Amtsleiter
+
+vorhandene Straße
+&
+
+Fassung
+
+Baumbestand
+
+September 2010
+
+Planungsbüro
+
+Vorhabenträger
+
+GRAS
+
+Fraunhofer-Gesellschaft
+
+Gruppe Architektur & Stadtplanung
+
+zur Förderung der angewandten Forschung e.V.
+
+01127 Dresden
+
+80686 München
+
+Plantechniker/in
+
+Datum der letzten Änderung
+
+| Sachbearbeiter/ in | SGL 61.3.2
+
+24.06.2011
+
+Abt.-Ltr. 61.3
+
+SITEUNÖTI
+
+SGL 61.1.3
+
+Abt.-Ltr. 61.1
+
+ER eser
+
+Übersichtsplan
+
+/V
+
+;
+
+SUN
+
+YR
+
+-
+
+a
+
+Sr
+
+ndR
+
+SS
+
+Wy
+
+\
+
+n
+
+>
+
+©
+
+a
+
+vn
+
+Y
+
+©
+
+\
+
+r
+
+EL
+
+IE
+
+N
+
+&
+
+DI
+
+Ach
+
+un
+
+rL
+
+ELTA]
+
+TR
+
+Rn
+oO
+
+>
+
+)
+
+RLG
+60 Gartenheimsteg
+61 An den Gärten
+
+N
+
+Een Kein.
+
+N N
+
+Een
+
+66 Altstrehlen
+
+3
+
+110 Edmund-Moeller-Weg\x
+
+x
+
+111.Rudolf-Bergander-Ring
+
+NER
+
+7"
+
+>,
+
+ans-Thoma-Sir
+R
+
+I
+
+x
+
+"
+
+Reic
+
+5
+
+y
+
+4
+
+x
+
+En
+
+N
+
+117.02
+
+Vorhabenbezogener
+Übereinstimmung mit der amtlichen Flurkarte
+
+hinsichtlich der Bezeichnung und der Grenzen
+
+Bebauungsplan
+
+Fläche wird bestätigt.
+
+Dresden-Gruna
+
+der Flurstücke innerhalb der markierten
+
+G
+
+Nr.
+
+665
+
+Fraunhofer Institutszentrum
+Amtsleiter
+Dresden,
+
+.
+
+117.07
+
+03.03.2010
+
+Städt. Vermessungsamt
+
+Hergestellt aus der digitalen Stadtkarte 1:500 und der vergrößerten
+
+digitalen Flurstückskarte 1:1000
+
+bearbeitet:
+
+03/2010
+
+>
+
+g
+
+@ 116.52
+116.51
+o''3
+
+_
+
+>
+
+Y
+
+EOx@,
+£
+
++
+
+x
+
+v7
+
+T
+
++
+
+fias‘ “sStrieser
+
+ms,
+
+>
+
+7%
+
+Q
+
+S
+2
+
+R
+
+&
+
+N
+
+EN
+
++
+
+:
+
+IS
+
+Sr
+
+‘Strehlen FR Ss
+
+8
+
+174
+
+X
+
+NS N
+
+TÜR
+
+LU
+
+Pekatt,
+
+NE
+
+AILZI
+
+INS
+
+Ne
+
+I
+
+—_
+
+M 1:20 000
+
+Rechtsplan
+u.
+n
+- Entwurf zur öffentlichen Auslegung Maßstab
+
+1:500
+
+Blatt
+
+1
+
+von
+
+5
+
+CAT:
+
+RE
+
+

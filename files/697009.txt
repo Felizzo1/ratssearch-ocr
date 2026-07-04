@@ -1,0 +1,687 @@
+Multifunktions-Freizeit- und Sportanlage Gittersee,
+Karlsruher Str. 77, 01189 Dresden
+Kostengruppe
+
+Position
+
+Kostenberechnung
+
+Menge
+
+|Einheit
+
+Freianlagen, Entwurf
+Stand 08.06.2023
+
+Einzelpreis
+in €
+
+Teilbetrag in
+€
+
+500 Außenanlagen
+Erdbau
+
+510
+
+511
+
+Herstellung
+Befestigte Flächen: Erdarbeiten
+Befestigte Flächen: Entsorgung Erdmassen
+
+1|psch
+
+1.345,00
+
+(2022: € 2.398,50)
+
+1jpsch
+
+6.253,20
+
+Befestigte Flächen: Tragschicht / Planum
+Spielfeld: Entsorgung Erdmassen
+Entwässerung: Erdarbeiten
+
+1|psch
+1|psch
+1]psch
+
+2.400,00
+2.376,00
+840,00
+
+(2022: € 4.392,00)
+
+djpseh
+
+T3aAR0
+
+Einbauten: Erdarbeiten
+
+1jpsch
+
+3.640,00
+
+(2022: € 6.775,00)
+
+1jpsch
+
+Razer
+
+Ausstattung: Erdarbeiten
+
+1|psch
+
+Entwässerung: Entsorgung Erdmassen
+
+Abtrag Oberboden
+20
+
+Gründung,
+
+[eo]
+
+Einbauten: Entsorgung Erdmassen
+
+320,00
+
+0
+
+2.000,00
+
+1|psch
+
+5.935,00
+
+Unt
+
+Baugrundverbesserung
+Bodenverbesserung 25 cm
+Bodenverbesserung Geogitter GRK 3
+
+522
+
+Gründung und Bodenplatten
+Einzelfundamente Ausstattung
+Oberbau,
+
+530
+
+2.109,00
+
+und Einbauten
+
+Decksc
+
+531 __ Wege
+Planum befestigte Flächen
+Betonsteinpflaster, begehbar (0,4 m
+Gesamtaufbau)
+Betonsteinpflaster, befahrbar (0,4 m
+Gesamtaufbau)
+Borde (Tief-, Hoch- und Rundborde)
+(2022: 97m)
+535
+
+250|m?
+golm?
+
+24.40
+'
+27.00
+"
+
+-
+
+0,00
+2169.00
+ERBE
+4.590.00
+BEE
+
+110]m
+
+18,96
+
+2.085,60
+
+310]m?
+
+8,28
+
+170|m?
+
+Sportplatzflächen
+Planum Spielfeld
+Kunststoffbelag
+
+2.566,50
+
+27.918,50
+
+onstruktic
+Einfriedungen
+Ballfangzaun,
+
+H=6m
+
+(2022: € 250,00 pro Meter)
+
+543
+
+544
+
+an
+
+285,001
+
+24.225,00
+
+Tor (B=3m)
+Tor (B=1,5 m)
+(2022: 0 Stück)
+
+1|Stück
+.
+1|Stück
+
+2.500,00
+
+statischer Nachweis Ballfangzaun
+Wandkonstruktionen
+Stützwand Winkelstützen
+Frostsicherer Unterbau für Winkelstützwände
+Werkplanung Baukonstruktion Winkelstütz
+Rampen, Treppen, Tribünen
+Treppenanlage inklusive statischer Nachweis
+Blockstufen 1,50m
+
+1|psch
+
+1.200,00
+
+1|psch
+21m?
+1|psch
+
+33.957,50
+0,00
+1.500,00
+
+1]Stück
+
+2.150,25
+
+1.500,00
+
+2.940,00
+
+550 Technische
+Ar
+
+Abwasseranlagen
+
+551
+
+559
+
+1|psch
+1|psch
+
+Duschanlage (2022: 1 Stück)]|
+
+OlStück
+
+1.810,00
+1.810,00
+
+Sonstiges
+|
+
+ae
+
+Schächte und Ablauf
+Schächte und Ablauf
+
+Landschaftsarchitektun-Büro
+
+C\rohmann
+
+|
+
+2.500,00]
+
+0,00
+
+Seite 1 von 3
+
+Multifunktions-Freizeit- und Sportanlage Gittersee,
+Karlsruher Str. 77, 01189 Dresden
+Kostengruppe
+
+Position
+
+Freianlagen, Entwurf
+
+Stand 08.06.2023
+Menge
+
+Verlegung Wasserschacht, DREWAG;
+Rohrleitungsbau, Erdbau
+(2022: O Stück, ohne Preishinterlegung)
+Anpassungsarbeiten Bestandsgebäude
+
+|Einheit
+
+Einzelpreis
+in €
+
+Teilbetrag in
+€
+
+1|psch
+
+10.010,00
+
+(2022: 0 Stück)
+
+yjpsch
+
+7.200,00
+
+Vorhaltung Elektro- und Datenverkabelung
+2022: 0 Stück
+
+1lpsch
+
+5.000,00
+
+L
+1
+—IIIDAULE!
+
+561
+
+Kostenberechnung
+
+F
+
+Allgemeine Einbauten
+Bank/ Sitzelement. L=2m
+Fahrradanlehnbügel
+Abdeckgitter / Abdeckung Gitterrost
+Bolztor
+Volleyballanalge
+Papierkörbe
+
+571
+
+4|Stück
+3|Stück
+17|Stück
+2]Stück
+1|psch
+2|Stück
+
+800,00
+180,00
+180,00
+3.550,00
+
+3.200,00
+540,00
+3.060,00
+7.100,00
+960,00
+
+420,00
+
+840,00
+
+Oberbodenarbeiten
+
+|
+572
+
+Bodenauftrag in Vegetationsflächen|
+
+1lpsch
+
+|
+
+152,30
+
+Bodenlockerung|
+
+1lpsch
+
+|
+
+124,60
+
+Bodendecker-/Strauchpflanzungen
+Fertigstellungspflege 1 Jahr
+
+1|psch
+1|psch
+
+_ Vegetationstechnische Bodenbearbeitung
+
+|
+573
+
+Pflanzflächen
+
+591
+
+164,20
+143,75
+
+_ Baustelleneinrichtung
+
+|
+593
+
+Baustelleneinrichtung]|
+
+1lpsch.
+
+|
+
+|
+
+5.530,00
+
+Bauzaun
+Sicherung Schaltkasten
+
+50|m
+1|psch
+
+8,50
+
+425,00
+1.500,00
+
+Wurzelstock roden
+Rückbau Holzpalisaden
+Rückbau Wasserschacht und Leitung
+Rückbau Betonfundament bis 1m?
+Rückbau Zaun
+weitere Rückbau und Abruchmaßnahmen
+Technische Bearbeitung / Prüfung
+
+10|Stück
+18]m
+25|m
+1m?
+16|m
+1|psch
+1|psch
+
+90,00
+22,00
+22,00
+150,00
+95,00
+
+900,00
+396,00
+550,00
+150,00
+1.520,00
+17.785,00
+4.870,00
+
+_Sicherungsmaßnahmen
+
+594
+
+Abbrucharbeiten
+
+Summe K ost
+
+[
+
+44.047,75
+
+Umsatzsteuer 19%
+ISsumme f
+
+700 Baunebenkosten
+eurleistungen
+
+Summe
+
+Kostengruppe
+
+26.000,00
+
+50
+
+__ 26.000,00
+4.9 40,00
+!0,00
+
+50
+
+257.830,25
+
+Umsatzsteuer 19%
+[Summe
+
+Kostengri
+
+Summe
+
+Kostengruppe
+
+48.987,75
+
+Umsatzsteuer 19%
+az
+Summe
+
+RE
+
+ii
+
+VOR
+Kostengrup
+
+:
+
+Landschaftsarchi
+
+6.8
+
+,
+
+5.
+elktur-Büro
+
+=
+
+| D
+
+AUN
+
+;
+Cirohmann
+
+Seite 2 von 3
+
+Kostenberechnung Freianlagen, Entwurf
+
+Multifunktions-Freizeit- und Sportanlage Gittersee,
+Karlsruher Str. 77, 01189 Dresden
+Kostengruppe
+
+Position
+
+Stand 08.06.2023
+Menge
+
+[Einheit
+
+Einzelpreis
+in €
+
+Teilbetrag in
+€
+
+Übersicht Finanzierung
+
+[Summe
+zone
+Kostengruppe BOD-+ 700 Brut
+
+|
+
+1. BA__Förderantrag 2022, PI 0090 / 22
+
+-135.000,00
+
+2. BA__Förderantrag 2023, Pl 00116 / 23
+
+-149.999,00
+
+3.BA__
+
+-21.819,00
+
+Förderantrag 08.06.2023
+Rest-Finanzbedarf
+
+0,00
+
+700 Baunebenkosten / Eigenleistung Verein
+Projektleitung. Kosten zum Zwecke der Zielvorgabe, der
+der Bauherreninteressen
+
+m
+
+Projektleitung im Jahre 2022 bis 30.09.22 (gem.
+
+MiLoG 10,45 EURO brutto)
+
+Projektleitung im Jahre 2022/2023 ab 01.10.22
+
+(gem. MiLoG 12,00 EURO brutto)
+712
+
+Bedarfsplanung. Kosten für Bedarfsplanung
+Bedarfsplanung im Jahre 2022 bis 30.09.22 (gem.
+
+MiLoG 10.45 EURO brutto)
+
+Bedarfsplanung im Jahre 2022/2023 ab 01.10.22
+
+(gem. MiLoG 12,00 EURO brutto)
+
+Überwachung
+
+und Vertretung
+
+10 Stunde
+
+8.78
+
+BE
+
+395|Stunde
+
+10,08
+
+3.981,60
+
+120|Stunde
+
+8,78
+
+1.053,60
+
+95]Stunde
+
+10,08
+
+957,60
+
+...
+
+Projektsteuerung. Kosten für Projektsteuerungsleistungen sowie für andere Leistungen,
+
+713
+
+die sich mit der übergeordneten Steuerung und Kontrolle von Projektorganisation,
+Terminen, Kosten, Qualitäten und Quantitäten befassen
+Projektsteuerung im Jahre 2022 bis 30.09.22 (gem.
+
+MiLoG 10,45 EURO brutto)
+
+Projektsteuerung im Jahre 2022/2023 ab 01.10.22
+
+(gem. MiLoG 12,00 EURO brutto)
+
+Sicherungsmaßnahmen / Abbruch / vorbreitende
+Arbeiten / Baufeldfreimachung
+
+7 une
+
+Rt
+
+8
+
+#8 Stunde
+
+0,08
+
+4.768,00
+
+1]psoh.
+
+21
+
+Summe Eigenleistung
+
+34.090,89
+
+Sportgemeinschaft
+
+er
+
+(
+
+>
+
+er
+
+a
+
+=
+
+Gittersee e.V.
+
+1
+
+uncls
+
+’
+42
+fa = haftsarchitektur- E
+
+wo
+
+Ovrohmann
+
+VA
+
+Seite
+
+3 von
+
+3
+
+
