@@ -1,0 +1,159 @@
+Hausmitteilung
+
+U vertraulich
+
+Fraktion Alternative für Deutschland
+im Stadtrat der Landeshauptstadt Dresden
+
+Al
+
+Dresden,
+Landeshauptstadt Dresden
+Der Oberbürgermeister
+
+GZ:
+
+(OB) GB 3 02 14
+
+Mitglied des Stadtrates
+Heiko Müller
+
+Datum:
+
+239. AUb. 223
+
+Mit Hightech zur hitzeresilienten Stadt
+AF3367/23
+
+Sehr geehrter Herr Müller
+die 0. g. Anfrage beantworte ich wie folgt:
+„Mit zwei Pressemitteilungen vom 19. Juli 2022 bzw. am 3. Juli 2023 informierte die Stadtverwaltung über das Projekt "KLIPS". Der Bund fördert das Projekt mit rund 2,3 Millionen Euro.
+In diesem Zusammenhang habe ich folgende Fragen:
+
+1.
+
+Wann wurde mit der Installation der speziellen Sensoren begonnen? Wie viele der Sensoren waren mit Stand 20. Juli 2023 bereits installiert?“
+
+Die ersten Geräte des Forschungsprojektes KLIPS wurden am 5. April 2023 angebracht. Bis 20. Juli
+2023 wurden 235 Geräte installiert.
+
+2.
+
+„Was kostet ein einzelner Sensor? Was kosten eine einzelne Infotafel? Was
+Installation eines einzelnen Sensors bzw. einer Infotafel?“
+
+kosten die
+
+Der Stadt Dresden entstehen keine Kosten für die Sensoren, da diese vom Forschungsprojekt ge-
+
+tragen werden. Durch das Geschäftsgeheimnis der beteiligten Firmen können hierzu keine weiteren Angaben gemacht werden.
+
+Für die bereits installierten 50 Infotafeln zahlt die Stadt inklusive Anbringung 37,59 Euro pro Stück,
+welche zu 100 % aus den der Landeshauptstadt Dresden (LHD) bereitgestellten Fördermitteln finanziert sind.
+
+3.
+
+„Wie findet die Datenübertragung von den Sensoren bzw. zu den Infotafeln statt? Ist dazu
+eine Anbindung an das Stromnetz bzw. Internet (per Kabelverbindung) zwingend erforderlich?“
+
+Die Datenübertragung der Sensoren erfolgt über das Mobilfunknetz. Eine Anbindung an die
+Stromversorgung ist nicht nötig, da diese autark über kleine Solarpanele versorgt werden.
+
+4.
+
+„Welcher (zusätzliche) Aufwand bzw. welche Kosten entstehen durch die Anbindung der
+Sensoren/Infotafeln an das Netzwerk?“
+
+Die für Sensoren und Tafeln entstehenden Kosten entsprechen denen nach Punkt 2. Diese können
+zu 100 % durch Fördermittel beglichen werden.
+
+5.
+
+„Werden die Sensoren alle in gleicher Höhe über dem Boden (2 Meter) angebracht, um
+eine Vergleichbarkeit mit den Daten der DWD-Stationen zu gewährleisten? Welche meteorologischen Standards werden eingehalten? Welche werden nicht eingehalten?“
+
+Nein, die Sensoren werden einheitlich auf 2,5 bis 3 Meter Höhe angebracht. Dies weicht von den
+Vorgaben der DWD-Standards ab, da ein Kompromiss zum Schutz vor Vandalismus und den Anbringungsmöglichkeiten nötig wurde. Die Vergleichbarkeit ist dennoch gegeben, obwohl die Ziele
+von KLIPS von dem Messzweck der Stationen des Deutschen Wetterdienstes (DWD) sich geringfü-
+
+gig unterscheiden.
+Die Stationen des DWD dienen zur Erfassung der allgemeinen meteorologischen Bedingungen.
+Dafür wird dort in 2 Meter Höhe über unversiegeltem Grund und mit Abstand zum nächsten Gebäude von über 5 Meter gemessen.
+Im Forschungsprojekt KLIPS dienen die Messungen hingegen der Erfassung des Stadtklimas bzw.
+des Hitzeinseleffektes und durch die Nutzung eines Schwarms von Sensoren. Diese sollen jedoch
+
+gezielt den städtischen (baulichen/versiegelten) Einfluss erfassen. Wichtig ist hierbei, den Standort genau zu beschreiben. Damit können die Daten später richtig interpretiert werden; beispielsweise zu welcher Zeit ein Sensor besonnt oder unbesonnt ist und in welcher baulichen Umgebung
+er sich befindet.
+
+6.
+
+„Inwiefern ist der "Große Garten” als Standort für Sensoren repräsentativ? Nach welchen
+Kriterien wurden/werden die Standorte ausgewählt?“
+
+Der Standort im Großen Garten dient als Referenzstandort für eine nahezu unbebaute, unversiegelte Fläche. Weiterhin befinden sich dort eine festinstallierte Messstation des Umweltamtes der
+Landeshauptstadt Dresden sowie eine mobile Messeinheit des Deutschen Wetterdienstes (DWD),
+
+die eine Verifizierung der erfassten Werte ermöglichen.
+Für die Auswahl der Sensor-Standorte wurden Fokusräume mit verschiedenen Akteuren der Stadtverwaltung Dresden, der DVB AG und der Wohnungsbaugesellschaften festgelegt. Diese wurden
+z. B. zur Analyse der räumlichen Wirkung von Grünflächen und Kaltluftschneisen oder von geplan-
+
+ten baulichen Änderungen bzw. Maßnahmen zur Reduzierung der Umgebungstemperatur ausgewählt. Dadurch wird die Wirkung der Maßnahmen
+tet werden können.
+'
+
+nach deren Umsetzung gemessen und bewer-
+
+7.
+
+„Ab welcher Temperatur gilt ein Ort zukünftig als "gefährdeter Ort"? Wer hat diesen Wert
+festgelegt?“
+Bisher gibt es für die Bewertung eines Ortes keine festen Grenzwerte. Ein Hitzeindex soll als Orientierung dienen.
+
+8.
+
+„Welchen Mehrwert erwartet die Stadtverwaltung für die Bürger?“
+
+Durch das Forschungsprojekt ergeben sich vielfältige Möglichkeiten, welche nachfolgend verkürzt
+aufgeführt sind.
+
+Während der Projektlaufzeit:
+-
+
+Allgemeine Information zur Gesamtstadt und zu einzelnen Orten in der Stadt
+Aufzeigen der Verteilung der Temperaturunterschiede in der Stadt von bis zu 8 Grad
+Kleinräumige Untersetzung der Prognosen der Wetterdienste
+Abgleich der Daten mit der Klimafunktionskarte, die Planungsgrundlage für die stadtklimatische Beeinflussung ist
+
+Zukünftiger Mehrwert durch die Nutzung des Systems durch die LHD nach Abschluss des Projek-
+
+tes:
+-
+
+Erfassung und Ausbreitung des Hitzeinseleffektes
+
+-
+
+Ableitung von Handlungsempfehlungen für verschiedene Bevölkerungsgruppen (ältere Menschen, Kitas, Schulen, Pflegeeinrichtungen) und den Tourismusbereich
+Prognosetool zur Hitzeinselausbreitung für gezielte Informationen bspw. für Großveranstaltungen oder Sportveranstaltungen
+
+-
+
+9.
+
+„Bitte nennen Sie Beispiele für mögliche Geschäftsmodelle der beteiligten Firmen.“
+
+Die spätere Überführung von Innovationen in neue Geschäftsmodelle ist Ziel der Innovationsförderung des Bundesministeriums für Verkehr und Digitales. Deshalb nutzen die beteiligten Firmen
+und angewandten Forschungseinrichtungen die Gelegenheit, ihre Dienstleistungen und Produkte
+entsprechend weiterzuentwickeln. Als Beispiele sollen die Weiterentwicklung der loT-Plattform
+der Software AG und die Überprüfung des Potenzials der Schwarm-Sensorik gegenüber Messungen mit einzelnen Sensoren bei der ERGO Umwelttechnik genannt sein.
+
+10.
+
+„Welche Kosten für Material und Installation bzw. welche Personalkosten fallen im Rahmen des Projektes für die Landeshauptstadt an? Welchen Anteil muss die Landeshauptstadt selbst finanzieren?“
+
+Die LHD nutzt die 100 %-Förderung, damit können die anfallenden Kosten beglichen werden. Für
+Material- und Personalkosten steht ein Budget von bis zu 131.890,00 Euro zur Verfügung.
+
+Dirk Hilbert
+
+
