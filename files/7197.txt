@@ -1,0 +1,1213 @@
+Leistung/ Kostenbereich
+
+Gebühr
+
+absolute Kosten
+
+"fehlbefüllte” Behälter
+
+zeitraumabhängig (fix)
+Ela
+
+2
+
+mengenabhängig
+(variabel)
+Ela
+
+gesamt
+
+3
+
+Behandlung/Beseitigung von Abfällen (BMA)
+Restabfall - Behälterentleerung Restabfall, Restabfallsack, Nebenablagerungen
+Restabfall - "fehlbefüllte” Biotonne
+
+1.547
+
+1.547
+
+2.065.138
+3.138.197
+
+2.065.138
+3.138.197
+
+236.424
+
+2.105
+0
+
+2.105
+236.424
+
+Insgesamt Kosten (ohne Zentrale Kosten)
+
+236.424
+
+5.206.987
+
+5.443.411
+
+[Insgesamt Kosten (incl. ‚Zentrale Kosten)
+
+236.424
+
+‚5.206.987
+
+Insgesamt zu kalkulieren
+
+236.424
+
+5.206.987
+
+Sperrmüllnachberaumung
+Papierkorbabfälle
+
+MGB 801
+
+MGB
+
+1201
+
+MGB 2401
+
+MGB 6601
+
+MGB 80 /1201
+
+MGB 2401
+
+MGB 6601
+
+€/Behälter
+5
+
+€/Behälter
+
+€/Behälter
+
+€/Behälter
+8
+
+€/Leerung
+9
+
+€/Leerung
+10
+
+€/Leerung
+11
+
+7
+
+6
+
+1,61
+
+3,87
+
+10,63
+
+4,51
+
+4,51
+
+4,51
+
+Restabfall
+Einsammlung - Leerungen
+IMGB 801
+IMGB 1201
+IMGB 2401
+[MGB 660 1
+IMGB 1.1001
+[MGB 2.500 I
+Säcke
+
+[Einsammlung - Leerungen (Zuschläge für Transportentfernungen)
+Einsammlung - Nebenablagerungen
+[Behältermieten
+
+Bioabfall
+
+[Kompostierung
+Einsammlung - Leerungen
+Einsammlung - Leerungen (Zuschläge für Transportentfernungen)
+[Einsammlung - "fehlbefüllte” Behälter
+[Behältermieten
+
+51,56
+
+154,69
+
+77,34
+117,53
+
+235,06
+
+425,39
+646,42
+
+8,85
+
+17,71
+
+48,70
+
+13582
+
+203,73
+
+‚407,46
+
+1.120,50
+
+‚6,12
+
+8,38
+
+15,14
+
+5.443.411
+
+135,82
+
+203,73
+
+407,46
+
+1.120,50
+
+6,12
+
+8,38
+
+15,14
+
+»2.079.246,00
+3.364.165
+
+51,91
+83,90
+
+771,87
+125,86
+
+„155,74
+
+„428,29
+692,21
+
+2,54
+
+3,27
+511
+
+-0,82)
+14,32
+
+78,35
+
+SperrmülV/Altholz
+[Hausabholung
+
+[Transporte von Weristoffhofen
+Verwertung Sperrmüll
+Verwertung Altholz
+[Sperrmüllnachberäumung (Sammlung und Verwertung)
+[E-Schrott
+
+Hausabholung
+
+[Übernahmestellen
+
+[Schrott (Transport)
+Altpapier (außerhalb DSD)
+Grünabfälle
+Grünabfälle - gebührenfreie Anlieferung, z.B. Laub
+
+Grünabfälle - gebührenpflichtiger Anteil
+Weihnachtsl
+Schadstoffe
+|Wertstoffhöfe/Gebrauchtwarenbörse
+Möbelaufbereitung
+
+Papierkörbe
+
+[Zentrale Kosten (Verwaltung, Abfallberatung usw.)
+[Zentrale Kosten (Gebührenlegung SRD)
+[Ausgleich Ergebnisse Vorjahr
+jabfallpolitische Umlage
+
+251,71
+
+3,58
+
+A
+
+renkalkula
+absolute Kosten
+
+Leistung/ Kostenbereich
+
+zeitraumabhängig (fix)
+
+mengenabhängig
+
+Gebühr pro Karte
+
+gesamt
+
+Hausabholung
+
+Ela
+
+E/Karte
+5
+
+(variabel)
+
+€/a
+2
+
+€/a
+
+3
+
+Behandlung von Abfällen (BMA)
+Restabfall - Behälterentleerung Restabfall, Restabfallsack, Nebenablagerungen
+Restabfall - "fehlbefüllte" Biotonne
+Sperrmüllnachberäumung
+Papierkorbabfälle
+Restabfall
+Einsammlung - Leerungen
+MGB 801
+MGB 1201
+MGB 2401
+MGB 660 1
+MGB 1.1001
+MGB 2.500 1
+Säcke
+Einsammlung - Leerungen (Zuschläge für Transportentfernungen)
+Einsammlung - Nebenablagerungen
+Behältermieten
+Bioabfall
+Kompostierung
+Einsammlung - Leerungen
+Einsammlung - Leerungen (Zuschläge für Transportentfernungen)
+Einsammlung - "fehlbefüllte" Behälter
+Behältermieten
+Sperrmül//Altholz
+
+Hausabholung (Karte)
+Transporte von Wertstoffhöfen
+Verwertung Sperrmüll
+Verwertung Altholz
+Sperrmüllnachberäumung (Sammlung, Transport u. Verwertung)
+E-Schrott
+Hausabholung
+
+452.858
+
+452.858
+
+80,15
+
+452.858
+
+452.858,
+
+80,15
+
+452.358
+
+452.858
+
+80,15
+
+-339.858,00
+113.000
+
+-60,15
+
+452.858
+
+Übernahmestellen
+Schrott (Transport)
+Altpapier (außerhalb DSD)
+Grünabfälle
+Grünabfälle - gebührenfreie Anlieferung, z.B. Laub
+Grünabfälle - gebührenpflichtiger Anteil
+Weihnachtsbäume
+Schadstoffe
+Wertstoffhöfe/Gebrauchtwarenbörse
+Möbelaufbereitung
+Papierkörbe
+
+Insgesamt Kosten (ohne Zentrale Kosten)
+Zentrale Kosten (Verwaltung, Abfallberatung usw.)
+
+Zentrale Kosten (Gebührenlegung SRD)
+Insgesamt Kosten (incl. Zentrale Kosten)
+Ausgleich Ergebnisse Vorjahr
+abfallpolitische Umlage
+
+Insgesamt zu kalkulieren
+
+20,00
+
+Anlage 10, Gebührenkalkulation Elektro- und Elektronikgeräte
+
+(Hausabholun;
+
+Leistung/ Kostenbereich
+
+Gebühr pro Stück
+
+absolute Kosten
+
+zeitraumabhängig (fix)
+
+mengenabhängig
+
+gesamt
+
+Hausabholung
+
+€/a
+
+€/Stück
+5
+
+(variabel)
+
+€/a
+2
+
+€/a
+3
+
+Behandlung von Abfällen (BMA)
+Restabfall - Behälterentleerung Restabfall, Restabfallsack, Nebenablagerungen
+Restabfall - "fehlbefüllte" Biotonne
+Sperrmüllnachberäumung
+Papierkorbabfälle
+Restabfall
+Einsammlung - Leerungen
+MGB 801
+MGB 1201
+MGB 2401
+MGB 660 1
+MGB 1.1001
+MGB 2.500 1
+Säcke
+Einsammlung - Leerungen (Zuschläge für Transportentfernungen)
+Einsammlung - Nebenablagerungen
+Behältermieten
+Bioabfall
+Kompostierung
+Einsammlung - Leerungen
+Einsammlung - Leerungen (Zuschläge für Transportentfernungen)
+Einsammlung - "fehlbefüllte" Behälter
+Behältermieten
+SperrmülVAltholz
+Hausabholung (Karte)
+Transporte von Wertstoffhöfen
+Verwertung Sperrmüll
+Verwertung Altholz
+Sperrmüllnachberäumung (Sammlung, Transport u. Verwertung)
+E-Schrott
+Hausabholung
+
+11.874
+
+11.874
+
+35,98
+
+11.874
+
+11.874
+
+35,98)
+
+11.874
+
+11.874
+
+35,98
+
+11.874
+
+5.274,00
+6.600
+
+-15,98
+20,00
+
+Übernahmestellen
+Schrott (Transport)
+Altpapier (außerhalb DSD)
+Grünabfälle
+Grünabfälle - gebührenfreie Anlieferung, z.B. Laub
+
+Grünabfälle - gebührenpflichtiger Anteil
+Weihnachtsbäume
+Schadstoffe
+Wertstoffhöfe/Gebrauchtwarenbörse
+Möbelaufbereitung
+Papierkörbe
+
+Insgesamt Kosten (ohne Zentrale Kosten)
+Zentrale Kosten (Verwaltung, Abfallberatung usw.)
+Zentrale Kosten (Gebührenlegung SRD)
+Insgesamt Kosten (incl. Zentrale Kosten)
+Ausgleich Ergebnisse Vorjahr
+abfallpolitische Umlage
+
+Insgesamt zu kalkulieren
+
+Anlage 11, Gebührenkalk:
+Leistung/ Kostenbereich
+
+absolute Kosten
+
+mengenabhängig
+
+Gebühr
+
+gesamt
+
+bis
+
+Im?
+
+>1m
+
+(variabel)
+
+Ela
+3
+
+1
+
+e/a
+4
+
+€/Anlieferung
+5
+
+€/m?
+6
+
+Behandlung von Abfällen (BMA)
+Restabfall - Behälterentleerung Restabfall, Restabfallsack, Nebenablagerungen
+Restabfall - "fehlbefüllte" Biotonne
+
+Sperrmüllnachberäumung
+Papierkorbabfälle
+Restabfall
+
+MGB 801
+MGB
+
+1201
+
+MGB
+MGB
+MGB
+MGB
+
+2401
+6601
+1.1001
+2.500 1
+
+Säcke
+Einsammlung - Leerungen (Zuschläge für Transportentfernungen)
+Einsammlung - Nebenablagerungen
+
+Behältermieten
+Bioabfall
+Kompostierung
+Einsammlung - Leerungen
+Einsammlung - Leerungen (Zuschläge für Transportentfernungen)
+Einsammlung- "fehlbefüllte" Behälter
+
+Behältermieten
+SperrmülVAltholz
+Hausabholung (Karte)
+Transporte von Wertstoffhöfen
+Verwertung Sperrmüll
+Verwertung Altholz
+Sperrmüllnachberäumung (Sammlung, Transport u. Verwertung)
+E-Schrott
+Hausabholung
+Übernahmestellen
+Schrott (Transport)
+Altpapier (außerhalb DSD)
+Grünabfälle
+Grünabfälle - gebührenfreie Anlieferung, z.B.
+
+Laub
+
+Grünabfälle - gebührenpflichtiger Anteil
+['Weihnachtsbäaume
+
+322.099
+
+322.099
+
+1,72
+
+8,59
+
+322.099
+
+322.099
+
+1,72
+
+8,59
+
+322.099
+
+322.099
+
+1,72|
+
+8,59
+
+-228.314,00
+
+-1,22
+
+-6,15
+
+93.785
+
+0,50
+
+2,43
+
+Schadstoffe
+Wertstoffhöfe/Gebrauchtwarenbörse
+Möbelaufbereitung
+Papierkörbe
+
+[Insgesamt Kosten (ohne Zentrale Kosten)
+Zentrale Kosten (Verwaltung, Abfallberatung usw.)
+Zentrale Kosten (Gebührenlegung SRD)
+(Insgesamt Kosten (incl. Zentrale Kosten)
+Ausgleich Ergebnisse Vorjahr
+abfallpolitische Umlage
+
+(Insgesamtzu kalkulieren
+
+322.099
+
+Anlage 12, Gebührenkalkulation Zuschläge für Transportentfernungen - Rest-/Bioabfallbehälter
+
+Leistung/ Kostenbereich
+
+Gebühr
+
+absolute Kosten
+
+zeitraumabhängig (fix)
+
+mengenabhängig
+(variabel)
+
+gesamt
+
+€/a
+
+Ela
+
+Ela
+
+MGB 2401
+MGB 2401
+MGB 801
+MGB 801
+MGB 1201
+MGB 1201
+Transportweg >15 Transportweg >30 Transportweg >15 Transportweg >30 Transportweg >13 | Transportweg >30
+m bis 30 m oder bis]
+
+m bis SO m oder m bis 30 m oder bis
+
+m bis 50 m oder m bis 30 m oder bis m bis 50m oder
+
+MGB 6601
+m bis 25 m oder
+
+Transportweg >10
+
+MGB 1.1001
+Transportweg >25
+mbis 40m
+
+E/Leerung
+
+E/Leerung
+
+E/Leerung
+
+E/Leerung
+
+15 m mit mehr als über 15 m mit meh. 15 m mit mehr als über 15 m mit meh, 15 m mit mehr als [über 1 m mit mehr unbefestigter Weg
+einer Stufe
+als einer Stufe
+einer Stufe
+als einer Stufe
+einer Stufe
+als einer Stufe
+E/Leerung
+
+ELeerung
+
+E/Leerung
+
+/Leerung
+
+E/Leerung
+
+/Leerung
+
+MGB 1.1001
+
+MGB 6601
+Transportweg >25
+mbis40m
+
+Transportweg >10
+
+m bis 25 m oder
+unbefestigter Weg
+
+Behandlung von Abfällen (BMA)
+[Restabfall - Behälterentleerung Restabfall, Restabfallsack, Nebenablagerungen
+[Restabfall - "fehlbefüllte" Biotonne
+
+Sperrmüllnachberäumung
+Papierkorbabfälle
+
+Restabfall
+Einsammlung - Leerungen
+IMGB 501
+IMGB 1201
+IMGB 2401
+|MGB 660 1
+
+[MGB 1.1001
+[MGB 2.5001
+[Säcke
+
+[Einsammlung - Leerungen (Zuschläge für Transportentfernungen)
+
+D
+
+140.872]
+
+140.872]
+
+D
+
+15.953
+
+15.953
+
+0
+
+156.825]
+
+0
+
+156.825]
+
+[Einsammlung - Nebenablagerungen
+|Behältermieten
+
+Bioabfall
+
+Kompostierung
+
+Einsammlung - Leerungen
+Einsammlung - Leerungen (Zuschläge für Transportentfernungen)
+|[Einsammlung - "fehlbefüllte” Behälter
+
+[Behältermieten
+(SperrmülV/Altholz
+Hausabholung (Karte)
+
+[Transporte von Wertstoffhofen
+Verwertung Sperrmüll
+[Verwertung Altholz
+Sperrmüllnachberäumung (Sammlung, Transport u. Verwertung)
+[E-Schrott
+
+[Hausabholung
+|Übernahmestellen
+Schrott (Transport)
+Altpapier (außerhalb DSD)
+
+[Grünabfälle
+
+[Grünabfälle - gebührenfreie Anlieferung, zB. Laub
+[Grünabfälle - gebührenpflichtiger Anteil
+[Weihnachtsbäume
+
+[Schadstoffe
+[|Wertstoffhöfe/Gebrauchtwarenbörse
+
+[Möbelaufbereitung
+[Papierkörbe
+
+t Kosten (ohne Zentrale
+Kosten)
+
+‚6,20|
+
+334
+
+.0,97]
+
+1,72}
+
+‚0,97
+
+156.825]
+
+0,97]
+
+1,72]
+
+0,97]
+
+1,72]
+
+2,09|
+
+„35.071,00
+
++0,24)
+
+-0,09)
+‚0,88
+
+-0,62)
+
+0,73
+
+0,62)
+1,10)
+
+0,40]
+
+121.754]
+
+1,32]
+
+1,47
+
+[Zentrale Kosten (Verwaltung, Abfallberatung usw.)
+[Zentrale Kosten (Gebührenlegung SRD)
+
+t Kosten (incl. Zentrale
+Kosten)
+
+[Ausgleich Ergebnisse Vorjahr
+jabfallpolitische Umlage
+
+3,72
+
+334
+
+6,20)
+
+0,33)
+3,67]
+
+-0,70)
+
+6,20)
+1.08)
+442]
+
+0,43
+5,77]
+
+Anlage 13, Gebührenübersicht und Ab;
+
+mung der Kalkulation gerundet
+
+Gebührenkalkulation
+n
+
+Sehührenbereich
+
+Menge
+
+Mengen-
+
+(Wen)
+kalkuliert
+
+einheit
+
+1
+Grundbetrag
+MGB 801
+MGB 1201
+MGB 240 1
+MGB 660 I
+MGB 1.1001
+MGB 2.500 1
+Gesamt Grundbetrag
+
+2
+
+3
+
+17.767|
+18.900]
+26.867|
+255]
+7.583]
+25]
+
+Gestellungen
+Gestellungen
+Gestellungen
+Gestellungen
+Gestellungen
+Gestellungen
+
+Gebührenvorschlag
+
+Ermittlung der Gebühren
+kalkulierte
+
+absoluter
+
+Gebühr
+
+Betrag
+
+€/ME
+4
+
+E/a
+5
+
+€/ME
+6
+
+€/a
+7
+
+766.824
+1.223.586
+3.478.470
+90.793
+4.499.828)
+33.717
+10.093.218
+
+43,20
+64,68
+129,48
+356,04
+393,40
+1.348,56
+
+767.534
+1.222.452
+3.478.739
+90.790
+4.499.752
+33.714
+10.092.981
+
+666.365
+1.114.665)
+4.706.593
+155.072
+7.094.100
+69.404
+24.512
+202.498)
+14.033.209
+
+3,66
+440
+7,33
+18,33
+22,10
+46,80
+6,50
+7,23
+
+666.365
+1.114.665
+4.706.593
+155.072
+7.094.100
+69.404
+24.512
+202.498
+14.033.209
+
+903.351
+614.574
+1.787.141
+
+84,00
+126,00
+252,00
+
+904.428
+615.258;
+1.789.200
+
+55.377
+
+693,00
+
+43,16)
+64,74
+129,47
+356,05)
+593,41
+1.348,67)
+
+Gebühr
+
+absoluter
+Betrag
+
+Restabfall
+Behälterentleerungsgebühren/ Abfallsack/ Nebenablagerungen
+
+IMGB 801
+182.067|
+Leerungen
+3,66
+MGB 120 1
+253.333
+4,40
+MGB 240 1
+642.100)
+7,33
+MGB 660 I
+8.460
+18,33
+MGB 1.100 1
+321.000)
+22,10
+MGB 2.500 I
+1.483
+46,80)
+Abfallsack
+3.771
+6,50
+Nebenablagerunge
+23.008
+7,23
+Gesamt Behälterentleerungsgebühren (einschl. Restabfallsack u. N)
+
+Bioabfall
+Behältergebühr
+
+MGB 801
+MGB 1201
+MGB 2401
+MGB
+
+660 |
+
+10.767|
+4.883|
+7.100|
+
+Gestellungen
+Gestellungen
+Gestellungen
+
+83,90
+125,86)
+251,71
+
+80|
+
+Gestellungen
+
+692,21
+
+Gesamt Bioabfall Behältergebühren
+
+3.360.443
+
+55.440
+3.364.326)
+
+Sperrmüll Hausabholung
+
+5.650)
+
+Abrufe
+
+20,00)
+
+113.000)
+
+20,00
+
+113.000
+
+Elektro- und
+
+330)
+
+Stück
+
+20,00
+
+6.600
+
+20,00
+
+6.600)
+
+Anlieferungen
+m’
+
+0,50
+2,43
+
+56.271
+36.465
+
+0,50
+2,50
+
+56.271
+37.515
+
+Zuschläge für Transportentfernungen - Rest-/Bioabfallbehälter
+MGB 80 | (kurz)
+2.996]
+Leerungen
+0,73
+MGB 80 | (lang)
+948|
+_Leerungen
+1,10
+Kompostierung
+4.792|
+_Leerungen
+0,88
+MGB 120 I (lang)
+2.188]
+Leerungen
+1,32
+MGB 240 | (kurz)
+29.700)
+_Leerungen
+1,47
+MGB 240 | (lang)
+12.992]
+Leerungen
+2,20
+MGB 660 1 (kurz)
+380]
+_Leerungen
+3,67
+MGB 660 | (lang)
+260]
+_Leerungen
+5,50
+MGB 1.100 I (kurz
+4.612]
+Leerungen
+4,42
+MGB 1.100 I (lang]
+2.428|
+Leerungen
+6,63
+
+2.187)
+1.043
+4.217
+2.888
+43.659)
+28.582
+1.395
+1.430
+20.385
+16.098
+
+0,73
+110
+0,88
+1,32
+1,47
+2,20
+3,67
+3,50
+442
+6,63
+
+2.187
+1.043
+4.217
+2.888)
+43.659
+28.582
+1.395
+1.430
+20.385)
+16.098
+
+gesamt Zuschläge f. Transportentfernungen - Rest-/Bioabfallbehäll
+
+121.884)
+
+121.884]
+
+Insgesamt
+
+27.321.090
+
+27.825.786)
+
+Insgesamt sind Kosten zu verrechnen in Höhe von:
+
+27.827.892
+
+27.827.892
+
+-6.802
+
+-2.106
+
+Elektronikgeräte
+Entsorgung Grünabfälle
+bis 1 m?
+über I m?
+
+112.542]
+15.006
+
+gesamt Entsorgungsgebühren Grünabfälle
+
+Abstimmdifferenz
+
+92.736
+
+93.786
+
+
