@@ -1,0 +1,863 @@
+Landeshauptstadt
+Dresden
+Schulverwaltungsamt
+
+Anlage zur Vorlage Veränderung des investiven Haushaltes 2011
+
+Stand: 25.07.2011
+bisherige And.
+
+Projektnummer
+
+|Sachkonto
+
+Bezeichnung
+
+Anschrift
+
+Plan (alt)
+
+| HHErmächtigung
+
+Vorlage
+
+Plan (neu)
+
+360.570,00
+
+apl./üpl.S HHR
+
+1. Einnahmen
+1.1 Mehreinnahmen
+Pkt. 1
+
+|HI.4010802.E.705
+
+68110000
+
+80. Grundschule
+KPIL_GS._080,Sanierung,_Komplex
+
+Oskar-Seyffert-Str. 3
+01189 Dresden
+
+0,00
+
+0,00
+
+360.570.00|
+
+Pkt.2
+
+[HI.4030201.E.705
+
+68110000
+
+Vitzthum-Gymnasium
+GYM Vitzthum_Neubau_Komplex
+
+Paradiesstr. 35
+01217 Dresden
+
+0,00
+
+0,00
+
+309.000,00|
+
+68110000
+
+Schule Z. Lernförd, "Schule am Landgr.”
+KPH_FÖ Lemförd AmLa
+
+Pirnaer Landstr. 53-55
+
+Pkt.3
+
+IPkt.4
+
+|H1.4044081.E.705
+
+|70.409501.E.770
+
+168210000
+
+ındg raben
+
+San.
+
+Grundstücksverkauf ehemalige
+|42. Grundschule
+Verkauf von Grundstücken
+
+01237 Dresden
+
+0,00
+
+0,00
+
+202.960,001
+
+Thäterstraße 9
+[01139 Dresde
+
+0,00
+
+0,00
+
+340.000,00|
+
+|
+|
+
+309.000,00
+202.960,00
+
+340.000,00
+
+n
+
+Saldo Einnahmen
+
+1.212.530,00
+
+2. Ausgaben
+2.1 Minderausgaben
+Pkt. 5
+“
+
+HI.4010153.AK.50
+[H1.4010153.AK.70
+
+Pkt. &
+
+HI.4044061.AK.20
+|HI.4044061.AK.30
+HI.4044061.AK.70
+
+78510000
+
+Pk. 7
+
+H1.4030172.AK.70
+
+78510000
+
+“
+Pkt.8
+
+78520000
+
+Görlitzer Straße 8
+01099 Dresden
+
+Schule z. Lernförderung "A.S. Makarenko”
+Leisniger Straße 76 /
+|FÖ_Lemfäörd_Makarenko_Sanierung_GebäudlKonkordienstraße 12
+e (Schulverwaltungsamt)
+91127 Dresden
+
+Pestalozzi-Symnasium
+
+GYM_Pesta_Teilsanierung_SG_SPA
+
+Pestalozziplatz 22
+
+01127 Dresden
+
+120.000,00
+30.000,00
+
+0,00
+0,00
+
+-120.000,00
+-30.000,00
+
+0,00
+0,001
+
+49.350,00
+98.700,00
+16.450,00
+
+0,00
+130.000,00
+45.447,68
+
+-49.350,00
+-98.700,00|
+-16.450,00
+
+0.00|
+130.000,00)
+45.447,68)
+
+0,00
+
+20.000,00
+
+-20.000,00
+
+0,00|
+
+150.000,00
+
+266.058,79
+
+-47,500,00|
+
+368.558,79
+
+157.500,00
+
+53.066,14
+
+-107.500,00|
+
+103.066,14|
+
+[61.05367/0901.AA
+
+78520000
+
+|EFN-Öffentliche nutzbare Grün- u Freiflä
+
+T1.63211.A66.B
+
+78520000
+
+|HI.4030221.AK.30
+
+78510000
+
+JEFN - kl. Straßenprojekte EFRE
+Gymnasium Bürgerwiese
+GYM Bürgerwiese_Neubau_Komplex
+
+Gret-Palucca-Str. 1
+[01069 Dresden
+
+1.900.000,00
+
+0,00
+
+-500.000,00|
+
+1.300.000,00;
+
+ehemaliges Fritz-Löffler-Gymnasium
+
+Bernhardstraße 18
+
+300.000,00
+
+0,00
+
+-68.620,00|
+
+231.380,00
+
+GYM
+
+01069 Dresden
+
+1.120.000,00
+
+0,00|
+
+-1.120.000,00
+
+0,091
+
+1,120.000,00
+
+0,00|
+
+-1.120.000,00
+
+0,00]
+
+HI.4030111.AK.20
+Pkt. 9
+
+15. Grundschule
+G$S_015_Neubau_Sportfreifläche
+
+|HI.4030111.AK.30
+
+HI.4030111.AK.40
+Saldo Minderausgaben
+
+78510000
+
+Fritz-Löffler Sanierung
+
+-
+
+m
+
+Gebäude
+
+9-
+
+|
+
+-3.398.120,00|
+
+|
+
+Seite 1 von 3
+
+Landeshauptstadt Dresden
+
+Anlage zur Vorlage Veränderung des investiven Haushaltes 2011
+
+Schulverwaltungsamt
+
+Stand: 25.07.2011
+
+biskerige And.
+
+Projektnummer
+
+|Sachkonto
+
+Bezeichnung
+
+Anschrift
+
+Plan (alt)
+
+| HHErmächtigung
+
+Vorlage
+
+Plan (neu)
+
+(apl/üpl./ HHR)
+
+2.2 Mehrausgaben
+Pkt. 10 |70.405901.720.402
+
+07600000
+
+BSZ für Elektrotechnik
+BSZ Ersatzbeschaffung Mobiliar
+
+[Pr
+
+|H1.4010802.AK.30
+
+78510000
+
+KPH
+
+[Pr 12 IH1.4021194.AK.30
+
+78510000
+
+[Pxt 43 H1.4030021.AK.30
+_
+]H1.4030021.AK.70
+Pkt. 14 T1.70111.A66.B
+“
+[71.70111.A66.V
+
+78510000
+
+11
+
+lext.
+
+15
+
+HI.4030142.AK.30
+HI.4030142.AK.40
+
+78520000
+
+78510000
+
+" 7 [H1.4030142.AK.50
+HI.4030142.AK.70
+
+Strehlener Platz 2
+01219 Dresden
+
+12.800,00
+
+0,00
+
+30.000,00)
+
+42.800,00
+
+01189 Dresden
+
+0,00
+
+852.356,28
+
+300.000.00
+
+1.152.356,28]
+
+Mittelschule Weißig
+| SW_MS,_Weißig_Mobile_Raumeinheiten
+
+Gönnsdorfer Weg 1
+01328 Dresden
+
+0,00
+
+0,00|
+
+44.750,00|
+
+44.750,00]
+
+[Berlolt-Brecht-Gymnasium
+GYM _Bertolt-Brecht_Teilsan._ Gebäude
+Gymnasium Bürgerwiese
+Gymnasium Bürgerwiese - Palucca-Sir.
+
+Lortzingstraße 1
+01307 Dresden
+Gret-Palucca-Str. 1
+01069 Dresden
+
+0,00
+0,00
+0,00
+0,00
+
+850.000,00
+130.283,36
+0,001
+0,00]
+
+500.000,00]
+25.000,00|
+550.000,00|
+50.000,00
+
+1.350.000,00
+155.283,36]
+550.000,00]
+50.000,00|
+
+Julius-Ambrosius-Hülße-Gymnasium
+
+Hülßestraße 16
+
+450.000,00
+0,00
+
+460.215,50
+438.787,08
+
+1.200.000,00]
+344.400,00]|
+
+2.110.215,50J
+783.187,08]
+
+GYM_Hülße_San_Neubau_Komplex
+
+[01237 Dresden
+
+80. Grundschule
+
+_
+
+GS
+
+080
+
+Oskar-Seyffert-Str. 3
+
+Sanierun 1gKom piex
+
+Romain-Rolland-Gymnasium
+
+132.876,02
+
+200.000,00|
+
+332.876,02]
+
+83.428,58
+
+200.000,00|
+
+333.428,58]
+
+723.400,00
+
+156.000,00
+
+0,00
+
+879.400.00)
+
+01307 Dresden
+
+40.000,00
+
+-40.000,00
+
+40.000,00
+
+40.000,00)
+
+500.000,00
+
+-110.000,00
+
+110.000,00
+
+500.000.00]
+
+0,00|
+
+141.395,42
+
+95.000,00)
+
+236.395,42
+
+07100000
+
+170.403001.710.402
+
+07100000
+
+HI.4030081.AK.40
+
+78510000
+
+Gymnasium Dresden-Klotzsche
+GYM Klotzsche Ersatzneubau_ Sporthalle
+
+Karl-Marx-Straße 44
+_|01109 Dresden
+
+H1.4030171.AK.30
+
+78510000
+
+[Pestalozzi-GSymnasium
+GYM Pestalozzi Teilsanierung
+
+Pestalozziplatz 22
+01127 Dresden
+
+HI1.4020561.AK.20
+
+78510000
+
+56. Mittelschule
+
+Cottbuser Straße 34
+01129 Dresden
+
+200.000,00
+
+-80.000,00
+
+80.000,00)
+
+200.000,00
+
+jPrt. 18 |H1.4044064.AK,50
+
+78510000
+
+Schule z. Lernförd. "A. S. Makarenko”
+SGPI-Umgestaltung Schulhof Makarenko
+
+Leisniger Straße 76
+01127 Dresden
+
+433.700,00
+
+117.000,00
+
+45.000,00|
+
+595.700,00)
+
+IPkt. 19 |HI.4044065,AK.,30
+
+78510000
+
+Schule z. Lernförd. “A. S. Makarenko"
+SGPI - Teilsanierung Schulteil Makerenko
+
+Konkordienstraße 12
+01127 Dresden
+
+700.000,00
+
+0,00
+
+651.500,00|
+
+1.351.500,00
+
+Schule z. Lernfärd, “Schule am Landgr.”
+
+Pirnaer Landstr. 53-55
+
+0,00
+
+156.044,14
+
+0,001
+
+156.044,14]
+
+1.150.000,00
+
+-145.000,00
+
+145.000,00|
+
+1.150.000,00
+
+Pkt. 17
+
+IPkt. 20
+
+"
+
+HI.4044081.AK.30
+
+78510000
+
+M.4010901.AK.40
+
+78510000
+
+Saldo Ausgaben
+Saldo Gesamt
+
+_Romain-Rolland_
+
+Weintraubenstr. 3
+
+70.403018.710.402
+IPkt. 16
+
+GYM
+
+0,00
+50.000,00
+
+_
+
+Abendgymnasium
+GYM
+
+Abend
+
+MS,_056,
+
+A
+
+Pfotenhauerstr. 42/44
+
+Sanierung, Neubau, Komplex
+
+90. Grundschule
+090
+
+01099 Dresden
+
+SG Mobiliar
+
+KPiL_FÖ_Lemförd
+GS
+
+Ausstattung
+
+Sanierung
+
+AmLandgraben
+Neubau
+
+San.
+
+Komplex
+
+01237 Dresden
+
+Kleinlugaer Straße 25
+
+01259 Dresden
+
+|
+
+4.610.650,00
+0,00
+
+Seite 2 von 3
+
+Landeshauptstadt Dresden
+Schulverwaltungsamt
+
+Projektnummer
+
+;
+n
+Anlage zur Ergänzung der Vorlage Veränderung des investiven
+Haushaltes 2011
+
+Sachkonto
+
+Bezeichnung
+
+ee
+
+EEE
+
+Anschrift
+#
+
+Re
+
+Plan (alt)
+
+Stand: 15.08.2011
+
+bisherige Änd.
+
+Vorlage
+
+| HHErmächtigung
+
+Er änzun
+
+apl/üpl.! HHR
+
+=
+
+8
+
+T
+
+FENdE
+
+9
+
+Plan (neu)
+
+Bene
+
+1. Ausgaben
+1.1 Minderausgaben
+
+HI.4030111.AK.20
+
+78510000
+
+ehemaliges Fritz-Löffler-Gymnasium
+
+GYM, Fritz-Löffler Sanierung Gebäude
+
+Bernhardstraße 18
+
+01069 Dresden
+
+300.000,00|
+
+s. Pkt. 9 Vorlage
+
+Saldo Minderausgaben
+
+7
+
+0.403016.720.402
+
+07100000
+07600000
+
+|,Marie-Curie-Gymnasium
+
+82.980,00
+
+j
+
+eaym
+
+|GYM_Marie-Curie_Ausstaltung
+
+_
+Zirkusstraße 7
+
+Auslagerung: Leutewitzer
+Ring 141,
+
+01169 Dresden
+
+0,00
+
+0,00
+
+66.400,00
+
+66.400,00
+
+0,00
+
+0,00
+
+82.000,00
+
+82.000,00
+
+Saldo Mehrausgaben
+
+148.400,00
+
+Saldo Gesamt
+
+70.400000.770.700
+
+148,400,00
+
+-148.400,00
+
+1.2 Mehrausgaben
+70.403016.710.402
+
+_
+
+0,00
+
+68210000
+
+Grundstücksverkauf ehemalige
+42. Grundschule
+Veräußerung von Grundstücken
+
+Thäterstraße 9
+01139 Dresden
+
+keine Änderung in Finanzierung zur Vorlage
+
+Begründung:
+Für die Sanierung und Erweiterung des Marie-Curie-Gymnasiums wird der Zuwendungsbescheid noch in 2011 erwartet. Um einen planmäßigen Bauablauf zu sichern, muss
+die Bauauslagerung in den Winterferien 2012 erfolgen. Als betriebstähiger Standort steht nur der Leutewitzer Ring 139/141 zur Verfügung.
+Zur Sicherstellung des Unterrichts sind noch Ausstattungen für Fachunterrichtsräume Naturwissenschaften einschließlich Vorbereitungsräume und teilweise Ergänzungen
+für die Essenausgabe vorzunehmen.
+Die Deckung erfolgt aus der Veranschlagung für die Reaktivierung des Schulstandortes Bernhardstraße 18. Die Planungsteistungen hierfür sind bereits beauftragt.
+Nach Abschluss der Planung und genauer Kenntnis der Gesamtkosten erfolgt eine Neuveranschlagung im Haushalt.
+Für die Buchung des Verkaufserlöses für den ehemaligen Schulstandort Thäterstraße 9 war die Projektnummer 70.409501.E.770 vorgesehen. Zur einheitlichen Buchung
+der Verkaufserlöse wurde jedoch in Abstimmung mit dem Liegenschaftsamt und der Stadtkämmerei noch eine technische Veränderung in der Projektnummer vorgenommen,
+Eine inhaltliche Veränderung in der Finanzierung besteht nicht.
+
+Seite 3von 3
+
+
