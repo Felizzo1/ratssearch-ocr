@@ -1,0 +1,68 @@
+D1
+
+Prinzipschnitt Rutsche (M 1:50)
+
+Hangrutsche aus Bestand
+
+Höhe Geländeanschluss
+
+[30cm
+
+Fallschutzkies 2/4
+
+MH 5cm
+
+Grabeschutz Dränbeton 2/8
+
+10cm
+
+Sauberkeitsschicht
+Mineralgemisch 0/32
+
+r Tcm
+
+Teppichviies
+
+„Absturzsicherung Holz
+
+H10cm
+
+Dränbeton C20/25 0/8
+
+|
+
+H 10cm
+
+Sauberkeitsschicht
+Mineralgemisch 0/32
+
+_Rutschenpodest,
+Holz
+
+LH
+2523 8]
+CAR
+24476
+
+‚Auslaufbereich Rutsche,
+Länge ca. 1m
+Einfassung Sandstein:
+24271
+
+1,00
+Tiefbord 8/25
+
+Höhe variiert,
+hier 24276
+
+nach Prüfung Rutschenverlauf: Ausbildung Sandsteimauer und
+Böschung ggf. baubedingt anpassen (in Abstimmung mit BÜ)
+Sandsteimauer: HB 0,5 x 0,25 m
+
+245,90
+v,
+Tg]
+<
+-;
+
+
