@@ -1,0 +1,231 @@
+Hausmitteilung
+
+Dresden.
+
+X]
+
+JDFSegeN'
+
+Landeshauptstadt Dresden
+
+U vertraulich
+
+Der Oberbürgermeister
+
+Dissidenten-Fraktion
+
+GZ:
+
+(OB) GB2
+
+im Stadtrat der Landeshauptstadt Dresden
+Mitglied des Stadtrates
+Dr. Martin Schulte-Wissermann
+
+Datum:
+
+4 4, MRZ, 202,
+
+Mangelhafte Betreuung und fehlende Mittel für den IT-Support an Dresdner Schulen
+AF3751/24
+
+Sehr geehrter Herr Dr. Schulte-Wissermann,
+Ihre oben genannte Anfrage beantworte ich wie folgt:
+„Immer wieder erreichen mich Hinweise und Beschwerden von Eltern und Lehrkräften, dass
+die vorhandenen technischen Mittel an Dresdner Schulen vollkommen unzureichend seien.
+
+Vor allem wird immer wieder auf die Überlastung des IT-Supports hingewiesen.“
+l. Fragen zur Software
+
+1.
+
+„Welche Kosten entstehen jährlich für welche Software an den Dresdner Schulen? Welche
+
+Kosten entstehen im Detail für Lizenzen und Wartungsverträge?“
+Für den Betrieb der IT-Infrastruktur der kommunalen Schulen müssen für Softwarelizenzen und
+
+deren jährliche Wartung Mittel in Höhe von ca. 300.000 Euro aufgewendet werden. Dabei handelt es sich im Wesentlichen um Softwareprodukte zum Betrieb der Infrastruktur. Dazu gehören
+neben Lizenzen für den Virenschutz vor allen Dingen die Lizenzen für das Mobile-Device-Management (MDM), das Unterrichtsmanagement, die Wiederherstellungssoftware und die Software zur Erstellung von digitalen Tafelbildern. Zusätzlich entstehen bei der IT-Ersatzausstattung
+
+von Schulen Kosten für die Erneuerung der Lizenzen für die Betriebssystemsoftware der Schulserver.
+2.
+
+„Gibt es Studien oder Konzepte, um den Einsatz von Freier Software zu prüfen?“
+
+In der Vorbereitung von Beschaffungsprozessen prüft das Amt für Schulen, ob Alternativen zu
+kommerziellen Softwareprodukten eingesetzt werden können. Grundsätzlich besteht für kommunale Schulen Lehr- und Lernmittelfreiheit, im Rahmen dieser kann auch kostenpflichtige Software eingesetzt werden, welche jedoch aus dem Schulbudget der jeweiligen Schule finanziert
+
+werden muss. Besonders bei den berufsbildenden Schulen ist oftmals der Einsatz von kostenpflichtiger ausbildungsrelevanter Software zu verzeichnen.
+
+-2-
+
+Das Amt für Schulen unterstützt ausdrücklich den Ansatz der sächsischen Schulcloud (LernSax)
+für die Vorbereitung und Durchführung des Unterrichts vorwiegend kostenfreie Software einzusetzen. Dabei wird beispielsweise im Bereich der Office-Software grundsätzlich Libre-Office bzw.
+Only-Office bei der Installation der Client-Geräte installiert.
+|
+3.
+
+„Gibt es Konzepte, die die Abhängigkeit zu Softwarefirmen außerhalb der EU (wie bspw.
+Microsoft, Google und Apple) senken? Wenn ja, welche?“
+
+Grundsätzlich wird der Einsatz der Cloud-Lösungen der benannten Anbieter mit personifizierten
+Benutzerkonten durch das Amt für Schulen als Schulträger nicht unterstützt.
+Da Endgeräte mit Windows- oder Applebetriebssystem eingesetzt werden, ist ein gänzlicher Verzicht der Nutzung der IT- Lösungen von Microsoft und Apple in der Praxis nicht möglich.
+Da aktuell der Einsatz von nicht europäischen Softwareprodukten in Schulen nicht ausgeschlossen werden kann, ist die Erstellung von entsprechenden Konzepten nicht zielführend.
+4.
+
+„Wer istfür die Weiterbildung der Nutzer:innen zuständig? Mit Nutzer:innen sind hier
+und im Folgenden die Verantwortlichen für die IT an Schulen sowie die Lehrkräfte, die die
+Geräte nutzen, gemeint.“
+
+Für die Weiterbildung der Lehrkräfte ist ausschließlich der Arbeitgeber der Lehrkräfte, hier das
+
+Staatsministerium für Kultus (SMK) des Freistaates Sachsen, zuständig.
+Im Rahmen einer Kooperation mit dem SMK stellt die Landeshauptstadt Dresden (LHD) für das
+Medienpädagogische Zentrum Räumlichkeiten sowie die IT-Ausstattung zur Durchführung von
+Weiterbildungen, insbesondere von in den Dresdner Schulen bereitgestellter Hard- und Software, zur Verfügung.
+
+5.
+
+„Nach welchen Verwaltungsvorschriften werden Weiterbildungen geregelt?”
+
+Der LHD liegen keine Informationen zu Verwaltungsvorschriften des SMK vor, welche die Weiter-
+
+bildung der Lehrkräfte regeln.
+6.
+
+„Welche verpflichtenden Weiterbildungen gibt es für die Nutzer:innen?“
+
+Seitens der LHD gibt es keine verpflichtenden Weiterbildungen für die Nutzerinnen und Nutzer
+in den Schulen.
+7.
+
+„Welche Weiterbildungsangebote werden in welchem Umfang von den Nutzer-innen genutzt?“
+
+Die Weiterbildung der Lehrkräfte liegt ausschließlich im Verantwortungsbereich des SMK.
+Die Weiterbildungsangebote zum pädagogischen Einsatz der durch die LHD bereitgestellten ITInfrastruktur (Mobile-Device-Management, Klassenraummanagement) im Medienpädagogi-
+
+schen Zentrum werden nach Aussage der Leitung des MPZ rege genutzt und sind regelmäßig
+ausgebucht.
+
+ll. Fragen zur Hardware
+
+9.
+
+„Nach welchen Kriterien werden Geräte für die Schulen ausgewählt?”
+
+Bei der IT-Ausstattung der Schulen gilt der Grundsatz „Technik folgt Pädagogik“. Das heißt, dass
+neben den Kriterien wie Langlebigkeit, Homogenität, Ausfallsicherheit und Effizienz der pädagogisch sinnvolle Einsatz der Geräte oberste Priorität hat. Die Grundlagen der pädagogischen Anforderungen werden durch die Schulen in den jeweiligen Medienbildungskonzepten beschrieben.
+
+l
+
+&
+r
+
+10.
+
+„Welche Ausschreibungen sind hierfür einzusehen?”
+
+Für die Beschaffung der IT-Endgeräte (PCs, Notebooks, Tablets) wurden Rahmenverträge mit
+verschiedenen regionalen Systemhäusern abgeschlossen, mit deren Hilfe die IT-Ausstattung der
+Schulen vorgenommen werden. Aufgrund der Auftragshöhe erfolgte eine Beteiligung des Ausschusses für Wirtschaftsförderung im Rahmen des Vergabeverfahrens.
+11.
+
+„Wie können Schulen auf die Auswahl der Geräte Einfluss nehmen und in welcher Form
+
+werden diese berücksichtigt?“
+Die Schulen können auf der Grundlage ihrer jeweiligen Medienbildungskonzepte aus dem Pool
+der in den Rahmenverträgen zur Verfügung stehenden Gerätetypen auswählen.
+12.
+
+„Wie erfolgt die Qualitätskontrolle des Supports bzw. der angeschafften Geräte?“
+
+Die Grundlage für den Support der IT-Ausstattung in den Schulen bildet ein Betriebskonzept,
+welches in regelmäßigen Abständen fortgeschrieben wird. In dem Betriebskonzept sind die Aufgaben für den Supportdienstleister sowie die Mitwirkungspflichten des Auftraggebers und der
+Schulen beschrieben. So findet schulartabhängig mindestens einmal jährlich eine generelle Wartung der IT-Ausstattung inkl. eines Auswertungsgesprächs mit der verantwortlichen IT-Lehrkraft
+der Schule statt. Die dabei zu erstellenden Protokolle werden wiederum im Sachgebiet Schuldigi-
+
+talisierung/MPZ des Amtes für Schulen ausgewertet.
+13. „Welche Konzepte zu “Green-IT”, also der nachhaltigen Nutzung von IT Geräten, gibt es?”
+Bei der Vorbereitung der Vergabeverfahren zur Beschaffung von Hardware für die ITAusstattung der Schulen wird immer auch Wert auf die Zertifizierung der Hersteller nach den bekannten Umweltprüfzeichen (z.B. Blauer Engel) gelegt. In Abstimmung mit dem Zentralen Vergabebüro der LHD wird dabei die Einhaltung der nach Vergaberecht geforderten Standards geprüft.
+Gemeinsam mit den Supportdienstleistern werden laufend Maßnahmen zur Stromeinsparung
+beim Betrieb geprüft und umgesetzt. Zum Beispiel werden dazu ab dem 1. März 2024 alle PCs
+und Notebooks nachmittags automatisiert ausgeschaltet.
+Nach der Aussonderung der IT-Ausstattung wird diese an ein auf die Wiederaufbereitung, Erstbehandlung und Entsorgung von IT-Hardware für Behörden und Unternehmen spezialisiertes
+Unternehmen übergeben.
+
+_
+
+Ill. Fragen zum Personal
+14. „Wie viele Nutzer:innen gibt es?”
+Die IT-Ausstattung in den Schulen wird von ca. 63.000 Schülerinnen und Schülern sowie ca.
+4.500 Lehrkräften genutzt.
+17. „Wie viele Administrator:innen gibt es pro Nutzer:innen pro Schule?“
+An jeder Schule gibt es abhängig von der Schülerzahl einen oder mehrere Lehrkräfte, welche im
+Rahmen der Abordnungsmöglichkeiten der Schulleitungen pädagogische IT-Aufgaben neben Ihrer Lehrertätigkeit wahrnehmen. Diese so genannten PITKOs (Pädagogische IT-Koordinatoren)
+sollen Trivialprobleme lösen können und bei größeren Störungen qualifizierte Fehlermeldungen
+an den First-Level-Support weiterleiten.
+Den eigentlichen IT-Support für die Schulen erbringt der zuständige IT-Dienstleister. Hier stehen
+für alle kommunalen Schulen 10 Mitarbeiterinnen und Mitarbeiter zur Verfügung.
+Anhand der Ausführungen wird deutlich, dass ein konkretes Verhältnis zwischen administrativen
+Mitarbeiterinnen und Mitarbeitern sowie Schülerinnen und Schülern nicht angegeben werden
+kann.
+18.
+
+„Ist dieses Verhältnis vergleichbar zu mittleren bzw. großen Unternehmen?“
+
+Ein quantitativer Vergleich des IT-Supports zwischen Unternehmen/Verwaltungen und Schulen
+ist objektiv kaum möglich, weil in Verwaltungen und Unternehmen in der Regel eine Eins-zuEins-Ausstattung von Nutzern und IT-Endgeräten zu betreuen ist. Bei den im schulischen Umfeld
+eingesetzten Shared-Geräten handelt es sich um ein völlig anderes Nutzungsverhalten, welches
+auch eine ganz andere Herangehensweise an den IT-Support verlangt. Im schulischen Umfeld
+wird mit Image-Lösungen zur Wiederherstellung der Endgeräte gearbeitet, welche die Rechner
+bei jedem Neustart in einen von Schule und Support festgelegten Ausgangszustand versetzt.
+Dadurch reduziert sich der eigentliche Support- Aufwand zur Pflege der PCs und Notebooks er-
+
+heblich.
+Ein großer Unterstützungsaufwand entsteht vielmehr bei der Anwenderbetreuung, welche man
+aber nicht mit klassischen Administrationsaufgaben gleichsetzen kann. Hier sieht auch die LHD
+einen hohen Bedarf, welcher mit den zur Verfügung stehenden Mitteln jedoch nicht gedeckt
+werden kann.
+19. „Welche Kooperationen mit der Landesschulbehörde, um die Zusammenarbeit von externen IT-Administrator:innen sowie PITKos zu unterstützen, gibt es?“
+Wie bereits bei der Antwort zur Frage 4. dargestellt, betreibt die LHD gemeinsam mit dem Landesamt für Schule und Bildung das Medienpädagogische Zentrum Dresden. Im MPZ finden Schulungen zur Nutzung der den Schulen durch die LHD bereitgestellten IT-Ausstattung statt. Zur Vorbereitung der Schulungen durch die abgeordneten Lehrkräfte gibt es einen regelmäßigen Austausch zwischen den Supportmitarbeiterinnen und Supportmitarbeitern sowie den Mitarbeitern
+des Sachgebiets Schuldigitalisierung/MPZ des Amtes für Schulen.
+
+20.
+
+„Wie lange dauert durchschnittlich die Bearbeitung eines Support-Tickets?“
+
+Die Bearbeitungszeit eines Support-Cases ist sehr stark von dem jeweiligen Fall abhängig. Insbe-
+
+sondere bei Cases, bei denen Reparaturen oder Ersatzbeschaffungen nötig sind, wird die Bearbeitungszeit extrem von der Verfügbarkeit der Ersatzteile oder neuer Technik beeinflusst.
+Dadurch kann die Zeitspanne zwischen der Meldung eines Supportfalls und der Lösung des Cases
+von einer Minute bis zu mehreren Wochen betragen.
+
+21. „Erfolgte die Antwort auf Support-Tickets nach Industriestandard bzw. Norm im gewerblichen Bereich?“
+Die Beantwortung der Supportanfragen erfolgt nach dem Industriestandard ITIL (Information
+Technology Infrastructure Library).
+22.
+
+„Wie gut erfolgt der Support für BYOD-Konzepte in Schulen?“
+
+Aus Sicherheitsgründen dürfen in den Schulen private Endgeräte weder im pädagogischen Netzwerk noch im Verwaltungsnetzwerk genutzt werden.
+
+Um dennoch einen Internetzugang mit privaten Endgeräten zu ermöglichen, wird in den Schulen
+ein gesondert von den schulischen Netzen getrenntes WLAN zur Verfügung gestellt. Dabei entscheidet jede Schule auf der Grundlage der Medienbildungskonzepte, ob die Nutzung nur für
+Lehrkräfte oder aber auch für Schülerinnen und Schüler möglich sein soll. Aufgrund der großen
+Bandbreite von Endgeräten, kann die Nutzung mit jedem Endgerät jedoch nicht garantiert wer-
+
+den.
+23. „Nach welcher Ausschreibung übernimmt der Eigenbetrieb IT im Auftrag der LHD den IT
+Support der Schulen?“
+Neben dem Eigenbetrieb IT-Dienstleistungen (Support für Telekommunikation und Mitarbeiterinnen und Mitarbeitern der LHD in den Schulen) wird ein großer Teil der Supportaufgaben
+durch die Dresden-IT GmbH (hundertprozentige Tochter der LHD) übernommen. Die Vergabe
+der Leistungen erfolgt bei beiden Unternehmen auf der Grundlage der Inhouse-Fähigkeit.
+Mit fre
+
+/
+Dirk Hilbert
+
+en Grüßen
+
+
