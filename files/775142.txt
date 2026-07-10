@@ -1,0 +1,250 @@
+Anlage 3b Finanzielle Auswirkungen - Nachweis der Abbildung der Kosten in den Haushalten der Ämter und Eigenbetriebe
+
+Strom
+Amt für Hochbau und Immobilienverwaltung
+Brand- und Katastrophenschutzamt
+Amt für Schulen
+Straßen- und Tiefbauamt
+Amt für Stadtgrün und Abfallwirtschaft
+Amt f. Wirtschaftsförderung
+Umweltamt
+Sozialamt
+Jugendamt
+Eigenbetrieb Sportstätten Dresden
+Eigenbetrieb Kindertageseinrichtungen
+Eigenbetrieb Städtisches Friedhofs- und Bestattungswesen
+Eigenbetrieb Heinrich-Schütz-Konservatorium
+Eigenbetrieb Städtisches Klinikum Dresden
+SUMME
+
+2025
+2.750.000 €
+705.000 €
+4.000.000 €
+4.430.000 €
+120.750 €
+163.750 €
+25.000 €
+1.410.000 €
+33.600 €
+1.750.000 €
+808.500 €
+194.400 €
+55.000 €
+4.453.000 €
+20.904.000 €
+
+2026
+2.750.000 €
+705.000 €]k.A.
+4.200.000 €
+4.570.000 €]k.A.
+120.750 £|k.A.
+145.350 €|k.A.
+25.000 €]k.A.
+1.570.000 £]k.A.
+33.600 €]k.A.
+1.700.000 €
+848.925 €]K.A.
+213.850 €
+61.000 E|k.A.
+4.564.325 €
+21.513.300 €
+
+Erdgas
+2027
+2.750.000 €
+
+2028]
+2.750.000 €
+
+2025
+500.000 €
+60.000 €
+630.000 €
+770.000 €
+
+k.A.
+4.410.000 €
+
+4.630.500 €
+k.A.
+k.A.
+k.A.
+k.A.
+k.A.
+k.A.
+
+1.700.000 €
+
+k.A.
+
+k.A.
+100.000 €
+7.500 €
+430.000 €
+357.000 €
+264.000 €
+
+1.700.000 €
+k.A.
+
+227.300 €
+
+241.900 €
+k.A.
+
+4.678.433 €
+
+4.795.394 €
+
+309.000 €
+3.427.500 €
+
+2026
+500.000 €
+60.000 €]k.A.
+661.500 €
+870.000 € |k.A.
+k.A.
+100.000 € |k.A.
+7.500 € |k.A.
+415.000 €
+374.850 €
+316.500 €
+316.725 €
+3.622.375 €
+
+2027
+500.000 €
+
+2028]
+500.000 €
+k.A.
+
+695.000 €
+
+730.000 €
+k.A.
+k.A.
+k.A.
+k.A.
+
+415.000 €
+
+415.000 €
+
+348.500 €
+
+333.350 €
+-
+
+324.643 €
+
+332.759 €
+
+Strom
+Sachkonto
+Amt für Hochbau und Immobilienverwaltung
+Brand- und Katastrophenschutzamt
+
+42410100
+42410100
+
+Amt für Schulen
+Straßen- und Tiefbauamt
+
+42410100
+42711000
+
+Amt für Stadtgrün und Abfallwirtschaft
+Amt f. Wirtschaftsförderung
+Umweltamt
+Sozialamt
+
+42410100
+42410100
+k.A.
+42410100
+42410100
+
+PSP-Element
+10.100.11.1.6.02
+10.100.12.5.0.01; 10.100.12.5.0.02;
+10.100.12.6.0.01; 10.100.12.7.0.01;
+10.100.12.8.0.01
+diverse
+10.100.54.1.0.01, 10.100.54.2.0.01,
+10.100.54.3.0.01, 10.100.54.4.0.01,
+10.100.54.9.0.03
+10.100.55.1.0.01
+10.100.57.3.0.01
+k.A.
+10.100....
+10.100.36.4.8.01
+
+54000200
+eigene Sachkonten des EB
+6323; 6328; 6329
+k.A.
+eigene Sachkonten des EB
+
+10.100.42.4.1.01
+10.100.36.5.0.01
+20201: 12787: 30285; 20201
+k.A.
+k.A.
+
+Jugendamt
+
+Eigenbetrieb
+Eigenbetrieb
+Eigenbetrieb
+Eigenbetrieb
+Eigenbetrieb
+
+Sachkonto
+
+42410200
+42711100
+
+PSP-Element
+10.100.11.1.6.02
+10.100.12.5.0.01; 10.100.12.5.0.02;
+10.100.12.6.01; 10.100.12.7.0.01;
+10.100.12.3.0.01
+diverse
+10.100.54.9.0.03
+
+k.A.
+42410200
+42410200
+
+k.A.
+10.100....
+10.100.36.4.8.01
+
+54000400
+eigene Sachkonten des EB
+6322
+k.A.
+eigene Sachkonten des EB
+
+10.100.42.4.1.01
+10.100.36.5.0.01
+20201
+k.A.
+k.A.
+
+42410200
+42410200
+
+10.100.36.7.0.02
+
+Sportstätten Dresden
+Kindertageseinrichtungen
+Städtisches Friedhofs- und Bestattungswesen
+Heinrich-Schütz-Konservatorium
+Städtisches Klinikum Dresden
+
+

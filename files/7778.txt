@@ -1,0 +1,507 @@
+Regelquerschnitt
+
+A-A
+
+Haltestelle: Alberfhafen
+
++
++
+
+1,00
+
+5,40
+
++
+
+1,20
+
++
+
+3,00
+
+Haltestelle
+
+q
+
+4
+
++
+
+14,00
+
+|
+
+2,00
+
++
+
+-Raumfuge im Beton
+überklebt mit Bitumenschweißbahn
+
+I
+
+—
+
+|
+|
+
+Dresden
+
+Ku
+
+|
+
++
+
+Haltestelleninsel
+
+und bituminös vergießen
+
+Ku
+
+DIN EN 1340-T 8x20
+jun
+
+1.20
+
+— -Mittellängsfuge schneiden
+
++
+
+2,00
+
+Betontiefbord
+
+in Beton [12/15
+
++
+
+Gleisbereich
+
+|
+
+4
+
++
+
+gun
+
+—
+
+u
+
+1]
+FG)
+
+w
+5
+
+Dresdner Combibord-Z
+(Verlegung laut
+Verlegerichtlinie)
+
+Ki
+2.Q
+os
+
+antrat |
+
+|
+
+Een
+
+.E
+
+se
+
+I
+
++
+
+Re
+
++19
+
+zT
+
+7
+25% 4 —
+
+:
+
+25
+
+3%
+
+E00
+r
+\
+
+|
+
+e
+
+|
+
+a
+
+i
+|
+
+j
+
+Spritzschutzgeländer
+
+DIN 483-H 15x30
+
+(Verlegung laut
+Verlegerichtlinie)
+
+8
+
+|
+
+|
+anthrazit
+
+N
+
+wo
+
+o,
+
+254
+
+—
+
+in Beton C 12/15
+a
+
+|
+
+Vai: I, BE
+
++19
+
+|
+
+|
+
+m]
+
++
+
+—> 15%
+
+—
+
+0
+
+) N
+
+L__--.-
+
+|
+
+|
+
+Dränage
+
+DN150
+
+Filtermaterial Kies 8/16
+
+Anschluss an KanadO_
+
+2
+
+++
+
+|
+
+Nr.
+
+Datum
+
+Name
+
+Änderung
+
+N
+
+|
+
+u
+
+vorh. Grünfläche
+
+r—— Betonhochbord
+
+.
+
+u
+
+|
+
+F
+
+Dresdner Combibord-Z
+
+HS
+DO
+os
+
+«
+
+N
+
+|
+
+|
+
+ul
+
++
+
+|
+—]
+
+2
+
+2,60
+vorh. Gehweg
+
+1
+
+eo)
+alu
+
++
+
+H
+
+|
+
+215
+
+10,00
+vorh. Fahrbahn
+
+i
+
+FE
+
+u
+
+|
+
+Trenn- und Filfer-
+
+Entwurfsbearbeifung:
+IBK Dresden GmbH
+
+—
+
+Kesselsdorfer Straße 88
+
+vlies 200 g/m
+
+--I__--L_-
+
+-------L-
+
+IX”
+
+Telefon +49 (251) 429 070
+
+INGENIEURBÜRO
+
+Ei blerngibk-cresdennet
+Internet: www.ibk-dresden.net
+
+KOMPLEXER
+
+—_
+
+30 cm Gesamtaufbau
+
+(auf Planum Ev2z245MN/m’)
+
+13 cm Rillenschiene 53R1 einschl. Kleineisen und
+
+Schienenkammerelement
+
+1 cm Zwischenlage
+
+ZW aus PU-Elastomer
+
+148x110x10
+
+22,5 cm TB/ZB-1450 K-W25 Sp, mit Spindel zur Justierung
+der Höhenlage
+
+1. cm Gussasphalt, MA 11 5, 20730
+
+(zuzüglich Mehrdicke für Dachprofil)
+
+Planungsphase:
+
+30 cm Gesamtaufbau
+
+Vorhaben:
+
+(auf Planum Ev2;245MN/m’)
+
+22,5 cm Beton [25/30 (LP)
+
+25-34 cm Schottertragschicht 0/32 (Ev»2150 MN/m’)
+20 cm Zementverfestigung (Verfestigung von
+Mineralgemisch im Zentralmischverfahren
+
+15 cm Bahnsteigplatte, BP 1000 mit Blindenleitplatte
+M
+
+ID30 cmcm Aufiagefläche
+Befon L12/ 57
+Schottertragschicht 0/45 (Ev2280MN/m‘)
+
+Aufgestell
+Drescen
+
+55 cm Gesamtaufbau
+
+81,5-90,5 cm Gesamtaufbau
+
+81,5-90,5 cm Gesamtaufbau
+
+55 cm Gesamtaufbau
+
+Dresdner Verkehrsbetriebe AG
+
+(auf Planum Evz245MN/m’)
+
+gemäß
+ZTVE-StB 94, Pkt. 11 mit hydr. Bindemittel,
+Druckfestigkeit nach 28 Tagen >10 N/mm‘)
+
+(auf Planum Ev2245MN/m’)
+
+aus
+
+.
+
+|
+0 r
+
+Auftr.-Nr.
+la N U N
+
+b
+
+h
+
+bi
+
+d
+
+radenDannanbIndung
+
+.
+Richtung
+
+15034_L3\U_O6_LRQ A-A.PLT\U_O6_LRU
+
+09.09.09
+
+Aahtihr,
+
+Messe/ÜOstragehege
+
+25-34 cm Schottertragschicht 0/32 (Ev22150 MN/m?)
+20 cm Zementverfestigung (Verfestigung von
+Mineralgemisch im Zentralmischverfahren
+
+gemäß
+ZTVE-SIB 94, Pkt. 11 mit hydr. Bindemittel,
+Druckfestigkeit nach 28 Tagen 210 N/mm’)
+
+ß
+
+Flade
+
+Center Infrastruktur
+
+P
+St
+
+09.09.09
+
+Unterlage: | Anlage 2.4
+
+\
+
+10 cm Asphaltbinder, AC 16 BS, 30/45
+
+Name
+
+Walther
+
+Dresdner Verkehrsbetriebe AG
+Tel.: 0351/85 7-2136
+
+8 cm Betonpflaster, gefast (grau)
+3 cm Bettung (Brechsand-Splitt-Gemisch, 2/5)
+19 cm Frostschutzschicht 0/32 gebrochenes Material
+
+15 cm Bahnsteigplatte, BP 1000 mit Blindenleitplatte
+\
+
+DD30 cmcm Aufagefläche
+Befon L12/5
+Schottertragschicht 0/45 (Ev2280MN/m')
+
+gezeichne
+u
+
+- Engineering -
+
+|
+
+Datum
+
+09.09.09
+
+ichnet
+
+VERKEHRS-& TIEFBAU
+
+geprüft
+
+Vorhabenträger:
+
+8 cm Betonpflaster, gefast (grau)
+3 cm Bettung (Brechsand-Splitt-Gemisch, 2/5)
+19 cm Frostschutzschicht 0/32 gebrochenes Material
+
+bearbeitet
+
+.
+.
+Friedrichstadt
+
+05.09.09
+
+Ü
+,
+
+Regelquerschnitt
+Maßstab:
+
+A - A
+
+1.50
+'
+
+GARD/I
+
+
