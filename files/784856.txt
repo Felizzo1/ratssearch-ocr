@@ -1,0 +1,60 @@
+(N
+IN
+A
+
+>z
+
+R
+
+- Der neue Mast (5,0 m freie Länge) ist in der Rücklage des Gehweges
+unmittelbar vor der Gehwegsgrenze (Zaun) in einem Hülsenfundament
+zu stellen und so auszurichten, dass sich die Masttüröffnungen im
+® rechten Winkel zur Gehweglängsachse befinden.
+*- Zur Anbindung des neuen Mastes ist das Streckenkabel NYY-J 4x10
+< zu schneiden, die Kabelenden sind leitwertgleich zu verlängern und
+in den neuen Mast einzubinden.
+
+If?
+
+MD
+
+Landeshauptstadt Dresden
+Straßen- & Tiefbauamt; Öffentliche Beleuchtung
+Spenerstraße Anlagenerweiterung
+
+Maßstab
+
+071.24
+
+1:500
+
+Erhaltungsmaßnahme
+Stadt
+
+Dresden
+
+AutoCad 2013
+Datei:
+
+Spenerstraße.dwg
+
+Auftraggeber
+Blattanzahl 1
+
+Amt 66
+Blatt 071-24-01
+
+Lagebezug
+
+RD 83
+
+gezeichnet :
+geprüft
+
+/erstellt: F.Müller
+
+:
+
+Dresden, den 24.10.2024
+
+

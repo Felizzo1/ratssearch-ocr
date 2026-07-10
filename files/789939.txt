@@ -1,0 +1,43 @@
+Grenzen
+Stritlige Grenze
+Nicht festgestellte Grenze
+Grenze der Flur
+Grenze der Gemarkung
+Grenze der Bundesrepublik Deutschland
+Grenze des Bundeslandes
+Grenze des Landkreises
+Grenze der Gemeinde
+
+‚ Flurstücke
+
+Fläche
+Fläche Zukauf
+Zukauf 339
+339 m²
+m?
+
+Kl Besen:
+Herausgeber:
+Hersteller:
+Maßstab:
+Bezugssysteme:
+Datenquellen:
+
+LHDD, GB6
+AHI, 65.52
+1:250
+ETRS89_UTM33; NHN im DHHN2016
+Geodaten der Landeshauptstadt Dresden;
+Bestandsdaten des Liegenschaftskatasters,
+GeoSN, di-de/by-2-0
+Geodaten des Landesamtes für
+Geobasisinformation Sachsen (GeoSN),
+di-de/by-2-0;
+Ausgabe vom:
+06.10.2022
+Nur für den Dienstgebrauch
+Der Inhalt dieser Karte ist nicht rechtsverbindlich.
+Verarbeitung unter Verwendung elektronischer Systeme und Verbreitung
+nur mit schriftlicher Genehmigung d. Herausgebers. Die analoge Vervielfältigung u.Weitergabe für eigene, nicht gewerbliche Zwecke ist gestattet.
+
+
