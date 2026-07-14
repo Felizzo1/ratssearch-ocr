@@ -1,0 +1,355 @@
+Baunutzungskosten
+Bezeichnung
+Baumäßnahme
+
+1)
+
+Dresden, Um- und Erweiterungsbau des
+
+Beitrag zu den entstehenden
+
+Marie Curie Gymnasiums
+
+jährlichen Haushaltsbelastungen
+- 8 24 Abs. 1 SäHO -
+
+mit Neubau einer Dreifeldsporthalle
+
+Zirkusstraße 7, 01069 Dresden
+
+Liegensch.-Kenn-Nr. (LKNR)
+
+Bauwerk:
+
+Planungsdaten (DIN)
+
+ft
+3)
+
+BRIa
+
+2)*)
+
+IHnr: 6.969m?/ NF: 7.951m?
+
+4
+
+300 KVA
+
+Elektrische Anschlußleistung
+
+900 kW
+
+[Wämnelistuns
+
+Gt
+
+61550 m3
+
+Betriebskosten
+1
+
+2
+Einheit
+
+Kostengruppe
+gemäß DIN 18960
+
+5,1
+
+3
+
+Gebäudereinigung
+
+4
+
+Kosten/
+NF
+(EUR/m?a)
+
+-
+
+10,68 €
+
+5
+
+Kosten/
+Einh.
+(EUR)
+
+Kosten/
+Jahr
+(EUR/a)
+
+84.917 €
+
+84.917,00 €
+
+15.2.1
+
+[Abwasser
+
+m?
+
+0,48
+
+1,73€
+
+3.816,48 €
+
+15.2.2
+
+|Wasser
+
+m’
+
+0,25
+
+0,91 €
+
+1.987,75 €
+
+15.2
+
+Abwasser und Wasser
+
+15.3
+
+Wärme/Fernwärme/-kälte
+
+5.4
+
+Strom
+
+5.5
+
+Wartung Heizung/Lüftung
+
+m?
+
+*)
+
+5.6
+
+Wartung Wasser/Abwasser
+
+57
+
+Wartung Elt-Anlagen
+
+15.8
+
+Wartung/Pflege Außenanlagen
+
+MWh
+
+975€
+
+Verkehrs- und Grünflächen
+
+5.10
+
+-
+
+71,33 €
+
+Summe 5.1 bis 5.8
+
+5.9
+
+-
+
+MWh
+
+”
+
+ISonstiges (BS-Türen)
+
+Summe 5.1 bis 5.10
+
+7
+
+8
+
+Anteill
+
+Verbrauch/
+
+Vertnuen!
+
+(v.H.)
+
+Jahr
+(Einh./a)
+
+N
+(kWh/m?a)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+58.280,83 €
+220,00 €
+
+-
+
+77.550,00 €
+
+352,00 €
+
+44,30 €
+
+5.000,00 €
+4.000,00 €
+
+-
+
+5.150,00 €
+
+-
+
+277.744,28 €
+
+31.237,99 €
+
+-
+
+in Pkt.5.8
+
+ne
+ersonalkosten
+
+-
+
+een
+
+der
+
+bei
+
+Einsatz von
+
+4.260,00 € verwaltungseigenem Personal
+
+-
+
+282.004,28 €
+
+IBauunterhaltungskosten (Abschnitt C Nr. 2)
+
+EUR
+
+|Baunutzungskosten
+
+EUR
+
+Aufgestellt
+
+5.804,23 €
+
+6
+
+EUR
+
+(ohne Bauunterhaltskosten)
+
+Nutzende/hausverwaltende Dienststelle
+(Datum, Unterschrift, Funktionsbezeichnung)
+1)
+
+Bezeichnung wie Erläuterungsbericht, Muster 7
+
+2) Hauptnutz-/ Nutzfläche nach DIN 277 ats Bazugsgrößse gemäß
+B
+rh
+dnungskatalog sowie Kurzinformation und LAG-Datei
+3) Bruttorauminhalt nach DIN 277
+4) mittlere Gradtagszahl (s. VD! 2087)
+
+*)
+
+Nichtzutreffendes bitte streichen
+
+NF = HNF + NNF
+
+716
+Landeshauptstadt Dresden
+
+07.08.2009
+
+Schulverwaltungsamt
+
+Schulbauten /Schulentwicklung
+Bedarfsermittlung Marie-Curie-Gymnasium, Zirkusstraße 7, 01069 Dresden
+
+Das Marie-Curie-Gymnasium liegt im Ortsamt Altstadt bzw. im innerstädtischen Planungsbereich entsprechend der Fortschreibung der Schulnetzplanung, Planteile
+Grundschulen, Mittelschulen und Gymnasien, und versorgt Schüler aus dem gesamten Stadtgebiet mit gymnasialen Bildungsangeboten. Das naturwissenschaftlich,
+künstlerisch und gesellschaftswissenschaftlich profilierte Gymnasium hat eine große
+gesamtstädtische Bedeutung. Im Schuljahr 2008/09 besuchten insgesamt 741 Schüler, davon ca. 45 % Mädchen, das Marie-Curie-Gymnasium.
+Prognostizierte Schülerzahlen des Marie-Curie-Gymnasiums
+Schuljahr
+2008/09:
+2009/10
+2010/11
+
+Schüler Klasse 5
+112
+106
+104
+
+|
+
+Klassen
+4
+4
+4
+
+Quellen: 2008/09 Schuljahresanfangsstatistik, 2009/10 Aufnahmeverfahren Mai 2009, 2010/11 Prognose
+
+Das Marie-Curie-Gymnasium ist derzeit auf zwei Standorte verteilt. Die Kapazität des
+Stammhauses auf der Zirkusstraße 7 beträgt zwei Züge, die des Schulteils am Terrassenufer 15 ebenfalls. Der im Jahr 1960 eingeweihte Schulkomplex des Stamm‚hauses gehört zu den markantesten Schulgebäuden der DDR-Zeit und ist seit 2007
+in das Denkmalverzeichnis und den Denkmalplan der Landeshauptstadt Dresden
+eingetragen. Der Schulteil am Terrassenufer liegt im Bebauungsplan Nr. 85, weicher
+perspektivisch den Abriss dieses Schulgebäudes vorsieht. Anlass des Umbau- und
+Erweiterungsbedarfs und des vorliegenden Planungsauftrags ist die Erhöhung der
+Kapazität am Stammhaus von derzeit zwei auf vier Züge und damit die Ablösung des
+Schulteils sowie dringend notwendige umfassende Sanierungs- und Modernisierungsarbeiten.
+Die Gebäude werden multifunktional ausgestattet sein, um flexibel auf künftige Anforderungen reagieren zu können. Dies beinhaltet die Einrichtung von Fach- und
+Computerkabinetten, die Umsetzung des barrierefreien Bauens ebenso wie die Einrichtung von Räumen für die Ganztagsbetreuung. Für den Um- und Neubau sowie
+die Dreifeldsporthalle ist das mit der Schulleitung besprochene Raumprogramm (siehe dort) heranzuziehen. Die zur Schule gehörende Aula wurde bereits in einer vorgezogenen Baumaßnahme saniert und wird im Sommer 2009 der Schule zur Nutzung übergeben.
+Das Marie-Curie-Gymnasium ist eine Schule mit Ganztagsangebot. Mit der Fertigstellung des Neubaus werden sich die Bedingungen für die Umsetzung des Ganztagskonzeptes deutlich verbessern (durch die räumliche Konzentration auf einen
+Standort und das Vorhandensein geeigneter Räume für GTA-Angebote). Maßgeblicher Inhalt des Ganztagsangebotes sind die auf die Profilierung der Schule abge“stimmten naturwissenschaftlichen und künstlerischen Aktivitäten, die obligatorische
+Hausaufgabenbetreuung und Förderung, Arbeitsgemeinschaften aus den Bereichen
+der bildenden und darstellenden Kunst, Sport und handwerkliches Gestalten. Für
+
+diese Aktivitäten sind im Programm Räume für die Ganztagsbetreuung der Schüle-
+
+Landeshauptstadt Dresden
+Schulverwaltungsamt
+Schulbauten /Schulentwicklung
+
+07.08.2009
+Ä
+
+rinnen und Schüler vorgesehen. Dazu gehören ein Förder-/Hausaufgabenraum und
+
+ein Vortragsraum mit Nebenraum, der multifunktional für alle Bereiche der Ganztagsbetreuung eingesetzt werden kann. Hinzu kommen ein Bandprobenraum und ein
+
+Theaterprobenraum mit Bühne einschließlich Fundus. Da der Probenraum auch für
+Abendveranstaltungen z. B. Aufführungen genutzt werden soll, ist die Einrichtung
+einer Teeküche und einer mobilen Garderobe im Gangbereich vorgesehen. Darüber
+hinaus wird der 2. Werkraum für handwerklich-praktische Angebote genutzt, die Einrichtung eines Brennofenraumes befindet sich in unmittelbarer Nähe. Für die Einnahme des Mittagessens ist die bedarfsgerechte Einrichtung einer für die Ganztagsbetreuung notwendigen Speisen- und Pausenversorgung vorgesehen.
+|
+Mit der vorliegenden Planung können die Voraussetzungen mit allen notwendigen
+Unterrichts- und Funktionsräumen für einen zukunftsfähigen Unterricht und eine qualitativ hochwertige Ganztagsbetreuung geschaffen werden. Grundlage der Planung
+sind die Schulbaurichtlinie und das Raumprogramm für Gymnasien des Freistaates
+Sachsen sowie die Erfahrungen des Schulträgers mit dem Ausbau von Ganztagsangeboten.
+
+
