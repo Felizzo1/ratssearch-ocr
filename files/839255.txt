@@ -1,0 +1,460 @@
+Anlage
+Anlage 5
+5
+NASE
+
+| Hartmann I Helbig
+
+oO - Projects
+Architekt
+
+und
+
+Ingenieure
+
+PartGmbB
+
+Kostenberechnung nach Kostengruppen DIN276
+Projekt:
+
+Stadtarchiv der LH Dresden - Modernisierung Stadtarchiv, 2./3. BA
+
+07.02.2025
+
+Elisabeth-Boer Str. 1/2, Provianthofstr. 7, 01099 Dresden
+
+Kostenberechnung entsprechend Entwurfsplanung
+
+Zusammenfassung
+100
+200
+
+Grundstück
+Herrichten und
+
+-
+
+300
+400
+
+Bauwerk - Baukonstruktionen
+Bauwerk - Technische Anlagen
+
+2.780.536,19 €
+3.983.985,00 €
+
+500
+600
+700
+800
+
+Außenanlagen und Freiflächen
+Ausstattung und Kunstwerke
+Baunebenkosten
+Finanzierung
+
+26.830,00 €
+- €
+1.698.135,30 €
+u
+=
+
+Erschließen
+
+1.355.464,23 €
+7.134.022,26 €
+
+incl. 19 % MWSt
+Gesamtkosten, netto
+
+Kostenansätze nach BKI (Basis 1. Quartal 2021 in der 3. Ebene (Mitte)) = 100 mit Indexanpassung zu 1. Quartal 2025
+Mengen- und Massenansatz: Ermittlung und Übernahme aus dem aktuellen Planungsstand vom 06.01.2025
+Die Kosten für Beräumung von Mobilar und Umlagerung von Archivgut wurden nicht mit kalkuliert.
+Die Kosten der Kostengruppe KG 700 nicht vollumfänglich bekannt und somit nicht enthalten.
+Kostenschätzung kann 4/- 20% abweichen.
+
+Hinweis:
+
+DIN 276
+
+€
+€
+
+3.Ebene
+
+2.Ebene
+
+1.Ebene
+
+GP &/brutto
+
+GP &/brutto
+
+GP &/brutto
+
+Bezeichnung
+Bemerkungen
+
+100
+
+Grundstück
+
+200
+
+Herrichten und
+
+300
+
+Bauwerk - Baukonstruktionen
+
+Menge
+
+EP &/brutto
+
+Erschließen
+
+334
+
+Außenwandöffnungen
+
+335
+
+Außenwandbekl., außen
+
+336
+
+Außenwandbekl.,
+
+innen
+
+2.780.536,19 €
+
+100.964,22 €
+-
+
+€
+
+47.355,59 €
+
+338
+
+Lichtschutz zur KG 330
+
+9.687,38 €
+
+339
+
+Außenwände, sonstiges
+
+59.997,70 €
+
+0034
+241111111...
+Innenwände/Vertikale Baukonstruktionen, innen
+341
+
+tragende Innenwände
+
+15.153,62 €
+
+342
+
+Nichttragende Innenwände
+
+53.245,41
+
+344
+
+Innenwandöffnungen
+
+153.576,00 €
+
+345
+
+Innenwandbekleidungen
+
+116.080,21
+
+346
+
+Elementierte Innenwände
+
+349
+
+Innenwand, sonstiges
+
+-
+
+€
+
+€
+
+€
+
+5.335,76 €
+
+00350
+44
+Decken/Horizontale Baukonstruktionen
+351
+
+Deckenkonstruktionen
+
+E
+10.943,99 €
+
+352
+
+Deckenöffnungen
+
+10.875,47 €
+
+353
+
+Deckenbeläge
+
+309.851,94 €
+
+354
+
+Deckenbekleidungen
+
+153.355,72 €
+
+355
+
+Elementierte Deckenkonstruktionen
+
+13.709,92 €
+
+359
+
+Decken, sonstiges
+
+731,18 €
+
+361
+
+Dachkonstruktionen
+
+940,76 €
+
+362
+
+Dachfenster, Dachöffnungen
+
+Be
+BE
+En = >
+
+338.971,59 €
+
+= 7 > 75 5 Se
+
+NASE
+
+| Hartmann I Helbig
+
+oO - Projects
+Architekt
+
+560°
+
+551
+552
+553
+
+Abwasseranlagen
+Wasseranlagen
+Anlagen für Gase und Flüssigkeiten
+
+-
+
+€
+€
+€
+
+554
+
+Wärmeversorgungsanlagen
+
+-
+
+€
+
+555
+
+Raumlufttechnische Anlagen
+
+-
+
+€
+
+556
+
+Elektrische Anlagen
+Kommunikations-, sicherheits- und informationstechnische Anlagen, Automation
+
+-
+
+€
+
+558
+
+Nutzungsspezifische Anlagen
+
+-
+
+€
+
+559
+
+Sonstiges zur KG 550
+
+-
+
+€
+
+Allgemeine Einbauten
+Besondere Einbauten
+Orientierungs- und Informationssysteme
+Sonstiges zur KG 560
+
+€
+€
+-—€
+€
+
+Vegetationstechnische Bodenbearbeitung
+Sicherungsbauweisen
+Pflanzflächen
+
+-
+
+561
+562
+563
+559
+
+ee
+Er
+>|
+En 1 7:5: 17.1 13 |5721 70
+571
+572
+573
+
+€
+€
+€
+
+574
+
+Rasen- und Saatflächen
+
+639,91 €
+
+579
+
+Sonstiges zur KG 570
+
+-
+
+€
+
+581
+582
+583
+
+Befestigungen
+Abdichtungen
+Bepflanzungen
+
+-
+
+€
+€
+€
+
+Sonstiges zur KG 580
+
+-
+
+€
+
+€
+-—€
+€
+€
+€
+- €
+€
+- €
+€
+
+600
+
+Baustelleneinrichtung
+Gerüste
+Sicherungsmaßnahmen
+Abbruchmaßnahmen
+Instandsetzungen
+Materialentsorgung
+Zusätzliche Maßnahmen
+Provisorische Außenanlagen und Freiflächen
+Sonstiges zur KG 590
+Ausstattung und Kunstwerke
+
+700
+
+Baunebenkosten
+
+800
+
+Finanzierung
+
+A
+ce
+Me
+
+20.590
+
+589
+
+591
+592
+593
+594
+595
+596
+597
+598
+599
+
+Sonstige Maßnahmen für Außenanlagen und rifchen
+
+Ingenieure
+
+PartGmbB
+
+5.636,58 €
+
+557
+
+Einbauten in Außenanlagen und riflchen———
+
+und
+
+= 1.) ES
+
+-
+
+€
+
+1.698.135,30 €
+
+-
+
+€
+
+
