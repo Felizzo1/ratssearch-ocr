@@ -1,0 +1,2529 @@
+Anlage 2
+
+FANfU
+
+TAXI
+
+N
+
+N
+
+\ in
+
+720
+
+a
+
+Die Umschaltung zwischen den Tarifstufen 1 und 2 muss zur entsprechenden
+Uhrzeit automatisch erfolgen.
+
+"
+
+Es darf der Zuschlag maximal zweimal (je 7,50 €) erhoben werden können.
+
+=
+
+Die beantragten Fahrpreise sind inklusive gesetzlicher Mehrwertsteuer.
+
+=
+
+Aus der Stellung „Kasse muss die Zurückschaltung in die zuletzt angewendete
+Tarifstufe möglich sein, ansonsten muss der Fahrpreisanzeiger bei Fahrt in
+„Kasse“ nach ca. 10 m Fahrstrecke in „Frei“ schalten.
+
+u
+
+Es darf kein Zurückschalten in den Tarifstufen möglich sein.
+
+=
+
+Bei jedem Wirksamwerden des Zeittarifes in der Tarifstufe
+Zeitberechnung bei Sekunde 1 beginnen.
+
+1 und 2 muss die
+
+Tarifstufe 2
+
+Tarifstufe 1
+
+Täglich von 20 Uhr bis 5 Uhr,
+sowie an Sonn- und gesetzlichen
+von 0 Uhr bis 24 Uhr.
+
+Grundpreis
+
+Feiertagen
+
+490€
+
+Grundpreis
+
+4,90 €
+
+Kilometertarif
+1. bis 5. Kilometer
+
+3,20 €
+
+jekm
+
+Kilometertarif
+1. bis 5. Kilometer
+
+3,30 €jekm
+
+6. bis 10. Kilometer
+ab 11. Kilometer
+
+2,60 €jekm
+220 €jekm
+
+6. bis 10. Kilometer
+ab 11. Kilometer
+
+2,70€jekm
+2,30 €jekm
+
+Zeittarif
+
+20,00 €
+
+Zeittarif
+
+20,00 €
+
+jeweils bis 59 Sekunden
+ab 01:00 Minute
+
+40,00 €
+
+jeweils bis 59 Sekunden
+ab 01:00 Minute
+
+40,00 €
+
+jeweils bis 59 Sekunden
+
+[20,00 €
+
+ab 01:00 Minute
+
+40,00 €
+
+max. zweimal
+
+Je 7,50 €
+
+N
+Nun
+Fa
+
+PER
+
+su
+
+NG
+
+|
+
+i
+
+Ah
+
+u
+
+zu
+
+TAXI
+
+2.02
+
+mit mehr als 6 Fahrgastsitzplätzen
+750€
+
+bzw. ab dem
+
+Zuschlagbedingungen
+u
+
+Bestellung eines Fahrzeuges
+belegten Fahrgastsitzplatz:
+
+5.
+
+a
+
+Abholung außerhalb des Stadtgebietes Dresden mit Fahrtziel ebenso außerhalb des
+Stadtgebietes Dresden:
+15,00 €**
+
+(* Gilt nicht, wenn bei kürzester Fahrstrecke das Stadtgebiet Dresden durchfahren werden
+kann. Ein Verstoß wäre gegeben, wenn das Stadtgebiet Dresden per Umweg umfahren wird.)
+=
+=
+
+Gilt zum Beispiel nicht für eine Fahrt von Radebeul nach Pirna, Freital nach Boxdorf
+etc.
+Gilt zum Beispiel für Fahrten innerhalb von Radebeul, Wilsdruff-Grumbach,
+Moritzburg-Reichenberg, Radeberg-Großerkmannsdorf etc.
+
+II. Tarif gültig ab: 01. November 2026
+Anzahl der Tarifstufen: 2
+a
+
+Fortschaltbetrag: 0,10 €
+
+=
+
+Tarifkorridor im Vorbestellmarkt zwischen -10 % und + 20 %
+
+“
+
+Jede Fahrt zum Festpreis ist zum Beförderungsbeginn im Taxameter manuell
+oder automatisiert (Übertragung per Datenfunk) zu erfassen
+
+"
+
+Die Tarifstufenanzeige ist 1 und 2
+
+"
+
+Die Umschaltung zwischen den Tarifstufen
+Uhrzeit automatisch erfolgen.
+
+=
+
+Esdarf der Zuschlag maximal zweimal (je 7,50 €) erhoben werden können.
+
+=
+
+Die beantragten Fahrpreise sind inklusive gesetzlicher Mehrwertsteuer.
+
+u
+
+Aus der Stellung „Kasse“ muss die Zurückschaltung in die zuletzt angewendete
+Tarifstufe möglich sein, ansonsten muss der Fahrpreisanzeiger bei Fahrt in
+„Kasse“ nach ca. 10 m Fahrstrecke in „Frei schalten.
+
+n
+
+Es darf kein Zurückschalten in den Tarifstufen möglich sein.
+
+m
+
+Bei jedem Wirksamwerden des Zeittarifes in der Tarifstufe
+Zeitberechnung bei Sekunde 1 beginnen.
+
+1 und 2 muss zur entsprechenden
+
+1 und 2 muss die
+
+N
+
+N j) A,
+Bir vn)
+
+TAXI
+Tarifstufe 1
+
+1
+
+N
+
+fr
+
+wi
+
+N
+
+Tarifstufe 2
+Täglich von 20 Uhr bis 5 Uhr,
+sowie an Sonn- und gesetzlichen
+
+Feiertagen
+
+von O Uhr bis 24 Uhr.
+
+Grundpreis
+
+2
+
+5,90 €
+
+Grundpreis
+
+5,50 €
+
+Kilometertarif
+°
+1. bis 5. Kilometer
+
+3,20 €jekm
+
+Kilometertarif
+1. bis 5. Kilometer
+
+3,30 € je km
+
+6. bis 10. Kilometer
+ab 11. Kilometer
+
+2,80 €jekm
+220 €jekm
+
+6. bis 10. Kilometer
+ab 11. Kilometer
+
+2,90 €jekm
+2,30 €jekm
+
+Zeittarif
+jeweils bis 59 Sekunden
+
+20,00 €
+
+Zeittarif
+jeweils bis 59 Sekunden
+
+20,00 €
+
+ab 01:00 Minute
+
+40,00 €
+
+ab 01:00 Minute
+
+40,00 €
+
+jeweils bis 59 Sekunden
+
+[20,00 €
+
+ab 01:00 Minute
+
+40,00 €
+
+max. zweimal
+
+Je 750€
+
+Zuschlagbedingungen
+u
+
+Bestellung eines Fahrzeuges
+belegten Fahrgastsitzplatz:
+
+=
+
+Abholung außerhalb des Stadtgebietes Dresden mit Fahrtziel ebenso außerhalb des
+Stadtgebietes Dresden:
+15,00 €*
+
+-
+
+mit mehr als 6 Fahrgastsitzplätzen
+750 €
+
+bzw. ab dem
+
+5.
+
+(** Gilt nicht, wenn bei kürzester Fahrstrecke das Stadtgebiet Dresden durchfahren werden
+kann. Ein Verstoß wäre gegeben, wenn das Stadtgebiet Dresden per Umweg umfahren wird.)
+"
+"
+
+Gilt zum Beispiel nicht für eine Fahrt von Radebeul nach Pirna, Freital nach Boxdorf
+etc.
+Gilt zum Beispiel für Fahrten innerhalb von Radebeul, Wilsdruff-Grumbach,
+Moritzburg-Reichenberg, Radeberg-Großerkmannsdorf etc.
+
+Tarifkorridor im Vorbestellmarkt - Festpreis
+Die bereits im aktuell gültigen Tarif implementierten Festpreisoptionen sollen durch einen
+Tarifkorridor ersetzt werden. Diese Option wird immer häufiger kundenseitig nachgefragt und
+ist in vielen Städten in Deutschland ein fester Bestandteil der Taxitarifverordnung. Auch wir
+möchten dieses zeitgemäße Instrument zur nachfrageorientierten Steuerung unserer
+Dienstleistung anbieten. Hierbei wird dem Kunden bei Auftragsanfrage ein Preis mitgeteilt,
+der sich auf Basis der Fahrtstrecke von Start- zur Zieladresse ohne verkehrsbedingte
+Wartezeiten berechnet und ausgehend vom aktuellen Tarif innerhalb einer Preisspanne
+zwischen - 10 % und + 20 % liegen kann. Für Fahrgäste ist in diesem Fall eine Preissicherheit
+gegeben.
+Die Festpreise sind in den Fahrpreisanzeiger manuell einzugeben oder automatisiert (per
+Datenfunk) zu übertragen und über diesen zu erfassen.
+
+Die beigefügte Tarifbegründung ist Bestandteil dieses Antrages.
+Für eventuelle Rückfragen stehen wir Ihnen unter Tel. 0351 / 211 21 21 gern zur Verfügung.
+Für Ihre Bemühungen bedanken wir uns und verbleiben
+
+/, A Dun
+Anja Zimmermann
+
+2
+
+4
+
+1
+
+N
+A
+
+ArlUV
+
+AN
+
+Ma eh
+I
+
+1J
+
+rn
+
+TAX ZIDRESDEN
+Tarifbegründung
+Begründung zur beantragten Veränderung der Taxitarife:
+
+Nach
+Befragung
+unserer Mitgliedsunternehmen
+im Rahmen
+der am 28.01.2025
+durchgeführten Generalversammlung - von alleinfahrenden Unternehmern bis hin zu
+Geschäftsführern großer Taxiunternehmen - sowie gründlicher Diskussion im Vorstand und
+Aufsichtsrat, haben wir beschlossen, eine Veränderung der Taxitarifverordnung für das Jahr
+2026 zu beantragen.
+
+Die seit dem 16.04.2023 (basierend auf einem Mindestlohn von 12,00 €/h) in der Stadt
+Dresden geltenden Taxitarife bedingen, dass die zu erzielenden Einnahmen aus
+Beförderungsentgelten derzeit die enorm gestiegenen Betriebskosten nicht mehr decken.
+Die Entwicklung der Ertragssituation ist im Wesentlichen auf die Anpassung des
+Mindestlohns im Zeitraum 2022-2025 (Steigerung um 6,8 %) sowie auf gestiegene
+Gesamtkosten zurückzuführen. Unter Einbeziehung der aktuellen geopolitischen und
+gesamtwirtschaftlichen Lage ist kurzfristig keine positive Veränderung zu erwarten.
+Die gesetzlichen Mindestlohnregelungen bestimmen sowohl die Entlohnungsart als auch die
+Höhe der Vergütung verbindlich. Dies führt zu steigenden Kosten für Steuern und
+Sozialabgaben, bei vergleichsweise geringerer Zunahme des Nettolohns für Beschäftigte.
+Als Teil des öffentlichen Personennahverkehrs (ÖPNV) unterliegt das Taxi einer gesetzlichen
+Bereitstellungspflicht, was insbesondere in Schwachlastzeiten zu verlängerten Standzeiten
+führen kann. In den letzten drei Jahren lag der durchschnittliche Auslastungsgrad der
+Fahrzeuge bei etwa 42 %. Die Vergütung eines zehnstündigen Dienstes, der sich aus 4,5
+Stunden aktiver Arbeitszeit und 5,5 Stunden Arbeitsbereitschaft zusammensetzt, erfolgt
+durchgehend zum vorgeschriebenen Stundenmindestlohn und stellt einen wesentlichen
+Kostenfaktor für die Unternehmen dar.
+
+Entwicklung der Personalkosten
+Ausgehend von einem Mindestlohn in Höhe von 14,60 € zuzüglich 25 % Arbeitgeberanteile,
+kostet eine Arbeitsstunde ohne Zuschläge effektiv 18,25 €. Für Nachtarbeit gilt der
+gesetzliche Zuschlag in Höhe von 25 %, damit kostet die Nachtschichtstunde 22,81 €. Die
+Gesamtlohnkosten für eine Chauffeurin / einen Chauffeur im monatlichen Wechseldienst (2
+Wochen Tagschicht / 2 Wochen Nachtschicht) bei einer 40 Stundenwoche (174 Stunden pro
+Monat) betragen 3.572,22 € monatlich und 42.866,64 Euro € jährlich (Feiertagszuschläge
+nicht berechnet).
+
+fi
+
+ar‘
+
+amun,
+NA
+
+TU
+
+TAXI
+
+Li
+
+ı
+
+SEN
+
+Die Personalkosten im Taxigewerbe sind zwischen 2015 und 2025 von 57 % auf etwa 68 %
+der Gesamtkosten gestiegen, was hauptsächlich auf die Erhöhung des gesetzlichen
+Mindestlohns zurückzuführen ist. Damit stellen sie den größten Kostenanteil dar. Eine
+Anpassung der Stundenlöhne um rund 22 % führt zu einem Anstieg der Gesamtkosten um
+15%.
+
+Fachkräftemangel
+Trotz intensiver Werbe- und Imagekampagnen in den klassischen und sozialen Medien bzw.
+zahlreicher Stellenausschreibungen bei der Bundesagentur für Arbeit und in einschlägigen
+Stellenportalen, lassen sich nur schwer geeignete neue Arbeitskräfte für das Gewerbe
+rekrutieren.
+Die Ursachen liegen in den speziellen Zugangsvoraussetzungen, der gefahr- und
+verantwortungsvollen Tätigkeit und teilweise ungünstigen Arbeitszeiten. Des Weiteren ist bei
+der Integration von ausländischen Arbeitskräften eine längere und kostenintensivere
+Einarbeitung nötig und vielmals führen kulturelle Unterschiede zu einer kürzeren
+Beschäftigungsdauer.
+
+Investitionszurückhaltung u. a. durch technologischen Wandel
+Verstärkt durch den politischen Diskurs ist die Investitionsbereitschaft gehemmt und in der
+aktuell wirtschaftlich schwierigen Situation verzichten die Betriebe auf Investitionen.
+Mehrheitlich überwiegt innerhalb der Unternehmerschaft die Unsicherheit in Investitionen
+insbesondere von Elektrofahrzeugen. Einerseits sind die Anschaffungskosten dieser
+Fahrzeuge überproportional hoch, die Erfahrungswerte über die Langlebigkeit nicht valide
+genug und anderseits die Ladeinfrastruktur dem Nutzerprofil nicht entsprechend vorhanden.
+Aufgrund der politischen Rahmenbedingungen (Novellierung des PBefG im Jahr 2021), kann
+sich eine Verpflichtung zum Einsatz dieser Fahrzeuge ergeben. Daher sollte die
+Tarifgestaltung so ausgelegt sein, dass sie auch bei steigenden Kosten eine Gewinnerzielung
+ermöglicht.
+
+Aus vorstehenden Gründen hat das Dresdner Taxigewerbe unternehmensübergreifende
+Überlegungen angestellt, die Beförderungsentgelte den tatsächlichen und zu erwartenden
+Kostenstrukturen ab Januar 2026 und Januar 2027 anzupassen.
+In der derzeitigen wirtschaftlichen Situation, der Unkalkulierbarkeit der Energieträgerkosten
+sowie der weiteren allgemeinen Verteuerung, geht es nicht darum, hohe Gewinne zu erzielen,
+sondern nur, unseren Gewerbestand als wichtigen und einzig unsubventionierten Teil des
+
+ÖPNV funktionsfähig zu erhalten.
+
+N
+
+A
+
+m.
+
+U
+
+Ku
+el
+
+v
+
+N;
+A"
+
+Ar."
+
+TAXIHDDTSDEN
+Preissteigerungen ausgewählter Kostenfaktoren im Taxigewerbe:
+
+Konformitätsbewertung
+
+353,00€
+
+513,00 €
+
+45.33 %
+
+130,00 €/h
+150,00 €
+
+145,00 €/h
+181,00 €
+
+11,54%
+20,67 %
+25%
+0
+9,7%
+
+Taxameter
+
+Kfz - Service (Fachwerkstatt)
+HU/AU und BOKraft
+Ersatzteile
+Kfz - Anschaffung
+(Preisanpassungen)
+Kfz-Versicherung
+Fahrzeugfinanzierung
+Lohnbuchhaltung Steuerbüro
+Reifen
+
+Umlage Drescher
+
+Taxigenossenschaft eG
+Technische
+Sicherheitseinrichtung (TSE)
+
+3,99%
+12,00 €
+
+5,99%
+15,00 €
+
+24%
+50,13%
+25,00 %
+13%
+
+249,90 €
+
+357,00 €
+
+12,85%
+
+0€
+
+320 €
+
+320%
+
+Taxameter
+
+Eine Erhöhung der Taxitarife erfolgt grundsätzlich mit Bedacht, da das Taxigewerbe bestrebt
+ist, den Verlust von Fahrgästen zu vermeiden.
+Das Fahrtenpotenzial verteilt sich wie folgt: 27 % entfallen auf Bürger der Stadt, etwa 38% auf
+Krankenbeförderungsleistungen, rund 14 % auf Geschäftsreisende und etwa 10 % auf
+Touristen. Die übrigen circa 11 % setzen sich aus Schülerfahrten, Fahrten im Auftrag der DVB
+AG sowie sonstigen Fahrten zusammen.
+
+Die Annahme, dass Dresden im Vergleich zu anderen Städten höhere Einnahmen durch den
+Tourismus erzielt, lässt sich anhand der vorliegenden Daten nicht belegen. Die Auslastung
+des Flughafens sowie die Nutzung der Bahnhöfe zeigen, dass Touristen hauptsächlich Busse
+oder private PKW für ihre Anreise wählen. Die touristischen Sehenswürdigkeiten befinden sich
+zudem in einem begrenzten Umkreis, weshalb Taxis nur selten genutzt werden.
+
+An
+
+TAXI
+
+#
+LM
+
+2
+
+TEFL
+
+NZ
+0
+
+Begründung zu den einzelnen Tarifparametern
+Grundpreistarif
+
+Grundpreis
+
+490€
+
+Grundpreis
+
+5,90 €
+
+Der Grundpreistarif dient dazu, die Kosten für die Bereitstellung eines Fahrzeugs sowie die im
+Falle einer Bestellung kostenfreie Anfahrt zum Kunden zumindest teilweise abzudecken. Es
+wird erwartet, dass innerhalb des Stadtgebiets kurzfristig ein Taxi am gewünschten Ort zur
+Verfügung steht. Die Verkehrssituation im Innenstadtbereich gestaltet sich zunehmend
+herausfordernd, insbesondere aufgrund des Wegfalls von Sonderfahrspuren und baulichen
+Veränderungen, was zu erheblichen zusätzlichen Zeitaufwänden führt.
+Kilometertarif Tarifstufe 1
+
+Kilometertarif
+1. bis 5. Kilometer
+6. bis 10. Kilometer
+ab 11. Kilometer
+
+3,20 €jekm
+2,60 £jekm
+
+Kilometertarif
+1. bis 5. Kilometer
+6. bis 10. Kilometer
+
+3,20 € je km
+2,80 € jekm
+
+2,20 € je km
+
+ab 11. Kilometer
+
+220 €jekm
+
+Kilometertarif Tarifstufe 2
+
+Kilometertarif
+
+1. bis 5. Kilometer
+6. bis 10. Kilometer
+ab 11. Kilometer
+
+Kilometertarif
+
+3,30 €je km
+2,70 €jekm
+2,30 €jekm
+
+1. bis 5. Kilometer
+6. bis 10. Kilometer
+ab 11. Kilometer
+
+3,30 € je km
+2,90 €jekm
+2,30 €jekm
+
+Umschaltung von Tarifstufe 1 auf 2 bzw. zurück erfolgt automatisch und kann nicht vom
+Fahrer beeinflusst werden. Täglich von 20 Uhr bis 5 Uhr, sowie an Sonn- und gesetzlichen
+Feiertagen von O Uhr bis 24 Uhr.
+
+—
+ne
+
+ni
+
+N
+
+wur
+
+rTı
+
+TAXI
+
+=
+I
+
+- UN
+
+u
+
+ANY
+
+Erläuterung zum Kilometertarif
+Die Anpassung des Kilometertarifs dient dazu, die gestiegenen allgemeinen und
+betrieblichen Kosten teilweise auszugleichen. Für eine durchschnittliche Taxifahrt von fünf
+Kilometern erhöht sich der Fahrpreis zum 01.01.2026 in beiden Tarifstufen um 2,70 €. Ab
+dem 01.11.2026 beträgt die Preiserhöhung in Tarifstufe 1 und 2 zusätzlich 0,60 €. Dies
+entspricht einer Steigerung um etwa 14,84 Prozent zum 01.01.2026 und 2,87 Prozent zum
+
+01.11.2026. Im Vergleich zur Entwicklung allgemeiner Kosten und des Mindestlohns
+(+15,8 %) im Jahr 2026 sowie unter Berücksichtigung der voraussichtlichen Gültigkeitsdauer
+des beantragten Tarifs erscheint die Erhöhung angemessen.
+Tarifstufe 2 ist darauf ausgelegt, Anreize für Mitarbeiter zu schaffen, insbesondere in
+Nachtstunden sowie an Sonn- und Feiertagen zu arbeiten. Die zeitliche Begrenzung von
+Tarifstufe 2 bis 5 Uhr wurde bewusst gewählt, um den Preis für Fahrgäste, die
+beispielsweise frühmorgens zum Zug, Flughafen oder Arbeitsplatz fahren, nicht zusätzlich
+zu erhöhen. Nach Erfahrung handelt es sich bei Fahrten zwischen 20 Uhr und 5 Uhr sowie
+an Sonn- und Feiertagen überwiegend um Freizeitfahrten.
+
+Zeittarif
+
+Zeittarif
+jeweils bis 59 Sekunden
+
+20,00 €
+
+Zeittarif
+jeweils bis 59 Sekunden
+
+20,00 €
+
+ab 01:00 Minute
+
+40,00 €
+
+ab 01:00 Minute
+
+40,00 €
+
+Erläuterung zum Zeittarif
+Durch die veränderten Verkehrsbedingungen in unserer Stadt, ist eine wartezeitabhängige
+Komponente unablässig. Wenn das Fahrzeug verkehrsbedingt zu Stillstand kommt - dies ist
+durch Ampelschaltungen bzw. stockenden Verkehr aber kaum gegeben - wird der Zeittarif
+von 20,00 € / Std. zur Anrechnung gebracht. Erst ab einer Stillstands-Zeit größer 60 Sekunden
+wird der Zeittarif von 40,00 € / Std. aktiviert. Diese Berechnung erfolgt ohne jedes Zutun des
+Taxifahrers.
+Dadurch soll der Fahrpreis für den Kunden kalkulierbarer werden und nicht so sehr den Risiken
+des Verkehrs unterliegen.
+
+10
+
+Na
+nun
+
+fu
+
+| Bi A
+
+Fi.
+
+TAXIUDNLSDEN
+
+Zuschlag für Tarifstufe 1 und 2
+
+Erläuterungen zu den Zuschlägen
+Bestellung eines Fahrzeuges mit mehr als 6 Fahrgastsitzplätzen bzw. ab dem 5. belegten
+Fahrgastsitzplatz:
+750 €
+Die Erhebung eines Zuschlages, bei Bestellung eines Fahrzeuges mit mehr als 6
+Fahrgastsitzplätzen, soll die erhöhten Bereitstellungs- und Anfahrkosten ausgleichen. Diese
+Fahrzeuge werden bedingt durch die Größe teilweise als „Transporter“ von Sperrgut & Möbeln
+unserer Fahrgäste genutzt.
+Abholung
+
+außerhalb
+
+Stadtgebiet Dresden:
+
+vom
+
+Stadtgebiet
+
+Dresden
+
+mit
+
+Fahrtziel
+
+ebenso
+
+außerhalb
+
+vom
+
+15,00 E**
+
+(**Gilt nicht, wenn bei kürzester Fahrstrecke das Stadtgebiet Dresden durchfahren werden
+kann. Ein Verstoß wäre gegeben, wenn das Stadtgebiet Dresden per Umweg umfahren wird.)
+= Gilt zum Beispiel nicht für eine Fahrt von Radebeul nach Pirna, Freital nach Boxdorf
+etc.
+a Gilt zum Beispiel für Fahrten innerhalb Radebeul, Wilsdruff-Grumbach, MoritzburgReichenberg, Radeberg-Großerkmannsdorf etc.
+Dadurch soll ein gewisser Ausgleich für An- und Abfahrten vergütet werden.
+Es werden Fahrzeuge aus dem Stadtgebiet geordert, um z. B. innerhalb von Radeberg
+Fahrgäste zu befördern. Dies resultiert aus der Nichterfüllung der Betriebspflicht der in diesen
+Gebieten ortsansässigen Unternehmen. Eine unbezahlte Fahrt von Dresden nach Radeberg
+und zurück Ist für die Dresdner Unternehmen unzumutbar.
+
+Tarifkorridor im Vorbestellmarkt - Festpreis
+Die bereits im aktuell gültigen Tarif implementierten Festpreisoptionen innerhalb des
+Pflichtfahrgebietes sollen durch einen Tarifkorridor ersetzt werden. Diese Option wird immer
+häufiger kundenseitig nachgefragt und ist in vielen Städten in Deutschland ein fester
+Bestandteil der Taxitarifverordnung. Auch wir möchten dieses zeitgemäße Instrument zur
+nachfrageorientierten Steuerung unserer Dienstleistung anbieten. Hierbei wird dem Kunden
+bei Auftragsanfrage ein Preis mitgeteilt, der sich auf Basis der Fahrtstrecke von Start- zur
+Zieladresse ohne verkehrsbedingte Wartezeiten berechnet und ausgehend vom Tarif
+innerhalb einer Preisspanne zwischen - 10 % und + 20 % liegen kann. Für Fahrgäste ist in
+diesem Fall eine Preissicherheit gegeben. Die Festpreise sind in den Fahrpreisanzeiger
+manuell einzugeben oder automatisiert (per Datenfunk) zu übertragen und über diesen zu
+erfassen.
+11
+
+A
+
+Ar
+
+NUa
+
+Win
+
+TAXI 72.00
+An der bestehenden Taxitarifordnung sind in Bezug auf das Gebiet der festgesetzten
+Taxitarife (Pflichtfahrgebiet) die Änderungen entsprechend dem beigefügten Dokument
+vorzunehmen.
+
+Wir bitten Sie, unserem Antrag auf eine zweistufige Anpassung der Taxitarife stattzugeben,
+um auch in Zukunft ein zuverlässiger und qualitativ hochwertiger Mobilitätsanbieter und eine
+wertvolle Ergänzung des ÖPNV für alle Bürgerinnen und Bürger sowie Besucher unserer Stadt
+sein zu können.
+Dresden, 07.08.2025
+
+AR Fun 22
+n Keppe
+
+Anja Zimmermann
+
+12
+
+„anf
+
+ey
+
+An
+
+TAXI
+
+w
+
+‘
+
+Priestewitz
+
+”
+
+ou
+
+PFE neu
+
+Li
+
+uessıhı
+
+4 Aufrufe
+
+D \
+e- In
+
+ı
+
+Teilen
+
+Sie auf
+finden g
+. Füreine bessere Nutzererfahrun
+
+pr
+
+der linken Seite im Menü "Datei" die Option "Karte
+
+[
+
+\
+
+\ drucken”,
+i
+
+\
+Rsdeburg
+
+Letzte Änderung vor 31 Minuten
+
+Ebenehinzufügen
+
+|
+
+eriee
+
+a
+
+\
+
+NiszcHurz
+
+.
+
+Großnaunden
+
+x.)
+
+medien
+
+HAarcmurz
+Kabschutztal
+
+N Meißen
+\
+
+W
+
+B
+Re
+
+Weirböhls
+
+|
+
+f, «
+
+7
+
+artacıt
+
+Hodersuneges
+
+-
+
+—n
+
+alsinarke
+
+IN
+
+Roßwein
+
+\
+jr
+
+,
+|
+
++
+
+-—
+
+_-
+
+{
+
+|
+
+ne
+
+\
+
+/f
+
+„ Tusersause
+zn
+
+-
+
+W
+o
+
+r
+
+m
+
+P
+
+hi
+
+’
+
+Großharitsu
+7
+
+K
+
+ntastmırz
+
+\
+
+N
+
+>
+
+umdlan
+
+2
+
+Lchmen
+
+'
+
+u
+
+A
+4
+‚
+
+Fr
+
+———
+
+Brardthundet
+ri
+I
+
+URAN
+
+ui
+
+1us
+
+Kroee
+ngehaga
+
+h
+
+SnleBuhm Teich
+
+Kingaebung
+
+LU
+
+Räthen
+Fascubäet
+
+r
+
+Kängaten
+
+'
+
+y
+
+Badäck
+aarrim
+
+D
+
+Babnitzsch-Hilbersitort
+
+J
+
+’ FR
+
+un
+
+<olmnitz,
+
+Pd
+
+BE
+
+Wahlen
+
+ano
+
+PAD
+
+Hnarson
+
+-
+
+Hohnstein.
+
+ur
+=
+u
+Stadt
+
+\
+
+\
+
+cH
+
+>
+
+nitouagcnand
+
+hen
+
+\
+
+_ _ '
+
+N
+
+Halsbrüche
+
+4
+
+ob JE
+
+Störpen
+
+een
+
+Aminen
+Buaunspoa
+
+:
+
+-öntersbach
+
+Tharansf
+
+Ama
+N
+
+Ber”
+
+tLoschare
+
+/
+
+'
+
+rt
+
+RG
+
+ni
+
+„ nersonu
+
+Winichen
+
+1
+
+Bat, _
+
+4
+
+f
+
+SRorsimarseten
+
+Striegletal
+
+Be „
+
+Amedorf
+nEusTan!
+
+NY
+
+>
+
+f
+
+Radıbarg
+
+-CoTTA ‚Dresden
+
+£u
+
+En
+
+f
+
+A
+
+BE
+
+Fa -
+
+—
+
+\
+
+BE
+
+reg
+
+wir
+
+#
+
+sowie
+
+P, =
+
+EILITEIIET
+
+)
+
+u
+ar»
+
+us
+
+Irma
+
+sonncen
+
+7
+
+.x
+
+Tataachral
+
+f
+
+N
+
+Padebaul
+
+worzscne®
+
+.
+
+EN
+
+”
+
+Frankarihal
+
+!
+
+tanaeriuc«
+
+n
+
+*
+ne
+
+a
+GroiMährsdor
+
+a
+
+wrdein
+
+KITZERBACHIAL
+
+er
+
+EL
+
+er
+/
+
+u,
+
+Sn
+
+z
+Burkı
+
+AT nun
+
+Oham
+
+Leitenberg
+
+vr
+
+vo
+
+\
+
+u
+
+Fulniz
+
+text_line
+kml_]
+
+y
+
+Siena
+
+!
+
+Vorschau
+
+L
+
+\
+
+au
+
+arArchHan
+
+etz
+
+\
+
+A
+
+siutscht?
+
+02.
+
+\
+
+AUGHSTaN
+,
+
+}
+
+f
+
+/
+
+UME
+
+Imıra
+une
+
+Ben
+
+I
+
+KAnckWnNissener
+
+PansIpoRr
+
+Geh
+
+Reirha
+
+1
+
+)
+
+4
+
+nersbunsonnen
+
+vn
+
+Tarifkalkulation 07.08.2025
+Basis Mindestlohn 13,90 €/h und 14,60 €/h
+
+Zeitpunkt
+
+01.10.2022]
+
+01.01.2026|
+
+01.01.2027
+
+Mindestlohn
+
+12,00 €
+
+1390 €
+
+14,60 €
+
+zzgl. Lohnnebenkosten von ca. 25%
+
+15,00 €
+
+17,38€
+
+1825 €
+
+Lohnkostensteigerung
+
+15,83%
+
+5,04%
+
+Anteil Lohnkosten an Gesamtkosten
+
+68,00 %
+
+68,00 %
+
+Kostensteigerung von
+
+10,77%
+
+3,42%
+
+Tariferhöhung Tag
+
+11,26%
+
+3,96%
+
+Tariferhöhung Nacht
+
+10,91%
+
+3,85%
+
+Einführungszeitpunkt 01.01.2026
+
+KM
+
+KM alt
+
+Preis alt
+
+4,50
+
+KM neu
+
+Preis neu
+
+Diff.
+
+Prozent
+
+4,90
+
+1
+
+2,80
+
+7,30
+
+3,20
+
+810
+
+0,80
+
+10,96%
+
+2
+
+2,80
+
+10,10
+
+3,20
+
+11,30
+
+1,20
+
+11,88%
+
+3
+
+2,80
+
+12,90
+
+3,20
+
+14,50
+
+1,60
+
+12,40%
+
+A
+
+2,80
+
+15,70
+
+3,20
+
+17,70
+
+2,00
+
+12,74%
+
+5
+
+2,50
+
+18,20
+
+3,20
+
+20,90
+
+2,70
+
+14,84%
+
+6
+
+2,50
+
+20,70
+
+2,60
+
+23,50
+
+2,80
+
+13,53%
+
+7
+
+2,50
+
+23,20
+
+2,60
+
+26,10
+
+2,90
+
+12,50%
+
+8
+
+2,50
+
+25,70
+
+2,60
+
+28,70
+
+3,00
+
+11,67%
+
+9
+10
+
+2,50
+2,50
+
+28,20
+30,70
+
+2,60
+2,60
+
+31,30
+33,90
+
+3,10
+3,20
+
+10,99%
+10,42%
+
+11
+
+2,00
+
+32,70
+
+2,20
+
+36,10
+
+3,40
+
+10,40%
+
+12
+
+2,00
+
+34,70
+
+2,20
+
+38,30
+
+3,60
+
+10,37%
+
+13
+
+2,00
+
+36,70
+
+2,20
+
+40,50
+
+3,80
+
+10,35%
+
+14
+
+2,00
+
+38,70
+
+2,20
+
+42,70
+
+4,00
+
+10,34%
+
+15
+
+2,00
+
+40,70
+
+2,20
+
+44,90
+
+4,20
+
+10,32%
+
+16
+17
+
+2,00
+2,00
+
+42,70
+44,70
+
+2,20
+2,20
+
+47,10
+49,30
+
+4,40
+4,60
+
+10,30%
+10,29%
+
+18
+
+2,00
+
+46,/0
+
+2,20
+
+51,50
+
+4,80
+
+10,28%
+
+19
+
+2,00
+
+48,70
+
+2,20
+
+53,70
+
+5,00
+
+10,27%
+
+20
+
+2,00
+
+50,70
+
+2,20
+
+55,90
+
+5,20
+
+10,26%
+
+| @ Erhöhung
+
+11,26%
+
+Tarifkalkulation 07.08.2025
+Basis Mindestlohn 13,90 €/h und 14,60 €/h
+
+Einführungszeitpunkt 01.01.2026
+Nachttarif
+
+Mindestlohn 13,90 €
+
+KM
+
+KM alt
+
+Preis
+
+KM neu
+
+4,50
+
+Preis neu
+
+Diff.
+
+Prozent
+
+4,90
+
+1
+
+2,90
+
+7,40
+
+3,30
+
+8,20
+
+0,80
+
+10,81%
+
+2
+
+2,90
+
+10,30
+
+3,30
+
+11,50
+
+1,20
+
+11,65%
+
+3
+
+2,90
+
+13,20
+
+3,30
+
+14,80
+
+1,60
+
+12,12%
+
+4
+
+2,90
+
+16,10
+
+3,30
+
+18,10
+
+2,00
+
+12,42%
+
+5
+
+2,60
+
+18,70
+
+3,30
+
+21,40
+
+2,70
+
+14,44%
+
+6
+
+2,60
+
+21,30
+
+2,70
+
+24,10
+
+2,80
+
+13,15%
+
+7
+
+2,60
+
+23,90
+
+2,70
+
+26,80
+
+2,90
+
+12,13%
+
+8
+
+2,60
+
+26,50
+
+2,70
+
+29,50
+
+3,00
+
+11,32%
+
+9
+
+2,60
+
+29,10
+
+2,70
+
+32,20
+
+3,10
+
+10,65%
+
+10
+
+2,60
+
+31,70
+
+2,70
+
+34,90
+
+3,20
+
+10,09%
+
+11
+
+2,10
+
+33,80
+
+2,30
+
+37,20
+
+3,40
+
+10,06%
+
+12
+
+2,10
+
+35,90
+
+2,30
+
+39,50
+
+3,60
+
+10,03%
+
+13
+
+2,10
+
+38,00
+
+2,30
+
+41,80
+
+3,80
+
+10,00%
+
+14
+
+2,10
+
+40,10
+
+2,30
+
+44,10
+
+4,00
+
+9,98%
+
+15
+
+2,10
+
+42,20
+
+2,30
+
+46,40
+
+4,20
+
+9,95%
+
+16
+
+2,10
+
+44,30
+
+2,30
+
+48,70
+
+4,40
+
+9,93%
+
+17
+
+2,10
+
+46,40
+
+2,30
+
+51,00
+
+4,60
+
+9,91%
+
+18
+
+2,10
+
+48,50
+
+2,30
+
+53,30
+
+4,80
+
+9,90%
+
+19
+
+2,10
+
+50,60
+
+2,30
+
+55,60
+
+5,00
+
+9,88%
+
+20
+
+2,10
+
+52,70
+
+2,30
+
+57,90
+
+5,20
+
+9,87%
+
+| 9 Erhöhung
+
+10,91%
+
+Tarifkalkulation 07.08.2025
+Basis Mindestlohn 13,90 €/h und 14,60 €/h
+
+Zeitpunkt
+
+01.10.2022]
+
+01.01.2026]
+
+01.01.2027
+
+Mindestlohn
+
+12,00 €
+
+13,90 €
+
+14,60 €
+
+zzgl. Lohnnebenkosten von ca. 25%
+
+15,00 €
+
+17,38 €
+
+18,25 €
+
+Lohnkostensteigerung
+
+15,83%
+
+5,04%
+
+Anteil Lohnkosten an Gesamtkosten
+
+68,00%
+
+68,00%
+
+Kostensteigerung von
+
+10,77%
+
+3,42 %
+
+Tariferhöhung Tag
+
+11,26%
+
+3,96%
+
+Tariferhöhung Nacht
+
+10,91%
+
+3,85%
+
+Einführungszeitpunkt 01.11.2026
+
+KM
+
+KM alt
+
+Preis alt
+
+4,90
+
+KM neu
+
+Preis neu
+
+Diff.
+
+Prozent
+
+5,50
+
+1
+
+3,20
+
+8,10
+
+3,20
+
+8,70
+
+0,60
+
+741%
+
+2
+
+3,20
+
+11,30
+
+3,20
+
+11,90
+
+0,60
+
+5,31%
+
+3
+
+3,20
+
+14,50
+
+3,20
+
+15,10
+
+0,60
+
+4,14%
+
+4
+
+3,20
+
+17,70
+
+3,20
+
+18,30
+
+0,60
+
+3,39%
+
+5
+
+3,20
+
+20,90
+
+3,20
+
+21,50
+
+0,60
+
+2,87%
+
+6
+
+2,60
+
+23,50
+
+2,80
+
+24,30
+
+0,80
+
+3,40%
+
+7
+
+2,60
+
+26,10
+
+2,80
+
+27,10
+
+1,00
+
+3,83%
+
+8
+
+2,60
+
+28,70
+
+2,80
+
+29,90
+
+1,20
+
+4,18%
+
+9
+10
+
+2,60
+2,60
+
+31,30
+33,90
+
+2,80
+2,80
+
+32,70
+35,50
+
+1,40
+1,60
+
+4,47%
+4,72%
+
+11
+
+2,20
+
+36,10
+
+2,20
+
+37,70
+
+1,60
+
+443%
+
+12
+
+2,20
+
+38,30
+
+2,20
+
+39,90
+
+1,60
+
+4,18%
+
+13
+
+2,20
+
+40,50
+
+2,20
+
+42,10
+
+1,60
+
+3,95%
+
+14
+
+2,20
+
+42,70
+
+2,20
+
+44,30
+
+1,60
+
+3,75%
+
+15
+
+2,20
+
+44,90
+
+2,20
+
+46,50
+
+1,60
+
+3,56%
+
+16
+
+2,20
+
+47,10
+
+2,20
+
+48,70
+
+1,60
+
+3,40%
+
+17
+
+2,20
+
+49,30
+
+2,20
+
+50,90
+
+1,60
+
+3,25%
+
+18
+
+2,20
+
+51,50
+
+2,20
+
+53,10
+
+1,60
+
+3,11%
+
+19
+
+2,20
+
+53,70
+
+2,20
+
+55,30
+
+1,60
+
+2,98%
+
+20
+
+2,20
+
+55,90
+
+2,20
+
+57,50
+
+1,60
+
+2,86%
+
+| 9 Erhöhung
+
+3,96%
+
+Tarifkalkulation 07.08.2025
+Basis Mindestlohn 13,90 €/h und 14,60 €/h
+
+Einführungszeitpunkt 01.11.2026
+Nachttarif
+
+Mindestlohn 14,60 €
+
+KM
+
+KM alt
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+
+4,90
+3,30
+3,30
+3,30
+3,30
+3,30
+2,70
+2,70
+2,70
+2,70
+2,70
+2,30
+2,30
+2,30
+
+14
+
+15
+16
+17
+18
+19
+20
+
+Preis
+
+KM neu
+
+Preis neu
+
+Diff.
+
+Prozent
+
+8,20
+11,50
+14,80
+18,10
+21,40
+24,10
+26,80
+29,50
+32,20
+34,90
+37,20
+39,50
+41,80
+
+5,50
+3,30
+3,30
+3,30
+3,30
+3,30
+2,90
+2,90
+2,90
+2,90
+2,90
+2,30
+2,30
+2,30
+
+8,80
+12,10
+15,40
+18,70
+22,00
+24,90
+27,80
+30,70
+33,60
+36,50
+38,80
+41,10
+43,40
+
+0,60
+0,60
+0,60
+0,60
+0,60
+0,80
+1,00
+1,20
+1,40
+1,60
+1,60
+1,60
+1,60
+
+732%
+5,22%
+4,05%
+3,31%
+2,80%
+3,32%
+3,73%
+4,07%
+4,35%
+4,58%
+4,30%
+4,05%
+3,83%
+
+2,30
+
+44,10
+
+2,30
+
+45,70
+
+1,60
+
+3,63%
+
+2,30
+2,30
+2,30
+2,30
+2,30
+2,30
+
+46,40
+48,70
+51,00
+53,30
+55,60
+57,90
+
+2,30
+2,30
+2,30
+2,30
+2,30
+2,30
+
+48,00
+50,30
+52,60
+54,90
+57,20
+59,50
+
+1,60
+1,60
+1,60
+1,60
+1,60
+1,60
+
+3,45%
+3,29%
+3,14%
+3,00%
+2,88%
+2,76%
+
+| @ Erhöhung
+
+3,85%
+
+
