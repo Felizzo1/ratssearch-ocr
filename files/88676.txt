@@ -1,0 +1,274 @@
+Anlage
+
+Belegung Rettungswache Pieschen
+j
+Gesamt
+
+RTW
+KTW
+
+12 Fahrzeuge
+
+-
+
+Reserve
+1
+2
+
+9
+
+3
+
+Fläche
+in. m?
+
+Raumbezeichnung / Nutzung des Raumes
+
+Rettungswache
+Fahrzeughalle
+Fahrzeughalle_(12 Steilfl. KG 1 fürje 1 Fahrzeug)
+Reinigungshalle/Geräle
+WCm
+WC w
+Büro RD
+Apotheke
+Lager Gase/Desinfektion
+Lagerraum sonstiges
+Reifenlager
+Hausanschlussraum
+Technikraum
+
+aktive Fahrz.
+3
+6
+
+Entwurf
+
+Bebauungs-
+
+Amt 37
+06/2010
+
+studie
+01/2012
+
+459,00
+70,00
+4,00
+4,00
+20,00
+18,00
+12,00
+12,00
+15,00
+15,00
+
+ElV/FM
+
+473,26
+70,30
+3,42
+3,12
+19,99
+18,09
+11,52
+12,00
+15,04
+14,99
+
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+EG
+
+8,00
+
+7,10
+
+USV-Raum
+Reinigungsmittel und Geräte
+
+EG
+
+8,00
+6,00
+
+7,10
+7,09
+
+EG
+EG
+
+Druckluftraum
+
+6,00
+
+Flure
+Summe
+
+Erdgeschoss
+
+6,71
+
+EG
+
+19,45
+
+EG
+
+657,00
+
+689,18
+
+Büro Wachleiter RD
+Archiv
+
+18,00
+11,00
+
+19,21
+8,33
+
+OG
+OG
+
+Büro Desinfektor
+Schulungs- und Aufenthaltsraum
+Teeküche
+
+18,00
+45,00
+10,00
+
+16,71
+44,73
+10,58
+
+OG
+0G
+0G
+
+06
+
+Lager Lehrmittel/Stühle
+
+15,00
+
+11,52
+
+Wäschlager
+
+18,00
+
+18,50
+
+Umkleideräume m (32 Spinde)
+Umkleideraum w (8 Spinde)
+3 Ruheräume
+2 m je 18 m?
+1 w mit Dusche 24 m?
+WC / Duschen m
+
+OG
+
+48,00
+12,00
+
+40,58
+12,87
+
+OG
+0G
+
+60,00
+
+53,64
+
+0G
+
+20,00
+
+25,16
+
+OG
+
+WC
+
+6,00
+
+3,62
+
+OG
+
+40,85
+
+OG
+
+/ Duschen w
+
+Flure
+Summe
+
+Obergeschoss
+
+|SUMME RETTUNGSWACHE
+Kostenprognose
+KG 100 - Grunderwerb
+KG 200 - Herrichten und Erschließen
+KG 300 - Baukonstruktion
+KG 400 - Haustechnik
+KG 500 - Außenanlagen
+
+KG 600 - Ausstattung
+KG 700 - Nebenkosten
+
+281,00
+
+306,30
+
+938,00
+
+995,48
+
+2010
+-€
+100.000 €
+1.050.000 €
+310.000 €
+
+2012
+420.000
+95.000
+990.000
+375.000
+
+220.000 €
+
+180.000 €
+
+€
+€
+€
+€
+
+120.000 €
+120.000 €
+400.000 €
+400.000 €
+2.200.000 € | 2.580.000 €
+380.000 €
+Mehrbedarf
+
+GA\F10\Bau_Investitionsmaßnahmen\HI.3770001
+und Raumprogramm 2010 und 2012.xIs
+
+Neubau Rettungswache Pieschen (alt HI.3700016)\Budgef\Kostenprognose
+Seite 1 von 1
+
+

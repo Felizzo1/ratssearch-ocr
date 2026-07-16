@@ -1,0 +1,117 @@
+Querschnitt 2 (Abschnitt 1,4)
+asphaltierte Fahrgasse 5 m
+
+Seitenraum mit Mulden (und eventuell Rundbord)
+abgetrennt Seitenraum
+
+1,7 m
+
+Querschnitt Engstelle
+
+verminderte Geschwindigkeit
+
+Begegnungsfall Bus-Pkw auf Fahrgasse
+(eingeschränkte Bewegungsspielräume)
+A
+
+\ (
+Im
+
+|
+
+1,10
+
+|
+
+PDT
+0,60
+
+0,50
+
+|
+
+1,10
+
+|
+|
+|
+|
+
+|H
+
+|
+55
+
+m
+|
+
+N
+
+NT1
+
+I
+
+Io
+
+0,60
+
+u
+
+|
+|
+|
+|
+
+|
+|
+|
+|
+
+|
+|
+
+0,50
+
+I
+
+1,70
+
+5,00
+
+0,50
+
+1,70
+
+3,50
+
+7,70
+
+0,50
+
+6,20
+
+Querschnitt Begegnungsfall Bus-Bus
+
+Begegnung Bus-Bus
+unter Mitnutzung des Seitenraumes
+
+0,50
+
+Stadtverwaltung Dresden
+Geschäftsbereich Stadtentwicklung
+Stadtplanungsamt
+Abt. Verkehrsanlagenplanung
+Verkehrsbaumaßnahme
+
+Hauptstraße in Langebrück
+
+Regelquerschnitte
+Querschnitt 2
+Maßstab: 1 : 100
+
+Anlage 3 zur Vorlage
+
+Datum: 06/2009
+Blatt 2 von 2
+
+
