@@ -1,0 +1,277 @@
+S-
+
+3-007
+
+Büro 3 MA
+A=29.3m?
+
+—
+
+4.54
+
+RA
+
+Innenkuppel
+
+/
+
+FB: Werkstein
+Im Splittbett
+
+z
+
+/,9
+7)
+
+e)
+
+S_
+
+|
+
+I
+01
+Zu
+
+0)
+
+Bergung
+
+Abbruch
+
+Neubau
+
+Legende:
+
+I
+00]
+BE
+
+Schnittführung mit Blickrichtung
+
+Bestand
+
+sc bzw. SK
+
+Ansicht mit Blickrichtung
+
+Wand/Bauteil abgelotet
+
+Bogen umgeklappt
+
+verdeckte Kanten
+
+|
+
+=
+
+vermutete Kanten
+
+Höhe Fertigfußboden
+
+_—
+
+2
+
+—_
+
+Na
+
+18.27
+
+NV
+
+RA
+
+BR
+GK
+MW
+TSL
+VSG
+PAA
+WK3 /WK2/WK1
+
+Feuerschutzvorhang (F90)
+Rettungsfenster für Anleiterung Feuerwehr
+feuerhemmende Brandschutztür mit Rauchschutzfunktion
+
+Öffnung zur Rauchableitung
+
+Brandwand
+Gipskarton
+Mauerwerk
+Trockensteigleitung
+Verbundsicherheitsglas
+Sicherheitsverglasung gem. DIN EN 356, durchwurfhemmend
+Widerstandsklasse 3 /2 /1 gem. DIN VENV 1627-30
+
+Notausgang
+
+FSV
+RF
+T30 RS
+
+Feuerschutztür mit Rauchschutzfunktion
+
+DNA
+
+T90 RS
+
+dichtschließende Tür
+
+Detailhinweis
+
+ds
+
+Automatischer Türöffner
+
+sh. Detail
+D6_FB602-
+
+ATÖ
+
+Feststellanlage
+Türbeschlag Knauf/Klinke
+
+OKFF EG Goldene Pforte +0.00 = 116.50 m ü. NHN
+
+| Gez.
+
+1000-001_4_AGR13 10-01
+
+Datum
+
+Umplanung gem. Stadtratsbeschluss von 16.12.2010 /Überarbeitung gem. BSK IB Hartmann | 06.05.11]
+
+Änderung
+
+Fax 488 38 17
+
+Landeshauptstadt Dresden
+Hochbauamt
+
+Tel. 488 38 20,
+
+RA
+
+FSA
+KN/KL
+
+ee
+
+01
+
+Index
+
+Zeichnungscode
+
+ve
+1]
+
+01001 Dresden
+
+HW. 01.10.2009 = 106,20 ... 106,45 m üNN
+
+aan
+
+1:100
+
+Heizg. una
+
+Datum
+
+03.06.2010
+
+MSR | Elekt. | Kälte
+
+06.05.2011
+
+HWgem = 111,30 m üNN
+HWaauzeit = 108,20 m üNN
+
+aus
+
+PLANKOORDINATION
+
+Tektur2
+
+19, 01067 Dresden
+
+Liegenschaftsamt
+
+Fortsetzung Sanierungsprozeß
+
+Dr.-Külz-Ring
+
+Neues Rathaus Dresden
+
+PF 120020
+
+Projekt
+
+Nutzer
+
+Planungsphase
+
+| IB SCHMID | Fachplaner
+
+Genehmigungsplanung
+
+ARGE mspARCHITEKTEN
+
+Tel.:
+
+Architekten
+
+0351/ 31 277-0
+
+Forsthausstraße 8
+01309 Dresden
+
+Tel.:
+
+Fax:
+E-Mail:
+
+Statik
+
+0351 / 31 277 - 12
+msp@msp-dresden.de
+
+PLANFREIGABE HBA
+Ausgang:
+
+Projl. | HLS | Eit
+
+an
+
+Fax:
+E-Mail:
+
+Eingang:
+
+Freigabe
+durch:
+
+Maßstab
+
+[=CAO/ GE / JGS Projekt-Nr.
+1227:23 HI. 2310005
+
+Freigabe verweigert durch:
+
+Darstellung
+
+- 3. Obergeschoss
+Grundriss
+u
+
+10-01
+
+BI.-Nr.
+
+GR13
+
+Ostflü gel
+
+

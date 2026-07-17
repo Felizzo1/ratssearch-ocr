@@ -1,0 +1,269 @@
+4.5]
+
+D8
+IS
+
+£
+
+=
+LR
+s,rg,
+
+77
+
+vw 14 49.
+
+N;
+
+7
+
+|
+
+|
+
+|
+
+Ä
+
+Wandverkleidung
+
+N
+
+Büro Amtsleiter
+A=48.5 m?
+
+.
+
+Legende:
+
+Bestand
+
+Abbruch
+
+Neubau
+
+I 01
+L__JI
+
+Bergung
+
+Schnittführung mit Blickrichtung
+
+I 00]
+L__JI
+
+bzw.SK
+
+BR
+GK
+MW
+TSL
+VSG
+PAA
+WK3 /WK2/WK1
+
+Öffnung zur Rauchableitung
+
+Brandwand
+Gipskarton
+Mauerwerk
+Trockensteigleitung
+Verbundsicherheitsglas
+Sicherheitsverglasung gem. DIN EN 356, durchwurfhemmend
+Widerstandsklasse 3 /2 /1 gem. DIN VENV 1627-30
+
+SC
+
+Ansicht mit Blickrichtung
+
+Wand/Bauteil abgelotet
+
+Bogen umgeklappt
+
+verdeckte Kanten
+
+vermutete Kanten
+
+Höhe Fertigfußboden
+
+Notausgang
+
+RA
+
+Feuerschutzvorhang (F90)
+Rettungsfenster für Anleiterung Feuerwehr
+feuerhemmende Brandschutztür mit Rauchschutzfunktion
+Feuerschutztür mit Rauchschutzfunktion
+dichtschließende Tür
+
+Detailhinweis
+
+FSV
+RF
+T30 RS
+T90 RS
+ds
+
+Automatischer Türöffner
+
+sh. Detail
+D6_FB602-
+
+ATO
+
+Feststellanlage
+Türbeschlag Knauf/Klinke
+
+Gez.
+
+1000-001_4_A_GR11 16-01
+
+Datum
+
+RA
+
+FSA
+KN/KL
+
+1)
+
+Änderung
+
+Umplanung gem. Stadtratsbeschluss von 16.12.2010 /Überarbeitung gem. BSK IB Hartmann | 06.05.11]
+
+OKFF EG Goldene Pforte +0.00 = 116.50 m ü. NHN
+
+Türen werden eingebaut, jedoch feststehend verschlossen als
+Vorrichtung für mögliche spätere Grundrissänderungen
+
+"nee
+
+01
+
+Index
+
+Landeshauptstadt Dresden
+
+Zeichnungscode
+
+Dresden.
+D1s2gev'
+
+Fax 488 38 17
+
+Hochbauamt
+
+aan
+
+GE
+
+1:100
+
+Heizg. una
+
+03.06.2010
+
+GR11
+
+10-01
+
+Projekt.Nr.
+1227:23 HI. 2310005
+
+Datum
+
+MSR | Elekt. | Kälte
+
+06.05.2011
+
+HW. 01.10.2009 = 106,20 ... 106,45 m üNN
+HWgem = 111,30 m üNN
+HWaauzeit = 108,20 m üNN
+
+aus
+
+PLANKOORDINATION
+
+Tektur 2
+
+19, 01067 Dresden
+
+Statik
+
+Tel.:
+Fax:
+E-Mail:
+
+| IB SCHMID | Fachplaner
+
+an
+
+Tel. 488 38 20,
+
+all
+
+01001 Dresden
+
+ARGE mspARCHITEKTEN
+
+Genehmigungsplanung
+
+Liegenschaftsamt
+
+Fortsetzung Sanierungsprozeß
+
+Dr.-Külz-Ring
+
+Neues Rathaus Dresden
+
+PF 120020
+
+Projekt
+
+Nutzer
+
+Planungsphase
+
+Architekten
+
+Forsthausstraße 8
+01309 Dresden
+
+0351/ 31 277-0
+0351 / 31 277 - 12
+msp@msp-dresden.de
+
+HBA
+
+Ausgang:
+
+PLANFREIGABE
+
+Projl. | HLS | Eit
+
+Tel.:
+Fax:
+E-Mail:
+
+Eingang:
+
+Freigabe
+durch:
+
+Gen.
+
+Maßstab
+
+- 1. Obergeschoss
+Grundriss
+u
+
+Freigabe verweigert durch:
+
+Darstellung
+
+Ostflü Q el
+
+BI.-Nr.
+
+
