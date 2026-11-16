@@ -2,3 +2,6 @@
 __pycache__/
 .venv/
 *.pyc
+
+# Claude Code: lokale Einstellungen, können Zugangsdaten enthalten
+.claude/settings.local.json
